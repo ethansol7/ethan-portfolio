@@ -4,14 +4,11 @@ import {
   aboutHighlights,
   contactLinks,
   featuredProjects,
-  focusAreas,
   projectMap,
-  recruiterSignals,
   siteMeta,
-  stats,
 } from "./data/portfolio";
-import { crawlStats, sourcePageGroups, sourcePageMap, sourcePages } from "./data/sourcePages";
-import { localAssetCollections, localAssetStats } from "./data/localAssets";
+import { sourcePageGroups, sourcePageMap, sourcePages } from "./data/sourcePages";
+import { localAssetCollections } from "./data/localAssets";
 
 function resolveSiteUrl(pathname = "") {
   const origin = window.location.origin;
@@ -72,11 +69,21 @@ function ScrollToTop() {
   return null;
 }
 
+const originalPageAliases = {
+  "sol-lamp-system": "s01",
+  "sol-seven-studios": "sol-seven-studios",
+  plastivista: "old-revo-chair-page",
+  "revo-chair": "3d-printing-service",
+  "sol-wheel": "sol-wheel",
+  "autodesk-origin": "autodesk-origin",
+};
+
 const sourceSlugToLocalKey = {
   "sol-lamp": "sol-lamp-system",
   s01: "sol-lamp-system",
   s01test: "sol-lamp-system",
   "s01-shop": "sol-lamp-system",
+  sol: "sol-lamp-system",
   "sol-seven-studios": "sol-seven-studios",
   "3d-printing-service": "revo-chair",
   "old-revo-chair-page": "revo-chair",
@@ -91,43 +98,119 @@ const sourceSlugToLocalKey = {
   "every-day-render-challenge": "render-challenge",
 };
 
-const featuredProjectSourceSlugs = {
-  "sol-lamp-system": ["sol-lamp", "s01", "s01test", "sol"],
-  "sol-seven-studios": ["sol-seven-studios", "solshop"],
-  plastivista: ["old-revo-chair-page"],
-  "revo-chair": ["old-revo-chair-page", "3d-printing-service"],
-  "sol-wheel": ["sol-wheel"],
-  "autodesk-origin": ["autodesk-origin"],
-};
+const hiddenGallerySlugs = new Set(["home-2", "home-3"]);
 
-function getLocalAssetsForSlug(slug) {
-  return localAssetCollections[sourceSlugToLocalKey[slug] || slug] || null;
+const portfolioPages = sourcePages.filter((page) => !hiddenGallerySlugs.has(page.slug));
+
+const boilerplatePattern =
+  /^(www\.ethansolodukhin\.com|\(c\)\s*\d{4}\s*ethan solodukhin\.?\s*all rights reserved\.?|©\s*\d{4}\s*ethan solodukhin\.?\s*all rights reserved\.?|all rights reserved\.?|home|work|more projects|about|contact|shop|cart|filters|no results found|no results match your search\.?\s*try removing a few filters\.?)$/i;
+
+function projectPath(slug) {
+  if (!slug || slug === "home") return "/";
+  return `/${slug}`;
 }
 
-function getFeaturedSourcePages(slug) {
-  return (featuredProjectSourceSlugs[slug] || [slug])
-    .map((sourceSlug) => sourcePageMap[sourceSlug])
-    .filter(Boolean);
+function featuredProjectPath(project) {
+  return projectPath(originalPageAliases[project.slug] || project.slug);
 }
 
-function getSourcePageLead(page) {
-  return (
-    page.summary ||
-    page.sections?.flatMap((section) => section.items || []).find((item) => item.length > 42) ||
-    "A redesigned page from the live Squarespace portfolio with cleaner hierarchy and responsive presentation."
-  );
-}
-
-function cleanPageTitle(title) {
+function cleanPageTitle(title = "") {
   return title
     .replace(/\s+-\s+Ethan Solodukhin\s*$/i, "")
     .replace(/\s+-\s+Sol Shop\s*$/i, "")
     .trim();
 }
 
-const archivePages = sourcePages.filter(
-  (page) => !["home-2", "home-3"].includes(page.slug),
-);
+function cleanGroupName(group = "") {
+  if (group === "Legacy + Utility") return "Resume + Contact";
+  if (group === "Project Archive") return "Projects";
+  return group;
+}
+
+function isBoilerplateText(value = "") {
+  const trimmed = value.trim();
+  if (!trimmed) return true;
+  if (boilerplatePattern.test(trimmed)) return true;
+  return false;
+}
+
+function isFallbackSummary(value = "") {
+  return value.trim().toLowerCase() === "project notes and visuals.";
+}
+
+function getCleanBlocks(page) {
+  const seen = new Set();
+
+  return (page?.textBlocks || []).filter((block) => {
+    const text = block.text?.trim();
+    if (!text || isBoilerplateText(text)) return false;
+    const key = `${block.level}:${text}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+function getPageLead(page, fallback = "") {
+  if (page?.summary && !isFallbackSummary(page.summary) && !isBoilerplateText(page.summary)) {
+    return page.summary;
+  }
+
+  const firstBody = getCleanBlocks(page).find(
+    (block) => block.type !== "heading" && block.text.length > 34,
+  );
+  if (firstBody) return firstBody.text;
+
+  const firstHeading = getCleanBlocks(page).find((block) => block.type === "heading");
+  if (firstHeading) return firstHeading.text;
+
+  return fallback || "Industrial design work by Ethan Solodukhin.";
+}
+
+function getLocalAssetsForSlug(slug) {
+  return localAssetCollections[sourceSlugToLocalKey[slug] || slug] || null;
+}
+
+function groupBlocksIntoSections(blocks, fallbackTitle) {
+  const sections = [];
+  let current = null;
+
+  for (const block of blocks) {
+    if (block.type === "heading") {
+      if (current && (current.title || current.items.length)) sections.push(current);
+      current = { title: block.text, level: block.level, items: [] };
+    } else {
+      if (!current) current = { title: fallbackTitle || "", level: "p", items: [] };
+      if (!current.items.includes(block.text)) current.items.push(block.text);
+    }
+  }
+
+  if (current && (current.title || current.items.length)) sections.push(current);
+
+  if (!sections.length && fallbackTitle) {
+    sections.push({ title: fallbackTitle, level: "h1", items: [] });
+  }
+
+  return sections;
+}
+
+function distributeImages(images, sectionCount) {
+  const buckets = Array.from({ length: Math.max(sectionCount, 1) }, () => []);
+  if (!images.length) return buckets;
+
+  images.forEach((image, index) => {
+    const bucketIndex = sectionCount
+      ? Math.min(sectionCount - 1, Math.floor((index / images.length) * sectionCount))
+      : 0;
+    buckets[bucketIndex].push(image);
+  });
+
+  return buckets;
+}
+
+function imageAlt(image, fallback) {
+  return image.alt || image.caption || image.title || fallback || "Portfolio image";
+}
 
 function Shell({ children }) {
   return (
@@ -144,6 +227,7 @@ function Header() {
     ["/", "Home"],
     ["/work", "Work"],
     ["/more-projects", "More Projects"],
+    ["/studio", "Studio"],
     ["/about", "About"],
     ["/contact", "Contact"],
   ];
@@ -153,7 +237,7 @@ function Header() {
       <Link className="wordmark" to="/">
         Ethan Solodukhin
       </Link>
-      <nav className="nav">
+      <nav className="nav" aria-label="Primary navigation">
         {links.map(([to, label]) => (
           <NavLink
             key={to}
@@ -172,16 +256,15 @@ function Footer() {
   return (
     <footer className="site-footer">
       <div>
-        <p className="eyebrow">Portfolio</p>
+        <p className="eyebrow">Industrial Design</p>
         <p className="footer-copy">
-          Industrial design focused on modular product systems, additive manufacturing,
-          circular design, and physical product development.
+          Furniture, lighting, digital fabrication, circular products, and founder-led studio work.
         </p>
       </div>
       <div className="footer-links">
-        <a href={contactLinks.portfolio} target="_blank" rel="noreferrer">
-          Current portfolio
-        </a>
+        <Link to="/shop">Shop</Link>
+        <Link to="/design-language">Design Language</Link>
+        <Link to="/process">Process</Link>
         <a href={contactLinks.linkedin} target="_blank" rel="noreferrer">
           LinkedIn
         </a>
@@ -193,123 +276,72 @@ function Footer() {
   );
 }
 
-function Hero() {
-  const heroProjects = featuredProjects.slice(0, 4);
-
-  return (
-    <section className="hero">
-      <div className="hero-copy">
-        <p className="eyebrow">Industrial Design Portfolio</p>
-        <h1>
-          Ethan Solodukhin is an industrial designer focused on modular product systems,
-          additive manufacturing, circular design, and physical product development.
-        </h1>
-        <p className="lede">
-          Built for recruiters, hiring managers, and design leads: six flagship case
-          studies up front, plus a full More Projects system for every public portfolio
-          page, project asset, and deeper process trail.
-        </p>
-        <div className="hero-actions">
-          <Link className="button button-primary" to="/work">
-            View featured work
-          </Link>
-          <Link className="button button-secondary" to="/more-projects">
-            Explore More Projects
-          </Link>
-          <a className="button button-secondary" href={contactLinks.resume} target="_blank" rel="noreferrer">
-            Download resume
-          </a>
-        </div>
-      </div>
-      <div className="hero-stack">
-        {heroProjects.map((project, index) => (
-          <Link
-            className={`hero-card${index === 0 ? " hero-card-wide" : ""}`}
-            key={project.slug}
-            to={`/work/${project.slug}`}
-          >
-            <img src={project.cardImage} alt={project.cardAlt} />
-          </Link>
-        ))}
-      </div>
-    </section>
-  );
-}
-
 function HomePage() {
+  const homePage = sourcePageMap.home;
+  const homeBlocks = getCleanBlocks(homePage);
+  const heroQuote = homeBlocks.find((block) => block.type === "heading")?.text;
+  const homeCards = buildHomeCards(homePage);
+
   return (
     <>
       <Seo pathname="/" />
       <Shell>
-        <Hero />
-
-        <section className="section">
-          <div className="section-header">
-            <p className="eyebrow">Hiring Snapshot</p>
-            <h2>Immediate signals for recruiters and design leads.</h2>
+        <section className="home-hero">
+          <div className="home-hero-copy">
+            <p className="eyebrow">Industrial Design Portfolio</p>
+            <h1>Ethan Solodukhin</h1>
+            <p className="home-statement">
+              Industrial designer working across furniture, lighting, circular products,
+              digital fabrication, and hands-on product development.
+            </p>
+            {heroQuote ? <p className="lede">{heroQuote}</p> : null}
+            <div className="hero-actions">
+              <Link className="button button-primary" to="/work">
+                View Work
+              </Link>
+              <Link className="button button-secondary" to="/studio">
+                Sol Seven Studios
+              </Link>
+              <Link className="button button-secondary" to="/contact">
+                Contact
+              </Link>
+            </div>
           </div>
-          <div className="signal-grid">
-            {recruiterSignals.map((signal) => (
-              <article className="signal-card" key={signal.title}>
-                <span>{signal.label}</span>
-                <h3>{signal.title}</h3>
-                <p>{signal.body}</p>
-              </article>
-            ))}
-          </div>
-        </section>
-
-        <section className="section">
-          <div className="section-header">
-            <p className="eyebrow">Focus Areas</p>
-            <h2>Consistent through-lines across the work.</h2>
-          </div>
-          <div className="pill-grid">
-            {focusAreas.map((area) => (
-              <article className="pill-card" key={area.title}>
-                <h3>{area.title}</h3>
-                <p>{area.body}</p>
-              </article>
-            ))}
-          </div>
-        </section>
-
-        <section className="section">
-          <div className="section-header">
-            <p className="eyebrow">Featured Projects</p>
-            <h2>Six strongest case studies for hiring review.</h2>
-          </div>
-          <div className="project-grid">
-            {featuredProjects.map((project) => (
-              <Link className="project-card" key={project.slug} to={`/work/${project.slug}`}>
-                <div className="project-card-media">
-                  <img src={project.cardImage} alt={project.cardAlt} />
-                </div>
-                <div className="project-card-body">
-                  <div className="project-meta">
-                    <span>{project.year}</span>
-                    <span>{project.category}</span>
-                  </div>
-                  <h3>{project.title}</h3>
-                  <p>{project.shortDescription}</p>
-                </div>
+          <div className="home-hero-media" aria-label="Selected portfolio imagery">
+            {(homePage?.images || []).slice(0, 5).map((image, index) => (
+              <Link
+                className={`home-media-tile home-media-tile-${index + 1}`}
+                key={`${image.src}-${index}`}
+                to={inferProjectPathFromImage(image, index)}
+              >
+                <img src={image.src} alt={imageAlt(image, "Selected Ethan Solodukhin project")} />
               </Link>
             ))}
           </div>
         </section>
 
-        <section className="section section-split">
-          <div className="section-header">
-            <p className="eyebrow">At A Glance</p>
-            <h2>What the public portfolio now communicates faster.</h2>
+        <section className="portfolio-section">
+          <div className="section-header section-header-row">
+            <div>
+              <p className="eyebrow">Home</p>
+              <h2>Selected projects</h2>
+            </div>
+            <Link className="inline-link" to="/more-projects">
+              More Projects
+            </Link>
           </div>
-          <div className="stats-grid">
-            {stats.map((stat) => (
-              <article className="stat-card" key={stat.label}>
-                <strong>{stat.value}</strong>
-                <p>{stat.label}</p>
-                <span>{stat.context}</span>
-              </article>
+          <div className="original-home-grid">
+            {homeCards.map((card, index) => (
+              <Link className="portfolio-card original-home-card" to={card.path} key={`${card.title}-${index}`}>
+                <div className="portfolio-card-media">
+                  {card.image ? <img src={card.image.src} alt={imageAlt(card.image, card.title)} /> : null}
+                </div>
+                <div className="portfolio-card-body">
+                  {card.meta ? <span className="portfolio-kicker">{card.meta}</span> : null}
+                  <h3>{card.title}</h3>
+                  {card.description ? <p>{card.description}</p> : null}
+                </div>
+              </Link>
             ))}
           </div>
         </section>
@@ -318,26 +350,80 @@ function HomePage() {
   );
 }
 
+function buildHomeCards(homePage) {
+  const blocks = getCleanBlocks(homePage);
+  const cards = [];
+  let current = null;
+
+  for (const block of blocks) {
+    if (block.type === "heading") {
+      if (current) cards.push(current);
+      current = { title: block.text.replace(/^['"]|['"]$/g, ""), text: [] };
+    } else if (current) {
+      current.text.push(block.text);
+    }
+  }
+  if (current) cards.push(current);
+
+  return cards
+    .filter((card) => card.title && !/^bold comfort/i.test(card.title))
+    .slice(0, 14)
+    .map((card, index) => ({
+      title: card.title,
+      meta: card.text.find((item) => /\d{4}|present|semester|created/i.test(item)) || "",
+      description: card.text.find((item) => item.length > 8 && !/\d{4}/.test(item)) || "",
+      image: homePage?.images?.[index + 1] || homePage?.images?.[index],
+      path: inferProjectPathFromTitle(card.title),
+    }));
+}
+
+function inferProjectPathFromTitle(title = "") {
+  const value = title.toLowerCase();
+  if (value.includes("revo") || value.includes("plasti")) return "/old-revo-chair-page";
+  if (value.includes("sol wheel") || value.includes("steam")) return "/sol-wheel";
+  if (value.includes("logo")) return "/logo-development";
+  if (value.includes("9ine")) return "/the-9ine-light";
+  if (value.includes("bungis") || value.includes("danish")) return "/denmark-summer-2024";
+  if (value.includes("collection") || value.includes("furniture")) return "/furniture";
+  if (value.includes("apartment")) return "/concept-room";
+  if (value.includes("sol")) return "/sol";
+  return "/more-projects";
+}
+
+function inferProjectPathFromImage(image, index) {
+  const path = image.localPath || image.src || "";
+  if (path.includes("autodesk-origin")) return "/autodesk-origin";
+  if (path.includes("sol-wheel")) return "/sol-wheel";
+  if (path.includes("3d-printing-service") || path.includes("old-revo")) return "/old-revo-chair-page";
+  if (path.includes("furniture")) return "/furniture";
+  if (index === 0) return "/about";
+  return "/more-projects";
+}
+
 function WorkPage() {
   return (
     <>
       <Seo
         title="Work"
         pathname="/work"
-        description="Featured industrial design case studies by Ethan Solodukhin."
+        description="Selected industrial design projects by Ethan Solodukhin."
       />
       <Shell>
-        <section className="page-intro">
-          <p className="eyebrow">Featured Work</p>
-          <h1>Flagship case studies selected for hiring impact.</h1>
+        <section className="page-intro editorial-intro">
+          <p className="eyebrow">Work</p>
+          <h1>Selected industrial design projects.</h1>
           <p className="lede">
-            Each project is structured for a fast first read and a deeper second pass on
-            process, prototyping, and design decisions.
+            Furniture, lighting, product development, circular materials, fabrication, and
+            visual design work.
           </p>
         </section>
-        <div className="project-list">
-          {featuredProjects.map((project) => (
-            <Link className="feature-row" key={project.slug} to={`/work/${project.slug}`}>
+        <div className="work-gallery">
+          {featuredProjects.map((project, index) => (
+            <Link
+              className={`feature-row feature-row-${index % 3}`}
+              key={project.slug}
+              to={featuredProjectPath(project)}
+            >
               <div className="feature-row-media">
                 <img src={project.cardImage} alt={project.cardAlt} />
               </div>
@@ -348,7 +434,7 @@ function WorkPage() {
                 </div>
                 <h2>{project.title}</h2>
                 <p>{project.oneLiner}</p>
-                <span className="inline-link">Open case study</span>
+                <span className="inline-link">Open Project</span>
               </div>
             </Link>
           ))}
@@ -358,77 +444,40 @@ function WorkPage() {
   );
 }
 
-function SourceArchivePage() {
-  const groupedPages = Object.entries(sourcePageGroups).map(([group, pages]) => [
-    group,
-    pages.filter((page) => archivePages.some((archivePage) => archivePage.slug === page.slug)),
-  ]);
+function MoreProjectsPage() {
+  const groupedPages = Object.entries(sourcePageGroups)
+    .map(([group, pages]) => [
+      cleanGroupName(group),
+      pages.filter((page) => portfolioPages.some((item) => item.slug === page.slug)),
+    ])
+    .filter(([, pages]) => pages.length);
 
   return (
     <>
       <Seo
         title="More Projects"
         pathname="/more-projects"
-        description="Complete rebuilt More Projects page with every crawled public page from ethansolodukhin.com."
+        description="Additional industrial design, furniture, lighting, visualization, and studio work by Ethan Solodukhin."
       />
       <Shell>
-        <section className="page-intro">
+        <section className="page-intro editorial-intro">
           <p className="eyebrow">More Projects</p>
-          <h1>Every public portfolio page, redesigned into one clean system.</h1>
+          <h1>Additional work, objects, studies, and collections.</h1>
           <p className="lede">
-            This full project index preserves the depth of the original site: process pages,
-            final renders, shop objects, experiments, motion assets, and older studies, all
-            reorganized for faster reading.
+            A broader view of Ethan&apos;s product, furniture, lighting, visual design, and
+            studio explorations.
           </p>
         </section>
 
-        <section className="section archive-metrics">
-          <div className="stat-card">
-            <strong>{crawlStats.recreatedPageCount}</strong>
-            <p>recreated pages</p>
-            <span>Rebuilt from the live portfolio structure and internal project links.</span>
-          </div>
-          <div className="stat-card">
-            <strong>{crawlStats.downloadedAssetCount}</strong>
-            <p>public assets pulled</p>
-            <span>Organized into deployable media for the GitHub Pages build.</span>
-          </div>
-          <div className="stat-card">
-            <strong>{localAssetStats.publishedImages}</strong>
-            <p>expanded media assets</p>
-            <span>Additional render exports, process images, videos, and source files.</span>
-          </div>
-        </section>
-
         {groupedPages.map(([group, items]) => (
-          <section className="section more-projects-section" key={group}>
+          <section className="portfolio-section more-projects-section" key={group}>
             <div className="section-header">
-              <p className="eyebrow">{items.length} Pages</p>
+              <p className="eyebrow">{group}</p>
               <h2>{group}</h2>
             </div>
-            <div className="source-grid">
+            <div className="portfolio-grid">
               {items.map((page) => (
-                <Link className="source-card" key={`${page.slug}-${page.sourceUrl}`} to={`/more-projects/${page.slug}`}>
-                  {page.heroImage ? (
-                    <div className="mini-card-media">
-                      <img src={page.heroImage} alt={page.images[0]?.alt || page.title} loading="lazy" />
-                    </div>
-                  ) : (
-                    <div className="mini-card-fallback">
-                      <p className="eyebrow">{page.group}</p>
-                      <strong>{page.imageCount}</strong>
-                    </div>
-                  )}
-                  <div className="mini-card-body">
-                    <div className="project-meta">
-                      <span>{page.imageCount} images</span>
-                      <span>{page.mediaCount} media</span>
-                    </div>
-                    <h2>{cleanPageTitle(page.title)}</h2>
-                    <p>{getSourcePageLead(page)}</p>
-                    <span className="inline-link">Open project page</span>
-                  </div>
-                </Link>
+                <PortfolioPageCard page={page} key={`${page.slug}-${page.sourceUrl}`} />
               ))}
             </div>
           </section>
@@ -438,22 +487,503 @@ function SourceArchivePage() {
   );
 }
 
+function PortfolioPageCard({ page }) {
+  return (
+    <Link className="portfolio-card" to={projectPath(page.slug)}>
+      <div className="portfolio-card-media">
+        {page.heroImage ? (
+          <img src={page.heroImage} alt={imageAlt(page.images?.[0] || {}, cleanPageTitle(page.title))} loading="lazy" />
+        ) : (
+          <div className="portfolio-card-empty">
+            <span>{cleanGroupName(page.group)}</span>
+          </div>
+        )}
+      </div>
+      <div className="portfolio-card-body">
+        <span className="portfolio-kicker">{cleanGroupName(page.group)}</span>
+        <h3>{cleanPageTitle(page.title)}</h3>
+        <p>{getPageLead(page)}</p>
+      </div>
+    </Link>
+  );
+}
+
+function FeaturedCaseRoute() {
+  const { slug } = useParams();
+  const project = projectMap[slug];
+  const pageSlug = originalPageAliases[slug];
+  const page = pageSlug ? sourcePageMap[pageSlug] : null;
+
+  if (!project) {
+    return <Navigate to="/work" replace />;
+  }
+
+  if (!page) {
+    return <ProjectOnlyPage project={project} />;
+  }
+
+  return <PortfolioPageView page={page} project={project} canonicalPath={`/work/${slug}`} />;
+}
+
+function ProjectOnlyPage({ project }) {
+  return (
+    <>
+      <Seo
+        title={project.title}
+        pathname={`/work/${project.slug}`}
+        description={project.oneLiner}
+        image={project.cardImage}
+      />
+      <Shell>
+        <article className="portfolio-page">
+          <section className="portfolio-hero">
+            <div className="portfolio-hero-copy">
+              <p className="eyebrow">{project.category}</p>
+              <h1>{project.title}</h1>
+              <p className="lede">{project.oneLiner}</p>
+            </div>
+            <div className="portfolio-hero-media">
+              <img src={project.heroImage} alt={project.heroAlt} />
+            </div>
+          </section>
+          <section className="fact-strip">
+            <Fact label="Role" value={project.role} />
+            <Fact label="Timeline" value={project.timeline} />
+            <Fact label="Tools" value={project.tools.join(", ")} />
+            <Fact label="Skills" value={project.skills.join(", ")} />
+          </section>
+          <div className="project-gallery">
+            {project.gallery.map((asset) => (
+              <figure className="media-figure" key={asset.src}>
+                <img src={asset.src} alt={asset.alt} />
+                <figcaption>{asset.caption}</figcaption>
+              </figure>
+            ))}
+          </div>
+        </article>
+      </Shell>
+    </>
+  );
+}
+
+function OriginalSlugRoute() {
+  const { slug } = useParams();
+  const page = sourcePageMap[slug];
+
+  if (!page) return <Navigate to="/more-projects" replace />;
+  if (slug === "sol-seven-studios") return <StudioPage canonicalPath="/sol-seven-studios" />;
+  if (slug === "shop" || slug === "solshop") return <ShopPage page={page} />;
+
+  return <PortfolioPageView page={page} />;
+}
+
+function PortfolioPageView({ page, project, canonicalPath }) {
+  const cleanTitle = cleanPageTitle(page.title);
+  const localCollection = getLocalAssetsForSlug(page.slug);
+  const heroImage = page.heroImage || project?.heroImage || page.images?.[0]?.src;
+  const pagePath = canonicalPath || projectPath(page.slug);
+
+  return (
+    <>
+      <Seo
+        title={project?.title || cleanTitle}
+        pathname={pagePath}
+        description={getPageLead(page, project?.oneLiner)}
+        image={heroImage}
+      />
+      <Shell>
+        <article className="portfolio-page">
+          <section className="portfolio-hero">
+            <div className="portfolio-hero-copy">
+              <p className="eyebrow">{project?.category || cleanGroupName(page.group)}</p>
+              <h1>{project?.title || cleanTitle}</h1>
+              <p className="lede">{getPageLead(page, project?.oneLiner)}</p>
+              {project ? (
+                <div className="fact-strip compact-facts">
+                  <Fact label="Role" value={project.role} />
+                  <Fact label="Timeline" value={project.timeline} />
+                  <Fact label="Tools" value={project.tools.join(", ")} />
+                </div>
+              ) : null}
+            </div>
+            {heroImage ? (
+              <Link className="portfolio-hero-media" to={pagePath}>
+                <img src={heroImage} alt={imageAlt(page.images?.[0] || {}, cleanTitle)} />
+              </Link>
+            ) : null}
+          </section>
+
+          <OriginalFlow page={page} currentPath={pagePath} fallbackTitle={project?.title || cleanTitle} />
+          <ProjectMedia media={page.media} />
+          <ProcessMediaSection collection={localCollection} currentPath={pagePath} />
+          <NextProjectNav items={portfolioPages} currentSlug={page.slug} basePath="" />
+        </article>
+      </Shell>
+    </>
+  );
+}
+
+function OriginalFlow({ page, currentPath, fallbackTitle }) {
+  const sections = groupBlocksIntoSections(getCleanBlocks(page), fallbackTitle);
+  const images = (page.images || []).filter((image, index) => index !== 0 || page.images.length < 3);
+  const buckets = distributeImages(images, sections.length);
+
+  if (!sections.length && !images.length) return null;
+
+  if (!sections.length) {
+    return (
+      <section className="project-gallery">
+        <MediaGroup images={images} currentPath={currentPath} title={fallbackTitle} />
+      </section>
+    );
+  }
+
+  return (
+    <div className="original-flow">
+      {sections.map((section, index) => (
+        <section
+          className={`flow-section flow-section-${index % 4}${buckets[index]?.length ? " has-media" : ""}`}
+          key={`${section.title || fallbackTitle}-${index}`}
+        >
+          <div className="flow-copy">
+            {section.title ? <h2>{section.title}</h2> : null}
+            {section.items.map((item, itemIndex) => (
+              <p key={`${item}-${itemIndex}`}>{item}</p>
+            ))}
+          </div>
+          {buckets[index]?.length ? (
+            <MediaGroup images={buckets[index]} currentPath={currentPath} title={section.title || fallbackTitle} />
+          ) : null}
+        </section>
+      ))}
+    </div>
+  );
+}
+
+function MediaGroup({ images, currentPath, title }) {
+  if (!images?.length) return null;
+
+  return (
+    <div className={`media-group media-count-${Math.min(images.length, 6)}`}>
+      {images.map((image, index) => (
+        <Link
+          className={`media-figure ${index === 0 && images.length > 2 ? "media-figure-large" : ""}`}
+          key={`${image.src}-${index}`}
+          to={currentPath}
+        >
+          <img src={image.src} alt={imageAlt(image, title)} loading="lazy" />
+          {image.caption || image.title ? <span>{image.caption || image.title}</span> : null}
+        </Link>
+      ))}
+    </div>
+  );
+}
+
+function ProjectMedia({ media }) {
+  if (!media?.length) return null;
+
+  return (
+    <section className="portfolio-section">
+      <div className="section-header">
+        <p className="eyebrow">Motion</p>
+        <h2>Video and interactive studies</h2>
+      </div>
+      <div className="asset-link-grid">
+        {media.map((item) => (
+          <MediaTile item={item} key={item.url} />
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function MediaTile({ item }) {
+  if (item.kind === "video") {
+    return (
+      <article className="media-tile">
+        <video src={item.src} controls muted playsInline preload="metadata" />
+        <span>Video</span>
+      </article>
+    );
+  }
+
+  return (
+    <a className="media-tile media-link" href={item.src} target="_blank" rel="noreferrer">
+      <span>{item.kind === "animation" ? "Motion Study" : "Project File"}</span>
+      <strong>{item.url.split("/").pop()?.split("?")[0] || "Open file"}</strong>
+    </a>
+  );
+}
+
+function ProcessMediaSection({ collection, currentPath }) {
+  if (!collection) return null;
+  const hasAssets = collection.images.length || collection.videos.length || collection.models.length;
+  if (!hasAssets) return null;
+
+  return (
+    <section className="portfolio-section process-media-section">
+      <div className="section-header">
+        <p className="eyebrow">Process Media</p>
+        <h2>Sketches, renders, prototypes, and model files.</h2>
+      </div>
+
+      {collection.images.length ? (
+        <MediaGroup
+          images={collection.images.slice(0, 18)}
+          currentPath={currentPath}
+          title={collection.title}
+        />
+      ) : null}
+
+      {collection.videos.length || collection.models.length ? (
+        <div className="asset-link-grid">
+          {collection.videos.map((video) => (
+            <article className="media-tile" key={video.src}>
+              <video src={video.src} controls muted playsInline preload="metadata" />
+              <span>Video</span>
+              <strong>{video.name}</strong>
+            </article>
+          ))}
+          {collection.models.map((model) => (
+            <a className="media-tile media-link" href={model.src} target="_blank" rel="noreferrer" key={model.src}>
+              <span>3D Model</span>
+              <strong>{model.name}</strong>
+            </a>
+          ))}
+        </div>
+      ) : null}
+    </section>
+  );
+}
+
+function NextProjectNav({ items, currentSlug, basePath }) {
+  const currentIndex = items.findIndex((item) => item.slug === currentSlug);
+  if (currentIndex < 0 || items.length < 2) return null;
+
+  const previous = items[(currentIndex - 1 + items.length) % items.length];
+  const next = items[(currentIndex + 1) % items.length];
+  const makePath = (item) => (basePath ? `${basePath}/${item.slug}` : projectPath(item.slug));
+
+  return (
+    <nav className="next-project-nav" aria-label="Project navigation">
+      <Link to={makePath(previous)}>
+        <span>Previous</span>
+        <strong>{cleanPageTitle(previous.title)}</strong>
+      </Link>
+      <Link to={makePath(next)}>
+        <span>Next</span>
+        <strong>{cleanPageTitle(next.title)}</strong>
+      </Link>
+    </nav>
+  );
+}
+
+function StudioPage({ canonicalPath = "/studio" }) {
+  const studio = sourcePageMap["sol-seven-studios"];
+  const sol = sourcePageMap.s01 || sourcePageMap.sol;
+  const shop = sourcePageMap.shop || sourcePageMap.solshop;
+  const revo = sourcePageMap["old-revo-chair-page"];
+  const heroImage = studio?.heroImage || studio?.images?.[0]?.src;
+
+  return (
+    <>
+      <Seo
+        title="Sol Seven Studios"
+        pathname={canonicalPath}
+        description="Sol Seven Studios by Ethan Solodukhin."
+        image={heroImage}
+      />
+      <Shell>
+        <article className="portfolio-page studio-page">
+          <section className="portfolio-hero studio-hero">
+            <div className="portfolio-hero-copy">
+              <p className="eyebrow">Studio</p>
+              <h1>Sol Seven Studios</h1>
+              <p className="lede">Bold comfort, playful purpose, lasting impact.</p>
+              <div className="hero-actions">
+                <Link className="button button-primary" to="/design-language">
+                  Design Language
+                </Link>
+                <Link className="button button-secondary" to="/shop">
+                  Shop
+                </Link>
+              </div>
+            </div>
+            {heroImage ? (
+              <Link className="portfolio-hero-media" to="/sol-seven-studios">
+                <img src={heroImage} alt="Sol Seven Studios" />
+              </Link>
+            ) : null}
+          </section>
+
+          <section className="portfolio-section studio-values">
+            {["Bold comfort", "Playful purpose", "Lasting impact"].map((value) => (
+              <article className="glass-panel" key={value}>
+                <h2>{value}</h2>
+              </article>
+            ))}
+          </section>
+
+          <section className="portfolio-section">
+            <div className="section-header">
+              <p className="eyebrow">Approach</p>
+              <h2>Products with a clear point of view.</h2>
+              <p>
+                Sol Seven Studios connects lighting, furniture, printed objects, and circular
+                material experiments through a shared visual language and hands-on production.
+              </p>
+            </div>
+            <div className="portfolio-grid">
+              {[sol, revo, shop].filter(Boolean).map((page) => (
+                <PortfolioPageCard page={page} key={page.slug} />
+              ))}
+            </div>
+          </section>
+
+          {studio ? <OriginalFlow page={studio} currentPath="/sol-seven-studios" fallbackTitle="Sol Seven Studios" /> : null}
+        </article>
+      </Shell>
+    </>
+  );
+}
+
+function DesignLanguagePage() {
+  const s01 = sourcePageMap.s01;
+  const s01test = sourcePageMap.s01test;
+  const studio = sourcePageMap["sol-seven-studios"];
+  const images = [
+    ...(s01?.images || []),
+    ...(s01test?.images || []),
+    ...(studio?.images || []),
+    ...(localAssetCollections["sol-lamp-system"]?.images || []),
+  ].slice(0, 16);
+
+  return (
+    <>
+      <Seo
+        title="Design Language"
+        pathname="/design-language"
+        description="SOL design language by Ethan Solodukhin."
+        image={images[0]?.src}
+      />
+      <Shell>
+        <article className="portfolio-page">
+          <section className="page-intro editorial-intro">
+            <p className="eyebrow">Design Language</p>
+            <h1>SOL objects are built around modularity, shared parts, and a soft sculptural glow.</h1>
+            <p className="lede">
+              A concise look at the SOL family: magnetic shade changes, repeated silhouettes,
+              sustainable PETG, and calm lighting forms that can expand across products.
+            </p>
+          </section>
+          <section className="language-grid">
+            {[
+              ["Modularity", "Shades and bases are treated as interchangeable pieces rather than fixed forms."],
+              ["Shared Components", "Repeated proportions, ribs, and connection details make the family feel related."],
+              ["SOL X Logic", "Future electrical layouts can support clearer assembly, repair, and product variation."],
+              ["Visual Family", "Rounded forms, soft diffusion, and subtle texture keep the work calm and recognizable."],
+            ].map(([title, body]) => (
+              <article className="glass-panel" key={title}>
+                <h2>{title}</h2>
+                <p>{body}</p>
+              </article>
+            ))}
+          </section>
+          <section className="portfolio-section">
+            <MediaGroup images={images} currentPath="/design-language" title="SOL design language" />
+          </section>
+        </article>
+      </Shell>
+    </>
+  );
+}
+
+function ProcessPage() {
+  const processSteps = [
+    {
+      title: "Sketch",
+      page: sourcePageMap["old-revo-chair-page"],
+      image: localAssetCollections["sol-lamp-system"]?.images?.[0],
+    },
+    {
+      title: "CAD",
+      page: sourcePageMap["autodesk-origin"],
+      image: sourcePageMap["autodesk-origin"]?.images?.[8],
+    },
+    {
+      title: "Prototype",
+      page: sourcePageMap["sol-wheel"],
+      image: sourcePageMap["sol-wheel"]?.images?.[10],
+    },
+    {
+      title: "Iteration",
+      page: sourcePageMap["et-03"],
+      image: sourcePageMap["et-03"]?.images?.[9],
+    },
+    {
+      title: "Final",
+      page: sourcePageMap["s01"] || sourcePageMap["sol-wheel"],
+      image: sourcePageMap["s01"]?.images?.[0] || sourcePageMap["sol-wheel"]?.images?.[0],
+    },
+  ];
+
+  return (
+    <>
+      <Seo
+        title="Process"
+        pathname="/process"
+        description="Design process across Ethan Solodukhin's portfolio."
+        image={processSteps[0].image?.src}
+      />
+      <Shell>
+        <article className="portfolio-page">
+          <section className="page-intro editorial-intro">
+            <p className="eyebrow">Process</p>
+            <h1>Sketch, CAD, prototype, iterate, finish.</h1>
+            <p className="lede">
+              A cross-project look at how Ethan moves from early ideas into physical products,
+              renders, mechanisms, and presentation-ready outcomes.
+            </p>
+          </section>
+          <section className="process-timeline">
+            {processSteps.map((step) => (
+              <Link className="process-step" to={step.page ? projectPath(step.page.slug) : "/work"} key={step.title}>
+                <div className="process-step-media">
+                  {step.image ? <img src={step.image.src} alt={imageAlt(step.image, step.title)} /> : null}
+                </div>
+                <div className="process-step-copy">
+                  <span>{step.title}</span>
+                  <h2>{step.page ? cleanPageTitle(step.page.title) : step.title}</h2>
+                </div>
+              </Link>
+            ))}
+          </section>
+        </article>
+      </Shell>
+    </>
+  );
+}
+
+function ShopPage({ page = sourcePageMap.shop || sourcePageMap.solshop }) {
+  if (!page) return <Navigate to="/more-projects" replace />;
+  return <PortfolioPageView page={page} canonicalPath="/shop" />;
+}
+
 function AboutPage() {
   return (
     <>
       <Seo
         title="About"
         pathname="/about"
-        description="About Ethan Solodukhin, an industrial designer focused on modular systems, additive manufacturing, and circular products."
+        description="About Ethan Solodukhin, industrial designer."
       />
       <Shell>
-        <section className="page-intro">
+        <section className="page-intro editorial-intro">
           <p className="eyebrow">About</p>
-          <h1>Industrial designer building products, systems, and prototypes into clear decisions.</h1>
+          <h1>Industrial designer working between concept, prototype, and product.</h1>
           <p className="lede">
-            Ethan Solodukhin is an RIT industrial design student whose public work spans
-            independent product launches, circular material systems, fabrication-heavy
-            prototyping, and employer-facing concept development.
+            Ethan Solodukhin studies Industrial Design at RIT and works across furniture,
+            lighting, circular products, fabrication, CAD, rendering, and physical prototyping.
           </p>
         </section>
         <section className="section section-split">
@@ -462,38 +992,35 @@ function AboutPage() {
           </div>
           <div className="bio-copy">
             <p>
-              This rebuild pulls from the current Squarespace portfolio, the public Sol Seven
-              Studios site, and the public 2026 resume. The writing was tightened for speed,
-              but no projects, awards, clients, or metrics were invented.
+              The work moves between independent product launches, studio experiments,
+              competition projects, and fabrication-heavy development. Across the portfolio,
+              the focus is on making objects that can be built, tested, refined, and presented
+              clearly.
             </p>
             <p>
-              The strongest through-line is the overlap between design intent and physical
-              proof: additive-manufactured parts, fabrication workflows, mechanism updates,
-              circular material systems, and product stories that stay grounded in how things
-              would actually be made.
+              Ethan has worked with digital fabrication, additive manufacturing, product
+              visualization, circular materials, packaging concepts, furniture, and lighting.
             </p>
             <div className="hero-actions">
               <a className="button button-secondary" href={contactLinks.resume} target="_blank" rel="noreferrer">
-                View resume
+                View Resume
               </a>
               <Link className="button button-secondary" to="/contact">
-                Contact Ethan
+                Contact
               </Link>
             </div>
           </div>
         </section>
-        <section className="section">
+        <section className="portfolio-section">
           <div className="section-header">
-            <p className="eyebrow">Selected Highlights</p>
-            <h2>Current public signals from the portfolio and resume.</h2>
+            <p className="eyebrow">Highlights</p>
+            <h2>Selected experience and recognition.</h2>
           </div>
           <div className="mini-grid">
             {aboutHighlights.map((item) => (
               <article className="mini-card text-only-card" key={item.title}>
                 <div className="mini-card-body">
-                  <div className="project-meta">
-                    <span>{item.label}</span>
-                  </div>
+                  <span className="portfolio-kicker">{item.label}</span>
                   <h2>{item.title}</h2>
                   <p>{item.body}</p>
                 </div>
@@ -512,15 +1039,14 @@ function ContactPage() {
       <Seo
         title="Contact"
         pathname="/contact"
-        description="Contact details and portfolio links for Ethan Solodukhin."
+        description="Contact Ethan Solodukhin."
       />
       <Shell>
-        <section className="page-intro">
+        <section className="page-intro editorial-intro">
           <p className="eyebrow">Contact</p>
-          <h1>Reach out for internships, full-time roles, freelance work, and design conversations.</h1>
+          <h1>Reach out for industrial design roles, studio work, and project conversations.</h1>
           <p className="lede">
-            Contact details are pulled from the live portfolio and public 2026 resume so
-            hiring teams can reach Ethan without hunting through the old site.
+            Portfolio, resume, email, phone, and LinkedIn are collected here for easy contact.
           </p>
         </section>
         <div className="contact-grid">
@@ -550,349 +1076,6 @@ function ContactPage() {
   );
 }
 
-function ProjectPage() {
-  const { slug } = useParams();
-  const project = projectMap[slug];
-
-  if (!project) {
-    return <Navigate to="/work" replace />;
-  }
-
-  const sourceDepthPages = getFeaturedSourcePages(project.slug);
-
-  return (
-    <>
-      <Seo
-        title={project.title}
-        pathname={`/work/${project.slug}`}
-        description={project.shortDescription}
-        image={project.cardImage}
-      />
-      <Shell>
-        <article className="case-study">
-          <section className="case-hero">
-            <div className="case-hero-copy">
-              <p className="eyebrow">{project.category}</p>
-              <h1>{project.title}</h1>
-              <p className="lede">{project.oneLiner}</p>
-            </div>
-            <div className="case-hero-media">
-              <img src={project.heroImage} alt={project.heroAlt} />
-            </div>
-          </section>
-
-          <section className="facts-grid">
-            <Fact label="Role" value={project.role} />
-            <Fact label="Timeline" value={project.timeline} />
-            <Fact label="Tools" value={project.tools.join(", ")} />
-            <Fact label="Skills" value={project.skills.join(", ")} />
-          </section>
-
-          <section className="story-grid">
-            <StorySection title="Problem" body={project.sections.problem} />
-            <StorySection title="Research / Insight" body={project.sections.research} />
-            <StorySection title="Concept Development" body={project.sections.concept} />
-            <StorySection title="Iteration / Process" body={project.sections.iteration} />
-            <StorySection title="Prototyping / Testing" body={project.sections.prototyping} />
-            <StorySection title="Design Decisions" body={project.sections.decisions} />
-            <StorySection title="Final Outcome" body={project.sections.outcome} />
-            <StorySection title="What I Learned" body={project.sections.learned} />
-          </section>
-
-          <ProjectSourceDepth pages={sourceDepthPages} />
-
-          <section className="gallery-grid">
-            {project.gallery.map((asset) => (
-              <figure className="gallery-card" key={asset.src}>
-                <img src={asset.src} alt={asset.alt} />
-                <figcaption>{asset.caption}</figcaption>
-              </figure>
-            ))}
-          </section>
-
-          <LocalAssetSection collection={getLocalAssetsForSlug(project.slug)} />
-          <NextProjectNav items={featuredProjects} currentSlug={project.slug} basePath="/work" />
-        </article>
-      </Shell>
-    </>
-  );
-}
-
-function SourcePage() {
-  const { slug } = useParams();
-  const page = sourcePageMap[slug];
-
-  if (!page) {
-    return <Navigate to="/more-projects" replace />;
-  }
-
-  const localCollection = getLocalAssetsForSlug(page.slug);
-  const primarySections = page.sections.filter((section) => section.items?.length);
-  const galleryImages = page.images;
-
-  return (
-    <>
-      <Seo
-        title={cleanPageTitle(page.title)}
-        pathname={`/more-projects/${page.slug}`}
-        description={getSourcePageLead(page)}
-        image={page.heroImage}
-      />
-      <Shell>
-        <article className="source-page">
-          <section className="source-hero">
-            <div className="source-hero-copy">
-              <p className="eyebrow">{page.group}</p>
-              <h1>{cleanPageTitle(page.title)}</h1>
-              <p className="lede">{getSourcePageLead(page)}</p>
-              <div className="project-meta source-meta">
-                <span>{page.imageCount} page images</span>
-                <span>{page.mediaCount} media files</span>
-                {page.lastmod ? <span>Updated {page.lastmod}</span> : null}
-              </div>
-              <div className="hero-actions">
-                <a className="button button-secondary" href={page.sourceUrl} target="_blank" rel="noreferrer">
-                  View original page
-                </a>
-                <Link className="button button-secondary" to="/more-projects">
-                  Back to More Projects
-                </Link>
-              </div>
-            </div>
-            {page.heroImage ? (
-              <div className="source-hero-media">
-                <img src={page.heroImage} alt={page.images[0]?.alt || page.title} />
-              </div>
-            ) : null}
-          </section>
-
-          {primarySections.length ? (
-            <section className="section source-story">
-              <div className="section-header">
-                <p className="eyebrow">Original Case Study Flow</p>
-                <h2>Project text with cleaner pacing and hierarchy.</h2>
-              </div>
-              <div className="source-section-stack">
-                {primarySections.map((section, index) => (
-                  <article className="source-section" key={`${section.title}-${index}`}>
-                    <h2>{section.title}</h2>
-                    <div>
-                      {section.items.map((item, itemIndex) => (
-                        <p key={`${item}-${itemIndex}`}>{item}</p>
-                      ))}
-                    </div>
-                  </article>
-                ))}
-              </div>
-            </section>
-          ) : null}
-
-          {galleryImages.length ? (
-            <section className="section">
-              <div className="section-header">
-                <p className="eyebrow">Visual Story</p>
-                <h2>Real imagery pulled from the original page.</h2>
-              </div>
-              <div className="source-gallery">
-                {galleryImages.map((image, index) => (
-                  <figure className={index % 7 === 0 ? "gallery-card gallery-card-wide" : "gallery-card"} key={`${image.src}-${index}`}>
-                    <img src={image.src} alt={image.alt || page.title} loading="lazy" />
-                    {image.caption || image.title ? <figcaption>{image.caption || image.title}</figcaption> : null}
-                  </figure>
-                ))}
-              </div>
-            </section>
-          ) : null}
-
-          {page.media.length ? (
-            <section className="section">
-              <div className="section-header">
-                <p className="eyebrow">Motion + Embedded Media</p>
-                <h2>Videos, animation data, and linked project media.</h2>
-              </div>
-              <div className="asset-link-grid">
-                {page.media.map((item) => (
-                  <MediaTile item={item} key={item.url} />
-                ))}
-              </div>
-            </section>
-          ) : null}
-
-          <LocalAssetSection collection={localCollection} />
-          <NextProjectNav items={archivePages} currentSlug={page.slug} basePath="/more-projects" />
-        </article>
-      </Shell>
-    </>
-  );
-}
-
-function ProjectSourceDepth({ pages }) {
-  const sourcePagesWithContent = pages.filter(
-    (page) => page.sections.some((section) => section.items?.length) || page.images.length || page.media.length,
-  );
-
-  if (!sourcePagesWithContent.length) return null;
-
-  return (
-    <section className="section project-source-depth">
-      <div className="section-header">
-        <p className="eyebrow">Full Source Story</p>
-        <h2>Original project flow preserved with stronger pacing.</h2>
-        <p>
-          These sections carry the deeper page structure, process notes, visuals, and motion
-          assets from the public portfolio so the case study does not collapse into a short
-          summary.
-        </p>
-      </div>
-
-      <div className="source-depth-stack">
-        {sourcePagesWithContent.map((page) => {
-          const sections = page.sections.filter((section) => section.items?.length);
-
-          return (
-            <article className="source-depth-page" key={page.slug}>
-              <div className="source-depth-heading">
-                <div>
-                  <p className="eyebrow">{page.group}</p>
-                  <h3>{cleanPageTitle(page.title)}</h3>
-                  <p>{getSourcePageLead(page)}</p>
-                </div>
-                <Link className="inline-link" to={`/more-projects/${page.slug}`}>
-                  Open full page
-                </Link>
-              </div>
-
-              {sections.length ? (
-                <div className="source-section-stack">
-                  {sections.map((section, index) => (
-                    <article className="source-section" key={`${page.slug}-${section.title}-${index}`}>
-                      <h2>{section.title}</h2>
-                      <div>
-                        {section.items.map((item, itemIndex) => (
-                          <p key={`${page.slug}-${index}-${itemIndex}`}>{item}</p>
-                        ))}
-                      </div>
-                    </article>
-                  ))}
-                </div>
-              ) : null}
-
-              {page.images.length ? (
-                <div className="source-gallery source-gallery-compact">
-                  {page.images.map((image, index) => (
-                    <figure
-                      className={index % 9 === 0 ? "gallery-card gallery-card-wide" : "gallery-card"}
-                      key={`${page.slug}-${image.src}-${index}`}
-                    >
-                      <img src={image.src} alt={image.alt || page.title} loading="lazy" />
-                      {image.caption || image.title ? <figcaption>{image.caption || image.title}</figcaption> : null}
-                    </figure>
-                  ))}
-                </div>
-              ) : null}
-
-              {page.media.length ? (
-                <div className="asset-link-grid">
-                  {page.media.map((item) => (
-                    <MediaTile item={item} key={`${page.slug}-${item.url}`} />
-                  ))}
-                </div>
-              ) : null}
-            </article>
-          );
-        })}
-      </div>
-    </section>
-  );
-}
-
-function MediaTile({ item }) {
-  if (item.kind === "video") {
-    return (
-      <article className="media-tile">
-        <video src={item.src} controls muted playsInline preload="metadata" />
-        <span>{item.kind}</span>
-      </article>
-    );
-  }
-
-  return (
-    <a className="media-tile media-link" href={item.src} target="_blank" rel="noreferrer">
-      <span>{item.kind || "asset"}</span>
-      <strong>{item.url.split("/").pop()?.split("?")[0] || "Project media"}</strong>
-    </a>
-  );
-}
-
-function LocalAssetSection({ collection }) {
-  if (!collection) return null;
-  const hasAssets = collection.images.length || collection.videos.length || collection.models.length;
-  if (!hasAssets) return null;
-
-  return (
-    <section className="section local-source-section">
-      <div className="section-header">
-        <p className="eyebrow">Expanded Project Media</p>
-        <h2>Additional process assets, render exports, and source files.</h2>
-        <p>
-          Selected high-resolution project media is included here when it adds useful context
-          beyond the original public page.
-        </p>
-      </div>
-
-      {collection.images.length ? (
-        <div className="source-gallery local-gallery">
-          {collection.images.slice(0, 18).map((image, index) => (
-            <figure className={index % 6 === 0 ? "gallery-card gallery-card-wide" : "gallery-card"} key={image.src}>
-              <img src={image.src} alt={image.alt} loading="lazy" />
-              <figcaption>{image.name}</figcaption>
-            </figure>
-          ))}
-        </div>
-      ) : null}
-
-      {collection.videos.length || collection.models.length ? (
-        <div className="asset-link-grid">
-          {collection.videos.map((video) => (
-            <article className="media-tile" key={video.src}>
-              <video src={video.src} controls muted playsInline preload="metadata" />
-              <span>Local video</span>
-              <strong>{video.name}</strong>
-            </article>
-          ))}
-          {collection.models.map((model) => (
-            <a className="media-tile media-link" href={model.src} target="_blank" rel="noreferrer" key={model.src}>
-              <span>Model/source file</span>
-              <strong>{model.name}</strong>
-            </a>
-          ))}
-        </div>
-      ) : null}
-    </section>
-  );
-}
-
-function NextProjectNav({ items, currentSlug, basePath }) {
-  const currentIndex = items.findIndex((item) => item.slug === currentSlug);
-  if (currentIndex < 0 || items.length < 2) return null;
-
-  const previous = items[(currentIndex - 1 + items.length) % items.length];
-  const next = items[(currentIndex + 1) % items.length];
-
-  return (
-    <nav className="next-project-nav" aria-label="Project navigation">
-      <Link to={`${basePath}/${previous.slug}`}>
-        <span>Previous</span>
-        <strong>{cleanPageTitle(previous.title)}</strong>
-      </Link>
-      <Link to={`${basePath}/${next.slug}`}>
-        <span>Next</span>
-        <strong>{cleanPageTitle(next.title)}</strong>
-      </Link>
-    </nav>
-  );
-}
-
 function Fact({ label, value }) {
   return (
     <article className="fact-card">
@@ -902,18 +1085,14 @@ function Fact({ label, value }) {
   );
 }
 
-function StorySection({ title, body }) {
-  return (
-    <section className="story-card">
-      <h2>{title}</h2>
-      <p>{body}</p>
-    </section>
-  );
+function MoreProjectRedirect() {
+  const { slug } = useParams();
+  return <Navigate to={slug ? projectPath(slug) : "/more-projects"} replace />;
 }
 
 function ArchiveRedirect() {
   const { slug } = useParams();
-  return <Navigate to={slug ? `/more-projects/${slug}` : "/more-projects"} replace />;
+  return <Navigate to={slug ? projectPath(slug) : "/more-projects"} replace />;
 }
 
 export default function App() {
@@ -923,13 +1102,19 @@ export default function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/work" element={<WorkPage />} />
-        <Route path="/work/:slug" element={<ProjectPage />} />
-        <Route path="/archive" element={<ArchiveRedirect />} />
-        <Route path="/archive/:slug" element={<ArchiveRedirect />} />
-        <Route path="/more-projects" element={<SourceArchivePage />} />
-        <Route path="/more-projects/:slug" element={<SourcePage />} />
+        <Route path="/work/:slug" element={<FeaturedCaseRoute />} />
+        <Route path="/more-projects" element={<MoreProjectsPage />} />
+        <Route path="/more-projects/:slug" element={<MoreProjectRedirect />} />
+        <Route path="/studio" element={<StudioPage />} />
+        <Route path="/design-language" element={<DesignLanguagePage />} />
+        <Route path="/process" element={<ProcessPage />} />
+        <Route path="/shop" element={<ShopPage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
+        <Route path="/archive" element={<ArchiveRedirect />} />
+        <Route path="/archive/:slug" element={<ArchiveRedirect />} />
+        <Route path="/:slug" element={<OriginalSlugRoute />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </>
   );

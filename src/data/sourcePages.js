@@ -1509,7 +1509,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "MERCH",
           "DRINKS",
@@ -2114,7 +2114,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-06",
     "group": "Brand + Visualization",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "heading",
@@ -4526,7 +4526,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "'Plasti' signifies the use of recycled plastic with 'Vista,' evoking a sense of expansive views or vision. 'Atelier' reffers to a workshop or studio where artistic creations are made.",
           "Connecting communities for a sustainable future through innovative recycling and premium furniture craftsmanship.",
@@ -4912,7 +4912,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-30",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "heading",
@@ -5309,7 +5309,7 @@ const rawSourcePages = [
     "lastmod": "2025-12-20",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -5324,7 +5324,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "www.ethansolodukhin.com",
           "(c) 2025 Ethan Solodukhin. All rights reserved."
@@ -5555,7 +5555,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -5580,7 +5580,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The ArchFrame Duo Collection",
           "12/24/2024",
@@ -5659,7 +5659,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -5684,7 +5684,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Archron Collection",
           "12/19/2024",
@@ -5795,7 +5795,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-07",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -5820,7 +5820,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Bloom Lamp",
           "1/7/2025",
@@ -5899,7 +5899,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -5924,7 +5924,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Checkpoint Collection",
           "12/20/2024",
@@ -6051,7 +6051,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-03",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -6076,7 +6076,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Contour Living Collection",
           "1/3/2025",
@@ -6155,7 +6155,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-09",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -6180,7 +6180,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Enigma Stand",
           "1/9/2025",
@@ -6259,7 +6259,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-30",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -6284,7 +6284,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The FrameLoom Chair",
           "12/28/2024",
@@ -6355,7 +6355,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -6380,7 +6380,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The GeoBench Collection",
           "12/22/2024",
@@ -6459,7 +6459,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -6484,7 +6484,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The GeoNest Collection",
           "12/18/2024",
@@ -6595,7 +6595,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -6620,7 +6620,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Grasp Collection",
           "12/21/2024",
@@ -6755,7 +6755,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-11",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -6780,7 +6780,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Kontour Chair",
           "1/11/2025",
@@ -6859,7 +6859,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -6884,7 +6884,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Loma Chair",
           "12/25/2024",
@@ -6963,7 +6963,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-31",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -6988,7 +6988,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Lumen Vault Cabinet",
           "12/31/2024",
@@ -7091,7 +7091,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-03",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -7116,7 +7116,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Lumi Lamp",
           "1/2/2025",
@@ -7195,7 +7195,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -7220,7 +7220,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The mber Collection",
           "12/13/2024",
@@ -7403,7 +7403,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -7428,7 +7428,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Mossy Mates Collection",
           "12/17/2024",
@@ -7619,7 +7619,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -7644,7 +7644,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Neo Grove Collection",
           "12/14/2024",
@@ -7867,7 +7867,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-28",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -7892,7 +7892,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The PivotPod Chair",
           "12/27/2024",
@@ -7971,7 +7971,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-05",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -7996,7 +7996,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Prism Apex Table",
           "1/4/2025",
@@ -8075,7 +8075,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-05",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -8100,7 +8100,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Prismatik Table",
           "1/5/2025",
@@ -8179,7 +8179,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-06",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -8204,7 +8204,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Radia Light",
           "1/6/2025",
@@ -8331,7 +8331,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-30",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -8356,7 +8356,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Rvot Lounge Chair",
           "12/29/2024",
@@ -8435,7 +8435,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -8460,7 +8460,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Solus Collection",
           "12/16/2024",
@@ -8819,7 +8819,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -8844,7 +8844,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Sonolyth Collection",
           "12/15/2024",
@@ -9043,7 +9043,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-11",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -9068,7 +9068,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Stax Set",
           "1/10/2025",
@@ -9155,7 +9155,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -9180,7 +9180,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Strata Chair",
           "12/23/2024",
@@ -9259,7 +9259,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-02",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -9284,7 +9284,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The UberLax Collection",
           "1/1/2025",
@@ -9363,7 +9363,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-27",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -9388,7 +9388,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Verdant Chair",
           "12/26/2024",
@@ -9719,7 +9719,7 @@ const rawSourcePages = [
     "lastmod": "2024-09-23",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -9734,7 +9734,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "www.ethansolodukhin.com",
           "(c) 2025 Ethan Solodukhin. All rights reserved."
@@ -9762,7 +9762,7 @@ const rawSourcePages = [
     "lastmod": "2025-12-21",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -9777,7 +9777,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "www.ethansolodukhin.com",
           "(c) 2025 Ethan Solodukhin. All rights reserved."
@@ -9805,7 +9805,7 @@ const rawSourcePages = [
     "lastmod": "2026-04-02",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -9820,7 +9820,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "www.ethansolodukhin.com",
           "(c) 2025 Ethan Solodukhin. All rights reserved."
@@ -9858,7 +9858,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-26",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "heading",
@@ -9965,7 +9965,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-14",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -9980,7 +9980,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "www.ethansolodukhin.com",
           "(c) 2025 Ethan Solodukhin. All rights reserved."
@@ -10014,7 +10014,7 @@ const rawSourcePages = [
     "lastmod": "2025-02-04",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "heading",
@@ -10202,7 +10202,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Prefect for renters seeking a hassle-free alternative to installing a heated mirror, Airo provides a convenient, automated, plug-and-play solution to eliminate the frustration of foggy mirrors without any structural modifications.",
           "Check out Agneya Kulkarni's Page with the process and developemnt to learn more.",
@@ -10543,7 +10543,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "For the Autodesk University Factory Event 2025, we were tasked with designing Autodesk Origin, a multifunctional measuring device that streamlines digital fabrication by capturing precise distances, creating accurate color profiles, and featuring an intuitive interactive UI. Engineered with a laser distance sensor, high-accuracy color sensor, and integrated display, Origin bridges the gap between physical materials and digital creation, allowing designers, engineers, and makers to seamlessly scan environments, capture real-world color data, and relay information into design software. This challenge pushed us to merge precision engineering with human-centered interaction, resulting in a tool that enhances workflow efficiency in architecture, industrial design, and digital manufacturing. Through rapid prototyping and iteration, we developed an experience that feels intuitive, responsive, and essential for professionals looking to create smarter, more connected workflows.",
           "featuring a laser distance sensor, color sensor, haptic control dial, and screen-showcasing the cutting-edge capabilities of Autodesk and their partners.",
@@ -10997,7 +10997,7 @@ const rawSourcePages = [
     "lastmod": "2025-04-28",
     "group": "Product Case Studies",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "heading",
@@ -11688,7 +11688,7 @@ const rawSourcePages = [
     "lastmod": "2025-12-20",
     "group": "Product Case Studies",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -11723,7 +11723,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "PRECEDENT CASE STUDY",
           "First Pitch to Gardall",
@@ -12089,7 +12089,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "T-Minus 26  -  RIT Product Design SprintSponsored by Church & Dwight",
           "Design Prompt",
@@ -12582,7 +12582,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Contribution: Concepts, all CAD and Rendering",
           "For this project, we collaborated with Autodesk designers to create a product concept that can be manufactured using different types of processes, including 3D printing, SLA, and CNC machining, for the Autodesk Factory Event and Autodesk University 2024/2025."
@@ -14331,7 +14331,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-06",
     "group": "Project Archive",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "heading",
@@ -18028,7 +18028,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-11",
     "group": "Project Archive",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "heading",
@@ -18707,7 +18707,7 @@ const rawSourcePages = [
     "lastmod": "2025-12-21",
     "group": "Project Archive",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -18722,7 +18722,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "www.ethansolodukhin.com",
           "(c) 2025 Ethan Solodukhin. All rights reserved."
@@ -18750,7 +18750,7 @@ const rawSourcePages = [
     "lastmod": "2026-01-21",
     "group": "Project Archive",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -18835,7 +18835,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Airo Bathroom Mirror Dehumidifier",
           "Sept-Dec 2024",
@@ -19050,7 +19050,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-09",
     "group": "Project Archive",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -19075,7 +19075,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The OribitMod",
           "1/8/2025",
@@ -19154,7 +19154,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-31",
     "group": "Project Archive",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -19179,7 +19179,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Strata Shelf",
           "12/30/2024",
@@ -19560,7 +19560,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Breakfast Bites Collection",
           "Minimalistic, Fun Wall and Shelf Decor.",
@@ -20193,7 +20193,7 @@ const rawSourcePages = [
     "lastmod": "2025-02-17",
     "group": "Shop + Objects",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -20208,7 +20208,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "www.ethansolodukhin.com",
           "(c) 2025 Ethan Solodukhin. All rights reserved."
@@ -20656,7 +20656,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Breakfast Bites Collection",
           "Minimalistic, Fun Wall and Shelf Decor.",
@@ -21299,7 +21299,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Breakfast Bites Collection",
           "Minimalistic, Fun Wall and Shelf Decor.",
@@ -22281,7 +22281,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-06",
     "group": "SOL Universe",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -22326,7 +22326,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Relaxing Sol Variations",
           "SIGNAL PINK",
@@ -22776,7 +22776,7 @@ const rawSourcePages = [
     "lastmod": "2025-02-07",
     "group": "SOL Universe",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "heading",
@@ -22902,7 +22902,7 @@ const rawSourcePages = [
     "lastmod": "2025-02-17",
     "group": "SOL Universe",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -23027,7 +23027,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Breakfast Bites Collection",
           "Minimalistic, Fun Wall and Shelf Decor.",
@@ -23645,7 +23645,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-07",
     "group": "SOL Universe",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -23690,7 +23690,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Sitting Sol Variations",
           "SIGNAL PINK",
@@ -23765,7 +23765,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-05",
     "group": "SOL Universe",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -23820,7 +23820,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "The Sol Collection",
           "Digital Art and Sculptures",
@@ -23931,7 +23931,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-05",
     "group": "SOL Universe",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -23976,7 +23976,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Sol Circle Variations",
           "Morning",
@@ -24091,7 +24091,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-07",
     "group": "SOL Universe",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -24111,7 +24111,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Sol Sculptures",
           "www.ethansolodukhin.com",
@@ -24177,7 +24177,7 @@ const rawSourcePages = [
     "lastmod": "2025-02-13",
     "group": "SOL Universe",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -24212,7 +24212,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Bold comfort, playful purpose, lasting impact."
         ]
@@ -24305,7 +24305,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-06",
     "group": "SOL Universe",
     "description": "",
-    "summary": "A redesigned page from the live Squarespace portfolio.",
+    "summary": "Project notes and visuals.",
     "textBlocks": [
       {
         "type": "text",
@@ -24350,7 +24350,7 @@ const rawSourcePages = [
     ],
     "sections": [
       {
-        "title": "Source Content",
+        "title": "Overview",
         "items": [
           "Sol Variations",
           "SIGNAL PINK",
@@ -24439,30 +24439,3 @@ export const sourcePageGroups = sourcePages.reduce((groups, page) => {
   groups[page.group].push(page);
   return groups;
 }, {});
-
-export const crawlStats = {
-  "crawledAt": "2026-04-24T18:43:40.476Z",
-  "source": "https://www.ethansolodukhin.com",
-  "sitemapPageCount": 80,
-  "recreatedPageCount": 82,
-  "uniqueAssetCount": 1247,
-  "downloadedAssetCount": 1245,
-  "missingAssetCount": 2,
-  "imageCount": 1586,
-  "mediaCount": 22
-};
-
-export const missingAssets = [
-  {
-    "ok": false,
-    "reason": "403 Forbidden",
-    "url": "https://lottie.host/06b143e8-7aa1-4073-9d10-8200801899bb/PtKwE8XNJ5.json",
-    "pageSlug": "old-revo-chair-page"
-  },
-  {
-    "ok": false,
-    "reason": "403 Forbidden",
-    "url": "https://lottie.host/1c6b588c-6072-4100-ab05-42e7bbe76063/xHvhpdMj5Y.lottie",
-    "pageSlug": "for-pdf-layout"
-  }
-];

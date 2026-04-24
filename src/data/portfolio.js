@@ -3,7 +3,7 @@ const asset = (path) => `${import.meta.env.BASE_URL}${path}`;
 export const siteMeta = {
   title: "Ethan Solodukhin | Industrial Design Portfolio",
   description:
-    "Industrial design portfolio for Ethan Solodukhin, focused on modular product systems, additive manufacturing, circular design, and physical product development.",
+    "Industrial design portfolio for Ethan Solodukhin, focused on furniture, lighting, additive manufacturing, circular design, and physical product development.",
   ogImage: asset("assets/projects/sol-lamp-hero.png"),
 };
 
@@ -62,18 +62,18 @@ export const focusAreas = [
 export const stats = [
   {
     value: "6",
-    label: "featured case studies",
-    context: "Chosen for hiring relevance, process clarity, and employer-facing depth.",
+    label: "featured projects",
+    context: "Lighting, furniture, circular products, digital fabrication, and product development.",
   },
   {
-    value: "82",
-    label: "redesigned pages",
-    context: "Rebuilt from the full public sitemap and internal crawl, then reorganized into a cleaner project index.",
+    value: "Studio",
+    label: "Sol Seven Studios",
+    context: "Founder-led lighting, furniture, printed objects, and circular product work.",
   },
   {
-    value: "1,245",
-    label: "public assets pulled",
-    context: "Real Squarespace images, videos, and animation assets converted or linked for the production site.",
+    value: "Process",
+    label: "hands-on development",
+    context: "Sketching, CAD, prototyping, iteration, renders, and physical making.",
   },
 ];
 
@@ -581,21 +581,21 @@ export const aboutHighlights = [
   {
     label: "Experience",
     title: "Procter & Gamble",
-    body: "Public 2026 resume lists a May to August 2025 co-op in Cincinnati focused on packaging and product concepts for Crest and Oral-B.",
+    body: "May to August 2025 co-op in Cincinnati focused on packaging and product concepts for Crest and Oral-B.",
   },
   {
     label: "Experience",
     title: "Fabrication Lab at RIT",
-    body: "Public resume highlights hands-on work across FDM, SLA, CNC, laser cutting, waterjet, and fabrication workflow optimization.",
+    body: "Hands-on work across FDM, SLA, CNC, laser cutting, waterjet, and fabrication workflow optimization.",
   },
   {
     label: "Founder",
     title: "Sol Seven Studios LLC",
-    body: "Public resume and studio site position Ethan as founder, combining circular production, modular lighting, rapid iteration, and independent product development.",
+    body: "Founder-led studio work combining circular production, modular lighting, rapid iteration, and independent product development.",
   },
   {
     label: "Recognition",
     title: "Awards + Honors",
-    body: "Public resume lists the 2025 RIT T-Minus win, 2024 IDSA Rising Design Visionaries representation, and a 2022 Reddit Innovation Awards finalist placement for SOL Wheel.",
+    body: "2025 RIT T-Minus win, 2024 IDSA Rising Design Visionaries representation, and a 2022 Reddit Innovation Awards finalist placement for SOL Wheel.",
   },
 ];
