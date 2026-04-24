@@ -207,8 +207,12 @@ main {
 .feature-row-media img,
 .case-hero-media img,
 .gallery-card img,
-.bio-card img,
 .mini-card-media img {
+  height: 100%;
+  object-fit: contain;
+}
+
+.bio-card img {
   height: 100%;
   object-fit: cover;
 }
@@ -354,6 +358,7 @@ main {
 .project-card-media {
   aspect-ratio: 4 / 3;
   overflow: hidden;
+  background: rgba(255, 255, 255, 0.78);
 }
 
 .project-card-body {
@@ -438,6 +443,7 @@ main {
   border-radius: var(--radius);
   overflow: hidden;
   min-height: 280px;
+  background: rgba(255, 255, 255, 0.78);
 }
 
 .feature-row-copy {
@@ -489,6 +495,7 @@ main {
 .mini-card-media {
   aspect-ratio: 4 / 3;
   overflow: hidden;
+  background: rgba(255, 255, 255, 0.78);
 }
 
 .mini-card-body {
@@ -544,7 +551,7 @@ main {
 
 .source-hero-media img {
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .source-story {
@@ -595,7 +602,8 @@ main {
 .source-gallery .gallery-card img {
   aspect-ratio: 4 / 3;
   height: auto;
-  object-fit: cover;
+  object-fit: contain;
+  background: rgba(255, 255, 255, 0.86);
 }
 
 .source-gallery .gallery-card-wide {
@@ -605,6 +613,54 @@ main {
 
 .source-gallery .gallery-card-wide img {
   aspect-ratio: 1 / 1;
+}
+
+.project-source-depth {
+  padding-top: 52px;
+  border-top: 1px solid var(--border);
+}
+
+.source-depth-stack {
+  display: grid;
+  gap: 28px;
+}
+
+.source-depth-page {
+  display: grid;
+  gap: 24px;
+  padding: clamp(22px, 4vw, 38px);
+  border: 1px solid var(--border);
+  border-radius: calc(var(--radius) + 10px);
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.84), rgba(246, 250, 255, 0.66)),
+    var(--glass);
+  box-shadow: var(--shadow);
+}
+
+.source-depth-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 22px;
+  align-items: start;
+}
+
+.source-depth-heading h3 {
+  margin: 6px 0 10px;
+  font-size: clamp(2rem, 4vw, 3.4rem);
+  line-height: 1;
+  letter-spacing: -0.06em;
+}
+
+.source-depth-heading p {
+  max-width: 900px;
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.source-gallery-compact {
+  padding-top: 12px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .local-source-section {
@@ -648,6 +704,43 @@ main {
 
 .media-tile strong {
   overflow-wrap: anywhere;
+}
+
+.next-project-nav {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  border-top: 1px solid var(--border);
+  padding-top: 28px;
+}
+
+.next-project-nav a {
+  display: grid;
+  gap: 8px;
+  min-height: 120px;
+  padding: 22px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  transition: transform 180ms ease, border-color 180ms ease;
+}
+
+.next-project-nav a:hover {
+  transform: translateY(-3px);
+  border-color: rgba(10, 132, 255, 0.28);
+}
+
+.next-project-nav span {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.74rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.next-project-nav strong {
+  font-size: 1.5rem;
 }
 
 .case-hero {
@@ -760,6 +853,7 @@ main {
   .case-hero,
   .source-hero,
   .feature-row,
+  .source-depth-heading,
   .contact-grid {
     grid-template-columns: 1fr;
   }
@@ -773,6 +867,7 @@ main {
   .source-gallery,
   .asset-link-grid,
   .archive-metrics,
+  .next-project-nav,
   .story-grid,
   .gallery-grid,
   .facts-grid {
@@ -802,6 +897,7 @@ main {
   .source-gallery,
   .asset-link-grid,
   .archive-metrics,
+  .next-project-nav,
   .story-grid,
   .gallery-grid,
   .facts-grid,

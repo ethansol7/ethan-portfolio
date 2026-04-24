@@ -1,12 +1,12 @@
 # Ethan Solodukhin Portfolio
 
-React + Vite rebuild of Ethan Solodukhin's industrial design portfolio. The site is designed as a hiring-first master portfolio: six curated flagship case studies up front, plus a complete rebuilt archive of the public Squarespace site.
+React + Vite rebuild of Ethan Solodukhin's industrial design portfolio. The site is designed as a hiring-first master portfolio: six curated flagship case studies up front, plus a complete More Projects index rebuilt from the public Squarespace site.
 
 Live site: https://ethansol7.github.io/ethan-portfolio/
 
 ## What is included
 
-- `Home`, `Work`, `Archive`, `About`, and `Contact`
+- `Home`, `Work`, `More Projects`, `About`, and `Contact`
 - Six featured employer-facing case studies:
   - `SOL Lamp System`
   - `Sol Seven Studios`
@@ -14,11 +14,11 @@ Live site: https://ethansol7.github.io/ethan-portfolio/
   - `Revo Chair`
   - `Sol Wheel`
   - `Autodesk Origin`
-- Complete archive generated from the live `ethansolodukhin.com` structure:
+- Complete More Projects index rebuilt from the live `ethansolodukhin.com` structure:
   - 82 recreated public pages
-  - 1,245 downloaded public assets
-  - 22 recovered media or animation references
-  - grouped archive sections for product work, furniture and lighting, SOL universe, shop objects, brand and visualization, utilities, and older project pages
+  - 1,245 downloaded public assets organized by source page
+  - 22 media or animation references
+  - grouped sections for product work, furniture and lighting, SOL universe, shop objects, brand and visualization, utilities, and older project pages
 - Curated local-source asset pack:
   - 116 high-resolution project images
   - 9 project videos
@@ -80,14 +80,29 @@ cmd /c npm.cmd run build
 - Public page content comes from `https://www.ethansolodukhin.com/`.
 - Images and media are real public assets or approved local project assets.
 - No fake projects, clients, awards, or metrics were added.
-- Two Lottie files were blocked by the source host with `403 Forbidden`; the site keeps the rest of the recovered page content intact.
+- Two Lottie files were blocked by the source host with `403 Forbidden`; the site keeps the rest of the source page content intact.
+- `asset-manifest.json` documents source pages, website assets, local assets, used assets, and missing assets without storing local absolute paths.
+
+## Asset scripts
+
+The repo includes three optional maintenance scripts:
+
+```bash
+node scripts/crawl-site-assets.js
+node scripts/find-local-assets.js
+node scripts/generate-krea-assets.js
+```
+
+The supplemental visual script reads credentials only from the local environment and writes review-only output to `src/assets/generated/review/`. Review files are not used by the site unless manually approved and moved into the normal asset structure.
 
 ## Useful folders
 
 - `src/data/portfolio.js`: curated featured case-study copy and contact data
-- `src/data/sourcePages.js`: generated full-site source archive
-- `src/data/localAssets.js`: generated local-source asset manifest
+- `src/data/sourcePages.js`: rebuilt full-site source data
+- `src/data/localAssets.js`: rebuilt local-source asset data
 - `public/assets/projects`: curated featured-project assets
-- `public/assets/source-site`: optimized public assets recovered from the live site
+- `public/assets/source-site`: optimized public assets from the live site, organized by source page
 - `public/assets/local-source`: curated higher-quality local assets
+- `asset-manifest.json`: page-by-page asset manifest
+- `scripts/`: crawl, local search, and review-visual tooling
 - `.github/workflows/deploy.yml`: GitHub Pages deployment workflow

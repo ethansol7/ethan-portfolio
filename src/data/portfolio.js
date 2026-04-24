@@ -67,8 +67,8 @@ export const stats = [
   },
   {
     value: "82",
-    label: "rebuilt source pages",
-    context: "Generated from the full public sitemap and internal crawl, then reorganized into a cleaner archive.",
+    label: "redesigned pages",
+    context: "Rebuilt from the full public sitemap and internal crawl, then reorganized into a cleaner project index.",
   },
   {
     value: "1,245",
@@ -363,7 +363,7 @@ const projects = [
       decisions:
         "The strongest decision was staying narrow: solve one compelling use case for one specific platform instead of drifting into a generic controller accessory. That focus made the mechanism and validation story much more believable.",
       outcome:
-        "Even though the Kickstarter campaign did not hit its $10,000 goal for injection molding, the project still generated press coverage, community traction, and enough proof to remain one of the most hireable pieces in the portfolio. Public quotes from Boiling Steam and PCGamesN reinforce that external interest.",
+        "Even though the Kickstarter campaign did not hit its $10,000 goal for injection molding, the project still earned press coverage, community traction, and enough proof to remain one of the most hireable pieces in the portfolio. Public quotes from Boiling Steam and PCGamesN reinforce that external interest.",
       learned:
         "Traction only matters when it feeds the design loop. Sol Wheel works because community response is paired with visible prototype changes, better mechanism decisions, and a willingness to restart the project when the first approach was not strong enough.",
     },

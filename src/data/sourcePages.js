@@ -9,7 +9,7 @@ const rawSourcePages = [
     "lastmod": "2026-01-31",
     "group": "Brand + Visualization",
     "description": "",
-    "summary": "CMYK \"CYAN\" CMYK \"MAGENTA\"CMYK \"YELLOW\"CMYK \"BLACK\"",
+    "summary": "CMYK 'CYAN' CMYK 'MAGENTA'CMYK 'YELLOW'CMYK 'BLACK'",
     "textBlocks": [
       {
         "type": "heading",
@@ -44,27 +44,27 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "CMYK \"CYAN\" CMYK \"MAGENTA\"CMYK \"YELLOW\"CMYK \"BLACK\""
+        "text": "CMYK 'CYAN' CMYK 'MAGENTA'CMYK 'YELLOW'CMYK 'BLACK'"
       },
       {
         "type": "heading",
         "level": "h4",
-        "text": "CMYK \"CYAN\""
+        "text": "CMYK 'CYAN'"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "CMYK \"MAGENTA\""
+        "text": "CMYK 'MAGENTA'"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "CMYK \"YELLOW\""
+        "text": "CMYK 'YELLOW'"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "CMYK \"BLACK\""
+        "text": "CMYK 'BLACK'"
       },
       {
         "type": "text",
@@ -79,7 +79,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "DESCRIPTION Introducing the AriZona x CMYKPrint Special – a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
+        "text": "DESCRIPTION Introducing the AriZona x CMYKPrint Special - a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
       },
       {
         "type": "heading",
@@ -89,7 +89,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Introducing the AriZona x CMYKPrint Special – a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
+        "text": "Introducing the AriZona x CMYKPrint Special - a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
       },
       {
         "type": "text",
@@ -134,7 +134,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Modern Refresh: Keep the brand’s vibrant energy while introducing a modern, bubbly twist through circular patterns and playful typography."
+        "text": "Modern Refresh: Keep the brand's vibrant energy while introducing a modern, bubbly twist through circular patterns and playful typography."
       },
       {
         "type": "heading",
@@ -144,7 +144,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "🎨 Vibrant & Energetic"
+        "text": " Vibrant & Energetic"
       },
       {
         "type": "text",
@@ -169,7 +169,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "🥤 Unified Look, Unique Flavors"
+        "text": " Unified Look, Unique Flavors"
       },
       {
         "type": "text",
@@ -194,7 +194,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "🖋️ Typography & Layout"
+        "text": "- Typography & Layout"
       },
       {
         "type": "text",
@@ -219,7 +219,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "🎯 Modern Appeal"
+        "text": " Modern Appeal"
       },
       {
         "type": "text",
@@ -234,7 +234,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "🌱 Sustainable & Stylish"
+        "text": " Sustainable & Stylish"
       },
       {
         "type": "text",
@@ -249,17 +249,17 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "Bold colors and patterns align with AriZona’s playful, energetic brand."
+        "text": "Bold colors and patterns align with AriZona's playful, energetic brand."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Bold colors and patterns align with AriZona’s playful, energetic brand."
+        "text": "Bold colors and patterns align with AriZona's playful, energetic brand."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "🍋 Flavors in CMYK"
+        "text": " Flavors in CMYK"
       },
       {
         "type": "text",
@@ -304,7 +304,7 @@ const rawSourcePages = [
       {
         "type": "heading",
         "level": "h3",
-        "text": "Our Target Market is…"
+        "text": "Our Target Market is..."
       },
       {
         "type": "text",
@@ -314,7 +314,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "This is Jason he is…"
+        "text": "This is Jason he is..."
       },
       {
         "type": "text",
@@ -339,12 +339,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "Active and Social Lifestyle: Jason’s always on the go, balancing college, photography gigs, and social events, making energy drinks a practical choice."
+        "text": "Active and Social Lifestyle: Jason's always on the go, balancing college, photography gigs, and social events, making energy drinks a practical choice."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Active and Social Lifestyle: Jason’s always on the go, balancing college, photography gigs, and social events, making energy drinks a practical choice."
+        "text": "Active and Social Lifestyle: Jason's always on the go, balancing college, photography gigs, and social events, making energy drinks a practical choice."
       },
       {
         "type": "text",
@@ -369,7 +369,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "This is Katelyn she is…"
+        "text": "This is Katelyn she is..."
       },
       {
         "type": "text",
@@ -579,27 +579,17 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Arizona O. “Ocean” Concept."
+        "text": "Arizona O. 'Ocean' Concept."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Arizona “CMYK” Collection Concept."
+        "text": "Arizona 'CMYK' Collection Concept."
       },
       {
         "type": "text",
         "level": "p",
         "text": "Using Chat GPT."
-      },
-      {
-        "type": "heading",
-        "level": "h4",
-        "text": "Ai Ideation."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Start with Graphic Analysis:Begin by asking ChatGPT to perform an element analysis of existing Arizona Tea graphics, breaking down elements like color, shape, texture, and line.Request meanings for these elements to understand the brand's visual language, helping the AI grasp the style and intention behind Arizona’s design."
       },
       {
         "type": "text",
@@ -608,88 +598,13 @@ const rawSourcePages = [
       },
       {
         "type": "text",
-        "level": "li",
-        "text": "Begin by asking ChatGPT to perform an element analysis of existing Arizona Tea graphics, breaking down elements like color, shape, texture, and line."
-      },
-      {
-        "type": "text",
-        "level": "p",
-        "text": "Begin by asking ChatGPT to perform an element analysis of existing Arizona Tea graphics, breaking down elements like color, shape, texture, and line."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Request meanings for these elements to understand the brand's visual language, helping the AI grasp the style and intention behind Arizona’s design."
-      },
-      {
-        "type": "text",
-        "level": "p",
-        "text": "Request meanings for these elements to understand the brand's visual language, helping the AI grasp the style and intention behind Arizona’s design."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Build Context with Brand History:Have ChatGPT explain the history of Arizona Tea’s brand design and the evolution of its graphics. This adds depth to the AI's understanding, making future prompts more accurate.This background knowledge makes the AI more specific and thoughtful in its design suggestions and renders."
-      },
-      {
-        "type": "text",
         "level": "p",
         "text": "Build Context with Brand History:"
       },
       {
         "type": "text",
-        "level": "li",
-        "text": "Have ChatGPT explain the history of Arizona Tea’s brand design and the evolution of its graphics. This adds depth to the AI's understanding, making future prompts more accurate."
-      },
-      {
-        "type": "text",
-        "level": "p",
-        "text": "Have ChatGPT explain the history of Arizona Tea’s brand design and the evolution of its graphics. This adds depth to the AI's understanding, making future prompts more accurate."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "This background knowledge makes the AI more specific and thoughtful in its design suggestions and renders."
-      },
-      {
-        "type": "text",
-        "level": "p",
-        "text": "This background knowledge makes the AI more specific and thoughtful in its design suggestions and renders."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Refine with Structured Tables and Detailed Explanations:Use tables to clearly categorize elements and meanings, which aids the AI in organizing and retaining relevant information.Request structured explanations for different visual elements, helping the AI build a cohesive foundation for the design task."
-      },
-      {
-        "type": "text",
         "level": "p",
         "text": "Refine with Structured Tables and Detailed Explanations:"
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Use tables to clearly categorize elements and meanings, which aids the AI in organizing and retaining relevant information."
-      },
-      {
-        "type": "text",
-        "level": "p",
-        "text": "Use tables to clearly categorize elements and meanings, which aids the AI in organizing and retaining relevant information."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Request structured explanations for different visual elements, helping the AI build a cohesive foundation for the design task."
-      },
-      {
-        "type": "text",
-        "level": "p",
-        "text": "Request structured explanations for different visual elements, helping the AI build a cohesive foundation for the design task."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Introduce Your Sketches and Detailed Text Prompts:Gradually introduce sketches and highly detailed prompts with specific stylistic instructions, ensuring that each prompt includes as much information as possible without redundancy.Use stylistic cues that align with the brand identity and your vision, refining the AI’s creative direction."
       },
       {
         "type": "text",
@@ -708,48 +623,8 @@ const rawSourcePages = [
       },
       {
         "type": "text",
-        "level": "li",
-        "text": "Use stylistic cues that align with the brand identity and your vision, refining the AI’s creative direction."
-      },
-      {
-        "type": "text",
-        "level": "p",
-        "text": "Use stylistic cues that align with the brand identity and your vision, refining the AI’s creative direction."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Include Reference Images:Upload images of real Arizona Tea cans and products to set a clear visual reference. This helps the AI understand the desired form factor and design aesthetics.By showing the AI existing packaging, you anchor its interpretations, resulting in renders that match your intended style and shape."
-      },
-      {
-        "type": "text",
         "level": "p",
         "text": "Include Reference Images:"
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Upload images of real Arizona Tea cans and products to set a clear visual reference. This helps the AI understand the desired form factor and design aesthetics."
-      },
-      {
-        "type": "text",
-        "level": "p",
-        "text": "Upload images of real Arizona Tea cans and products to set a clear visual reference. This helps the AI understand the desired form factor and design aesthetics."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "By showing the AI existing packaging, you anchor its interpretations, resulting in renders that match your intended style and shape."
-      },
-      {
-        "type": "text",
-        "level": "p",
-        "text": "By showing the AI existing packaging, you anchor its interpretations, resulting in renders that match your intended style and shape."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Iterative Prompting and Fine-Tuning:Use iterative prompts with increasing levels of detail, gradually teaching the AI to generate more cohesive and stylistically accurate images.After establishing foundational elements, fine-tune prompts by specifying colors, motifs, and composition based on your evolving vision."
       },
       {
         "type": "text",
@@ -759,27 +634,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "Use iterative prompts with increasing levels of detail, gradually teaching the AI to generate more cohesive and stylistically accurate images."
-      },
-      {
-        "type": "text",
-        "level": "p",
-        "text": "Use iterative prompts with increasing levels of detail, gradually teaching the AI to generate more cohesive and stylistically accurate images."
-      },
-      {
-        "type": "text",
-        "level": "li",
         "text": "After establishing foundational elements, fine-tune prompts by specifying colors, motifs, and composition based on your evolving vision."
       },
       {
         "type": "text",
         "level": "p",
         "text": "After establishing foundational elements, fine-tune prompts by specifying colors, motifs, and composition based on your evolving vision."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "Outcome:By following this structured approach, you essentially “train” the AI to create imagery that aligns with your imagination and design goals.The AI learns to integrate Arizona’s brand essence with your creative direction, producing inspiration-worthy visuals that reflect your vision."
       },
       {
         "type": "text",
@@ -787,29 +647,89 @@ const rawSourcePages = [
         "text": "Outcome:"
       },
       {
-        "type": "text",
-        "level": "li",
-        "text": "By following this structured approach, you essentially “train” the AI to create imagery that aligns with your imagination and design goals."
+        "type": "heading",
+        "level": "h3",
+        "text": "Color Experimentation."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "By following this structured approach, you essentially “train” the AI to create imagery that aligns with your imagination and design goals."
-      },
-      {
-        "type": "text",
-        "level": "li",
-        "text": "The AI learns to integrate Arizona’s brand essence with your creative direction, producing inspiration-worthy visuals that reflect your vision."
+        "text": "Experimenting with Different Colors to see if they Match the Theme of the Drinks."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "The AI learns to integrate Arizona’s brand essence with your creative direction, producing inspiration-worthy visuals that reflect your vision."
+        "text": "Original Cyan, Magenta, Yellow and Black Hex Codes Used for this Panel."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "How the Ai generation was done?"
+        "text": "Different Hues of Cyan, Magenta, Yellow and Black Hex Codes Used for this Panel."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "text": "Experimentation."
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Fredoka and Poppins"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Baloo and Poppins"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Futura Bold and Poppins"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "text": "Legibility and Readability Tests."
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "The CMYK Collection design is bold and modern, using vibrant colors against a sleek black background for an eye-catching effect. Its intricate layout of geometric shapes is thoughtfully arranged, making it complex yet cohesive. The playful contrast between bold colors and grayscale elements adds unique character without overwhelming the viewer. Despite the detailed design, essential information like branding and nutrition facts remains easy to locate, balancing aesthetic appeal with functionality. This innovative label is both memorable and professional, perfectly capturing a fresh, distinctive brand identity."
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "text": "Layout Experimentation."
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "text": "Final Concept."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "text": "Illustrator Panels."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "text": "3 Views of the Can."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "text": "Product in Use."
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "www.ethansolodukhin.com"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -821,24 +741,24 @@ const rawSourcePages = [
           "11.5OZ CMYK SLIM CAN (24-PACK)",
           "57 REVIEWS",
           "SWITCH FLAVOR:",
-          "CMYK \"CYAN\" CMYK \"MAGENTA\"CMYK \"YELLOW\"CMYK \"BLACK\""
+          "CMYK 'CYAN' CMYK 'MAGENTA'CMYK 'YELLOW'CMYK 'BLACK'"
         ]
       },
       {
-        "title": "CMYK \"CYAN\"",
+        "title": "CMYK 'CYAN'",
         "items": [
-          "CMYK \"MAGENTA\"",
-          "CMYK \"YELLOW\"",
-          "CMYK \"BLACK\"",
+          "CMYK 'MAGENTA'",
+          "CMYK 'YELLOW'",
+          "CMYK 'BLACK'",
           "QTY",
           "1 23456",
-          "DESCRIPTION Introducing the AriZona x CMYKPrint Special – a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
+          "DESCRIPTION Introducing the AriZona x CMYKPrint Special - a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
         ]
       },
       {
         "title": "DESCRIPTION",
         "items": [
-          "Introducing the AriZona x CMYKPrint Special – a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day.",
+          "Introducing the AriZona x CMYKPrint Special - a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day.",
           "INGREDIENTS CARBONATED WATER, BLUEBERRY JUICE FROM CONCENTRATE (Cyan), STRAWBERRY JUICE FROM CONCENTRATE (Magenta), BLACKBERRY PUREE (Black), LEMON JUICE FROM CONCENTRATE (Yellow), ORANGE BLOSSOM HONEY, TAURINE, NATURAL FLAVORS, CITRIC ACID, CAFFEINE, MONOPOTASSIUM PHOSPHATE, BETA CAROTENE (FOR COLOR), L-CARNITINE, GUARANA SEED EXTRACT, GLUCURONOLACTONE, INOSITOL, SUCRALOSE, ASCORBIC ACID (VITAMIN C), GUM ACACIA, ESTER GUM, D-CALCIUM PANTOTHENATE (VITAMIN B5), PANAX GINSENG ROOT EXTRACT, MILK THISTLE SEED EXTRACT, PYRIDOXINE HCI (VITAMIN B6), CYANOCOBALAMIN (VITAMIN B12). goes here"
         ]
       },
@@ -854,41 +774,72 @@ const rawSourcePages = [
           "Key V isual Elements: Circular geometry as the base pattern, vibrant colors with gradients, bubble-style text.",
           "Typography: Soft, rounded, bubble letters, with thick outlines and floating effects.",
           "Playfulness: Enhance the playful, refreshing quality of Arizona Tea through bubbles and dynamic circles, layered in bright, engaging colors.",
-          "Modern Refresh: Keep the brand’s vibrant energy while introducing a modern, bubbly twist through circular patterns and playful typography."
+          "Modern Refresh: Keep the brand's vibrant energy while introducing a modern, bubbly twist through circular patterns and playful typography."
         ]
       },
       {
         "title": "Redesign Strategy for AriZona CMYK Energy Drink Collection",
         "items": [
-          "🎨 Vibrant & Energetic",
+          " Vibrant & Energetic",
           "CMYK colors (Cyan, Magenta, Yellow, Black) bring a modern, high-energy feel.",
           "CMYK colors (Cyan, Magenta, Yellow, Black) bring a modern, high-energy feel.",
           "Geometric patterns and bold lines reflect motion and excitement.",
           "Geometric patterns and bold lines reflect motion and excitement.",
-          "🥤 Unified Look, Unique Flavors",
+          " Unified Look, Unique Flavors",
           "Each flavor has a distinct pattern while staying true to the CMYK theme.",
           "Each flavor has a distinct pattern while staying true to the CMYK theme.",
           "Black adds contrast, tying the collection together.",
           "Black adds contrast, tying the collection together.",
-          "🖋️ Typography & Layout",
-          "Playful bubble text enhances approachability."
+          "- Typography & Layout",
+          "Playful bubble text enhances approachability.",
+          "Playful bubble text enhances approachability.",
+          "Clear organization for easy access to key info (logo, nutrition facts, QR codes).",
+          "Clear organization for easy access to key info (logo, nutrition facts, QR codes).",
+          " Modern Appeal",
+          "Trendy graphics and color combos attract style-conscious, younger audiences.",
+          "Trendy graphics and color combos attract style-conscious, younger audiences.",
+          " Sustainable & Stylish",
+          "Subtle eco-conscious messaging appeals to mindful consumers.",
+          "Subtle eco-conscious messaging appeals to mindful consumers.",
+          "Bold colors and patterns align with AriZona's playful, energetic brand.",
+          "Bold colors and patterns align with AriZona's playful, energetic brand.",
+          " Flavors in CMYK",
+          "Cyan + Black: Refreshing citrus.",
+          "Cyan + Black: Refreshing citrus.",
+          "Magenta + Black: Bold berry.",
+          "Magenta + Black: Bold berry.",
+          "Yellow + Black: Tropical sunshine.",
+          "Yellow + Black: Tropical sunshine.",
+          "CMYK + Black: Berry Blast",
+          "CMYK + Black: Berry Blast"
         ]
       },
       {
-        "title": "Our Target Market is…",
+        "title": "Our Target Market is...",
         "items": [
           "Bold, trend-savvy individuals who seek vibrant experiences in every aspect of life. From Gen Z creatives and design enthusiasts to fitness junkies and social adventurers, they crave products that reflect their energetic lifestyle and playful spirit. With a focus on eco-conscious values and visually striking packaging, the AriZona CMYK Collection is designed to captivate those who make bold choices and live life unapologetically.",
-          "This is Jason he is…",
+          "This is Jason he is...",
           "Creative and Trend-Conscious: Jason gravitates toward bold, artistic designs and brands that reflect his vibrant, unique style.",
           "Creative and Trend-Conscious: Jason gravitates toward bold, artistic designs and brands that reflect his vibrant, unique style.",
           "Eco-Conscious Consumer: He values sustainability and supports products with environmentally-friendly messages.",
           "Eco-Conscious Consumer: He values sustainability and supports products with environmentally-friendly messages.",
-          "Active and Social Lifestyle: Jason’s always on the go, balancing college, photography gigs, and social events, making energy drinks a practical choice.",
-          "Active and Social Lifestyle: Jason’s always on the go, balancing college, photography gigs, and social events, making energy drinks a practical choice.",
+          "Active and Social Lifestyle: Jason's always on the go, balancing college, photography gigs, and social events, making energy drinks a practical choice.",
+          "Active and Social Lifestyle: Jason's always on the go, balancing college, photography gigs, and social events, making energy drinks a practical choice.",
           "Digital Native and Influencer: He shares visually striking products on Instagram and TikTok, amplifying brand visibility among his followers.",
           "Digital Native and Influencer: He shares visually striking products on Instagram and TikTok, amplifying brand visibility among his followers.",
           "Seeks Style and Substance: Jason prefers products that are both functional and aesthetically appealing, treating packaging as part of the overall experience.",
-          "Seeks Style and Substance: Jason prefers products that are both functional and aesthetically appealing, treating packaging as part of the overall experience."
+          "Seeks Style and Substance: Jason prefers products that are both functional and aesthetically appealing, treating packaging as part of the overall experience.",
+          "This is Katelyn she is...",
+          "Creative and Design-Oriented: Katelyn is passionate about vibrant, eye-catching visuals, preferring products that inspire her artistic side and match her creative energy.",
+          "Creative and Design-Oriented: Katelyn is passionate about vibrant, eye-catching visuals, preferring products that inspire her artistic side and match her creative energy.",
+          "Eco-Conscious Consumer: Sustainability is a priority for Katelyn; she appreciates brands that show care for the environment through thoughtful design and messaging.",
+          "Eco-Conscious Consumer: Sustainability is a priority for Katelyn; she appreciates brands that show care for the environment through thoughtful design and messaging.",
+          "Social Media-Savvy: She enjoys curating her online presence, often sharing unique products on social media to showcase her personal style and connect with her audience.",
+          "Social Media-Savvy: She enjoys curating her online presence, often sharing unique products on social media to showcase her personal style and connect with her audience.",
+          "Active and Social Lifestyle: Whether at a pop-up market, art event, or skate park, Katelyn surrounds herself with energetic experiences and loves products that fit effortlessly into her dynamic life.",
+          "Active and Social Lifestyle: Whether at a pop-up market, art event, or skate park, Katelyn surrounds herself with energetic experiences and loves products that fit effortlessly into her dynamic life.",
+          "Seeks Playful and Functional Products: Katelyn gravitates toward items that are not only useful but also expressive, choosing products that bring both joy and value to her daily routine.",
+          "Seeks Playful and Functional Products: Katelyn gravitates toward items that are not only useful but also expressive, choosing products that bring both joy and value to her daily routine."
         ]
       },
       {
@@ -905,32 +856,37 @@ const rawSourcePages = [
           "Lifestyle Theme:",
           "Encouraging an active and social lifestyle, whether through outdoor adventures, festivals, or creative pursuits.",
           "Encouraging an active and social lifestyle, whether through outdoor adventures, festivals, or creative pursuits.",
-          "Aimed at self-expression and individuality, with products that double as lifestyle accessories."
+          "Aimed at self-expression and individuality, with products that double as lifestyle accessories.",
+          "Aimed at self-expression and individuality, with products that double as lifestyle accessories.",
+          "Emotional Theme:Playful and positive energy that invites joy and excitement.Building a sense of community with interactive elements (like QR codes) that spark curiosity and engagement.",
+          "Emotional Theme:",
+          "Playful and positive energy that invites joy and excitement.",
+          "Playful and positive energy that invites joy and excitement.",
+          "Building a sense of community with interactive elements (like QR codes) that spark curiosity and engagement.",
+          "Building a sense of community with interactive elements (like QR codes) that spark curiosity and engagement.",
+          "Sustainability Theme:Promoting eco-consciousness with sustainable messaging and packaging, appealing to consumers who care about the environment.",
+          "Sustainability Theme:",
+          "Promoting eco-consciousness with sustainable messaging and packaging, appealing to consumers who care about the environment.",
+          "Promoting eco-consciousness with sustainable messaging and packaging, appealing to consumers who care about the environment."
         ]
       },
       {
         "title": "Sketches & Ideation.",
         "items": [
-          "Arizona O. “Ocean” Concept.",
-          "Arizona “CMYK” Collection Concept.",
-          "Using Chat GPT."
-        ]
-      },
-      {
-        "title": "Ai Ideation.",
-        "items": [
-          "Start with Graphic Analysis:Begin by asking ChatGPT to perform an element analysis of existing Arizona Tea graphics, breaking down elements like color, shape, texture, and line.Request meanings for these elements to understand the brand's visual language, helping the AI grasp the style and intention behind Arizona’s design.",
+          "Arizona O. 'Ocean' Concept.",
+          "Arizona 'CMYK' Collection Concept.",
+          "Using Chat GPT.",
           "Start with Graphic Analysis:",
-          "Begin by asking ChatGPT to perform an element analysis of existing Arizona Tea graphics, breaking down elements like color, shape, texture, and line.",
-          "Begin by asking ChatGPT to perform an element analysis of existing Arizona Tea graphics, breaking down elements like color, shape, texture, and line.",
-          "Request meanings for these elements to understand the brand's visual language, helping the AI grasp the style and intention behind Arizona’s design.",
-          "Request meanings for these elements to understand the brand's visual language, helping the AI grasp the style and intention behind Arizona’s design.",
-          "Build Context with Brand History:Have ChatGPT explain the history of Arizona Tea’s brand design and the evolution of its graphics. This adds depth to the AI's understanding, making future prompts more accurate.This background knowledge makes the AI more specific and thoughtful in its design suggestions and renders.",
           "Build Context with Brand History:",
-          "Have ChatGPT explain the history of Arizona Tea’s brand design and the evolution of its graphics. This adds depth to the AI's understanding, making future prompts more accurate.",
-          "Have ChatGPT explain the history of Arizona Tea’s brand design and the evolution of its graphics. This adds depth to the AI's understanding, making future prompts more accurate.",
-          "This background knowledge makes the AI more specific and thoughtful in its design suggestions and renders.",
-          "This background knowledge makes the AI more specific and thoughtful in its design suggestions and renders."
+          "Refine with Structured Tables and Detailed Explanations:",
+          "Introduce Your Sketches and Detailed Text Prompts:",
+          "Gradually introduce sketches and highly detailed prompts with specific stylistic instructions, ensuring that each prompt includes as much information as possible without redundancy.",
+          "Gradually introduce sketches and highly detailed prompts with specific stylistic instructions, ensuring that each prompt includes as much information as possible without redundancy.",
+          "Include Reference Images:",
+          "Iterative Prompting and Fine-Tuning:",
+          "After establishing foundational elements, fine-tune prompts by specifying colors, motifs, and composition based on your evolving vision.",
+          "After establishing foundational elements, fine-tune prompts by specifying colors, motifs, and composition based on your evolving vision.",
+          "Outcome:"
         ]
       },
       {
@@ -959,7 +915,7 @@ const rawSourcePages = [
         "title": "Product in Use.",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -969,7 +925,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0597-arizona-render-name-cbae0e6b287f.webp",
+        "localPath": "assets/source-site/arizonaconcept/0597-arizona-render-name-cbae0e6b287f.webp",
         "kind": "image"
       },
       {
@@ -977,7 +933,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0584-asset-9cart-94e4022a6931.webp",
+        "localPath": "assets/source-site/arizonaconcept/0584-asset-9cart-94e4022a6931.webp",
         "kind": "image"
       },
       {
@@ -985,7 +941,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0598-graphical-analysis-2-b33e6e3c54ca.webp",
+        "localPath": "assets/source-site/arizonaconcept/0598-graphical-analysis-2-b33e6e3c54ca.webp",
         "kind": "image"
       },
       {
@@ -993,7 +949,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0599-cans-for-website-originalm-6b2554baf94a.webp",
+        "localPath": "assets/source-site/arizonaconcept/0599-cans-for-website-originalm-6b2554baf94a.webp",
         "kind": "image"
       },
       {
@@ -1001,7 +957,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0600-driking-9c967c5f8e60.webp",
+        "localPath": "assets/source-site/arizonaconcept/0600-driking-9c967c5f8e60.webp",
         "kind": "image"
       },
       {
@@ -1009,7 +965,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0601-girl-with-can-eb5a7456a701.webp",
+        "localPath": "assets/source-site/arizonaconcept/0601-girl-with-can-eb5a7456a701.webp",
         "kind": "image"
       },
       {
@@ -1017,7 +973,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0602-asset-6background-d574afb11378.webp",
+        "localPath": "assets/source-site/arizonaconcept/0602-asset-6background-d574afb11378.webp",
         "kind": "image"
       },
       {
@@ -1025,7 +981,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0603-gamepad-42726b251a75.webp",
+        "localPath": "assets/source-site/arizonaconcept/0603-gamepad-42726b251a75.webp",
         "kind": "image"
       },
       {
@@ -1033,7 +989,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0604-happy-5b1440f823aa.webp",
+        "localPath": "assets/source-site/arizonaconcept/0604-happy-5b1440f823aa.webp",
         "kind": "image"
       },
       {
@@ -1041,7 +997,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0605-strong-fa98e7838261.webp",
+        "localPath": "assets/source-site/arizonaconcept/0605-strong-fa98e7838261.webp",
         "kind": "image"
       },
       {
@@ -1049,7 +1005,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0606-friendship-4813bc5271ff.webp",
+        "localPath": "assets/source-site/arizonaconcept/0606-friendship-4813bc5271ff.webp",
         "kind": "image"
       },
       {
@@ -1057,7 +1013,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0607-electricity-fd8fc52a4825.webp",
+        "localPath": "assets/source-site/arizonaconcept/0607-electricity-fd8fc52a4825.webp",
         "kind": "image"
       },
       {
@@ -1065,7 +1021,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0608-image-1-6e0a20d79658.webp",
+        "localPath": "assets/source-site/arizonaconcept/0608-image-1-6e0a20d79658.webp",
         "kind": "image"
       },
       {
@@ -1073,7 +1029,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0609-image-2-53d231490d96.webp",
+        "localPath": "assets/source-site/arizonaconcept/0609-image-2-53d231490d96.webp",
         "kind": "image"
       },
       {
@@ -1081,7 +1037,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0610-set-of-cans-9c20caeb0c78.webp",
+        "localPath": "assets/source-site/arizonaconcept/0610-set-of-cans-9c20caeb0c78.webp",
         "kind": "image"
       },
       {
@@ -1089,7 +1045,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0611-darker-can-eed287206f9f.webp",
+        "localPath": "assets/source-site/arizonaconcept/0611-darker-can-eed287206f9f.webp",
         "kind": "image"
       },
       {
@@ -1097,7 +1053,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0612-gif-of-cans-2-daf6977964b3.webp",
+        "localPath": "assets/source-site/arizonaconcept/0612-gif-of-cans-2-daf6977964b3.webp",
         "kind": "image"
       },
       {
@@ -1105,7 +1061,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0613-cmyk-set-cool-inspo-7eeae22b2f3e.webp",
+        "localPath": "assets/source-site/arizonaconcept/0613-cmyk-set-cool-inspo-7eeae22b2f3e.webp",
         "kind": "image"
       },
       {
@@ -1113,7 +1069,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0614-screenshot-2024-11-02-154134-f90d01ab5c3e.webp",
+        "localPath": "assets/source-site/arizonaconcept/0614-screenshot-2024-11-02-154134-f90d01ab5c3e.webp",
         "kind": "image"
       },
       {
@@ -1121,7 +1077,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0615-screenshot-2024-11-02-154405-936dd9607eaf.webp",
+        "localPath": "assets/source-site/arizonaconcept/0615-screenshot-2024-11-02-154405-936dd9607eaf.webp",
         "kind": "image"
       },
       {
@@ -1129,7 +1085,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0616-screenshot-2024-11-02-154425-8cb30f0166eb.webp",
+        "localPath": "assets/source-site/arizonaconcept/0616-screenshot-2024-11-02-154425-8cb30f0166eb.webp",
         "kind": "image"
       },
       {
@@ -1137,7 +1093,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0617-screenshot-2024-11-02-171637-b0ec87d23c2c.webp",
+        "localPath": "assets/source-site/arizonaconcept/0617-screenshot-2024-11-02-171637-b0ec87d23c2c.webp",
         "kind": "image"
       },
       {
@@ -1145,7 +1101,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0618-gif-of-cans-56b7bf57b01e.webp",
+        "localPath": "assets/source-site/arizonaconcept/0618-gif-of-cans-56b7bf57b01e.webp",
         "kind": "image"
       },
       {
@@ -1153,7 +1109,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0619-c5a7abb507b28059506d9f3d922915b7-349768542040.webp",
+        "localPath": "assets/source-site/arizonaconcept/0619-c5a7abb507b28059506d9f3d922915b7-349768542040.webp",
         "kind": "image"
       },
       {
@@ -1161,7 +1117,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0620-pxl-20241102-193147233-mp-2-55e030d5acc6.webp",
+        "localPath": "assets/source-site/arizonaconcept/0620-pxl-20241102-193147233-mp-2-55e030d5acc6.webp",
         "kind": "image"
       },
       {
@@ -1169,7 +1125,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0621-screenshot-2024-11-02-153546-b65e40df87b9.webp",
+        "localPath": "assets/source-site/arizonaconcept/0621-screenshot-2024-11-02-153546-b65e40df87b9.webp",
         "kind": "image"
       },
       {
@@ -1177,7 +1133,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0622-screenshot-2024-11-02-154754-19d978727eac.webp",
+        "localPath": "assets/source-site/arizonaconcept/0622-screenshot-2024-11-02-154754-19d978727eac.webp",
         "kind": "image"
       },
       {
@@ -1185,7 +1141,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0623-screenshot-2024-11-02-171847-ff3fdf654552.webp",
+        "localPath": "assets/source-site/arizonaconcept/0623-screenshot-2024-11-02-171847-ff3fdf654552.webp",
         "kind": "image"
       },
       {
@@ -1193,7 +1149,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0624-asset-10test-cmyk-color-2758788b1afd.webp",
+        "localPath": "assets/source-site/arizonaconcept/0624-asset-10test-cmyk-color-2758788b1afd.webp",
         "kind": "image"
       },
       {
@@ -1201,7 +1157,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0625-asset-11test-2-cmyk-color-80160a16e064.webp",
+        "localPath": "assets/source-site/arizonaconcept/0625-asset-11test-2-cmyk-color-80160a16e064.webp",
         "kind": "image"
       },
       {
@@ -1209,7 +1165,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0626-asset-8final-final-can-design-sam-hex-ce9f42c78779.webp",
+        "localPath": "assets/source-site/arizonaconcept/0626-asset-8final-final-can-design-sam-hex-ce9f42c78779.webp",
         "kind": "image"
       },
       {
@@ -1217,7 +1173,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0627-asset-9final-final-final-can-design-sam-hex-0d15ebd72304.webp",
+        "localPath": "assets/source-site/arizonaconcept/0627-asset-9final-final-final-can-design-sam-hex-0d15ebd72304.webp",
         "kind": "image"
       },
       {
@@ -1225,7 +1181,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0628-asset-14differnt-font-and-poppins-test-a8fa6ac21600.webp",
+        "localPath": "assets/source-site/arizonaconcept/0628-asset-14differnt-font-and-poppins-test-a8fa6ac21600.webp",
         "kind": "image"
       },
       {
@@ -1233,7 +1189,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0629-asset-13futura-pro-and-poppins-test-79c70a7f0ee2.webp",
+        "localPath": "assets/source-site/arizonaconcept/0629-asset-13futura-pro-and-poppins-test-79c70a7f0ee2.webp",
         "kind": "image"
       },
       {
@@ -1241,7 +1197,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0630-snapchat-1859889919-2c634d633988.webp",
+        "localPath": "assets/source-site/arizonaconcept/0630-snapchat-1859889919-2c634d633988.webp",
         "kind": "image"
       },
       {
@@ -1249,7 +1205,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0631-snapchat-92152288-98e91468d5ff.webp",
+        "localPath": "assets/source-site/arizonaconcept/0631-snapchat-92152288-98e91468d5ff.webp",
         "kind": "image"
       },
       {
@@ -1257,7 +1213,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0632-asset-1arizona-4-e03ee621f9eb.webp",
+        "localPath": "assets/source-site/arizonaconcept/0632-asset-1arizona-4-e03ee621f9eb.webp",
         "kind": "image"
       },
       {
@@ -1265,7 +1221,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0633-asset-1bottle-print-for-shirt-cad5ee0ffc78.webp",
+        "localPath": "assets/source-site/arizonaconcept/0633-asset-1bottle-print-for-shirt-cad5ee0ffc78.webp",
         "kind": "image"
       },
       {
@@ -1273,7 +1229,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0634-asset-6final-arizona-logo-grid-d8e591a64d06.webp",
+        "localPath": "assets/source-site/arizonaconcept/0634-asset-6final-arizona-logo-grid-d8e591a64d06.webp",
         "kind": "image"
       },
       {
@@ -1281,7 +1237,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0635-asset-9final-final-final-can-design-sam-hex-4ab492a65c1a.webp",
+        "localPath": "assets/source-site/arizonaconcept/0635-asset-9final-final-final-can-design-sam-hex-4ab492a65c1a.webp",
         "kind": "image"
       },
       {
@@ -1289,7 +1245,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0636-render-with-3-veiws-of-can-6b82f83fa19f.webp",
+        "localPath": "assets/source-site/arizonaconcept/0636-render-with-3-veiws-of-can-6b82f83fa19f.webp",
         "kind": "image"
       },
       {
@@ -1297,7 +1253,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0637-user-and-can-202f258c65e2.webp",
+        "localPath": "assets/source-site/arizonaconcept/0637-user-and-can-202f258c65e2.webp",
         "kind": "image"
       },
       {
@@ -1305,7 +1261,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0638-arizona-in-realistic-environment-c0948804217f.webp",
+        "localPath": "assets/source-site/arizonaconcept/0638-arizona-in-realistic-environment-c0948804217f.webp",
         "kind": "image"
       },
       {
@@ -1313,29 +1269,29 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Can Redesign",
-        "localPath": "assets/source-site/media/0639-arizona-3-flavors-render-with-name3-460c6b601613.webp",
+        "localPath": "assets/source-site/arizonaconcept/0639-arizona-3-flavors-render-with-name3-460c6b601613.webp",
         "kind": "image"
       }
     ],
     "media": [
       {
         "url": "https://raw.githubusercontent.com/ethansol7/lottie-assets/main/cyan-water-animation-with-can.json",
-        "localPath": "assets/source-site/media/0640-cyan-water-animation-with-can-6ca4f6e77526.json",
+        "localPath": "assets/source-site/arizonaconcept/0640-cyan-water-animation-with-can-6ca4f6e77526.json",
         "kind": "animation"
       },
       {
         "url": "https://raw.githubusercontent.com/ethansol7/lottie-assets/main/magenta_can_animation.json",
-        "localPath": "assets/source-site/media/0641-magenta-can-animation-5551ac33a0f2.json",
+        "localPath": "assets/source-site/arizonaconcept/0641-magenta-can-animation-5551ac33a0f2.json",
         "kind": "animation"
       },
       {
         "url": "https://raw.githubusercontent.com/ethansol7/lottie-assets/main/Water_Animation_With_Can_Yellow.json",
-        "localPath": "assets/source-site/media/0642-water-animation-with-can-yellow-45b0aeac70eb.json",
+        "localPath": "assets/source-site/arizonaconcept/0642-water-animation-with-can-yellow-45b0aeac70eb.json",
         "kind": "animation"
       },
       {
         "url": "https://raw.githubusercontent.com/ethansol7/lottie-assets/main/cmyk_animation_can.json",
-        "localPath": "assets/source-site/media/0643-cmyk-animation-can-4372486d6c4f.json",
+        "localPath": "assets/source-site/arizonaconcept/0643-cmyk-animation-can-4372486d6c4f.json",
         "kind": "animation"
       }
     ],
@@ -1346,7 +1302,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0597-arizona-render-name-cbae0e6b287f.webp",
+    "heroImage": "assets/source-site/arizonaconcept/0597-arizona-render-name-cbae0e6b287f.webp",
     "imageCount": 44,
     "mediaCount": 4
   },
@@ -1358,7 +1314,7 @@ const rawSourcePages = [
     "lastmod": "2024-11-04",
     "group": "Brand + Visualization",
     "description": "",
-    "summary": "CMYK \"CYAN\" CMYK \"MAGENTA\"CMYK \"YELLOW\"CMYK \"BLACK\"",
+    "summary": "CMYK 'CYAN' CMYK 'MAGENTA'CMYK 'YELLOW'CMYK 'BLACK'",
     "textBlocks": [
       {
         "type": "text",
@@ -1403,27 +1359,27 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "CMYK \"CYAN\" CMYK \"MAGENTA\"CMYK \"YELLOW\"CMYK \"BLACK\""
+        "text": "CMYK 'CYAN' CMYK 'MAGENTA'CMYK 'YELLOW'CMYK 'BLACK'"
       },
       {
         "type": "heading",
         "level": "h4",
-        "text": "CMYK \"CYAN\""
+        "text": "CMYK 'CYAN'"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "CMYK \"MAGENTA\""
+        "text": "CMYK 'MAGENTA'"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "CMYK \"YELLOW\""
+        "text": "CMYK 'YELLOW'"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "CMYK \"BLACK\""
+        "text": "CMYK 'BLACK'"
       },
       {
         "type": "text",
@@ -1448,7 +1404,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "DESCRIPTION Introducing the AriZona x CMYKPrint Special – a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
+        "text": "DESCRIPTION Introducing the AriZona x CMYKPrint Special - a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
       },
       {
         "type": "heading",
@@ -1458,7 +1414,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Introducing the AriZona x CMYKPrint Special – a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
+        "text": "Introducing the AriZona x CMYKPrint Special - a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
       },
       {
         "type": "text",
@@ -1548,7 +1504,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -1563,26 +1519,26 @@ const rawSourcePages = [
           "AriZona x CMYKPrint Special",
           "Edition Soda",
           "SWITCH FLAVOR:",
-          "CMYK \"CYAN\" CMYK \"MAGENTA\"CMYK \"YELLOW\"CMYK \"BLACK\""
+          "CMYK 'CYAN' CMYK 'MAGENTA'CMYK 'YELLOW'CMYK 'BLACK'"
         ]
       },
       {
-        "title": "CMYK \"CYAN\"",
+        "title": "CMYK 'CYAN'",
         "items": [
-          "CMYK \"MAGENTA\"",
-          "CMYK \"YELLOW\"",
-          "CMYK \"BLACK\"",
+          "CMYK 'MAGENTA'",
+          "CMYK 'YELLOW'",
+          "CMYK 'BLACK'",
           "QTY",
           "1 23456",
           "11.5OZ CMYK SLIM CAN (24-PACK)",
           "57 REVIEWS",
-          "DESCRIPTION Introducing the AriZona x CMYKPrint Special – a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
+          "DESCRIPTION Introducing the AriZona x CMYKPrint Special - a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day."
         ]
       },
       {
         "title": "DESCRIPTION",
         "items": [
-          "Introducing the AriZona x CMYKPrint Special – a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day.",
+          "Introducing the AriZona x CMYKPrint Special - a low-calorie, low-carb, lightly carbonated energy drink that packs a colorful punch. With a perfect balance of citrus and tropical fruit flavors, sweetened with sucralose, this drink delivers 150mg of Caffeine along with Taurine, L-Carnitine, Panax Ginseng, Guarana, and Milk Thistle for long-lasting energy. Each sleek CMYK-themed can contains just 25 calories, making it a refreshing and vibrant boost for your day.",
           "INGREDIENTS CARBONATED WATER, BLUEBERRY JUICE FROM CONCENTRATE (Cyan), STRAWBERRY JUICE FROM CONCENTRATE (Magenta), BLACKBERRY PUREE (Black), LEMON JUICE FROM CONCENTRATE (Yellow), ORANGE BLOSSOM HONEY, TAURINE, NATURAL FLAVORS, CITRIC ACID, CAFFEINE, MONOPOTASSIUM PHOSPHATE, BETA CAROTENE (FOR COLOR), L-CARNITINE, GUARANA SEED EXTRACT, GLUCURONOLACTONE, INOSITOL, SUCRALOSE, ASCORBIC ACID (VITAMIN C), GUM ACACIA, ESTER GUM, D-CALCIUM PANTOTHENATE (VITAMIN B5), PANAX GINSENG ROOT EXTRACT, MILK THISTLE SEED EXTRACT, PYRIDOXINE HCI (VITAMIN B6), CYANOCOBALAMIN (VITAMIN B12). goes here"
         ]
       },
@@ -1612,7 +1568,7 @@ const rawSourcePages = [
           "Exporting the.json file into LottieFiles for html hosting.",
           "Use a code block to create a slide show of different varients using different.json files.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -1622,7 +1578,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0582-asset-2-4x-ebf03df3655c.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0582-asset-2-4x-ebf03df3655c.webp",
         "kind": "image"
       },
       {
@@ -1630,7 +1586,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0583-asset-8drinks2-78ab10e13d2f.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0583-asset-8drinks2-78ab10e13d2f.webp",
         "kind": "image"
       },
       {
@@ -1638,7 +1594,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0584-asset-9cart-94e4022a6931.webp",
+        "localPath": "assets/source-site/arizonaconcept/0584-asset-9cart-94e4022a6931.webp",
         "kind": "image"
       },
       {
@@ -1646,7 +1602,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0585-asset-1arizona-4-21055ec9cfb7.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0585-asset-1arizona-4-21055ec9cfb7.webp",
         "kind": "image"
       },
       {
@@ -1654,7 +1610,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0586-asset-3cyan-cmyk-f4c1ee61a1a3.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0586-asset-3cyan-cmyk-f4c1ee61a1a3.webp",
         "kind": "image"
       },
       {
@@ -1662,7 +1618,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0587-asset-5magenta-cmyk-7b57772d4014.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0587-asset-5magenta-cmyk-7b57772d4014.webp",
         "kind": "image"
       },
       {
@@ -1670,7 +1626,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0588-asset-4yellow-cmyk-a48c5a19a39e.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0588-asset-4yellow-cmyk-a48c5a19a39e.webp",
         "kind": "image"
       },
       {
@@ -1678,7 +1634,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0589-asset-6blackcmyk-a38ade76efc0.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0589-asset-6blackcmyk-a38ade76efc0.webp",
         "kind": "image"
       },
       {
@@ -1686,7 +1642,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0590-screenshot-2024-10-19-185941-2d625805b662.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0590-screenshot-2024-10-19-185941-2d625805b662.webp",
         "kind": "image"
       },
       {
@@ -1694,7 +1650,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0591-screenshot-2024-10-19-190142-55171f39ef9f.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0591-screenshot-2024-10-19-190142-55171f39ef9f.webp",
         "kind": "image"
       },
       {
@@ -1702,7 +1658,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0592-screenshot-2024-10-19-190234-241e280c28a6.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0592-screenshot-2024-10-19-190234-241e280c28a6.webp",
         "kind": "image"
       },
       {
@@ -1710,7 +1666,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0593-screenshot-2024-10-19-190436-768c1fa88711.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0593-screenshot-2024-10-19-190436-768c1fa88711.webp",
         "kind": "image"
       },
       {
@@ -1718,7 +1674,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0594-can-for-class-arizona-ec8cb2558ed1.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0594-can-for-class-arizona-ec8cb2558ed1.webp",
         "kind": "image"
       },
       {
@@ -1726,7 +1682,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0595-arizona-layout-7397f25f5d3d.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0595-arizona-layout-7397f25f5d3d.webp",
         "kind": "image"
       },
       {
@@ -1734,29 +1690,29 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Arizona Beverage Company Old One",
-        "localPath": "assets/source-site/media/0596-render-all-three-yellow-block-a4d48c4ec48b.webp",
+        "localPath": "assets/source-site/arizona-can-redesign/0596-render-all-three-yellow-block-a4d48c4ec48b.webp",
         "kind": "image"
       }
     ],
     "media": [
       {
         "url": "https://lottie.host/74279c5b-6d3d-437e-aa01-7a78d0d32061/neH8asCy5x.json",
-        "localPath": "assets/source-site/media/0232-neh8ascy5x-2c30bfaa0ff6.json",
+        "localPath": "assets/source-site/arizona-can-redesign/0232-neh8ascy5x-2c30bfaa0ff6.json",
         "kind": "animation"
       },
       {
         "url": "https://lottie.host/e415ccf5-5b44-4ca2-915f-6e199ffa7f11/ZoEH8t9pj6.json",
-        "localPath": "assets/source-site/media/0233-zoeh8t9pj6-55f3a03a4214.json",
+        "localPath": "assets/source-site/arizona-can-redesign/0233-zoeh8t9pj6-55f3a03a4214.json",
         "kind": "animation"
       },
       {
         "url": "https://lottie.host/edae9dad-8c70-4c85-b33b-566917d41672/70JWgAvjhx.json",
-        "localPath": "assets/source-site/media/0234-70jwgavjhx-145510114d80.json",
+        "localPath": "assets/source-site/arizona-can-redesign/0234-70jwgavjhx-145510114d80.json",
         "kind": "animation"
       },
       {
         "url": "https://lottie.host/013af3d5-088e-434e-a39a-2ac5690dc717/CthHuEES6e.json",
-        "localPath": "assets/source-site/media/0235-cthhuees6e-b5ab387fa24f.json",
+        "localPath": "assets/source-site/arizona-can-redesign/0235-cthhuees6e-b5ab387fa24f.json",
         "kind": "animation"
       }
     ],
@@ -1767,7 +1723,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0582-asset-2-4x-ebf03df3655c.webp",
+    "heroImage": "assets/source-site/arizona-can-redesign/0582-asset-2-4x-ebf03df3655c.webp",
     "imageCount": 15,
     "mediaCount": 4
   },
@@ -1819,7 +1775,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Use Blender to match up the UV’s to the model."
+        "text": "Use Blender to match up the UV's to the model."
       },
       {
         "type": "text",
@@ -1874,7 +1830,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Once Uploaded other users can vote on weather your skin will pass on to become part of CS2’s next case drop."
+        "text": "Once Uploaded other users can vote on weather your skin will pass on to become part of CS2's next case drop."
       },
       {
         "type": "text",
@@ -1889,7 +1845,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -1909,7 +1865,7 @@ const rawSourcePages = [
       {
         "title": "Step two",
         "items": [
-          "Use Blender to match up the UV’s to the model.",
+          "Use Blender to match up the UV's to the model.",
           "Use Blender and Photoshop to create depth maps based on the original texture."
         ]
       },
@@ -1936,10 +1892,10 @@ const rawSourcePages = [
       {
         "title": "Step six",
         "items": [
-          "Once Uploaded other users can vote on weather your skin will pass on to become part of CS2’s next case drop.",
+          "Once Uploaded other users can vote on weather your skin will pass on to become part of CS2's next case drop.",
           "I uploaded the model to Sketchfab so I could display it in a 3D viewport within the Steam Workshop.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -1949,7 +1905,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0178-screenshot-2024-03-23-161705-054dd39fb663.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0178-screenshot-2024-03-23-161705-054dd39fb663.webp",
         "kind": "image"
       },
       {
@@ -1957,7 +1913,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0179-screenshot-2024-03-23-161824-f44ff1080eaa.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0179-screenshot-2024-03-23-161824-f44ff1080eaa.webp",
         "kind": "image"
       },
       {
@@ -1965,7 +1921,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0180-adobe-photoshop-cc-icon-svg-6806b4d99857.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0180-adobe-photoshop-cc-icon-svg-6806b4d99857.webp",
         "kind": "image"
       },
       {
@@ -1973,7 +1929,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0050-blender-logo-no-text-svg-54e62dc67bd0.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0050-blender-logo-no-text-svg-54e62dc67bd0.webp",
         "kind": "image"
       },
       {
@@ -1981,7 +1937,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0181-steam-icon-logo-svg-7eac23b6be8f.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0181-steam-icon-logo-svg-7eac23b6be8f.webp",
         "kind": "image"
       },
       {
@@ -1989,7 +1945,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0182-procreate-logo-d48885517a44.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0182-procreate-logo-d48885517a44.webp",
         "kind": "image"
       },
       {
@@ -1997,7 +1953,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0183-screenshot-2024-03-23-174852-7b8c8b54b1dd.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0183-screenshot-2024-03-23-174852-7b8c8b54b1dd.webp",
         "kind": "image"
       },
       {
@@ -2005,7 +1961,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0184-solak-skin-04bd250e7024.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0184-solak-skin-04bd250e7024.webp",
         "kind": "image"
       },
       {
@@ -2013,7 +1969,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0185-untitled-design-15-70dde9a49925.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0185-untitled-design-15-70dde9a49925.webp",
         "kind": "image"
       },
       {
@@ -2021,7 +1977,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0186-ak-texture-46-491ac31dba33.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0186-ak-texture-46-491ac31dba33.webp",
         "kind": "image"
       },
       {
@@ -2029,7 +1985,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0187-screenshot-2024-03-23-171725-6c3131c2e9e8.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0187-screenshot-2024-03-23-171725-6c3131c2e9e8.webp",
         "kind": "image"
       },
       {
@@ -2037,7 +1993,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0188-screenshot-2024-03-23-173109-4372424dd9bb.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0188-screenshot-2024-03-23-173109-4372424dd9bb.webp",
         "kind": "image"
       },
       {
@@ -2045,7 +2001,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0189-untitled-design-16-f47e96ead85e.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0189-untitled-design-16-f47e96ead85e.webp",
         "kind": "image"
       },
       {
@@ -2053,7 +2009,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0190-normals8-6cb329a9b0bf.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0190-normals8-6cb329a9b0bf.webp",
         "kind": "image"
       },
       {
@@ -2061,7 +2017,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0191-screenshot-2024-03-23-174852-4857801fe219.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0191-screenshot-2024-03-23-174852-4857801fe219.webp",
         "kind": "image"
       },
       {
@@ -2069,7 +2025,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0192-screenshot-2024-03-23-175514-b1213648f832.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0192-screenshot-2024-03-23-175514-b1213648f832.webp",
         "kind": "image"
       },
       {
@@ -2077,7 +2033,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0193-screenshot-2024-03-23-182154-4633cca511e3.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0193-screenshot-2024-03-23-182154-4633cca511e3.webp",
         "kind": "image"
       },
       {
@@ -2085,7 +2041,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0194-untitled-design-17-87127af17ae9.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0194-untitled-design-17-87127af17ae9.webp",
         "kind": "image"
       },
       {
@@ -2093,7 +2049,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0195-screenshot-2024-03-23-182213-71978e592ac1.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0195-screenshot-2024-03-23-182213-71978e592ac1.webp",
         "kind": "image"
       },
       {
@@ -2101,7 +2057,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0196-screenshot-2024-04-05-114247-8fb9a3171eed.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0196-screenshot-2024-04-05-114247-8fb9a3171eed.webp",
         "kind": "image"
       },
       {
@@ -2109,7 +2065,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0197-screenshot-2024-04-05-114923-6ab4f49b4de5.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0197-screenshot-2024-04-05-114923-6ab4f49b4de5.webp",
         "kind": "image"
       },
       {
@@ -2117,7 +2073,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0198-adobe-photoshop-cc-icon-e8cf4456cb5b.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0198-adobe-photoshop-cc-icon-e8cf4456cb5b.webp",
         "kind": "image"
       },
       {
@@ -2125,7 +2081,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0081-blender-logo-no-text-ed7534fb5748.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0081-blender-logo-no-text-ed7534fb5748.webp",
         "kind": "image"
       },
       {
@@ -2133,7 +2089,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "CSGO Skin Mod",
-        "localPath": "assets/source-site/media/0199-steam-icon-logo-8dc216fe442f.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0199-steam-icon-logo-8dc216fe442f.webp",
         "kind": "image"
       }
     ],
@@ -2146,7 +2102,7 @@ const rawSourcePages = [
       "solshop",
       "ethan-solodukhin"
     ],
-    "heroImage": "assets/source-site/media/0178-screenshot-2024-03-23-161705-054dd39fb663.webp",
+    "heroImage": "assets/source-site/csgo-skin-mod/0178-screenshot-2024-03-23-161705-054dd39fb663.webp",
     "imageCount": 24,
     "mediaCount": 0
   },
@@ -2158,7 +2114,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-06",
     "group": "Brand + Visualization",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "heading",
@@ -2178,7 +2134,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -2186,7 +2142,7 @@ const rawSourcePages = [
         "title": "Logos",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -2196,7 +2152,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0476-sol-words-gray-27e3a05c1c25.webp",
+        "localPath": "assets/source-site/logo-development/0476-sol-words-gray-27e3a05c1c25.webp",
         "kind": "image"
       },
       {
@@ -2204,7 +2160,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0175-sol-with-worsd-orange-e79c3f90cabe.webp",
+        "localPath": "assets/source-site/logo-development/0175-sol-with-worsd-orange-e79c3f90cabe.webp",
         "kind": "image"
       },
       {
@@ -2212,7 +2168,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0477-prosses-4-a01e9d9f93a2.webp",
+        "localPath": "assets/source-site/logo-development/0477-prosses-4-a01e9d9f93a2.webp",
         "kind": "image"
       },
       {
@@ -2220,7 +2176,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0478-proses12-c9c7e5fa86c3.webp",
+        "localPath": "assets/source-site/logo-development/0478-proses12-c9c7e5fa86c3.webp",
         "kind": "image"
       },
       {
@@ -2228,7 +2184,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0479-orange-a297c2f371eb.webp",
+        "localPath": "assets/source-site/logo-development/0479-orange-a297c2f371eb.webp",
         "kind": "image"
       },
       {
@@ -2236,7 +2192,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0480-proses1-1c7092824b96.webp",
+        "localPath": "assets/source-site/logo-development/0480-proses1-1c7092824b96.webp",
         "kind": "image"
       },
       {
@@ -2244,7 +2200,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0481-brand-guide-ss-finished-1da17c633306.webp",
+        "localPath": "assets/source-site/logo-development/0481-brand-guide-ss-finished-1da17c633306.webp",
         "kind": "image"
       },
       {
@@ -2252,7 +2208,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0482-es-logo-cad08982e470.webp",
+        "localPath": "assets/source-site/logo-development/0482-es-logo-cad08982e470.webp",
         "kind": "image"
       },
       {
@@ -2260,7 +2216,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0483-es-logo-orange-379ffcf0e9fc.webp",
+        "localPath": "assets/source-site/logo-development/0483-es-logo-orange-379ffcf0e9fc.webp",
         "kind": "image"
       },
       {
@@ -2268,7 +2224,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0484-face-nose-green-eyes-606f4edac041.webp",
+        "localPath": "assets/source-site/logo-development/0484-face-nose-green-eyes-606f4edac041.webp",
         "kind": "image"
       },
       {
@@ -2276,7 +2232,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0485-face-nose-logo-e5ad33f15e7e.webp",
+        "localPath": "assets/source-site/logo-development/0485-face-nose-logo-e5ad33f15e7e.webp",
         "kind": "image"
       },
       {
@@ -2284,7 +2240,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0486-es-logo-green-7e2ba3d4d9a1.webp",
+        "localPath": "assets/source-site/logo-development/0486-es-logo-green-7e2ba3d4d9a1.webp",
         "kind": "image"
       },
       {
@@ -2292,7 +2248,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0487-es-logo-purple-and-green-1d950203ab0f.webp",
+        "localPath": "assets/source-site/logo-development/0487-es-logo-purple-and-green-1d950203ab0f.webp",
         "kind": "image"
       },
       {
@@ -2300,7 +2256,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0488-face-nose-purple-b14526643c28.webp",
+        "localPath": "assets/source-site/logo-development/0488-face-nose-purple-b14526643c28.webp",
         "kind": "image"
       },
       {
@@ -2308,7 +2264,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0489-face-nose-green-and-oragne-f4f366937f9d.webp",
+        "localPath": "assets/source-site/logo-development/0489-face-nose-green-and-oragne-f4f366937f9d.webp",
         "kind": "image"
       },
       {
@@ -2316,7 +2272,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0490-es-logo-purple-52298e1d4837.webp",
+        "localPath": "assets/source-site/logo-development/0490-es-logo-purple-52298e1d4837.webp",
         "kind": "image"
       },
       {
@@ -2324,7 +2280,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0491-es-logo-blue-light-ca9bbe58d741.webp",
+        "localPath": "assets/source-site/logo-development/0491-es-logo-blue-light-ca9bbe58d741.webp",
         "kind": "image"
       },
       {
@@ -2332,7 +2288,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0492-face-nose-blue-bc439537a449.webp",
+        "localPath": "assets/source-site/logo-development/0492-face-nose-blue-bc439537a449.webp",
         "kind": "image"
       },
       {
@@ -2340,7 +2296,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0493-face-nose-baskiat-d4ee1e270749.webp",
+        "localPath": "assets/source-site/logo-development/0493-face-nose-baskiat-d4ee1e270749.webp",
         "kind": "image"
       },
       {
@@ -2348,7 +2304,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0494-blue-sol-e7e39bfbdeba.webp",
+        "localPath": "assets/source-site/logo-development/0494-blue-sol-e7e39bfbdeba.webp",
         "kind": "image"
       },
       {
@@ -2356,7 +2312,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0495-sol-face-64fb511758fa.webp",
+        "localPath": "assets/source-site/logo-development/0495-sol-face-64fb511758fa.webp",
         "kind": "image"
       },
       {
@@ -2364,7 +2320,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0496-sol-logo-red-face-19ba487389bc.webp",
+        "localPath": "assets/source-site/logo-development/0496-sol-logo-red-face-19ba487389bc.webp",
         "kind": "image"
       },
       {
@@ -2372,7 +2328,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0497-sol-logo-green-e8cc62dbfae0.webp",
+        "localPath": "assets/source-site/logo-development/0497-sol-logo-green-e8cc62dbfae0.webp",
         "kind": "image"
       },
       {
@@ -2380,7 +2336,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0498-sol-logo-purple-face-289145556bbe.webp",
+        "localPath": "assets/source-site/logo-development/0498-sol-logo-purple-face-289145556bbe.webp",
         "kind": "image"
       },
       {
@@ -2388,7 +2344,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Logo Development",
-        "localPath": "assets/source-site/media/0499-sol-logo-dark-purple-3e2927ec0c6a.webp",
+        "localPath": "assets/source-site/logo-development/0499-sol-logo-dark-purple-3e2927ec0c6a.webp",
         "kind": "image"
       }
     ],
@@ -2400,7 +2356,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0476-sol-words-gray-27e3a05c1c25.webp",
+    "heroImage": "assets/source-site/logo-development/0476-sol-words-gray-27e3a05c1c25.webp",
     "imageCount": 25,
     "mediaCount": 0
   },
@@ -2422,7 +2378,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "This Speaker concept was developed for my Second-year studio 2 class. The Prompt was to create a product that follows a company’s branding guidelines and would appear to be a product that the company could develop."
+        "text": "This Speaker concept was developed for my Second-year studio 2 class. The Prompt was to create a product that follows a company's branding guidelines and would appear to be a product that the company could develop."
       },
       {
         "type": "text",
@@ -2732,7 +2688,7 @@ const rawSourcePages = [
       {
         "type": "heading",
         "level": "h1",
-        "text": "Our Target Market is…"
+        "text": "Our Target Market is..."
       },
       {
         "type": "text",
@@ -2762,7 +2718,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Spotify’s user base is very diverse and covers a long range of people and ideas."
+        "text": "Spotify's user base is very diverse and covers a long range of people and ideas."
       },
       {
         "type": "text",
@@ -2787,12 +2743,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "As digital natives with roots in the online world—and newfound spending power in the real one—Gen Z is a key cohort for brands who want to reach young, savvy audiences."
+        "text": "As digital natives with roots in the online world-and newfound spending power in the real one-Gen Z is a key cohort for brands who want to reach young, savvy audiences."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "As digital natives with roots in the online world—and newfound spending power in the real one—Gen Z is a key cohort for brands who want to reach young, savvy audiences."
+        "text": "As digital natives with roots in the online world-and newfound spending power in the real one-Gen Z is a key cohort for brands who want to reach young, savvy audiences."
       },
       {
         "type": "heading",
@@ -3032,12 +2988,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "Visually Stunning Products which Harbor Spotify’s Design Language"
+        "text": "Visually Stunning Products which Harbor Spotify's Design Language"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Visually Stunning Products which Harbor Spotify’s Design Language"
+        "text": "Visually Stunning Products which Harbor Spotify's Design Language"
       },
       {
         "type": "heading",
@@ -3087,7 +3043,7 @@ const rawSourcePages = [
       {
         "type": "heading",
         "level": "h2",
-        "text": "How can we make a product that both carries Spotify’s design language and harbors high quality features and sounds?"
+        "text": "How can we make a product that both carries Spotify's design language and harbors high quality features and sounds?"
       },
       {
         "type": "heading",
@@ -3213,13 +3169,173 @@ const rawSourcePages = [
         "type": "text",
         "level": "p",
         "text": "The top of the Mini features a Touch LCD Display which allows users to interact with the Spotify UI."
+      },
+      {
+        "type": "text",
+        "level": "li",
+        "text": "The Green Ring is a Haptic Feedback Dial which allows users to bind different patterns as input for other features. The default for the ring is volume control as well as song selection."
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "The Green Ring is a Haptic Feedback Dial which allows users to bind different patterns as input for other features. The default for the ring is volume control as well as song selection."
+      },
+      {
+        "type": "text",
+        "level": "li",
+        "text": "The Gray Ring is made of a soft yet durable speaker fabric which allows the pass through of high quality sound from the speakers within the Mini."
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "The Gray Ring is made of a soft yet durable speaker fabric which allows the pass through of high quality sound from the speakers within the Mini."
+      },
+      {
+        "type": "text",
+        "level": "li",
+        "text": "The bottom of the Mini has Rubber Stopers in the shape of the Spotify Logo which allows a tactile grip on any surface the Mini is placed on."
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "The bottom of the Mini has Rubber Stopers in the shape of the Spotify Logo which allows a tactile grip on any surface the Mini is placed on."
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Spotify DJ UI"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "iPad sketch of the Spotify Mini."
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Playback UI"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Idle UI 1"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Idle UI 2"
+      },
+      {
+        "type": "heading",
+        "level": "h1",
+        "text": "The Spotify Mini."
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "3 Inch LCD Touch Display"
+      },
+      {
+        "type": "heading",
+        "level": "h1",
+        "text": "Seamless access to all music and features on Spotify"
+      },
+      {
+        "type": "heading",
+        "level": "h1",
+        "text": "Connectivity to the Max with Spotify 'Surround'"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Seamless access to all music and features on Spotify"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Connectivity to the Max with Spotify 'Surround'"
+      },
+      {
+        "type": "heading",
+        "level": "h1",
+        "text": "What is 'Surround'"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "text": "Final Concepts"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Example of Surround being used between three speakers, a phone and tv."
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "text": "Spotify 'Surround' is a core feature of the Mini that allows pairing to all Bluetooth enabled devices to create a Synced Audio Experience."
+      },
+      {
+        "type": "heading",
+        "level": "h1",
+        "text": "Component View"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Haptic Knob Mechanism"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Touch Screen & LCD"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Touch Screen Glass"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Speaker Component & Battery"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Bottom Lid"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Rubber Grip"
+      },
+      {
+        "type": "heading",
+        "level": "h1",
+        "text": "Thank You for your attention"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "Mini."
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "www.ethansolodukhin.com"
+      },
+      {
+        "type": "text",
+        "level": "p",
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
         "title": "spotify mini concept",
         "items": [
-          "This Speaker concept was developed for my Second-year studio 2 class. The Prompt was to create a product that follows a company’s branding guidelines and would appear to be a product that the company could develop.",
+          "This Speaker concept was developed for my Second-year studio 2 class. The Prompt was to create a product that follows a company's branding guidelines and would appear to be a product that the company could develop.",
           "All rendering and development was done within Blender and Adobe Illustrator."
         ]
       },
@@ -3261,7 +3377,18 @@ const rawSourcePages = [
           "Listening to music for work and relaxation.",
           "Access to new drops from artists.",
           "Access to new drops from artists.",
-          "Wants a high quality speaker for listening"
+          "Wants a high quality speaker for listening",
+          "Wants a high quality speaker for listening",
+          "Behaviors",
+          "Has been playing piano since childhood.",
+          "Has been playing piano since childhood.",
+          "Enjoys high-quality sound and connectivity.",
+          "Enjoys high-quality sound and connectivity.",
+          "Knowledgeable in sound design.",
+          "Knowledgeable in sound design.",
+          "Product Preferences and Brands",
+          "Sleek minimalist design with high functionality.",
+          "Sleek minimalist design with high functionality."
         ]
       },
       {
@@ -3278,24 +3405,28 @@ const rawSourcePages = [
           "Makes EDM remixes.",
           "Makes EDM remixes.",
           "Enjoys a stereo sound quality.",
-          "Enjoys a stereo sound quality."
+          "Enjoys a stereo sound quality.",
+          "Playing music for his friends.",
+          "Playing music for his friends.",
+          "A speaker with a screen.",
+          "A speaker with a screen."
         ]
       },
       {
-        "title": "Our Target Market is…",
+        "title": "Our Target Market is...",
         "items": [
           "Young",
           "Diverse",
           "Consumers between the ages of 18-24 years old were 85% more likely than the average user to visit Spotify in January 2023.",
           "This demographic has $360 billion in disposable income.",
           "This demographic has $360 billion in disposable income.",
-          "Spotify’s user base is very diverse and covers a long range of people and ideas.",
+          "Spotify's user base is very diverse and covers a long range of people and ideas.",
           "Gen Z is currently the largest and most ethnically diverse generation.",
           "Gen Z is currently the largest and most ethnically diverse generation.",
           "Tech Savvy",
           "The average Gen Zer has had a smartphone since before their 12th birthday and spends almost half of their waking hours on screens.",
-          "As digital natives with roots in the online world—and newfound spending power in the real one—Gen Z is a key cohort for brands who want to reach young, savvy audiences.",
-          "As digital natives with roots in the online world—and newfound spending power in the real one—Gen Z is a key cohort for brands who want to reach young, savvy audiences."
+          "As digital natives with roots in the online world-and newfound spending power in the real one-Gen Z is a key cohort for brands who want to reach young, savvy audiences.",
+          "As digital natives with roots in the online world-and newfound spending power in the real one-Gen Z is a key cohort for brands who want to reach young, savvy audiences."
         ]
       },
       {
@@ -3362,8 +3493,8 @@ const rawSourcePages = [
         "items": [
           "More use of color for Products",
           "More use of color for Products",
-          "Visually Stunning Products which Harbor Spotify’s Design Language",
-          "Visually Stunning Products which Harbor Spotify’s Design Language"
+          "Visually Stunning Products which Harbor Spotify's Design Language",
+          "Visually Stunning Products which Harbor Spotify's Design Language"
         ]
       },
       {
@@ -3439,7 +3570,8 @@ const rawSourcePages = [
           "Spotify DJ UI",
           "iPad sketch of the Spotify Mini.",
           "Playback UI",
-          "Idle UI 1"
+          "Idle UI 1",
+          "Idle UI 2"
         ]
       },
       {
@@ -3449,10 +3581,10 @@ const rawSourcePages = [
         ]
       },
       {
-        "title": "Connectivity to the Max with Spotify “Surround”",
+        "title": "Connectivity to the Max with Spotify 'Surround'",
         "items": [
           "Seamless access to all music and features on Spotify",
-          "Connectivity to the Max with Spotify “Surround”"
+          "Connectivity to the Max with Spotify 'Surround'"
         ]
       },
       {
@@ -3471,6 +3603,14 @@ const rawSourcePages = [
           "Bottom Lid",
           "Rubber Grip"
         ]
+      },
+      {
+        "title": "Thank You for your attention",
+        "items": [
+          "Mini.",
+          "www.ethansolodukhin.com",
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
+        ]
       }
     ],
     "images": [
@@ -3479,7 +3619,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0102-spotify-thing-spotify-mini3-498467948bee.webp",
+        "localPath": "assets/source-site/spotify-concept/0102-spotify-thing-spotify-mini3-498467948bee.webp",
         "kind": "image"
       },
       {
@@ -3487,7 +3627,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0103-spotify-render-1-35ae8a2abef3.webp",
+        "localPath": "assets/source-site/spotify-concept/0103-spotify-render-1-35ae8a2abef3.webp",
         "kind": "image"
       },
       {
@@ -3495,7 +3635,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0053-illustrator-logo-c7ed07f4e0a7.webp",
+        "localPath": "assets/source-site/spotify-concept/0053-illustrator-logo-c7ed07f4e0a7.webp",
         "kind": "image"
       },
       {
@@ -3503,7 +3643,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0050-blender-logo-no-text-svg-54e62dc67bd0.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0050-blender-logo-no-text-svg-54e62dc67bd0.webp",
         "kind": "image"
       },
       {
@@ -3511,7 +3651,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0104-spotify-thing-spotify-mini8-82884ef6a00f.webp",
+        "localPath": "assets/source-site/spotify-concept/0104-spotify-thing-spotify-mini8-82884ef6a00f.webp",
         "kind": "image"
       },
       {
@@ -3519,7 +3659,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0105-copy-of-shelfmate-for-ethan-4-16a4a2d5ccc5.webp",
+        "localPath": "assets/source-site/spotify-concept/0105-copy-of-shelfmate-for-ethan-4-16a4a2d5ccc5.webp",
         "kind": "image"
       },
       {
@@ -3527,7 +3667,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0106-spotify-logo-rgb-white-9aa31c6edf6a.webp",
+        "localPath": "assets/source-site/spotify-concept/0106-spotify-logo-rgb-white-9aa31c6edf6a.webp",
         "kind": "image"
       },
       {
@@ -3535,7 +3675,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0107-spotify-1-7ee4b6da8a4d.webp",
+        "localPath": "assets/source-site/spotify-concept/0107-spotify-1-7ee4b6da8a4d.webp",
         "kind": "image"
       },
       {
@@ -3543,7 +3683,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0108-spotify-render-5c05f62c2f3b.webp",
+        "localPath": "assets/source-site/spotify-concept/0108-spotify-render-5c05f62c2f3b.webp",
         "kind": "image"
       },
       {
@@ -3551,7 +3691,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0109-jtyj-1c4044271d42.webp",
+        "localPath": "assets/source-site/spotify-concept/0109-jtyj-1c4044271d42.webp",
         "kind": "image"
       },
       {
@@ -3559,7 +3699,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0110-uul-4c54d31a1141.webp",
+        "localPath": "assets/source-site/spotify-concept/0110-uul-4c54d31a1141.webp",
         "kind": "image"
       },
       {
@@ -3567,7 +3707,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0111-kjjk-78fc2e7b673a.webp",
+        "localPath": "assets/source-site/spotify-concept/0111-kjjk-78fc2e7b673a.webp",
         "kind": "image"
       },
       {
@@ -3575,7 +3715,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0112-egreg-88cdd6723db3.webp",
+        "localPath": "assets/source-site/spotify-concept/0112-egreg-88cdd6723db3.webp",
         "kind": "image"
       },
       {
@@ -3583,7 +3723,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0113-ftr-header-dj-1-1-1440x733-54097cd5b63c.webp",
+        "localPath": "assets/source-site/spotify-concept/0113-ftr-header-dj-1-1-1440x733-54097cd5b63c.webp",
         "kind": "image"
       },
       {
@@ -3591,7 +3731,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0114-maxresdefault-bb90d4370d2e.webp",
+        "localPath": "assets/source-site/spotify-concept/0114-maxresdefault-bb90d4370d2e.webp",
         "kind": "image"
       },
       {
@@ -3599,7 +3739,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0115-dgnbfgsbs-7957d1e5a562.webp",
+        "localPath": "assets/source-site/spotify-concept/0115-dgnbfgsbs-7957d1e5a562.webp",
         "kind": "image"
       },
       {
@@ -3607,7 +3747,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0116-hvkgv-4353c02d36d9.webp",
+        "localPath": "assets/source-site/spotify-concept/0116-hvkgv-4353c02d36d9.webp",
         "kind": "image"
       },
       {
@@ -3615,7 +3755,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0117-spotify-demographiv-ce72510d3c60.webp",
+        "localPath": "assets/source-site/spotify-concept/0117-spotify-demographiv-ce72510d3c60.webp",
         "kind": "image"
       },
       {
@@ -3623,7 +3763,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0118-spotifty-demo2-7eec52901db5.webp",
+        "localPath": "assets/source-site/spotify-concept/0118-spotifty-demo2-7eec52901db5.webp",
         "kind": "image"
       },
       {
@@ -3631,7 +3771,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0119-enhanced-image-90d3160eecd3.webp",
+        "localPath": "assets/source-site/spotify-concept/0119-enhanced-image-90d3160eecd3.webp",
         "kind": "image"
       },
       {
@@ -3639,7 +3779,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0120-arrow2-b5f8636f7d0f.webp",
+        "localPath": "assets/source-site/spotify-concept/0120-arrow2-b5f8636f7d0f.webp",
         "kind": "image"
       },
       {
@@ -3647,7 +3787,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0121-arrows-0a8d3988b5ff.webp",
+        "localPath": "assets/source-site/spotify-concept/0121-arrows-0a8d3988b5ff.webp",
         "kind": "image"
       },
       {
@@ -3655,7 +3795,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0122-screenshot-2024-03-30-202304-25cda1ebb5f9.webp",
+        "localPath": "assets/source-site/spotify-concept/0122-screenshot-2024-03-30-202304-25cda1ebb5f9.webp",
         "kind": "image"
       },
       {
@@ -3663,7 +3803,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0123-screenshot-2024-03-30-205611-44ba5807ec48.webp",
+        "localPath": "assets/source-site/spotify-concept/0123-screenshot-2024-03-30-205611-44ba5807ec48.webp",
         "kind": "image"
       },
       {
@@ -3671,7 +3811,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0124-screenshot-2024-03-30-205817-ff9854f6550a.webp",
+        "localPath": "assets/source-site/spotify-concept/0124-screenshot-2024-03-30-205817-ff9854f6550a.webp",
         "kind": "image"
       },
       {
@@ -3679,7 +3819,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0125-pngtree-soundcloud-social-media-icon-4235827-6c751696ef77.webp",
+        "localPath": "assets/source-site/spotify-concept/0125-pngtree-soundcloud-social-media-icon-4235827-6c751696ef77.webp",
         "kind": "image"
       },
       {
@@ -3687,7 +3827,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0126-jbl-logo-ffb70a5a23bd.webp",
+        "localPath": "assets/source-site/spotify-concept/0126-jbl-logo-ffb70a5a23bd.webp",
         "kind": "image"
       },
       {
@@ -3695,7 +3835,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0127-blue-microphones-logo-ad80716d6a-seeklogo-com-c8374662bc2c.webp",
+        "localPath": "assets/source-site/spotify-concept/0127-blue-microphones-logo-ad80716d6a-seeklogo-com-c8374662bc2c.webp",
         "kind": "image"
       },
       {
@@ -3703,7 +3843,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0128-google-g-logo-svg-d857584f1300.webp",
+        "localPath": "assets/source-site/spotify-concept/0128-google-g-logo-svg-d857584f1300.webp",
         "kind": "image"
       },
       {
@@ -3711,7 +3851,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0129-enhanced-image-1-809c242d9874.webp",
+        "localPath": "assets/source-site/spotify-concept/0129-enhanced-image-1-809c242d9874.webp",
         "kind": "image"
       },
       {
@@ -3719,7 +3859,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0130-215px-bose-logo-svg-bcc5e31e0770.webp",
+        "localPath": "assets/source-site/spotify-concept/0130-215px-bose-logo-svg-bcc5e31e0770.webp",
         "kind": "image"
       },
       {
@@ -3727,7 +3867,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0131-apple-logo-1977-f5abddbe3d04.webp",
+        "localPath": "assets/source-site/spotify-concept/0131-apple-logo-1977-f5abddbe3d04.webp",
         "kind": "image"
       },
       {
@@ -3735,7 +3875,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0132-diversity-24fee919131f.webp",
+        "localPath": "assets/source-site/spotify-concept/0132-diversity-24fee919131f.webp",
         "kind": "image"
       },
       {
@@ -3743,7 +3883,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0133-tech-savy-07062ef665a2.webp",
+        "localPath": "assets/source-site/spotify-concept/0133-tech-savy-07062ef665a2.webp",
         "kind": "image"
       },
       {
@@ -3751,7 +3891,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0134-mark-1819945c0756.webp",
+        "localPath": "assets/source-site/spotify-concept/0134-mark-1819945c0756.webp",
         "kind": "image"
       },
       {
@@ -3759,7 +3899,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0135-1200px-amazon-alexa-blue-logo-svg-c9a9555ec8d6.webp",
+        "localPath": "assets/source-site/spotify-concept/0135-1200px-amazon-alexa-blue-logo-svg-c9a9555ec8d6.webp",
         "kind": "image"
       },
       {
@@ -3767,7 +3907,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0136-vetical-line-c1dafc463be0.webp",
+        "localPath": "assets/source-site/spotify-concept/0136-vetical-line-c1dafc463be0.webp",
         "kind": "image"
       },
       {
@@ -3775,7 +3915,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0137-instagram-60cb74c4f24a.webp",
+        "localPath": "assets/source-site/spotify-concept/0137-instagram-60cb74c4f24a.webp",
         "kind": "image"
       },
       {
@@ -3783,7 +3923,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0138-header-01-1-97d3f1434280.webp",
+        "localPath": "assets/source-site/spotify-concept/0138-header-01-1-97d3f1434280.webp",
         "kind": "image"
       },
       {
@@ -3791,7 +3931,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0139-home-screen-notext-3840-fefacb3806d4.webp",
+        "localPath": "assets/source-site/spotify-concept/0139-home-screen-notext-3840-fefacb3806d4.webp",
         "kind": "image"
       },
       {
@@ -3799,7 +3939,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0140-things-included-1200-5f744e8e51c1.webp",
+        "localPath": "assets/source-site/spotify-concept/0140-things-included-1200-5f744e8e51c1.webp",
         "kind": "image"
       },
       {
@@ -3807,7 +3947,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0141-vent-1920-800x731-c89973ea15b0.webp",
+        "localPath": "assets/source-site/spotify-concept/0141-vent-1920-800x731-c89973ea15b0.webp",
         "kind": "image"
       },
       {
@@ -3815,7 +3955,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0142-carthing-c232ee79bd32.webp",
+        "localPath": "assets/source-site/spotify-concept/0142-carthing-c232ee79bd32.webp",
         "kind": "image"
       },
       {
@@ -3823,7 +3963,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0143-4423732-5eee614d0b69.webp",
+        "localPath": "assets/source-site/spotify-concept/0143-4423732-5eee614d0b69.webp",
         "kind": "image"
       },
       {
@@ -3831,7 +3971,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0144-pxl-20240401-183040041-2-76acdc2470d6.webp",
+        "localPath": "assets/source-site/spotify-concept/0144-pxl-20240401-183040041-2-76acdc2470d6.webp",
         "kind": "image"
       },
       {
@@ -3839,7 +3979,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0145-spotify-render-eec9f624b337.webp",
+        "localPath": "assets/source-site/spotify-concept/0145-spotify-render-eec9f624b337.webp",
         "kind": "image"
       },
       {
@@ -3847,7 +3987,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0146-sketchui4-6e9f813e5bdb.webp",
+        "localPath": "assets/source-site/spotify-concept/0146-sketchui4-6e9f813e5bdb.webp",
         "kind": "image"
       },
       {
@@ -3855,7 +3995,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0147-sketchui3-a364f4e0fcd2.webp",
+        "localPath": "assets/source-site/spotify-concept/0147-sketchui3-a364f4e0fcd2.webp",
         "kind": "image"
       },
       {
@@ -3863,7 +4003,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0148-sketchui2-f201f7042867.webp",
+        "localPath": "assets/source-site/spotify-concept/0148-sketchui2-f201f7042867.webp",
         "kind": "image"
       },
       {
@@ -3871,7 +4011,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0149-sketchui1-f395727e0152.webp",
+        "localPath": "assets/source-site/spotify-concept/0149-sketchui1-f395727e0152.webp",
         "kind": "image"
       },
       {
@@ -3879,7 +4019,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0150-spotify-scroll-a563fcd33001.webp",
+        "localPath": "assets/source-site/spotify-concept/0150-spotify-scroll-a563fcd33001.webp",
         "kind": "image"
       },
       {
@@ -3887,7 +4027,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0151-spotify1-2-1e593de721e8.webp",
+        "localPath": "assets/source-site/spotify-concept/0151-spotify1-2-1e593de721e8.webp",
         "kind": "image"
       },
       {
@@ -3895,7 +4035,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0152-spotify1-1-854a279ec003.webp",
+        "localPath": "assets/source-site/spotify-concept/0152-spotify1-1-854a279ec003.webp",
         "kind": "image"
       },
       {
@@ -3903,7 +4043,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0153-spotify1-3-6ee131295491.webp",
+        "localPath": "assets/source-site/spotify-concept/0153-spotify1-3-6ee131295491.webp",
         "kind": "image"
       },
       {
@@ -3911,7 +4051,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0154-spotifyroomfinal-479f77cfa949.webp",
+        "localPath": "assets/source-site/spotify-concept/0154-spotifyroomfinal-479f77cfa949.webp",
         "kind": "image"
       },
       {
@@ -3919,7 +4059,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0155-exploded-view-final-19676667f4f0.webp",
+        "localPath": "assets/source-site/spotify-concept/0155-exploded-view-final-19676667f4f0.webp",
         "kind": "image"
       },
       {
@@ -3927,7 +4067,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0081-blender-logo-no-text-ed7534fb5748.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0081-blender-logo-no-text-ed7534fb5748.webp",
         "kind": "image"
       },
       {
@@ -3935,7 +4075,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0156-google-g-logo-2fa7c5ae5b01.webp",
+        "localPath": "assets/source-site/spotify-concept/0156-google-g-logo-2fa7c5ae5b01.webp",
         "kind": "image"
       },
       {
@@ -3943,7 +4083,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0157-215px-bose-logo-096613825135.webp",
+        "localPath": "assets/source-site/spotify-concept/0157-215px-bose-logo-096613825135.webp",
         "kind": "image"
       },
       {
@@ -3951,14 +4091,14 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Spotify Mini Speaker Concept",
-        "localPath": "assets/source-site/media/0158-1200px-amazon-alexa-blue-logo-30d3532bd976.webp",
+        "localPath": "assets/source-site/spotify-concept/0158-1200px-amazon-alexa-blue-logo-30d3532bd976.webp",
         "kind": "image"
       }
     ],
     "media": [
       {
         "url": "https://raw.githubusercontent.com/ethansol7/lottie-assets/main/Spotify5.json",
-        "localPath": "assets/source-site/media/0159-spotify5-593e13723883.json",
+        "localPath": "assets/source-site/spotify-concept/0159-spotify5-593e13723883.json",
         "kind": "animation"
       }
     ],
@@ -3969,7 +4109,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0102-spotify-thing-spotify-mini3-498467948bee.webp",
+    "heroImage": "assets/source-site/spotify-concept/0102-spotify-thing-spotify-mini3-498467948bee.webp",
     "imageCount": 60,
     "mediaCount": 1
   },
@@ -3981,12 +4121,12 @@ const rawSourcePages = [
     "lastmod": "2024-12-12",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "\"Plasti\" signifies the use of recycled plastic with \"Vista,\" evoking a sense of expansive views or vision. \"Atelier\" reffers to a workshop or studio where artistic creations are made.",
+    "summary": "'Plasti' signifies the use of recycled plastic with 'Vista,' evoking a sense of expansive views or vision. 'Atelier' reffers to a workshop or studio where artistic creations are made.",
     "textBlocks": [
       {
         "type": "text",
         "level": "p",
-        "text": "\"Plasti\" signifies the use of recycled plastic with \"Vista,\" evoking a sense of expansive views or vision. \"Atelier\" reffers to a workshop or studio where artistic creations are made."
+        "text": "'Plasti' signifies the use of recycled plastic with 'Vista,' evoking a sense of expansive views or vision. 'Atelier' reffers to a workshop or studio where artistic creations are made."
       },
       {
         "type": "text",
@@ -4071,7 +4211,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "To address the challenge of garnering greater interest and participation in sustainability practices, I conducted user research to understand the underlying reasons behind individuals' behaviors. The insights revealed a common sentiment: while many people appreciate the concept of sustainability and a healthier environment, various barriers such as perceived restrictions or low personal interest often hinder active engagement. With this understanding, the project aims to introduce a compelling solution that aligns with users' motivations and challenges. The key insight driving the project is the need to offer a service that not only promotes sustainability but also provides tangible benefits at minimal cost to users. By focusing on recycling plastic waste—an area where significant amounts often go unrecycled due to logistical challenges or lack of incentives—we can tap into a resource that would otherwise be wasted. The idea is to create a service, such as PlastiVista Atelier, where individuals can participate in recycling efforts with the promise of receiving high-quality, custom-made furniture as a reward. This project development initiative aims to bridge the gap between intention and action by offering a practical and rewarding pathway towards sustainability. By making recycling more accessible and rewarding, we aspire to inspire broader participation in sustainable practices, ultimately contributing to a healthier environment and a more engaged community. Through this innovative approach, we seek to transform attitudes towards sustainability and demonstrate the positive impact of collective action on our shared world."
+        "text": "To address the challenge of garnering greater interest and participation in sustainability practices, I conducted user research to understand the underlying reasons behind individuals' behaviors. The insights revealed a common sentiment: while many people appreciate the concept of sustainability and a healthier environment, various barriers such as perceived restrictions or low personal interest often hinder active engagement. With this understanding, the project aims to introduce a compelling solution that aligns with users' motivations and challenges. The key insight driving the project is the need to offer a service that not only promotes sustainability but also provides tangible benefits at minimal cost to users. By focusing on recycling plastic waste-an area where significant amounts often go unrecycled due to logistical challenges or lack of incentives-we can tap into a resource that would otherwise be wasted. The idea is to create a service, such as PlastiVista Atelier, where individuals can participate in recycling efforts with the promise of receiving high-quality, custom-made furniture as a reward. This project development initiative aims to bridge the gap between intention and action by offering a practical and rewarding pathway towards sustainability. By making recycling more accessible and rewarding, we aspire to inspire broader participation in sustainable practices, ultimately contributing to a healthier environment and a more engaged community. Through this innovative approach, we seek to transform attitudes towards sustainability and demonstrate the positive impact of collective action on our shared world."
       },
       {
         "type": "heading",
@@ -4086,12 +4226,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "According to a 2023 report from Plastic Overshoot Day, the global average plastic consumption per person per year is 20.9 kg. However, the amount of plastic waste generated per person varies by country, with the United States generating 221 kg per person annually, while Japan and Korea generate 69 kg on average."
+        "text": "According to a 2023 report from Plastic Overshoot Day, the global average plastic consumption per person per year is 20.9 kg. However, the amount of plastic waste created per person varies by country, with the United States creating 221 kg per person annually, while Japan and Korea create 69 kg on average."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "According to a 2023 report from Plastic Overshoot Day, the global average plastic consumption per person per year is 20.9 kg. However, the amount of plastic waste generated per person varies by country, with the United States generating 221 kg per person annually, while Japan and Korea generate 69 kg on average."
+        "text": "According to a 2023 report from Plastic Overshoot Day, the global average plastic consumption per person per year is 20.9 kg. However, the amount of plastic waste created per person varies by country, with the United States creating 221 kg per person annually, while Japan and Korea create 69 kg on average."
       },
       {
         "type": "text",
@@ -4141,7 +4281,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Workspace for a single layer “daily use” chair."
+        "text": "Workspace for a single layer 'daily use' chair."
       },
       {
         "type": "text",
@@ -4291,7 +4431,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "An affordable solution for communities in need of furniture. Creating opportunities for those who don’t recycle and allowing them to benefit at no additional cost."
+        "text": "An affordable solution for communities in need of furniture. Creating opportunities for those who don't recycle and allowing them to benefit at no additional cost."
       },
       {
         "type": "heading",
@@ -4301,7 +4441,7 @@ const rawSourcePages = [
       {
         "type": "heading",
         "level": "h4",
-        "text": "Additional Information about the “Revo” Chair:"
+        "text": "Additional Information about the 'Revo' Chair:"
       },
       {
         "type": "text",
@@ -4336,7 +4476,7 @@ const rawSourcePages = [
       {
         "type": "heading",
         "level": "h4",
-        "text": "Additional Information about the “Stoool/Choool” Chair:"
+        "text": "Additional Information about the 'Stoool/Choool' Chair:"
       },
       {
         "type": "text",
@@ -4366,12 +4506,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "Both are Surprisingly strong for being a prototypes and having only 8% or 10% infill. Performance better than Fusion 360’s physical material simulation lab expectations."
+        "text": "Both are Surprisingly strong for being a prototypes and having only 8% or 10% infill. Performance better than Fusion 360's physical material simulation lab expectations."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Both are Surprisingly strong for being a prototypes and having only 8% or 10% infill. Performance better than Fusion 360’s physical material simulation lab expectations."
+        "text": "Both are Surprisingly strong for being a prototypes and having only 8% or 10% infill. Performance better than Fusion 360's physical material simulation lab expectations."
       },
       {
         "type": "text",
@@ -4381,14 +4521,14 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
         "title": "Source Content",
         "items": [
-          "\"Plasti\" signifies the use of recycled plastic with \"Vista,\" evoking a sense of expansive views or vision. \"Atelier\" reffers to a workshop or studio where artistic creations are made.",
+          "'Plasti' signifies the use of recycled plastic with 'Vista,' evoking a sense of expansive views or vision. 'Atelier' reffers to a workshop or studio where artistic creations are made.",
           "Connecting communities for a sustainable future through innovative recycling and premium furniture craftsmanship.",
           "Unrecycled Plastic",
           "Recycled Plastic",
@@ -4423,14 +4563,14 @@ const rawSourcePages = [
       {
         "title": "Project Development:",
         "items": [
-          "To address the challenge of garnering greater interest and participation in sustainability practices, I conducted user research to understand the underlying reasons behind individuals' behaviors. The insights revealed a common sentiment: while many people appreciate the concept of sustainability and a healthier environment, various barriers such as perceived restrictions or low personal interest often hinder active engagement. With this understanding, the project aims to introduce a compelling solution that aligns with users' motivations and challenges. The key insight driving the project is the need to offer a service that not only promotes sustainability but also provides tangible benefits at minimal cost to users. By focusing on recycling plastic waste—an area where significant amounts often go unrecycled due to logistical challenges or lack of incentives—we can tap into a resource that would otherwise be wasted. The idea is to create a service, such as PlastiVista Atelier, where individuals can participate in recycling efforts with the promise of receiving high-quality, custom-made furniture as a reward. This project development initiative aims to bridge the gap between intention and action by offering a practical and rewarding pathway towards sustainability. By making recycling more accessible and rewarding, we aspire to inspire broader participation in sustainable practices, ultimately contributing to a healthier environment and a more engaged community. Through this innovative approach, we seek to transform attitudes towards sustainability and demonstrate the positive impact of collective action on our shared world."
+          "To address the challenge of garnering greater interest and participation in sustainability practices, I conducted user research to understand the underlying reasons behind individuals' behaviors. The insights revealed a common sentiment: while many people appreciate the concept of sustainability and a healthier environment, various barriers such as perceived restrictions or low personal interest often hinder active engagement. With this understanding, the project aims to introduce a compelling solution that aligns with users' motivations and challenges. The key insight driving the project is the need to offer a service that not only promotes sustainability but also provides tangible benefits at minimal cost to users. By focusing on recycling plastic waste-an area where significant amounts often go unrecycled due to logistical challenges or lack of incentives-we can tap into a resource that would otherwise be wasted. The idea is to create a service, such as PlastiVista Atelier, where individuals can participate in recycling efforts with the promise of receiving high-quality, custom-made furniture as a reward. This project development initiative aims to bridge the gap between intention and action by offering a practical and rewarding pathway towards sustainability. By making recycling more accessible and rewarding, we aspire to inspire broader participation in sustainable practices, ultimately contributing to a healthier environment and a more engaged community. Through this innovative approach, we seek to transform attitudes towards sustainability and demonstrate the positive impact of collective action on our shared world."
         ]
       },
       {
         "title": "Additional Information:",
         "items": [
-          "According to a 2023 report from Plastic Overshoot Day, the global average plastic consumption per person per year is 20.9 kg. However, the amount of plastic waste generated per person varies by country, with the United States generating 221 kg per person annually, while Japan and Korea generate 69 kg on average.",
-          "According to a 2023 report from Plastic Overshoot Day, the global average plastic consumption per person per year is 20.9 kg. However, the amount of plastic waste generated per person varies by country, with the United States generating 221 kg per person annually, while Japan and Korea generate 69 kg on average.",
+          "According to a 2023 report from Plastic Overshoot Day, the global average plastic consumption per person per year is 20.9 kg. However, the amount of plastic waste created per person varies by country, with the United States creating 221 kg per person annually, while Japan and Korea create 69 kg on average.",
+          "According to a 2023 report from Plastic Overshoot Day, the global average plastic consumption per person per year is 20.9 kg. However, the amount of plastic waste created per person varies by country, with the United States creating 221 kg per person annually, while Japan and Korea create 69 kg on average.",
           "The average Chair is around 10kg of plastic filament. Meaning on average one resident in the USA can produce 20 chairs using their projected waste output.",
           "The average Chair is around 10kg of plastic filament. Meaning on average one resident in the USA can produce 20 chairs using their projected waste output.",
           "Sources:",
@@ -4448,7 +4588,7 @@ const rawSourcePages = [
         "title": "Fusion 360 Modeling:",
         "items": [
           "Side profile of stool 3d model made from sketches.",
-          "Workspace for a single layer “daily use” chair.",
+          "Workspace for a single layer 'daily use' chair.",
           "Tall light and lamp concept."
         ]
       },
@@ -4486,11 +4626,14 @@ const rawSourcePages = [
           "Wall Patterns",
           "Wall Patterns",
           "Storage",
-          "Storage"
+          "Storage",
+          "More Coming!!!",
+          "More Coming!!!",
+          "An affordable solution for communities in need of furniture. Creating opportunities for those who don't recycle and allowing them to benefit at no additional cost."
         ]
       },
       {
-        "title": "Additional Information about the “Revo” Chair:",
+        "title": "Additional Information about the 'Revo' Chair:",
         "items": [
           "Approx. 7800 Grams of Filament was used.",
           "Approx. 7800 Grams of Filament was used.",
@@ -4501,7 +4644,7 @@ const rawSourcePages = [
         ]
       },
       {
-        "title": "Additional Information about the “Stoool/Choool” Chair:",
+        "title": "Additional Information about the 'Stoool/Choool' Chair:",
         "items": [
           "Approx. 8500 Grams of Filament was used.",
           "Approx. 8500 Grams of Filament was used.",
@@ -4512,10 +4655,10 @@ const rawSourcePages = [
       {
         "title": "BOTH:",
         "items": [
-          "Both are Surprisingly strong for being a prototypes and having only 8% or 10% infill. Performance better than Fusion 360’s physical material simulation lab expectations.",
-          "Both are Surprisingly strong for being a prototypes and having only 8% or 10% infill. Performance better than Fusion 360’s physical material simulation lab expectations.",
+          "Both are Surprisingly strong for being a prototypes and having only 8% or 10% infill. Performance better than Fusion 360's physical material simulation lab expectations.",
+          "Both are Surprisingly strong for being a prototypes and having only 8% or 10% infill. Performance better than Fusion 360's physical material simulation lab expectations.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -4525,7 +4668,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0204-plastivista-atelier-29319c7b742b.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0204-plastivista-atelier-29319c7b742b.webp",
         "kind": "image"
       },
       {
@@ -4533,7 +4676,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0205-set-of-items-better-75ea64a28f3e.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0205-set-of-items-better-75ea64a28f3e.webp",
         "kind": "image"
       },
       {
@@ -4541,7 +4684,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0206-sign-up-131eef61ad53.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0206-sign-up-131eef61ad53.webp",
         "kind": "image"
       },
       {
@@ -4549,7 +4692,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0207-image-asset-8cd0f6e50bd2.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0207-image-asset-8cd0f6e50bd2.webp",
         "kind": "image"
       },
       {
@@ -4557,7 +4700,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0208-plasitc-2-png-325246f96ebd.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0208-plasitc-2-png-325246f96ebd.webp",
         "kind": "image"
       },
       {
@@ -4565,7 +4708,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0209-chair-icon-png-f6c58b6faa59.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0209-chair-icon-png-f6c58b6faa59.webp",
         "kind": "image"
       },
       {
@@ -4573,7 +4716,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0120-arrow2-b5f8636f7d0f.webp",
+        "localPath": "assets/source-site/spotify-concept/0120-arrow2-b5f8636f7d0f.webp",
         "kind": "image"
       },
       {
@@ -4581,7 +4724,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0210-stool4-9349e49ef3cb.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0210-stool4-9349e49ef3cb.webp",
         "kind": "image"
       },
       {
@@ -4589,7 +4732,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0211-looop2-a37ba72077ae.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0211-looop2-a37ba72077ae.webp",
         "kind": "image"
       },
       {
@@ -4597,7 +4740,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0212-pxl-20241108-195125447-mp-777a936f9800.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0212-pxl-20241108-195125447-mp-777a936f9800.webp",
         "kind": "image"
       },
       {
@@ -4605,7 +4748,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0213-pxl-20241108-195147580-mp-28be4422834b.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0213-pxl-20241108-195147580-mp-28be4422834b.webp",
         "kind": "image"
       },
       {
@@ -4613,7 +4756,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0214-pxl-20241108-151930765-mp-9f1900229a65.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0214-pxl-20241108-151930765-mp-9f1900229a65.webp",
         "kind": "image"
       },
       {
@@ -4621,7 +4764,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0215-screenshot-2024-04-29-154839-5509d1345f76.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0215-screenshot-2024-04-29-154839-5509d1345f76.webp",
         "kind": "image"
       },
       {
@@ -4629,7 +4772,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0216-screenshot-2024-04-29-153024-9eb97626ea00.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0216-screenshot-2024-04-29-153024-9eb97626ea00.webp",
         "kind": "image"
       },
       {
@@ -4637,7 +4780,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0217-screenshot-2024-04-29-154117-dc597e27d9be.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0217-screenshot-2024-04-29-154117-dc597e27d9be.webp",
         "kind": "image"
       },
       {
@@ -4645,7 +4788,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0218-pxl-20240501-020911635-2-530dd94e371e.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0218-pxl-20240501-020911635-2-530dd94e371e.webp",
         "kind": "image"
       },
       {
@@ -4653,7 +4796,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0219-screenshot-2024-04-30-221312-ab9a4d71997d.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0219-screenshot-2024-04-30-221312-ab9a4d71997d.webp",
         "kind": "image"
       },
       {
@@ -4661,7 +4804,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0220-screenshot-2024-04-30-221747-b5cc6f5a2a0e.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0220-screenshot-2024-04-30-221747-b5cc6f5a2a0e.webp",
         "kind": "image"
       },
       {
@@ -4669,7 +4812,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0221-screenshot-2024-04-30-222106-57d5b10fe8ea.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0221-screenshot-2024-04-30-222106-57d5b10fe8ea.webp",
         "kind": "image"
       },
       {
@@ -4677,7 +4820,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0222-screenshot-2024-04-30-222351-e97dda7cd548.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0222-screenshot-2024-04-30-222351-e97dda7cd548.webp",
         "kind": "image"
       },
       {
@@ -4685,7 +4828,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0223-screenshot-2024-05-02-155042-82942f3b1e8f.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0223-screenshot-2024-05-02-155042-82942f3b1e8f.webp",
         "kind": "image"
       },
       {
@@ -4693,7 +4836,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0224-screenshot-2024-04-30-233752-6ecf3a33cf5e.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0224-screenshot-2024-04-30-233752-6ecf3a33cf5e.webp",
         "kind": "image"
       },
       {
@@ -4701,7 +4844,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0225-screenshot-2024-04-30-234114-772a5c81d839.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0225-screenshot-2024-04-30-234114-772a5c81d839.webp",
         "kind": "image"
       },
       {
@@ -4709,7 +4852,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0226-screenshot-2024-05-02-165839-6ed3f4d84fba.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0226-screenshot-2024-05-02-165839-6ed3f4d84fba.webp",
         "kind": "image"
       },
       {
@@ -4717,7 +4860,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0227-allset1-84b49af8bfd5.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0227-allset1-84b49af8bfd5.webp",
         "kind": "image"
       },
       {
@@ -4725,7 +4868,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0228-allset2-22da156cc64d.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0228-allset2-22da156cc64d.webp",
         "kind": "image"
       },
       {
@@ -4733,14 +4876,14 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service Project",
-        "localPath": "assets/source-site/media/0229-pxl-20240503-163911426-mp-30ab8369d3a8.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0229-pxl-20240503-163911426-mp-30ab8369d3a8.webp",
         "kind": "image"
       }
     ],
     "media": [
       {
         "url": "https://lottie.host/9b55ff5c-7e6c-4071-8b4d-4b80643073b0/GTapoJgEiW.json",
-        "localPath": "assets/source-site/media/0230-gtapojgeiw-05713250d069.json",
+        "localPath": "assets/source-site/old-revo-chair-page/0230-gtapojgeiw-05713250d069.json",
         "kind": "animation"
       },
       {
@@ -4757,7 +4900,7 @@ const rawSourcePages = [
       "solshop",
       "3d-printing-service"
     ],
-    "heroImage": "assets/source-site/media/0204-plastivista-atelier-29319c7b742b.webp",
+    "heroImage": "assets/source-site/old-revo-chair-page/0204-plastivista-atelier-29319c7b742b.webp",
     "imageCount": 27,
     "mediaCount": 2
   },
@@ -4769,7 +4912,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-30",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "heading",
@@ -4779,12 +4922,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "figcaption",
-        "text": "\"H\" Chairs"
+        "text": "'H' Chairs"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "\"H\" Chairs"
+        "text": "'H' Chairs"
       },
       {
         "type": "text",
@@ -4839,22 +4982,22 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "figcaption",
-        "text": "The \"Staack\" Stool, Different Color Options"
+        "text": "The 'Staack' Stool, Different Color Options"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "The \"Staack\" Stool, Different Color Options"
+        "text": "The 'Staack' Stool, Different Color Options"
       },
       {
         "type": "text",
         "level": "figcaption",
-        "text": "The \"Staack\" Stool, Dual Seating"
+        "text": "The 'Staack' Stool, Dual Seating"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "The \"Staack\" Stool, Dual Seating"
+        "text": "The 'Staack' Stool, Dual Seating"
       },
       {
         "type": "text",
@@ -4869,22 +5012,22 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "figcaption",
-        "text": "The \"Clooud\" Ceiling Light"
+        "text": "The 'Clooud' Ceiling Light"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "The \"Clooud\" Ceiling Light"
+        "text": "The 'Clooud' Ceiling Light"
       },
       {
         "type": "text",
         "level": "figcaption",
-        "text": "The \"Siit\" Stoool"
+        "text": "The 'Siit' Stoool"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "The \"Siit\" Stoool"
+        "text": "The 'Siit' Stoool"
       },
       {
         "type": "text",
@@ -4949,15 +5092,15 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
         "title": "The Sol Collection",
         "items": [
-          "\"H\" Chairs",
-          "\"H\" Chairs",
+          "'H' Chairs",
+          "'H' Chairs",
           "Week Five Furniture: Listen to the Waves",
           "Week Five Furniture: Listen to the Waves",
           "Week 6 Abroad Chairs",
@@ -4967,14 +5110,34 @@ const rawSourcePages = [
           "Nanna Ditzel Inspired Furniture and Interior",
           "Nanna Ditzel Inspired Furniture and Interior",
           "Bungis Recliner Without the Cross Weave Belts",
-          "Bungis Recliner Without the Cross Weave Belts"
+          "Bungis Recliner Without the Cross Weave Belts",
+          "The 'Staack' Stool, Different Color Options",
+          "The 'Staack' Stool, Different Color Options",
+          "The 'Staack' Stool, Dual Seating",
+          "The 'Staack' Stool, Dual Seating",
+          "Denmark Abroad 2024: First Week Chair Ideation",
+          "Denmark Abroad 2024: First Week Chair Ideation",
+          "The 'Clooud' Ceiling Light",
+          "The 'Clooud' Ceiling Light",
+          "The 'Siit' Stoool",
+          "The 'Siit' Stoool",
+          "PlastiVista Atelier Full Set",
+          "PlastiVista Atelier Full Set",
+          "Chair in a Gallary",
+          "Chair in a Gallary",
+          "Two Types of the Same Chair",
+          "Two Types of the Same Chair",
+          "Base Bed Frame with Cloth",
+          "Base Bed Frame with Cloth",
+          "Base Bed Frame",
+          "Base Bed Frame"
         ]
       },
       {
         "title": "Every Day Industrial Design Rendering Challenge",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -4982,9 +5145,9 @@ const rawSourcePages = [
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/f2d30a7e-21c0-4dcc-92f4-b61e9cae11dc/Furnature+Third+Week+.png",
         "title": "Furniture",
-        "caption": "\"H\" Chairs",
-        "alt": "\"H\" Chairs",
-        "localPath": "assets/source-site/media/0085-furnature-third-week-9dde64565c6b.webp",
+        "caption": "'H' Chairs",
+        "alt": "'H' Chairs",
+        "localPath": "assets/source-site/furniture/0085-furnature-third-week-9dde64565c6b.webp",
         "kind": "image"
       },
       {
@@ -4992,7 +5155,7 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "Week Five Furniture: Listen to the Waves",
         "alt": "Week Five Furniture: Listen to the Waves",
-        "localPath": "assets/source-site/media/0086-5thweek-7b0de4a8071f.webp",
+        "localPath": "assets/source-site/furniture/0086-5thweek-7b0de4a8071f.webp",
         "kind": "image"
       },
       {
@@ -5000,7 +5163,7 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "Week 6 Abroad Chairs",
         "alt": "Week 6 Abroad Chairs",
-        "localPath": "assets/source-site/media/0087-denmark-week-6-67d94d9c4cf8.webp",
+        "localPath": "assets/source-site/furniture/0087-denmark-week-6-67d94d9c4cf8.webp",
         "kind": "image"
       },
       {
@@ -5008,7 +5171,7 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "Denmark Abroad 2024: Third Week Chair Ideation",
         "alt": "Denmark Abroad 2024: Third Week Chair Ideation",
-        "localPath": "assets/source-site/media/0088-prosses-render-week-4-brighter-9ad81a25a312.webp",
+        "localPath": "assets/source-site/furniture/0088-prosses-render-week-4-brighter-9ad81a25a312.webp",
         "kind": "image"
       },
       {
@@ -5016,7 +5179,7 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "Nanna Ditzel Inspired Furniture and Interior",
         "alt": "Nanna Ditzel Inspired Furniture and Interior",
-        "localPath": "assets/source-site/media/0089-almost-done-color-with-painting-after-sweden-75dcd5512be8.webp",
+        "localPath": "assets/source-site/furniture/0089-almost-done-color-with-painting-after-sweden-75dcd5512be8.webp",
         "kind": "image"
       },
       {
@@ -5024,23 +5187,23 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "Bungis Recliner Without the Cross Weave Belts",
         "alt": "Bungis Recliner Without the Cross Weave Belts",
-        "localPath": "assets/source-site/media/0090-bungis-chair-no-cross-weave-808ff9941c16.webp",
+        "localPath": "assets/source-site/furniture/0090-bungis-chair-no-cross-weave-808ff9941c16.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/0bbed026-1c4e-47b6-8472-409de1cdbd1e/Base+Chair+%233+RGB.png",
         "title": "Furniture",
-        "caption": "The \"Staack\" Stool, Different Color Options",
-        "alt": "The \"Staack\" Stool, Different Color Options",
-        "localPath": "assets/source-site/media/0091-base-chair-3-rgb-d3c07c3b9d1d.webp",
+        "caption": "The 'Staack' Stool, Different Color Options",
+        "alt": "The 'Staack' Stool, Different Color Options",
+        "localPath": "assets/source-site/furniture/0091-base-chair-3-rgb-d3c07c3b9d1d.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/923432d1-6d28-4450-b705-edea261d0ec6/Base+Chair+%233+Two+Parts+Shown.png",
         "title": "Furniture",
-        "caption": "The \"Staack\" Stool, Dual Seating",
-        "alt": "The \"Staack\" Stool, Dual Seating",
-        "localPath": "assets/source-site/media/0092-base-chair-3-two-parts-shown-459b7f320c22.webp",
+        "caption": "The 'Staack' Stool, Dual Seating",
+        "alt": "The 'Staack' Stool, Dual Seating",
+        "localPath": "assets/source-site/furniture/0092-base-chair-3-two-parts-shown-459b7f320c22.webp",
         "kind": "image"
       },
       {
@@ -5048,23 +5211,23 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "Denmark Abroad 2024: First Week Chair Ideation",
         "alt": "Denmark Abroad 2024: First Week Chair Ideation",
-        "localPath": "assets/source-site/media/0093-full-chiar-ideation-denmark-first-week-d00a138ed5f3.webp",
+        "localPath": "assets/source-site/furniture/0093-full-chiar-ideation-denmark-first-week-d00a138ed5f3.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1a63d075-ee31-48e2-b725-40ecebc62a0f/Mom%27s+Light+with+chairs2+.png",
         "title": "Furniture",
-        "caption": "The \"Clooud\" Ceiling Light",
-        "alt": "The \"Clooud\" Ceiling Light",
-        "localPath": "assets/source-site/media/0094-mom-s-light-with-chairs2-a9a4ae1dc519.webp",
+        "caption": "The 'Clooud' Ceiling Light",
+        "alt": "The 'Clooud' Ceiling Light",
+        "localPath": "assets/source-site/furniture/0094-mom-s-light-with-chairs2-a9a4ae1dc519.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/b20595e5-fb9c-44b8-b7a6-83c05e4a1fe8/need+i+say+more.png",
         "title": "Furniture",
-        "caption": "The \"Siit\" Stoool",
-        "alt": "The \"Siit\" Stoool",
-        "localPath": "assets/source-site/media/0095-need-i-say-more-d298e0e44ab0.webp",
+        "caption": "The 'Siit' Stoool",
+        "alt": "The 'Siit' Stoool",
+        "localPath": "assets/source-site/furniture/0095-need-i-say-more-d298e0e44ab0.webp",
         "kind": "image"
       },
       {
@@ -5072,7 +5235,7 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "PlastiVista Atelier Full Set",
         "alt": "PlastiVista Atelier Full Set",
-        "localPath": "assets/source-site/media/0009-room-with-storage-63edcfd67c71.webp",
+        "localPath": "assets/source-site/furniture/0009-room-with-storage-63edcfd67c71.webp",
         "kind": "image"
       },
       {
@@ -5080,7 +5243,7 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "Chair in a Gallary",
         "alt": "Chair in a Gallary",
-        "localPath": "assets/source-site/media/0096-painting2-a52a9dc8c9e8.webp",
+        "localPath": "assets/source-site/furniture/0096-painting2-a52a9dc8c9e8.webp",
         "kind": "image"
       },
       {
@@ -5088,7 +5251,7 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "Two Types of the Same Chair",
         "alt": "Two Types of the Same Chair",
-        "localPath": "assets/source-site/media/0097-two-chairs-with-plant-and-books-f9db92da337b.webp",
+        "localPath": "assets/source-site/furniture/0097-two-chairs-with-plant-and-books-f9db92da337b.webp",
         "kind": "image"
       },
       {
@@ -5096,7 +5259,7 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "Base Bed Frame with Cloth",
         "alt": "Base Bed Frame with Cloth",
-        "localPath": "assets/source-site/media/0098-bed-with-cloth-aa6594548b16.webp",
+        "localPath": "assets/source-site/furniture/0098-bed-with-cloth-aa6594548b16.webp",
         "kind": "image"
       },
       {
@@ -5104,7 +5267,7 @@ const rawSourcePages = [
         "title": "Furniture",
         "caption": "Base Bed Frame",
         "alt": "Base Bed Frame",
-        "localPath": "assets/source-site/media/0099-bed-render2-5cc082c82f43.webp",
+        "localPath": "assets/source-site/furniture/0099-bed-render2-5cc082c82f43.webp",
         "kind": "image"
       },
       {
@@ -5112,7 +5275,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Gallery 1",
-        "localPath": "assets/source-site/media/0100-full-set-of-furniture1-5ffb89da8340.webp",
+        "localPath": "assets/source-site/furniture/0100-full-set-of-furniture1-5ffb89da8340.webp",
         "kind": "image"
       },
       {
@@ -5120,7 +5283,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Gallery 1",
-        "localPath": "assets/source-site/media/0101-the-set-green-709df0129ac7.webp",
+        "localPath": "assets/source-site/furniture/0101-the-set-green-709df0129ac7.webp",
         "kind": "image"
       }
     ],
@@ -5134,7 +5297,7 @@ const rawSourcePages = [
       "3d-printing-service",
       "every-day-render-challenge"
     ],
-    "heroImage": "assets/source-site/media/0085-furnature-third-week-9dde64565c6b.webp",
+    "heroImage": "assets/source-site/furniture/0085-furnature-third-week-9dde64565c6b.webp",
     "imageCount": 18,
     "mediaCount": 0
   },
@@ -5146,7 +5309,7 @@ const rawSourcePages = [
     "lastmod": "2025-12-20",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -5156,7 +5319,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -5164,7 +5327,7 @@ const rawSourcePages = [
         "title": "Source Content",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -5219,7 +5382,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -5230,7 +5393,7 @@ const rawSourcePages = [
           "The 9INE Light Kiosk Concept was developed for my second year Industrial Design Studio 1 Class at RIT. The purpose was to create a functioning space for a product developed earlier in the year, this being the 9INE Light.",
           "The 9ine light",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -5240,7 +5403,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0024-9ine-light-progress-deck-65a93006cc3f.webp",
+        "localPath": "assets/source-site/the-9ine-light/0024-9ine-light-progress-deck-65a93006cc3f.webp",
         "kind": "image"
       },
       {
@@ -5248,7 +5411,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0025-9ine-light-progress-deck-2-99765ae275df.webp",
+        "localPath": "assets/source-site/the-9ine-light/0025-9ine-light-progress-deck-2-99765ae275df.webp",
         "kind": "image"
       },
       {
@@ -5256,7 +5419,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0026-9ine-light-progress-deck-3-caadb07885f1.webp",
+        "localPath": "assets/source-site/the-9ine-light/0026-9ine-light-progress-deck-3-caadb07885f1.webp",
         "kind": "image"
       },
       {
@@ -5264,7 +5427,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0027-9ine-light-progress-deck-4-ca3399b0bd42.webp",
+        "localPath": "assets/source-site/the-9ine-light/0027-9ine-light-progress-deck-4-ca3399b0bd42.webp",
         "kind": "image"
       },
       {
@@ -5272,7 +5435,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0028-9ine-light-progress-deck-5-b129fee3bd53.webp",
+        "localPath": "assets/source-site/the-9ine-light/0028-9ine-light-progress-deck-5-b129fee3bd53.webp",
         "kind": "image"
       },
       {
@@ -5280,7 +5443,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0029-9ine-light-progress-deck-6-7a58e836111d.webp",
+        "localPath": "assets/source-site/the-9ine-light/0029-9ine-light-progress-deck-6-7a58e836111d.webp",
         "kind": "image"
       },
       {
@@ -5288,7 +5451,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0030-9ine-light-progress-deck-7-9509e107fcc3.webp",
+        "localPath": "assets/source-site/the-9ine-light/0030-9ine-light-progress-deck-7-9509e107fcc3.webp",
         "kind": "image"
       },
       {
@@ -5296,7 +5459,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0031-9ine-light-progress-deck-8-4b4a72c02f4c.webp",
+        "localPath": "assets/source-site/the-9ine-light/0031-9ine-light-progress-deck-8-4b4a72c02f4c.webp",
         "kind": "image"
       },
       {
@@ -5304,7 +5467,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0032-9ine-light-mini-f0209c37c3bf.webp",
+        "localPath": "assets/source-site/the-9ine-light/0032-9ine-light-mini-f0209c37c3bf.webp",
         "kind": "image"
       },
       {
@@ -5312,7 +5475,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0033-front-view-943e3e1da14b.webp",
+        "localPath": "assets/source-site/the-9ine-light/0033-front-view-943e3e1da14b.webp",
         "kind": "image"
       },
       {
@@ -5320,7 +5483,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0034-front-viewlight-1b4b27673ef6.webp",
+        "localPath": "assets/source-site/the-9ine-light/0034-front-viewlight-1b4b27673ef6.webp",
         "kind": "image"
       },
       {
@@ -5328,7 +5491,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0035-smaller-light-d0c523835997.webp",
+        "localPath": "assets/source-site/the-9ine-light/0035-smaller-light-d0c523835997.webp",
         "kind": "image"
       },
       {
@@ -5336,7 +5499,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0036-pxl-20231207-152353070-1-fc26b478a34f.webp",
+        "localPath": "assets/source-site/the-9ine-light/0036-pxl-20231207-152353070-1-fc26b478a34f.webp",
         "kind": "image"
       },
       {
@@ -5344,7 +5507,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0037-pxl-20231207-152336961-1-a946213b8395.webp",
+        "localPath": "assets/source-site/the-9ine-light/0037-pxl-20231207-152336961-1-a946213b8395.webp",
         "kind": "image"
       },
       {
@@ -5352,7 +5515,7 @@ const rawSourcePages = [
         "title": "The 9INE Light",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0038-snapchat-441289155-1-9514782322e8.webp",
+        "localPath": "assets/source-site/the-9ine-light/0038-snapchat-441289155-1-9514782322e8.webp",
         "kind": "image"
       },
       {
@@ -5360,7 +5523,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0013-kiosk-renderfor-website-74c5569d0bdd.webp",
+        "localPath": "assets/source-site/the-9ine-light/0013-kiosk-renderfor-website-74c5569d0bdd.webp",
         "kind": "image"
       },
       {
@@ -5368,7 +5531,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The 9INE Light",
-        "localPath": "assets/source-site/media/0039-onefloorkioskidea-1fbb56a5749c.webp",
+        "localPath": "assets/source-site/the-9ine-light/0039-onefloorkioskidea-1fbb56a5749c.webp",
         "kind": "image"
       }
     ],
@@ -5380,7 +5543,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0024-9ine-light-progress-deck-65a93006cc3f.webp",
+    "heroImage": "assets/source-site/the-9ine-light/0024-9ine-light-progress-deck-65a93006cc3f.webp",
     "imageCount": 17,
     "mediaCount": 0
   },
@@ -5392,7 +5555,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -5412,7 +5575,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -5422,7 +5585,7 @@ const rawSourcePages = [
           "The ArchFrame Duo Collection",
           "12/24/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -5432,7 +5595,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The ArchFrame Duo Side Table",
-        "localPath": "assets/source-site/media/0938-test-4-b0b8744f2856.webp",
+        "localPath": "assets/source-site/the-archframe-duo-side-table/0938-test-4-b0b8744f2856.webp",
         "kind": "image"
       },
       {
@@ -5440,7 +5603,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The ArchFrame Duo Side Table",
-        "localPath": "assets/source-site/media/0939-test-7-fc902b6aa06d.webp",
+        "localPath": "assets/source-site/the-archframe-duo-side-table/0939-test-7-fc902b6aa06d.webp",
         "kind": "image"
       },
       {
@@ -5448,7 +5611,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The ArchFrame Duo Side Table",
-        "localPath": "assets/source-site/media/0940-test-1-78b7834708c8.webp",
+        "localPath": "assets/source-site/the-archframe-duo-side-table/0940-test-1-78b7834708c8.webp",
         "kind": "image"
       },
       {
@@ -5456,7 +5619,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The ArchFrame Duo Side Table",
-        "localPath": "assets/source-site/media/0941-test-6-8d4d381475b6.webp",
+        "localPath": "assets/source-site/the-archframe-duo-side-table/0941-test-6-8d4d381475b6.webp",
         "kind": "image"
       },
       {
@@ -5464,7 +5627,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The ArchFrame Duo Side Table",
-        "localPath": "assets/source-site/media/0942-test-5-f3e25543c988.webp",
+        "localPath": "assets/source-site/the-archframe-duo-side-table/0942-test-5-f3e25543c988.webp",
         "kind": "image"
       },
       {
@@ -5472,7 +5635,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The ArchFrame Duo Side Table",
-        "localPath": "assets/source-site/media/0943-test-3-af8615c7fbcc.webp",
+        "localPath": "assets/source-site/the-archframe-duo-side-table/0943-test-3-af8615c7fbcc.webp",
         "kind": "image"
       }
     ],
@@ -5484,7 +5647,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0938-test-4-b0b8744f2856.webp",
+    "heroImage": "assets/source-site/the-archframe-duo-side-table/0938-test-4-b0b8744f2856.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -5496,7 +5659,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -5516,7 +5679,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -5526,7 +5689,7 @@ const rawSourcePages = [
           "The Archron Collection",
           "12/19/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -5536,7 +5699,7 @@ const rawSourcePages = [
         "title": "The Archron Collection",
         "caption": "",
         "alt": "The Archron Collection",
-        "localPath": "assets/source-site/media/0891-test7-416eda2d2f59.webp",
+        "localPath": "assets/source-site/the-archron-collection/0891-test7-416eda2d2f59.webp",
         "kind": "image"
       },
       {
@@ -5544,7 +5707,7 @@ const rawSourcePages = [
         "title": "The Archron Collection",
         "caption": "",
         "alt": "The Archron Collection",
-        "localPath": "assets/source-site/media/0892-test6-ff1e24bbbb75.webp",
+        "localPath": "assets/source-site/the-archron-collection/0892-test6-ff1e24bbbb75.webp",
         "kind": "image"
       },
       {
@@ -5552,7 +5715,7 @@ const rawSourcePages = [
         "title": "The Archron Collection",
         "caption": "",
         "alt": "The Archron Collection",
-        "localPath": "assets/source-site/media/0893-test14png-8632446e291a.webp",
+        "localPath": "assets/source-site/the-archron-collection/0893-test14png-8632446e291a.webp",
         "kind": "image"
       },
       {
@@ -5560,7 +5723,7 @@ const rawSourcePages = [
         "title": "The Archron Collection",
         "caption": "",
         "alt": "The Archron Collection",
-        "localPath": "assets/source-site/media/0894-test12png-e3620327ee42.webp",
+        "localPath": "assets/source-site/the-archron-collection/0894-test12png-e3620327ee42.webp",
         "kind": "image"
       },
       {
@@ -5568,7 +5731,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Archron Collection",
-        "localPath": "assets/source-site/media/0895-test99png-b7f6e4f44fc4.webp",
+        "localPath": "assets/source-site/the-archron-collection/0895-test99png-b7f6e4f44fc4.webp",
         "kind": "image"
       },
       {
@@ -5576,7 +5739,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Archron Collection",
-        "localPath": "assets/source-site/media/0896-test17png-e0246ae54100.webp",
+        "localPath": "assets/source-site/the-archron-collection/0896-test17png-e0246ae54100.webp",
         "kind": "image"
       },
       {
@@ -5584,7 +5747,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Archron Collection",
-        "localPath": "assets/source-site/media/0897-test12png-2d81848b2f90.webp",
+        "localPath": "assets/source-site/the-archron-collection/0897-test12png-2d81848b2f90.webp",
         "kind": "image"
       },
       {
@@ -5592,7 +5755,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Archron Collection",
-        "localPath": "assets/source-site/media/0898-test15png-3cbd82dcda1a.webp",
+        "localPath": "assets/source-site/the-archron-collection/0898-test15png-3cbd82dcda1a.webp",
         "kind": "image"
       },
       {
@@ -5600,7 +5763,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Archron Collection",
-        "localPath": "assets/source-site/media/0899-test10png-4b70fbdf7b5d.webp",
+        "localPath": "assets/source-site/the-archron-collection/0899-test10png-4b70fbdf7b5d.webp",
         "kind": "image"
       },
       {
@@ -5608,7 +5771,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Archron Collection",
-        "localPath": "assets/source-site/media/0900-test7-a431548d5c27.webp",
+        "localPath": "assets/source-site/the-archron-collection/0900-test7-a431548d5c27.webp",
         "kind": "image"
       }
     ],
@@ -5620,7 +5783,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0891-test7-416eda2d2f59.webp",
+    "heroImage": "assets/source-site/the-archron-collection/0891-test7-416eda2d2f59.webp",
     "imageCount": 10,
     "mediaCount": 0
   },
@@ -5632,7 +5795,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-07",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -5652,7 +5815,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -5662,7 +5825,7 @@ const rawSourcePages = [
           "The Bloom Lamp",
           "1/7/2025",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -5672,7 +5835,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Bloom Lamp",
-        "localPath": "assets/source-site/media/1052-test-5-c83c2a3d039c.webp",
+        "localPath": "assets/source-site/the-bloom-lamp/1052-test-5-c83c2a3d039c.webp",
         "kind": "image"
       },
       {
@@ -5680,7 +5843,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Bloom Lamp",
-        "localPath": "assets/source-site/media/1053-test-1-49c6211b2f1c.webp",
+        "localPath": "assets/source-site/the-bloom-lamp/1053-test-1-49c6211b2f1c.webp",
         "kind": "image"
       },
       {
@@ -5688,7 +5851,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Bloom Lamp",
-        "localPath": "assets/source-site/media/1054-test-6-16e05ac4847f.webp",
+        "localPath": "assets/source-site/the-bloom-lamp/1054-test-6-16e05ac4847f.webp",
         "kind": "image"
       },
       {
@@ -5696,7 +5859,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Bloom Lamp",
-        "localPath": "assets/source-site/media/1055-test-3-d12d364157ce.webp",
+        "localPath": "assets/source-site/the-bloom-lamp/1055-test-3-d12d364157ce.webp",
         "kind": "image"
       },
       {
@@ -5704,7 +5867,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Bloom Lamp",
-        "localPath": "assets/source-site/media/1056-test-7-b787a8c1d022.webp",
+        "localPath": "assets/source-site/the-bloom-lamp/1056-test-7-b787a8c1d022.webp",
         "kind": "image"
       },
       {
@@ -5712,7 +5875,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Bloom Lamp",
-        "localPath": "assets/source-site/media/1057-test-4-d4e5acd76093.webp",
+        "localPath": "assets/source-site/the-bloom-lamp/1057-test-4-d4e5acd76093.webp",
         "kind": "image"
       }
     ],
@@ -5724,7 +5887,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1052-test-5-c83c2a3d039c.webp",
+    "heroImage": "assets/source-site/the-bloom-lamp/1052-test-5-c83c2a3d039c.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -5736,7 +5899,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -5756,7 +5919,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -5766,7 +5929,7 @@ const rawSourcePages = [
           "The Checkpoint Collection",
           "12/20/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -5776,7 +5939,7 @@ const rawSourcePages = [
         "title": "The Checkpoint Collection",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0901-chair-1-7925061d6ec6.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0901-chair-1-7925061d6ec6.webp",
         "kind": "image"
       },
       {
@@ -5784,7 +5947,7 @@ const rawSourcePages = [
         "title": "The Checkpoint Collection",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0902-chair-13-50f093f86675.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0902-chair-13-50f093f86675.webp",
         "kind": "image"
       },
       {
@@ -5792,7 +5955,7 @@ const rawSourcePages = [
         "title": "The Checkpoint Collection",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0903-chair-14-ca36c15afde4.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0903-chair-14-ca36c15afde4.webp",
         "kind": "image"
       },
       {
@@ -5800,7 +5963,7 @@ const rawSourcePages = [
         "title": "The Checkpoint Collection",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0904-chair-7-bd337c8bee3c.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0904-chair-7-bd337c8bee3c.webp",
         "kind": "image"
       },
       {
@@ -5808,7 +5971,7 @@ const rawSourcePages = [
         "title": "The Checkpoint Collection",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0905-chair-3-f2977bbad38c.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0905-chair-3-f2977bbad38c.webp",
         "kind": "image"
       },
       {
@@ -5816,7 +5979,7 @@ const rawSourcePages = [
         "title": "The Checkpoint Collection",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0906-chair-8-461646997c73.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0906-chair-8-461646997c73.webp",
         "kind": "image"
       },
       {
@@ -5824,7 +5987,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0907-chair-5-4954db71bdda.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0907-chair-5-4954db71bdda.webp",
         "kind": "image"
       },
       {
@@ -5832,7 +5995,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0908-chair-9-c04dec699df1.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0908-chair-9-c04dec699df1.webp",
         "kind": "image"
       },
       {
@@ -5840,7 +6003,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0909-chair-15-232ab9a100a5.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0909-chair-15-232ab9a100a5.webp",
         "kind": "image"
       },
       {
@@ -5848,7 +6011,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0910-chair-12-ba84fea8476f.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0910-chair-12-ba84fea8476f.webp",
         "kind": "image"
       },
       {
@@ -5856,7 +6019,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0911-chair-4-0c99683cd162.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0911-chair-4-0c99683cd162.webp",
         "kind": "image"
       },
       {
@@ -5864,7 +6027,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Checkpoint Collection",
-        "localPath": "assets/source-site/media/0912-chair-11-b298322fe4cb.webp",
+        "localPath": "assets/source-site/the-checkpoint-collection/0912-chair-11-b298322fe4cb.webp",
         "kind": "image"
       }
     ],
@@ -5876,7 +6039,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0901-chair-1-7925061d6ec6.webp",
+    "heroImage": "assets/source-site/the-checkpoint-collection/0901-chair-1-7925061d6ec6.webp",
     "imageCount": 12,
     "mediaCount": 0
   },
@@ -5888,7 +6051,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-03",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -5908,7 +6071,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -5918,7 +6081,7 @@ const rawSourcePages = [
           "The Contour Living Collection",
           "1/3/2025",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -5928,7 +6091,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Contour Living Collection",
-        "localPath": "assets/source-site/media/1022-test-3-5d541870dc7e.webp",
+        "localPath": "assets/source-site/the-contour-living-collection/1022-test-3-5d541870dc7e.webp",
         "kind": "image"
       },
       {
@@ -5936,7 +6099,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Contour Living Collection",
-        "localPath": "assets/source-site/media/1023-test-7-c2d742d5f003.webp",
+        "localPath": "assets/source-site/the-contour-living-collection/1023-test-7-c2d742d5f003.webp",
         "kind": "image"
       },
       {
@@ -5944,7 +6107,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Contour Living Collection",
-        "localPath": "assets/source-site/media/1024-test-12-9078207b8b3d.webp",
+        "localPath": "assets/source-site/the-contour-living-collection/1024-test-12-9078207b8b3d.webp",
         "kind": "image"
       },
       {
@@ -5952,7 +6115,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Contour Living Collection",
-        "localPath": "assets/source-site/media/1025-test-10-6773d463fb5e.webp",
+        "localPath": "assets/source-site/the-contour-living-collection/1025-test-10-6773d463fb5e.webp",
         "kind": "image"
       },
       {
@@ -5960,7 +6123,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Contour Living Collection",
-        "localPath": "assets/source-site/media/1026-test-15-d12207340778.webp",
+        "localPath": "assets/source-site/the-contour-living-collection/1026-test-15-d12207340778.webp",
         "kind": "image"
       },
       {
@@ -5968,7 +6131,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Contour Living Collection",
-        "localPath": "assets/source-site/media/1027-test-16-224c879331c3.webp",
+        "localPath": "assets/source-site/the-contour-living-collection/1027-test-16-224c879331c3.webp",
         "kind": "image"
       }
     ],
@@ -5980,7 +6143,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1022-test-3-5d541870dc7e.webp",
+    "heroImage": "assets/source-site/the-contour-living-collection/1022-test-3-5d541870dc7e.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -5992,7 +6155,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-09",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -6012,7 +6175,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -6022,7 +6185,7 @@ const rawSourcePages = [
           "The Enigma Stand",
           "1/9/2025",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -6032,7 +6195,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Enigma Stand",
-        "localPath": "assets/source-site/media/1064-test-one-dcdec7e64e79.webp",
+        "localPath": "assets/source-site/the-enigma-stand/1064-test-one-dcdec7e64e79.webp",
         "kind": "image"
       },
       {
@@ -6040,7 +6203,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Enigma Stand",
-        "localPath": "assets/source-site/media/1065-test-two-c14062b16a3b.webp",
+        "localPath": "assets/source-site/the-enigma-stand/1065-test-two-c14062b16a3b.webp",
         "kind": "image"
       },
       {
@@ -6048,7 +6211,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Enigma Stand",
-        "localPath": "assets/source-site/media/1066-test-3-84b66a87885a.webp",
+        "localPath": "assets/source-site/the-enigma-stand/1066-test-3-84b66a87885a.webp",
         "kind": "image"
       },
       {
@@ -6056,7 +6219,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Enigma Stand",
-        "localPath": "assets/source-site/media/1067-test-4-b0b4e32eabed.webp",
+        "localPath": "assets/source-site/the-enigma-stand/1067-test-4-b0b4e32eabed.webp",
         "kind": "image"
       },
       {
@@ -6064,7 +6227,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Enigma Stand",
-        "localPath": "assets/source-site/media/1068-test-5-33a6a26ba2be.webp",
+        "localPath": "assets/source-site/the-enigma-stand/1068-test-5-33a6a26ba2be.webp",
         "kind": "image"
       },
       {
@@ -6072,7 +6235,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Enigma Stand",
-        "localPath": "assets/source-site/media/1069-test-6-04c791e84d8f.webp",
+        "localPath": "assets/source-site/the-enigma-stand/1069-test-6-04c791e84d8f.webp",
         "kind": "image"
       }
     ],
@@ -6084,7 +6247,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1064-test-one-dcdec7e64e79.webp",
+    "heroImage": "assets/source-site/the-enigma-stand/1064-test-one-dcdec7e64e79.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -6096,7 +6259,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-30",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -6116,7 +6279,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -6126,7 +6289,7 @@ const rawSourcePages = [
           "The FrameLoom Chair",
           "12/28/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -6136,7 +6299,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The FrameLoom Chair",
-        "localPath": "assets/source-site/media/0962-test-4-5f9333d92ae3.webp",
+        "localPath": "assets/source-site/the-frameloom-chair/0962-test-4-5f9333d92ae3.webp",
         "kind": "image"
       },
       {
@@ -6144,7 +6307,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The FrameLoom Chair",
-        "localPath": "assets/source-site/media/0963-test-2-dc34aa39c2eb.webp",
+        "localPath": "assets/source-site/the-frameloom-chair/0963-test-2-dc34aa39c2eb.webp",
         "kind": "image"
       },
       {
@@ -6152,7 +6315,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The FrameLoom Chair",
-        "localPath": "assets/source-site/media/0964-test-5-439099404e2b.webp",
+        "localPath": "assets/source-site/the-frameloom-chair/0964-test-5-439099404e2b.webp",
         "kind": "image"
       },
       {
@@ -6160,7 +6323,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The FrameLoom Chair",
-        "localPath": "assets/source-site/media/0965-test-3-4c9358aca2df.webp",
+        "localPath": "assets/source-site/the-frameloom-chair/0965-test-3-4c9358aca2df.webp",
         "kind": "image"
       },
       {
@@ -6168,7 +6331,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The FrameLoom Chair",
-        "localPath": "assets/source-site/media/0966-test-6-9c566d68afef.webp",
+        "localPath": "assets/source-site/the-frameloom-chair/0966-test-6-9c566d68afef.webp",
         "kind": "image"
       }
     ],
@@ -6180,7 +6343,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0962-test-4-5f9333d92ae3.webp",
+    "heroImage": "assets/source-site/the-frameloom-chair/0962-test-4-5f9333d92ae3.webp",
     "imageCount": 5,
     "mediaCount": 0
   },
@@ -6192,7 +6355,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -6212,7 +6375,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -6222,7 +6385,7 @@ const rawSourcePages = [
           "The GeoBench Collection",
           "12/22/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -6232,7 +6395,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoBench Collection",
-        "localPath": "assets/source-site/media/0926-test3-cfe74f6a2fc2.webp",
+        "localPath": "assets/source-site/the-geobench-collection/0926-test3-cfe74f6a2fc2.webp",
         "kind": "image"
       },
       {
@@ -6240,7 +6403,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoBench Collection",
-        "localPath": "assets/source-site/media/0927-test7-36b2e542ee56.webp",
+        "localPath": "assets/source-site/the-geobench-collection/0927-test7-36b2e542ee56.webp",
         "kind": "image"
       },
       {
@@ -6248,7 +6411,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoBench Collection",
-        "localPath": "assets/source-site/media/0928-test10-15da2297e63d.webp",
+        "localPath": "assets/source-site/the-geobench-collection/0928-test10-15da2297e63d.webp",
         "kind": "image"
       },
       {
@@ -6256,7 +6419,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoBench Collection",
-        "localPath": "assets/source-site/media/0929-test9-846325c37bc2.webp",
+        "localPath": "assets/source-site/the-geobench-collection/0929-test9-846325c37bc2.webp",
         "kind": "image"
       },
       {
@@ -6264,7 +6427,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoBench Collection",
-        "localPath": "assets/source-site/media/0930-test4-051ef34c2d40.webp",
+        "localPath": "assets/source-site/the-geobench-collection/0930-test4-051ef34c2d40.webp",
         "kind": "image"
       },
       {
@@ -6272,7 +6435,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoBench Collection",
-        "localPath": "assets/source-site/media/0931-test5-3a00e3a83d2b.webp",
+        "localPath": "assets/source-site/the-geobench-collection/0931-test5-3a00e3a83d2b.webp",
         "kind": "image"
       }
     ],
@@ -6284,7 +6447,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0926-test3-cfe74f6a2fc2.webp",
+    "heroImage": "assets/source-site/the-geobench-collection/0926-test3-cfe74f6a2fc2.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -6296,7 +6459,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -6316,7 +6479,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -6326,7 +6489,7 @@ const rawSourcePages = [
           "The GeoNest Collection",
           "12/18/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -6336,7 +6499,7 @@ const rawSourcePages = [
         "title": "The GeoNest Collection",
         "caption": "",
         "alt": "The GeoNest Collection",
-        "localPath": "assets/source-site/media/0882-chair15-eb5d6dbbc00f.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0882-chair15-eb5d6dbbc00f.webp",
         "kind": "image"
       },
       {
@@ -6344,7 +6507,7 @@ const rawSourcePages = [
         "title": "The GeoNest Collection",
         "caption": "",
         "alt": "The GeoNest Collection",
-        "localPath": "assets/source-site/media/0883-chair17-029ad4e29625.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0883-chair17-029ad4e29625.webp",
         "kind": "image"
       },
       {
@@ -6352,7 +6515,7 @@ const rawSourcePages = [
         "title": "The GeoNest Collection",
         "caption": "",
         "alt": "The GeoNest Collection",
-        "localPath": "assets/source-site/media/0884-chair20-bed41f107dc4.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0884-chair20-bed41f107dc4.webp",
         "kind": "image"
       },
       {
@@ -6360,7 +6523,7 @@ const rawSourcePages = [
         "title": "The GeoNest Collection",
         "caption": "",
         "alt": "The GeoNest Collection",
-        "localPath": "assets/source-site/media/0885-chair4-1722c7a2a086.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0885-chair4-1722c7a2a086.webp",
         "kind": "image"
       },
       {
@@ -6368,7 +6531,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoNest Collection",
-        "localPath": "assets/source-site/media/0734-chair16-f67988931907.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0734-chair16-f67988931907.webp",
         "kind": "image"
       },
       {
@@ -6376,7 +6539,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoNest Collection",
-        "localPath": "assets/source-site/media/0886-chair19-6960d4f19a3b.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0886-chair19-6960d4f19a3b.webp",
         "kind": "image"
       },
       {
@@ -6384,7 +6547,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoNest Collection",
-        "localPath": "assets/source-site/media/0887-chair10-8a965b294395.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0887-chair10-8a965b294395.webp",
         "kind": "image"
       },
       {
@@ -6392,7 +6555,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoNest Collection",
-        "localPath": "assets/source-site/media/0888-chair14-ef3a2559983e.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0888-chair14-ef3a2559983e.webp",
         "kind": "image"
       },
       {
@@ -6400,7 +6563,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoNest Collection",
-        "localPath": "assets/source-site/media/0889-chair12-4c29355b8a7f.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0889-chair12-4c29355b8a7f.webp",
         "kind": "image"
       },
       {
@@ -6408,7 +6571,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The GeoNest Collection",
-        "localPath": "assets/source-site/media/0890-chair8-114da16086d2.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0890-chair8-114da16086d2.webp",
         "kind": "image"
       }
     ],
@@ -6420,7 +6583,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0882-chair15-eb5d6dbbc00f.webp",
+    "heroImage": "assets/source-site/the-geonest-collection/0882-chair15-eb5d6dbbc00f.webp",
     "imageCount": 10,
     "mediaCount": 0
   },
@@ -6432,7 +6595,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -6452,7 +6615,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -6462,7 +6625,7 @@ const rawSourcePages = [
           "The Grasp Collection",
           "12/21/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -6472,7 +6635,7 @@ const rawSourcePages = [
         "title": "The Grasp Collection",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0913-fullset15-4a24f96cfe65.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0913-fullset15-4a24f96cfe65.webp",
         "kind": "image"
       },
       {
@@ -6480,7 +6643,7 @@ const rawSourcePages = [
         "title": "The Grasp Collection",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0914-test-3-64d7773d6b4a.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0914-test-3-64d7773d6b4a.webp",
         "kind": "image"
       },
       {
@@ -6488,7 +6651,7 @@ const rawSourcePages = [
         "title": "The Grasp Collection",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0915-fullset2-d121fb082a57.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0915-fullset2-d121fb082a57.webp",
         "kind": "image"
       },
       {
@@ -6496,7 +6659,7 @@ const rawSourcePages = [
         "title": "The Grasp Collection",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0916-fullset3-700a999819df.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0916-fullset3-700a999819df.webp",
         "kind": "image"
       },
       {
@@ -6504,7 +6667,7 @@ const rawSourcePages = [
         "title": "The Grasp Collection",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0917-fullset6-e4c77431e04b.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0917-fullset6-e4c77431e04b.webp",
         "kind": "image"
       },
       {
@@ -6512,7 +6675,7 @@ const rawSourcePages = [
         "title": "The Grasp Collection",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0918-fullset8-319727c2a4c0.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0918-fullset8-319727c2a4c0.webp",
         "kind": "image"
       },
       {
@@ -6520,7 +6683,7 @@ const rawSourcePages = [
         "title": "The Grasp Collection",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0919-fullset9-234f4815aa42.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0919-fullset9-234f4815aa42.webp",
         "kind": "image"
       },
       {
@@ -6528,7 +6691,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0920-fullset14-7151e94e4020.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0920-fullset14-7151e94e4020.webp",
         "kind": "image"
       },
       {
@@ -6536,7 +6699,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0921-fullset16-71fb76e019f9.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0921-fullset16-71fb76e019f9.webp",
         "kind": "image"
       },
       {
@@ -6544,7 +6707,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0922-fullset18-81b7490dd3cb.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0922-fullset18-81b7490dd3cb.webp",
         "kind": "image"
       },
       {
@@ -6552,7 +6715,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0923-fullset17-96c281cf9b5e.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0923-fullset17-96c281cf9b5e.webp",
         "kind": "image"
       },
       {
@@ -6560,7 +6723,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0924-fullset7-27dfbe821e49.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0924-fullset7-27dfbe821e49.webp",
         "kind": "image"
       },
       {
@@ -6568,7 +6731,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Grasp Collection",
-        "localPath": "assets/source-site/media/0925-fullset19-a8a22f829135.webp",
+        "localPath": "assets/source-site/the-grasp-collection/0925-fullset19-a8a22f829135.webp",
         "kind": "image"
       }
     ],
@@ -6580,7 +6743,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0913-fullset15-4a24f96cfe65.webp",
+    "heroImage": "assets/source-site/the-grasp-collection/0913-fullset15-4a24f96cfe65.webp",
     "imageCount": 13,
     "mediaCount": 0
   },
@@ -6592,7 +6755,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-11",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -6612,7 +6775,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -6622,7 +6785,7 @@ const rawSourcePages = [
           "The Kontour Chair",
           "1/11/2025",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -6632,7 +6795,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Kontour Chair",
-        "localPath": "assets/source-site/media/1077-test-8-549d2fdedd23.webp",
+        "localPath": "assets/source-site/the-kontour-chair/1077-test-8-549d2fdedd23.webp",
         "kind": "image"
       },
       {
@@ -6640,7 +6803,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Kontour Chair",
-        "localPath": "assets/source-site/media/1078-test-2-f9f804df2d82.webp",
+        "localPath": "assets/source-site/the-kontour-chair/1078-test-2-f9f804df2d82.webp",
         "kind": "image"
       },
       {
@@ -6648,7 +6811,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Kontour Chair",
-        "localPath": "assets/source-site/media/1079-test-5-5f13811a0af5.webp",
+        "localPath": "assets/source-site/the-kontour-chair/1079-test-5-5f13811a0af5.webp",
         "kind": "image"
       },
       {
@@ -6656,7 +6819,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Kontour Chair",
-        "localPath": "assets/source-site/media/1080-test-7-35f8602e195d.webp",
+        "localPath": "assets/source-site/the-kontour-chair/1080-test-7-35f8602e195d.webp",
         "kind": "image"
       },
       {
@@ -6664,7 +6827,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Kontour Chair",
-        "localPath": "assets/source-site/media/1081-test-6-7c2a102435dd.webp",
+        "localPath": "assets/source-site/the-kontour-chair/1081-test-6-7c2a102435dd.webp",
         "kind": "image"
       },
       {
@@ -6672,7 +6835,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Kontour Chair",
-        "localPath": "assets/source-site/media/1082-test-10-bfe2f5681954.webp",
+        "localPath": "assets/source-site/the-kontour-chair/1082-test-10-bfe2f5681954.webp",
         "kind": "image"
       }
     ],
@@ -6684,7 +6847,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1077-test-8-549d2fdedd23.webp",
+    "heroImage": "assets/source-site/the-kontour-chair/1077-test-8-549d2fdedd23.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -6696,7 +6859,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -6716,7 +6879,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -6726,7 +6889,7 @@ const rawSourcePages = [
           "The Loma Chair",
           "12/25/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -6736,7 +6899,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Loma Chair",
-        "localPath": "assets/source-site/media/0944-test-1-3693f00b6721.webp",
+        "localPath": "assets/source-site/the-loma-chair/0944-test-1-3693f00b6721.webp",
         "kind": "image"
       },
       {
@@ -6744,7 +6907,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Loma Chair",
-        "localPath": "assets/source-site/media/0945-test-2-8e974b21d472.webp",
+        "localPath": "assets/source-site/the-loma-chair/0945-test-2-8e974b21d472.webp",
         "kind": "image"
       },
       {
@@ -6752,7 +6915,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Loma Chair",
-        "localPath": "assets/source-site/media/0946-test-4-70e648a379ba.webp",
+        "localPath": "assets/source-site/the-loma-chair/0946-test-4-70e648a379ba.webp",
         "kind": "image"
       },
       {
@@ -6760,7 +6923,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Loma Chair",
-        "localPath": "assets/source-site/media/0947-test-3-b24f7e876168.webp",
+        "localPath": "assets/source-site/the-loma-chair/0947-test-3-b24f7e876168.webp",
         "kind": "image"
       },
       {
@@ -6768,7 +6931,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Loma Chair",
-        "localPath": "assets/source-site/media/0948-test-6-1a1c4efd92bb.webp",
+        "localPath": "assets/source-site/the-loma-chair/0948-test-6-1a1c4efd92bb.webp",
         "kind": "image"
       },
       {
@@ -6776,7 +6939,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Loma Chair",
-        "localPath": "assets/source-site/media/0949-test-5-0a7fa6420500.webp",
+        "localPath": "assets/source-site/the-loma-chair/0949-test-5-0a7fa6420500.webp",
         "kind": "image"
       }
     ],
@@ -6788,7 +6951,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0944-test-1-3693f00b6721.webp",
+    "heroImage": "assets/source-site/the-loma-chair/0944-test-1-3693f00b6721.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -6800,7 +6963,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-31",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -6820,7 +6983,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -6830,7 +6993,7 @@ const rawSourcePages = [
           "The Lumen Vault Cabinet",
           "12/31/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -6840,7 +7003,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumen Vault Cabinet",
-        "localPath": "assets/source-site/media/1001-test-8-9792d696a8a4.webp",
+        "localPath": "assets/source-site/the-lumen-vault-cabinet/1001-test-8-9792d696a8a4.webp",
         "kind": "image"
       },
       {
@@ -6848,7 +7011,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumen Vault Cabinet",
-        "localPath": "assets/source-site/media/1002-test-10-e45f7d64f220.webp",
+        "localPath": "assets/source-site/the-lumen-vault-cabinet/1002-test-10-e45f7d64f220.webp",
         "kind": "image"
       },
       {
@@ -6856,7 +7019,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumen Vault Cabinet",
-        "localPath": "assets/source-site/media/1003-test-11-7913bb976cff.webp",
+        "localPath": "assets/source-site/the-lumen-vault-cabinet/1003-test-11-7913bb976cff.webp",
         "kind": "image"
       },
       {
@@ -6864,7 +7027,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumen Vault Cabinet",
-        "localPath": "assets/source-site/media/1004-test-15-643033e2a236.webp",
+        "localPath": "assets/source-site/the-lumen-vault-cabinet/1004-test-15-643033e2a236.webp",
         "kind": "image"
       },
       {
@@ -6872,7 +7035,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumen Vault Cabinet",
-        "localPath": "assets/source-site/media/1005-test-16-fca74969a813.webp",
+        "localPath": "assets/source-site/the-lumen-vault-cabinet/1005-test-16-fca74969a813.webp",
         "kind": "image"
       },
       {
@@ -6880,7 +7043,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumen Vault Cabinet",
-        "localPath": "assets/source-site/media/1006-test-14-847f8b6a9629.webp",
+        "localPath": "assets/source-site/the-lumen-vault-cabinet/1006-test-14-847f8b6a9629.webp",
         "kind": "image"
       },
       {
@@ -6888,7 +7051,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumen Vault Cabinet",
-        "localPath": "assets/source-site/media/1007-test-5-224fe3e2ab95.webp",
+        "localPath": "assets/source-site/the-lumen-vault-cabinet/1007-test-5-224fe3e2ab95.webp",
         "kind": "image"
       },
       {
@@ -6896,7 +7059,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumen Vault Cabinet",
-        "localPath": "assets/source-site/media/1008-test-13-78d84be0c0ca.webp",
+        "localPath": "assets/source-site/the-lumen-vault-cabinet/1008-test-13-78d84be0c0ca.webp",
         "kind": "image"
       },
       {
@@ -6904,7 +7067,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumen Vault Cabinet",
-        "localPath": "assets/source-site/media/1009-test-12-b94483e76b6f.webp",
+        "localPath": "assets/source-site/the-lumen-vault-cabinet/1009-test-12-b94483e76b6f.webp",
         "kind": "image"
       }
     ],
@@ -6916,7 +7079,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1001-test-8-9792d696a8a4.webp",
+    "heroImage": "assets/source-site/the-lumen-vault-cabinet/1001-test-8-9792d696a8a4.webp",
     "imageCount": 9,
     "mediaCount": 0
   },
@@ -6928,7 +7091,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-03",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -6948,7 +7111,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -6958,7 +7121,7 @@ const rawSourcePages = [
           "The Lumi Lamp",
           "1/2/2025",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -6968,7 +7131,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumi Lamp",
-        "localPath": "assets/source-site/media/1016-test-7-6fb33c2f7c92.webp",
+        "localPath": "assets/source-site/the-lumi-lamp/1016-test-7-6fb33c2f7c92.webp",
         "kind": "image"
       },
       {
@@ -6976,7 +7139,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumi Lamp",
-        "localPath": "assets/source-site/media/1017-test-3-537b477a84cb.webp",
+        "localPath": "assets/source-site/the-lumi-lamp/1017-test-3-537b477a84cb.webp",
         "kind": "image"
       },
       {
@@ -6984,7 +7147,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumi Lamp",
-        "localPath": "assets/source-site/media/1018-test-4-1aff745cd731.webp",
+        "localPath": "assets/source-site/the-lumi-lamp/1018-test-4-1aff745cd731.webp",
         "kind": "image"
       },
       {
@@ -6992,7 +7155,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumi Lamp",
-        "localPath": "assets/source-site/media/1019-test-7-a0b8f03f6d75.webp",
+        "localPath": "assets/source-site/the-lumi-lamp/1019-test-7-a0b8f03f6d75.webp",
         "kind": "image"
       },
       {
@@ -7000,7 +7163,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumi Lamp",
-        "localPath": "assets/source-site/media/1020-test-8-6442fa2ac07e.webp",
+        "localPath": "assets/source-site/the-lumi-lamp/1020-test-8-6442fa2ac07e.webp",
         "kind": "image"
       },
       {
@@ -7008,7 +7171,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Lumi Lamp",
-        "localPath": "assets/source-site/media/1021-test-9-90899ef8a184.webp",
+        "localPath": "assets/source-site/the-lumi-lamp/1021-test-9-90899ef8a184.webp",
         "kind": "image"
       }
     ],
@@ -7020,7 +7183,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1016-test-7-6fb33c2f7c92.webp",
+    "heroImage": "assets/source-site/the-lumi-lamp/1016-test-7-6fb33c2f7c92.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -7032,7 +7195,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -7052,7 +7215,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -7062,7 +7225,7 @@ const rawSourcePages = [
           "The mber Collection",
           "12/13/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -7072,7 +7235,7 @@ const rawSourcePages = [
         "title": "The mber Collection",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0759-full-set-of-furniture5-efd583d34ec1.webp",
+        "localPath": "assets/source-site/the-mber-collection/0759-full-set-of-furniture5-efd583d34ec1.webp",
         "kind": "image"
       },
       {
@@ -7080,7 +7243,7 @@ const rawSourcePages = [
         "title": "The mber Collection",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0760-full-set-of-furniture7-4f03cb33e0af.webp",
+        "localPath": "assets/source-site/the-mber-collection/0760-full-set-of-furniture7-4f03cb33e0af.webp",
         "kind": "image"
       },
       {
@@ -7088,7 +7251,7 @@ const rawSourcePages = [
         "title": "The mber Collection",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0761-1-1-ratio-table-test-5-8404c847cbee.webp",
+        "localPath": "assets/source-site/the-mber-collection/0761-1-1-ratio-table-test-5-8404c847cbee.webp",
         "kind": "image"
       },
       {
@@ -7096,7 +7259,7 @@ const rawSourcePages = [
         "title": "The mber Collection",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0762-1-1-ratio-table-test-7-22e41a143657.webp",
+        "localPath": "assets/source-site/the-mber-collection/0762-1-1-ratio-table-test-7-22e41a143657.webp",
         "kind": "image"
       },
       {
@@ -7104,7 +7267,7 @@ const rawSourcePages = [
         "title": "The mber Collection",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0763-1-1-ratio-bench-by-itself-42ead863eefc.webp",
+        "localPath": "assets/source-site/the-mber-collection/0763-1-1-ratio-bench-by-itself-42ead863eefc.webp",
         "kind": "image"
       },
       {
@@ -7112,7 +7275,7 @@ const rawSourcePages = [
         "title": "The mber Collection",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0764-1-1-ratio-chairs-test1-3a769efe37d3.webp",
+        "localPath": "assets/source-site/the-mber-collection/0764-1-1-ratio-chairs-test1-3a769efe37d3.webp",
         "kind": "image"
       },
       {
@@ -7120,7 +7283,7 @@ const rawSourcePages = [
         "title": "The mber Collection",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0765-full-set-of-furniture-ecb5846cc8da.webp",
+        "localPath": "assets/source-site/the-mber-collection/0765-full-set-of-furniture-ecb5846cc8da.webp",
         "kind": "image"
       },
       {
@@ -7128,7 +7291,7 @@ const rawSourcePages = [
         "title": "The mber Collection",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0766-1-1-ratio-table-test-3-d3a79d02fe0b.webp",
+        "localPath": "assets/source-site/the-mber-collection/0766-1-1-ratio-table-test-3-d3a79d02fe0b.webp",
         "kind": "image"
       },
       {
@@ -7136,7 +7299,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0767-1-1-ratio-full-set-in-one-3-4-angle-8c5d9c14cd2a.webp",
+        "localPath": "assets/source-site/the-mber-collection/0767-1-1-ratio-full-set-in-one-3-4-angle-8c5d9c14cd2a.webp",
         "kind": "image"
       },
       {
@@ -7144,7 +7307,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0768-1-1-ratio-full-set-in-one-47952aeb2d52.webp",
+        "localPath": "assets/source-site/the-mber-collection/0768-1-1-ratio-full-set-in-one-47952aeb2d52.webp",
         "kind": "image"
       },
       {
@@ -7152,7 +7315,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0769-1-1-ratio-bench-by-itself-3-4-angle-2657de2d3c87.webp",
+        "localPath": "assets/source-site/the-mber-collection/0769-1-1-ratio-bench-by-itself-3-4-angle-2657de2d3c87.webp",
         "kind": "image"
       },
       {
@@ -7160,7 +7323,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0770-1-1-ratio-table-test-8-44e1e54915b6.webp",
+        "localPath": "assets/source-site/the-mber-collection/0770-1-1-ratio-table-test-8-44e1e54915b6.webp",
         "kind": "image"
       },
       {
@@ -7168,7 +7331,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0771-1-1-ratio-table-test-6-2e64069abe2f.webp",
+        "localPath": "assets/source-site/the-mber-collection/0771-1-1-ratio-table-test-6-2e64069abe2f.webp",
         "kind": "image"
       },
       {
@@ -7176,7 +7339,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0772-1-1-ratio-chairs-test3-025efd4dd284.webp",
+        "localPath": "assets/source-site/the-mber-collection/0772-1-1-ratio-chairs-test3-025efd4dd284.webp",
         "kind": "image"
       },
       {
@@ -7184,7 +7347,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0773-1-1-ratio-chairs-test4-621b9f750808.webp",
+        "localPath": "assets/source-site/the-mber-collection/0773-1-1-ratio-chairs-test4-621b9f750808.webp",
         "kind": "image"
       },
       {
@@ -7192,7 +7355,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0774-1-1-ratio-table-test-5-45ac0801c617.webp",
+        "localPath": "assets/source-site/the-mber-collection/0774-1-1-ratio-table-test-5-45ac0801c617.webp",
         "kind": "image"
       },
       {
@@ -7200,7 +7363,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0775-1-1-ratio-chairs-test2-7a3c15bcf25b.webp",
+        "localPath": "assets/source-site/the-mber-collection/0775-1-1-ratio-chairs-test2-7a3c15bcf25b.webp",
         "kind": "image"
       },
       {
@@ -7208,7 +7371,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0730-full-set-of-furniture1-2051c086c195.webp",
+        "localPath": "assets/source-site/the-mber-collection/0730-full-set-of-furniture1-2051c086c195.webp",
         "kind": "image"
       },
       {
@@ -7216,7 +7379,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The mber Collection",
-        "localPath": "assets/source-site/media/0776-full-set-of-furniture4-6c9117264d76.webp",
+        "localPath": "assets/source-site/the-mber-collection/0776-full-set-of-furniture4-6c9117264d76.webp",
         "kind": "image"
       }
     ],
@@ -7228,7 +7391,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0759-full-set-of-furniture5-efd583d34ec1.webp",
+    "heroImage": "assets/source-site/the-mber-collection/0759-full-set-of-furniture5-efd583d34ec1.webp",
     "imageCount": 19,
     "mediaCount": 0
   },
@@ -7240,7 +7403,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -7260,7 +7423,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -7270,7 +7433,7 @@ const rawSourcePages = [
           "The Mossy Mates Collection",
           "12/17/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -7280,7 +7443,7 @@ const rawSourcePages = [
         "title": "The Mossy Mates Collection",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0863-stool20-eb3f5dc54268.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0863-stool20-eb3f5dc54268.webp",
         "kind": "image"
       },
       {
@@ -7288,7 +7451,7 @@ const rawSourcePages = [
         "title": "The Mossy Mates Collection",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0864-stool21-cb636a6720c0.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0864-stool21-cb636a6720c0.webp",
         "kind": "image"
       },
       {
@@ -7296,7 +7459,7 @@ const rawSourcePages = [
         "title": "The Mossy Mates Collection",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0865-stool27-47b0e9cdd057.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0865-stool27-47b0e9cdd057.webp",
         "kind": "image"
       },
       {
@@ -7304,7 +7467,7 @@ const rawSourcePages = [
         "title": "The Mossy Mates Collection",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0866-stool6-8945ac90fe37.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0866-stool6-8945ac90fe37.webp",
         "kind": "image"
       },
       {
@@ -7312,7 +7475,7 @@ const rawSourcePages = [
         "title": "The Mossy Mates Collection",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0867-stool3-cf30d021fe34.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0867-stool3-cf30d021fe34.webp",
         "kind": "image"
       },
       {
@@ -7320,7 +7483,7 @@ const rawSourcePages = [
         "title": "The Mossy Mates Collection",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0868-stool1-3416ad12bdc1.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0868-stool1-3416ad12bdc1.webp",
         "kind": "image"
       },
       {
@@ -7328,7 +7491,7 @@ const rawSourcePages = [
         "title": "The Mossy Mates Collection",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0869-test-eeac682e0f5b.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0869-test-eeac682e0f5b.webp",
         "kind": "image"
       },
       {
@@ -7336,7 +7499,7 @@ const rawSourcePages = [
         "title": "The Mossy Mates Collection",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0870-test2-dd7a79998a9c.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0870-test2-dd7a79998a9c.webp",
         "kind": "image"
       },
       {
@@ -7344,7 +7507,7 @@ const rawSourcePages = [
         "title": "The Mossy Mates Collection",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0871-test3coolgrain-27d49a29d3a2.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0871-test3coolgrain-27d49a29d3a2.webp",
         "kind": "image"
       },
       {
@@ -7352,7 +7515,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0872-stool22-582473d00b1f.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0872-stool22-582473d00b1f.webp",
         "kind": "image"
       },
       {
@@ -7360,7 +7523,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0733-stool25-97da307a6113.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0733-stool25-97da307a6113.webp",
         "kind": "image"
       },
       {
@@ -7368,7 +7531,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0873-stool16-4c645075bbd6.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0873-stool16-4c645075bbd6.webp",
         "kind": "image"
       },
       {
@@ -7376,7 +7539,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0874-stool11-612596e05676.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0874-stool11-612596e05676.webp",
         "kind": "image"
       },
       {
@@ -7384,7 +7547,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0875-stool14-3f7c8143c7dc.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0875-stool14-3f7c8143c7dc.webp",
         "kind": "image"
       },
       {
@@ -7392,7 +7555,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0876-stool12-060a74f39031.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0876-stool12-060a74f39031.webp",
         "kind": "image"
       },
       {
@@ -7400,7 +7563,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0877-stool28-2547531e2caa.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0877-stool28-2547531e2caa.webp",
         "kind": "image"
       },
       {
@@ -7408,7 +7571,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0878-stool20-30a786f0fb50.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0878-stool20-30a786f0fb50.webp",
         "kind": "image"
       },
       {
@@ -7416,7 +7579,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0879-stool19-037930451af3.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0879-stool19-037930451af3.webp",
         "kind": "image"
       },
       {
@@ -7424,7 +7587,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0880-stool26-4a8025e34584.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0880-stool26-4a8025e34584.webp",
         "kind": "image"
       },
       {
@@ -7432,7 +7595,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Mossy Mates Collection",
-        "localPath": "assets/source-site/media/0881-stool24-0a0fd69b12df.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0881-stool24-0a0fd69b12df.webp",
         "kind": "image"
       }
     ],
@@ -7444,7 +7607,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0863-stool20-eb3f5dc54268.webp",
+    "heroImage": "assets/source-site/the-mossy-mates-collection/0863-stool20-eb3f5dc54268.webp",
     "imageCount": 20,
     "mediaCount": 0
   },
@@ -7456,7 +7619,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -7476,7 +7639,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -7486,7 +7649,7 @@ const rawSourcePages = [
           "The Neo Grove Collection",
           "12/14/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -7496,7 +7659,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0777-chair-table-and-lamp5-bacfaf4b65bf.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0777-chair-table-and-lamp5-bacfaf4b65bf.webp",
         "kind": "image"
       },
       {
@@ -7504,7 +7667,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0778-chair6-7d77b8cf0ee4.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0778-chair6-7d77b8cf0ee4.webp",
         "kind": "image"
       },
       {
@@ -7512,7 +7675,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0779-chair-table-and-lamp12-0ce690ac481e.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0779-chair-table-and-lamp12-0ce690ac481e.webp",
         "kind": "image"
       },
       {
@@ -7520,7 +7683,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0780-chair2-7fb15cc58938.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0780-chair2-7fb15cc58938.webp",
         "kind": "image"
       },
       {
@@ -7528,7 +7691,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0781-chair-table-and-lamp3-b14ffb5ad924.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0781-chair-table-and-lamp3-b14ffb5ad924.webp",
         "kind": "image"
       },
       {
@@ -7536,7 +7699,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0782-chair4-fd1d3f347937.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0782-chair4-fd1d3f347937.webp",
         "kind": "image"
       },
       {
@@ -7544,7 +7707,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0783-side4-00ceacc46ecd.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0783-side4-00ceacc46ecd.webp",
         "kind": "image"
       },
       {
@@ -7552,7 +7715,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0784-chair3-9dcd0180eea8.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0784-chair3-9dcd0180eea8.webp",
         "kind": "image"
       },
       {
@@ -7560,7 +7723,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0785-chair-table-and-lamp9-58a72fab7a3e.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0785-chair-table-and-lamp9-58a72fab7a3e.webp",
         "kind": "image"
       },
       {
@@ -7568,7 +7731,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0786-chair5-3d2eed707b07.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0786-chair5-3d2eed707b07.webp",
         "kind": "image"
       },
       {
@@ -7576,7 +7739,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0787-chair-table-and-lamp14-85a1fd4f2227.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0787-chair-table-and-lamp14-85a1fd4f2227.webp",
         "kind": "image"
       },
       {
@@ -7584,7 +7747,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0788-chair4-809681a733a6.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0788-chair4-809681a733a6.webp",
         "kind": "image"
       },
       {
@@ -7592,7 +7755,7 @@ const rawSourcePages = [
         "title": "The Neo Grove Collection",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0789-side4-6eba287f4a0f.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0789-side4-6eba287f4a0f.webp",
         "kind": "image"
       },
       {
@@ -7600,7 +7763,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0790-side2-0127f95b10a7.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0790-side2-0127f95b10a7.webp",
         "kind": "image"
       },
       {
@@ -7608,7 +7771,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0791-chair7-c88d62000791.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0791-chair7-c88d62000791.webp",
         "kind": "image"
       },
       {
@@ -7616,7 +7779,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0792-chair-table-and-lamp9-5f0375cf45bc.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0792-chair-table-and-lamp9-5f0375cf45bc.webp",
         "kind": "image"
       },
       {
@@ -7624,7 +7787,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0793-chair-table-and-lamp13-40a51ba63b22.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0793-chair-table-and-lamp13-40a51ba63b22.webp",
         "kind": "image"
       },
       {
@@ -7632,7 +7795,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0794-side3-d42ff2551101.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0794-side3-d42ff2551101.webp",
         "kind": "image"
       },
       {
@@ -7640,7 +7803,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0795-chair-table-and-lamp2-a34573ee8cee.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0795-chair-table-and-lamp2-a34573ee8cee.webp",
         "kind": "image"
       },
       {
@@ -7648,7 +7811,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0796-chair-table-and-lamp14-28b48753c212.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0796-chair-table-and-lamp14-28b48753c212.webp",
         "kind": "image"
       },
       {
@@ -7656,7 +7819,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0797-chair-84db97c0f895.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0797-chair-84db97c0f895.webp",
         "kind": "image"
       },
       {
@@ -7664,7 +7827,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0798-chair-table-and-lamp11-4efebec8ecf8.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0798-chair-table-and-lamp11-4efebec8ecf8.webp",
         "kind": "image"
       },
       {
@@ -7672,7 +7835,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0799-chair-table-and-lamp6-7a279e2ed651.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0799-chair-table-and-lamp6-7a279e2ed651.webp",
         "kind": "image"
       },
       {
@@ -7680,7 +7843,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Neo Grove Collection",
-        "localPath": "assets/source-site/media/0800-chair-table-and-lamp-892f6fbfa9fe.webp",
+        "localPath": "assets/source-site/the-neo-grove-collection/0800-chair-table-and-lamp-892f6fbfa9fe.webp",
         "kind": "image"
       }
     ],
@@ -7692,7 +7855,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0777-chair-table-and-lamp5-bacfaf4b65bf.webp",
+    "heroImage": "assets/source-site/the-neo-grove-collection/0777-chair-table-and-lamp5-bacfaf4b65bf.webp",
     "imageCount": 24,
     "mediaCount": 0
   },
@@ -7704,7 +7867,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-28",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -7724,7 +7887,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -7734,7 +7897,7 @@ const rawSourcePages = [
           "The PivotPod Chair",
           "12/27/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -7744,7 +7907,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The PivotPod Chair",
-        "localPath": "assets/source-site/media/0956-test-2-6292fcce62c2.webp",
+        "localPath": "assets/source-site/the-pivotpod-chair/0956-test-2-6292fcce62c2.webp",
         "kind": "image"
       },
       {
@@ -7752,7 +7915,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The PivotPod Chair",
-        "localPath": "assets/source-site/media/0957-test-3-e17d6e9ec323.webp",
+        "localPath": "assets/source-site/the-pivotpod-chair/0957-test-3-e17d6e9ec323.webp",
         "kind": "image"
       },
       {
@@ -7760,7 +7923,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The PivotPod Chair",
-        "localPath": "assets/source-site/media/0958-test-7-ec3a6028d066.webp",
+        "localPath": "assets/source-site/the-pivotpod-chair/0958-test-7-ec3a6028d066.webp",
         "kind": "image"
       },
       {
@@ -7768,7 +7931,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The PivotPod Chair",
-        "localPath": "assets/source-site/media/0959-test-6-13da7919d193.webp",
+        "localPath": "assets/source-site/the-pivotpod-chair/0959-test-6-13da7919d193.webp",
         "kind": "image"
       },
       {
@@ -7776,7 +7939,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The PivotPod Chair",
-        "localPath": "assets/source-site/media/0960-test-9-e57ded556c48.webp",
+        "localPath": "assets/source-site/the-pivotpod-chair/0960-test-9-e57ded556c48.webp",
         "kind": "image"
       },
       {
@@ -7784,7 +7947,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The PivotPod Chair",
-        "localPath": "assets/source-site/media/0961-test-8-15c93512cb8c.webp",
+        "localPath": "assets/source-site/the-pivotpod-chair/0961-test-8-15c93512cb8c.webp",
         "kind": "image"
       }
     ],
@@ -7796,7 +7959,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0956-test-2-6292fcce62c2.webp",
+    "heroImage": "assets/source-site/the-pivotpod-chair/0956-test-2-6292fcce62c2.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -7808,7 +7971,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-05",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -7828,7 +7991,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -7838,7 +8001,7 @@ const rawSourcePages = [
           "The Prism Apex Table",
           "1/4/2025",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -7848,7 +8011,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prism Apex Table",
-        "localPath": "assets/source-site/media/1028-test-1-9669f1c4ceca.webp",
+        "localPath": "assets/source-site/the-prism-apex-table/1028-test-1-9669f1c4ceca.webp",
         "kind": "image"
       },
       {
@@ -7856,7 +8019,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prism Apex Table",
-        "localPath": "assets/source-site/media/1029-test-2-8fdd6ab33e98.webp",
+        "localPath": "assets/source-site/the-prism-apex-table/1029-test-2-8fdd6ab33e98.webp",
         "kind": "image"
       },
       {
@@ -7864,7 +8027,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prism Apex Table",
-        "localPath": "assets/source-site/media/1030-test-4-2cbd8e1bffe4.webp",
+        "localPath": "assets/source-site/the-prism-apex-table/1030-test-4-2cbd8e1bffe4.webp",
         "kind": "image"
       },
       {
@@ -7872,7 +8035,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prism Apex Table",
-        "localPath": "assets/source-site/media/1031-test-3-b1c4b4522bad.webp",
+        "localPath": "assets/source-site/the-prism-apex-table/1031-test-3-b1c4b4522bad.webp",
         "kind": "image"
       },
       {
@@ -7880,7 +8043,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prism Apex Table",
-        "localPath": "assets/source-site/media/1032-test-5-6ab6bdcb5049.webp",
+        "localPath": "assets/source-site/the-prism-apex-table/1032-test-5-6ab6bdcb5049.webp",
         "kind": "image"
       },
       {
@@ -7888,7 +8051,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prism Apex Table",
-        "localPath": "assets/source-site/media/1033-test-6-658c73c551dc.webp",
+        "localPath": "assets/source-site/the-prism-apex-table/1033-test-6-658c73c551dc.webp",
         "kind": "image"
       }
     ],
@@ -7900,7 +8063,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1028-test-1-9669f1c4ceca.webp",
+    "heroImage": "assets/source-site/the-prism-apex-table/1028-test-1-9669f1c4ceca.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -7912,7 +8075,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-05",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -7932,7 +8095,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -7942,7 +8105,7 @@ const rawSourcePages = [
           "The Prismatik Table",
           "1/5/2025",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -7952,7 +8115,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prismatik Chair",
-        "localPath": "assets/source-site/media/1034-test-1-b65c4aa1e40e.webp",
+        "localPath": "assets/source-site/the-prismatik-chair/1034-test-1-b65c4aa1e40e.webp",
         "kind": "image"
       },
       {
@@ -7960,7 +8123,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prismatik Chair",
-        "localPath": "assets/source-site/media/1035-test-6-61c2affbd71b.webp",
+        "localPath": "assets/source-site/the-prismatik-chair/1035-test-6-61c2affbd71b.webp",
         "kind": "image"
       },
       {
@@ -7968,7 +8131,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prismatik Chair",
-        "localPath": "assets/source-site/media/1036-test-10-302fa3fde137.webp",
+        "localPath": "assets/source-site/the-prismatik-chair/1036-test-10-302fa3fde137.webp",
         "kind": "image"
       },
       {
@@ -7976,7 +8139,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prismatik Chair",
-        "localPath": "assets/source-site/media/1037-test-2-129dbe19dc74.webp",
+        "localPath": "assets/source-site/the-prismatik-chair/1037-test-2-129dbe19dc74.webp",
         "kind": "image"
       },
       {
@@ -7984,7 +8147,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prismatik Chair",
-        "localPath": "assets/source-site/media/1038-test-11-8912a743d397.webp",
+        "localPath": "assets/source-site/the-prismatik-chair/1038-test-11-8912a743d397.webp",
         "kind": "image"
       },
       {
@@ -7992,7 +8155,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Prismatik Chair",
-        "localPath": "assets/source-site/media/1039-test-3-2716644cce3b.webp",
+        "localPath": "assets/source-site/the-prismatik-chair/1039-test-3-2716644cce3b.webp",
         "kind": "image"
       }
     ],
@@ -8004,7 +8167,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1034-test-1-b65c4aa1e40e.webp",
+    "heroImage": "assets/source-site/the-prismatik-chair/1034-test-1-b65c4aa1e40e.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -8016,7 +8179,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-06",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -8031,17 +8194,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Upscaling with Krea Ai"
-      },
-      {
-        "type": "text",
-        "level": "p",
         "text": "www.ethansolodukhin.com"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -8050,9 +8208,8 @@ const rawSourcePages = [
         "items": [
           "The Radia Light",
           "1/6/2025",
-          "Upscaling with Krea Ai",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -8062,7 +8219,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1040-test-7-2ecb102a4639.webp",
+        "localPath": "assets/source-site/the-radia-light/1040-test-7-2ecb102a4639.webp",
         "kind": "image"
       },
       {
@@ -8070,7 +8227,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1041-test-5-5033429d14fc.webp",
+        "localPath": "assets/source-site/the-radia-light/1041-test-5-5033429d14fc.webp",
         "kind": "image"
       },
       {
@@ -8078,7 +8235,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1042-test-3-db7e102a8b8c.webp",
+        "localPath": "assets/source-site/the-radia-light/1042-test-3-db7e102a8b8c.webp",
         "kind": "image"
       },
       {
@@ -8086,7 +8243,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1043-test-9-02308cd0694f.webp",
+        "localPath": "assets/source-site/the-radia-light/1043-test-9-02308cd0694f.webp",
         "kind": "image"
       },
       {
@@ -8094,7 +8251,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1044-test-4-cccb35f64008.webp",
+        "localPath": "assets/source-site/the-radia-light/1044-test-4-cccb35f64008.webp",
         "kind": "image"
       },
       {
@@ -8102,7 +8259,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1045-test-204-enhanced-1-e2c8e5282c44.webp",
+        "localPath": "assets/source-site/the-radia-light/1045-test-204-enhanced-1-e2c8e5282c44.webp",
         "kind": "image"
       },
       {
@@ -8110,7 +8267,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1046-test-2-a81b26f15b55.webp",
+        "localPath": "assets/source-site/the-radia-light/1046-test-2-a81b26f15b55.webp",
         "kind": "image"
       },
       {
@@ -8118,7 +8275,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1047-test-202-enhanced-0d89edf0a2ea.webp",
+        "localPath": "assets/source-site/the-radia-light/1047-test-202-enhanced-0d89edf0a2ea.webp",
         "kind": "image"
       },
       {
@@ -8126,7 +8283,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1048-test-209-enhanced-dbc916c7ac76.webp",
+        "localPath": "assets/source-site/the-radia-light/1048-test-209-enhanced-dbc916c7ac76.webp",
         "kind": "image"
       },
       {
@@ -8134,7 +8291,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1049-test-203-enhanced-d556c48ae9c5.webp",
+        "localPath": "assets/source-site/the-radia-light/1049-test-203-enhanced-d556c48ae9c5.webp",
         "kind": "image"
       },
       {
@@ -8142,7 +8299,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1050-test-207-enhanced-c3f291afc742.webp",
+        "localPath": "assets/source-site/the-radia-light/1050-test-207-enhanced-c3f291afc742.webp",
         "kind": "image"
       },
       {
@@ -8150,7 +8307,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Radia Light",
-        "localPath": "assets/source-site/media/1051-test-206-enhanced-3207ab10da46.webp",
+        "localPath": "assets/source-site/the-radia-light/1051-test-206-enhanced-3207ab10da46.webp",
         "kind": "image"
       }
     ],
@@ -8162,7 +8319,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1040-test-7-2ecb102a4639.webp",
+    "heroImage": "assets/source-site/the-radia-light/1040-test-7-2ecb102a4639.webp",
     "imageCount": 12,
     "mediaCount": 0
   },
@@ -8174,7 +8331,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-30",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -8194,7 +8351,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -8204,7 +8361,7 @@ const rawSourcePages = [
           "The Rvot Lounge Chair",
           "12/29/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -8214,7 +8371,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Rvot Lounge Chair",
-        "localPath": "assets/source-site/media/0967-test-2-a6d1cdc616e4.webp",
+        "localPath": "assets/source-site/the-rvot-lounge-chair/0967-test-2-a6d1cdc616e4.webp",
         "kind": "image"
       },
       {
@@ -8222,7 +8379,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Rvot Lounge Chair",
-        "localPath": "assets/source-site/media/0968-test-1-a4a1d1240c67.webp",
+        "localPath": "assets/source-site/the-rvot-lounge-chair/0968-test-1-a4a1d1240c67.webp",
         "kind": "image"
       },
       {
@@ -8230,7 +8387,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Rvot Lounge Chair",
-        "localPath": "assets/source-site/media/0969-test-5-7f6820981ccc.webp",
+        "localPath": "assets/source-site/the-rvot-lounge-chair/0969-test-5-7f6820981ccc.webp",
         "kind": "image"
       },
       {
@@ -8238,7 +8395,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Rvot Lounge Chair",
-        "localPath": "assets/source-site/media/0970-test-3-0927e128cf0b.webp",
+        "localPath": "assets/source-site/the-rvot-lounge-chair/0970-test-3-0927e128cf0b.webp",
         "kind": "image"
       },
       {
@@ -8246,7 +8403,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Rvot Lounge Chair",
-        "localPath": "assets/source-site/media/0971-test-4-b8bcf0639265.webp",
+        "localPath": "assets/source-site/the-rvot-lounge-chair/0971-test-4-b8bcf0639265.webp",
         "kind": "image"
       },
       {
@@ -8254,7 +8411,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Rvot Lounge Chair",
-        "localPath": "assets/source-site/media/0972-test-6-a26aae788224.webp",
+        "localPath": "assets/source-site/the-rvot-lounge-chair/0972-test-6-a26aae788224.webp",
         "kind": "image"
       }
     ],
@@ -8266,7 +8423,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0967-test-2-a6d1cdc616e4.webp",
+    "heroImage": "assets/source-site/the-rvot-lounge-chair/0967-test-2-a6d1cdc616e4.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -8278,7 +8435,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -8298,7 +8455,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -8308,7 +8465,7 @@ const rawSourcePages = [
           "The Solus Collection",
           "12/16/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -8318,7 +8475,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0822-fullset20-75add6dcf58a.webp",
+        "localPath": "assets/source-site/the-solus-collection/0822-fullset20-75add6dcf58a.webp",
         "kind": "image"
       },
       {
@@ -8326,7 +8483,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0823-fullset24-15eb225fa7e2.webp",
+        "localPath": "assets/source-site/the-solus-collection/0823-fullset24-15eb225fa7e2.webp",
         "kind": "image"
       },
       {
@@ -8334,7 +8491,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0824-fullset25-65f151ecf36f.webp",
+        "localPath": "assets/source-site/the-solus-collection/0824-fullset25-65f151ecf36f.webp",
         "kind": "image"
       },
       {
@@ -8342,7 +8499,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0825-fullset26-b7cf044c466f.webp",
+        "localPath": "assets/source-site/the-solus-collection/0825-fullset26-b7cf044c466f.webp",
         "kind": "image"
       },
       {
@@ -8350,7 +8507,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0826-fullset27-2043f8b9357b.webp",
+        "localPath": "assets/source-site/the-solus-collection/0826-fullset27-2043f8b9357b.webp",
         "kind": "image"
       },
       {
@@ -8358,7 +8515,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0827-fullset28-ba850c58ee1f.webp",
+        "localPath": "assets/source-site/the-solus-collection/0827-fullset28-ba850c58ee1f.webp",
         "kind": "image"
       },
       {
@@ -8366,7 +8523,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0828-fullset29-40ad4e759ee1.webp",
+        "localPath": "assets/source-site/the-solus-collection/0828-fullset29-40ad4e759ee1.webp",
         "kind": "image"
       },
       {
@@ -8374,7 +8531,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0829-fullset30-013cf3f01c99.webp",
+        "localPath": "assets/source-site/the-solus-collection/0829-fullset30-013cf3f01c99.webp",
         "kind": "image"
       },
       {
@@ -8382,7 +8539,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0830-fullset31-e9e6929f5c7e.webp",
+        "localPath": "assets/source-site/the-solus-collection/0830-fullset31-e9e6929f5c7e.webp",
         "kind": "image"
       },
       {
@@ -8390,7 +8547,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0831-fullset32-2917114c0034.webp",
+        "localPath": "assets/source-site/the-solus-collection/0831-fullset32-2917114c0034.webp",
         "kind": "image"
       },
       {
@@ -8398,7 +8555,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0832-fullset33-fbd8ba75d8d9.webp",
+        "localPath": "assets/source-site/the-solus-collection/0832-fullset33-fbd8ba75d8d9.webp",
         "kind": "image"
       },
       {
@@ -8406,7 +8563,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0833-fullset34-d348331ba6ab.webp",
+        "localPath": "assets/source-site/the-solus-collection/0833-fullset34-d348331ba6ab.webp",
         "kind": "image"
       },
       {
@@ -8414,7 +8571,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0834-fullset35-4c832d376be4.webp",
+        "localPath": "assets/source-site/the-solus-collection/0834-fullset35-4c832d376be4.webp",
         "kind": "image"
       },
       {
@@ -8422,7 +8579,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0835-fullset36-5be6c751b9a8.webp",
+        "localPath": "assets/source-site/the-solus-collection/0835-fullset36-5be6c751b9a8.webp",
         "kind": "image"
       },
       {
@@ -8430,7 +8587,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0836-fullset37-c4d2af545512.webp",
+        "localPath": "assets/source-site/the-solus-collection/0836-fullset37-c4d2af545512.webp",
         "kind": "image"
       },
       {
@@ -8438,7 +8595,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0837-fullset40-01c29b02c31f.webp",
+        "localPath": "assets/source-site/the-solus-collection/0837-fullset40-01c29b02c31f.webp",
         "kind": "image"
       },
       {
@@ -8446,7 +8603,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0838-fullset41-22a7c9271709.webp",
+        "localPath": "assets/source-site/the-solus-collection/0838-fullset41-22a7c9271709.webp",
         "kind": "image"
       },
       {
@@ -8454,7 +8611,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0839-fullset44-bca2bc098598.webp",
+        "localPath": "assets/source-site/the-solus-collection/0839-fullset44-bca2bc098598.webp",
         "kind": "image"
       },
       {
@@ -8462,7 +8619,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0840-fullset43-a17529792d35.webp",
+        "localPath": "assets/source-site/the-solus-collection/0840-fullset43-a17529792d35.webp",
         "kind": "image"
       },
       {
@@ -8470,7 +8627,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0841-fullset45-f5d015cf8cb2.webp",
+        "localPath": "assets/source-site/the-solus-collection/0841-fullset45-f5d015cf8cb2.webp",
         "kind": "image"
       },
       {
@@ -8478,7 +8635,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0842-fullset46-cbacf4d9b970.webp",
+        "localPath": "assets/source-site/the-solus-collection/0842-fullset46-cbacf4d9b970.webp",
         "kind": "image"
       },
       {
@@ -8486,7 +8643,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0843-fullset54-d681e1c80127.webp",
+        "localPath": "assets/source-site/the-solus-collection/0843-fullset54-d681e1c80127.webp",
         "kind": "image"
       },
       {
@@ -8494,7 +8651,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0844-fullset55-43f0ac882f58.webp",
+        "localPath": "assets/source-site/the-solus-collection/0844-fullset55-43f0ac882f58.webp",
         "kind": "image"
       },
       {
@@ -8502,7 +8659,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0845-fullset53-dc397beef992.webp",
+        "localPath": "assets/source-site/the-solus-collection/0845-fullset53-dc397beef992.webp",
         "kind": "image"
       },
       {
@@ -8510,7 +8667,7 @@ const rawSourcePages = [
         "title": "The Solus Collection",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0846-fullsettest-236f978d8769.webp",
+        "localPath": "assets/source-site/the-solus-collection/0846-fullsettest-236f978d8769.webp",
         "kind": "image"
       },
       {
@@ -8518,7 +8675,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0847-fullset50-3150863085a3.webp",
+        "localPath": "assets/source-site/the-solus-collection/0847-fullset50-3150863085a3.webp",
         "kind": "image"
       },
       {
@@ -8526,7 +8683,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0848-fullset37-0df099d34cf9.webp",
+        "localPath": "assets/source-site/the-solus-collection/0848-fullset37-0df099d34cf9.webp",
         "kind": "image"
       },
       {
@@ -8534,7 +8691,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0849-fullset30-03cb29e0ff90.webp",
+        "localPath": "assets/source-site/the-solus-collection/0849-fullset30-03cb29e0ff90.webp",
         "kind": "image"
       },
       {
@@ -8542,7 +8699,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0850-fullset26-ea30bd61cdca.webp",
+        "localPath": "assets/source-site/the-solus-collection/0850-fullset26-ea30bd61cdca.webp",
         "kind": "image"
       },
       {
@@ -8550,7 +8707,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0851-fullset16-9188a03592fc.webp",
+        "localPath": "assets/source-site/the-solus-collection/0851-fullset16-9188a03592fc.webp",
         "kind": "image"
       },
       {
@@ -8558,7 +8715,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0852-fullset51-f2e612ca9f5c.webp",
+        "localPath": "assets/source-site/the-solus-collection/0852-fullset51-f2e612ca9f5c.webp",
         "kind": "image"
       },
       {
@@ -8566,7 +8723,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0853-fullset49-f001beebe7a5.webp",
+        "localPath": "assets/source-site/the-solus-collection/0853-fullset49-f001beebe7a5.webp",
         "kind": "image"
       },
       {
@@ -8574,7 +8731,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0854-fullset33-ff1061939449.webp",
+        "localPath": "assets/source-site/the-solus-collection/0854-fullset33-ff1061939449.webp",
         "kind": "image"
       },
       {
@@ -8582,7 +8739,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0855-fullset15-9a07c1ee4013.webp",
+        "localPath": "assets/source-site/the-solus-collection/0855-fullset15-9a07c1ee4013.webp",
         "kind": "image"
       },
       {
@@ -8590,7 +8747,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0856-fullset48-e4578ea467c5.webp",
+        "localPath": "assets/source-site/the-solus-collection/0856-fullset48-e4578ea467c5.webp",
         "kind": "image"
       },
       {
@@ -8598,7 +8755,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0857-fullset4-64ad869b3530.webp",
+        "localPath": "assets/source-site/the-solus-collection/0857-fullset4-64ad869b3530.webp",
         "kind": "image"
       },
       {
@@ -8606,7 +8763,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0858-fullset3-fde98431e2ac.webp",
+        "localPath": "assets/source-site/the-solus-collection/0858-fullset3-fde98431e2ac.webp",
         "kind": "image"
       },
       {
@@ -8614,7 +8771,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0859-fullset10-9cdc40df1248.webp",
+        "localPath": "assets/source-site/the-solus-collection/0859-fullset10-9cdc40df1248.webp",
         "kind": "image"
       },
       {
@@ -8622,7 +8779,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0860-fullset11-6eeb5ff70823.webp",
+        "localPath": "assets/source-site/the-solus-collection/0860-fullset11-6eeb5ff70823.webp",
         "kind": "image"
       },
       {
@@ -8630,7 +8787,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0861-fullset45-6e6e4556977f.webp",
+        "localPath": "assets/source-site/the-solus-collection/0861-fullset45-6e6e4556977f.webp",
         "kind": "image"
       },
       {
@@ -8638,7 +8795,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Solus Collection",
-        "localPath": "assets/source-site/media/0862-fullset46-9c5a818c6965.webp",
+        "localPath": "assets/source-site/the-solus-collection/0862-fullset46-9c5a818c6965.webp",
         "kind": "image"
       }
     ],
@@ -8650,7 +8807,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0822-fullset20-75add6dcf58a.webp",
+    "heroImage": "assets/source-site/the-solus-collection/0822-fullset20-75add6dcf58a.webp",
     "imageCount": 41,
     "mediaCount": 0
   },
@@ -8662,7 +8819,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -8682,7 +8839,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -8692,7 +8849,7 @@ const rawSourcePages = [
           "The Sonolyth Collection",
           "12/15/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -8702,7 +8859,7 @@ const rawSourcePages = [
         "title": "The Sonolyth Collection",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0801-tableupdated1-61bff74415dc.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0801-tableupdated1-61bff74415dc.webp",
         "kind": "image"
       },
       {
@@ -8710,7 +8867,7 @@ const rawSourcePages = [
         "title": "The Sonolyth Collection",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0802-chair9-fc13658141bd.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0802-chair9-fc13658141bd.webp",
         "kind": "image"
       },
       {
@@ -8718,7 +8875,7 @@ const rawSourcePages = [
         "title": "The Sonolyth Collection",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0803-chair10-88494d55f737.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0803-chair10-88494d55f737.webp",
         "kind": "image"
       },
       {
@@ -8726,7 +8883,7 @@ const rawSourcePages = [
         "title": "The Sonolyth Collection",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0804-chair11-cea68e134d5b.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0804-chair11-cea68e134d5b.webp",
         "kind": "image"
       },
       {
@@ -8734,7 +8891,7 @@ const rawSourcePages = [
         "title": "The Sonolyth Collection",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0805-chair11correctone-1cfb6a7bb327.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0805-chair11correctone-1cfb6a7bb327.webp",
         "kind": "image"
       },
       {
@@ -8742,7 +8899,7 @@ const rawSourcePages = [
         "title": "The Sonolyth Collection",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0806-chair20-5c2be59d8a4c.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0806-chair20-5c2be59d8a4c.webp",
         "kind": "image"
       },
       {
@@ -8750,7 +8907,7 @@ const rawSourcePages = [
         "title": "The Sonolyth Collection",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0807-chair19-2db7b7564539.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0807-chair19-2db7b7564539.webp",
         "kind": "image"
       },
       {
@@ -8758,7 +8915,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0808-chair13-bdf9f9126561.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0808-chair13-bdf9f9126561.webp",
         "kind": "image"
       },
       {
@@ -8766,7 +8923,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0809-full-set-2b672e2e8062.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0809-full-set-2b672e2e8062.webp",
         "kind": "image"
       },
       {
@@ -8774,7 +8931,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0810-chair17-a137f2d0eab9.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0810-chair17-a137f2d0eab9.webp",
         "kind": "image"
       },
       {
@@ -8782,7 +8939,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0811-chair24-1957113cbfa5.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0811-chair24-1957113cbfa5.webp",
         "kind": "image"
       },
       {
@@ -8790,7 +8947,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0812-chair16-6f96720bd0e7.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0812-chair16-6f96720bd0e7.webp",
         "kind": "image"
       },
       {
@@ -8798,7 +8955,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0813-chair21-70177cf00ca6.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0813-chair21-70177cf00ca6.webp",
         "kind": "image"
       },
       {
@@ -8806,7 +8963,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0814-chair23-dfcc6716e94c.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0814-chair23-dfcc6716e94c.webp",
         "kind": "image"
       },
       {
@@ -8814,7 +8971,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0815-chair19-be7fb8350973.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0815-chair19-be7fb8350973.webp",
         "kind": "image"
       },
       {
@@ -8822,7 +8979,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0816-chair22-0f5973afe7bb.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0816-chair22-0f5973afe7bb.webp",
         "kind": "image"
       },
       {
@@ -8830,7 +8987,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0817-chair15-c5d1e0e7501b.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0817-chair15-c5d1e0e7501b.webp",
         "kind": "image"
       },
       {
@@ -8838,7 +8995,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0818-chair1-5a9bd3ae7655.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0818-chair1-5a9bd3ae7655.webp",
         "kind": "image"
       },
       {
@@ -8846,7 +9003,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0819-chair2-82ddc3e83ada.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0819-chair2-82ddc3e83ada.webp",
         "kind": "image"
       },
       {
@@ -8854,7 +9011,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0820-chair3-621b0e22ac86.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0820-chair3-621b0e22ac86.webp",
         "kind": "image"
       },
       {
@@ -8862,7 +9019,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Sonolyth Collection",
-        "localPath": "assets/source-site/media/0821-chair10correctone-33ba84f7845e.webp",
+        "localPath": "assets/source-site/the-sonolyth-collection/0821-chair10correctone-33ba84f7845e.webp",
         "kind": "image"
       }
     ],
@@ -8874,7 +9031,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0801-tableupdated1-61bff74415dc.webp",
+    "heroImage": "assets/source-site/the-sonolyth-collection/0801-tableupdated1-61bff74415dc.webp",
     "imageCount": 21,
     "mediaCount": 0
   },
@@ -8886,7 +9043,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-11",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -8906,7 +9063,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -8916,7 +9073,7 @@ const rawSourcePages = [
           "The Stax Set",
           "1/10/2025",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -8926,7 +9083,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Stax Set",
-        "localPath": "assets/source-site/media/1070-test-1-0896b698a9cf.webp",
+        "localPath": "assets/source-site/the-stax-set/1070-test-1-0896b698a9cf.webp",
         "kind": "image"
       },
       {
@@ -8934,7 +9091,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Stax Set",
-        "localPath": "assets/source-site/media/1071-test-2-7734da9466f8.webp",
+        "localPath": "assets/source-site/the-stax-set/1071-test-2-7734da9466f8.webp",
         "kind": "image"
       },
       {
@@ -8942,7 +9099,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Stax Set",
-        "localPath": "assets/source-site/media/1072-test-7-1cadf05732cc.webp",
+        "localPath": "assets/source-site/the-stax-set/1072-test-7-1cadf05732cc.webp",
         "kind": "image"
       },
       {
@@ -8950,7 +9107,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Stax Set",
-        "localPath": "assets/source-site/media/1073-test-3-0d8d1f5d57ad.webp",
+        "localPath": "assets/source-site/the-stax-set/1073-test-3-0d8d1f5d57ad.webp",
         "kind": "image"
       },
       {
@@ -8958,7 +9115,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Stax Set",
-        "localPath": "assets/source-site/media/1074-test-5-f22777f94890.webp",
+        "localPath": "assets/source-site/the-stax-set/1074-test-5-f22777f94890.webp",
         "kind": "image"
       },
       {
@@ -8966,7 +9123,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Stax Set",
-        "localPath": "assets/source-site/media/1075-test-6-343860cbf53e.webp",
+        "localPath": "assets/source-site/the-stax-set/1075-test-6-343860cbf53e.webp",
         "kind": "image"
       },
       {
@@ -8974,7 +9131,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Stax Set",
-        "localPath": "assets/source-site/media/1076-test-8-e6798fca4c51.webp",
+        "localPath": "assets/source-site/the-stax-set/1076-test-8-e6798fca4c51.webp",
         "kind": "image"
       }
     ],
@@ -8986,7 +9143,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1070-test-1-0896b698a9cf.webp",
+    "heroImage": "assets/source-site/the-stax-set/1070-test-1-0896b698a9cf.webp",
     "imageCount": 7,
     "mediaCount": 0
   },
@@ -8998,7 +9155,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-25",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -9018,7 +9175,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -9028,7 +9185,7 @@ const rawSourcePages = [
           "The Strata Chair",
           "12/23/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -9038,7 +9195,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Chair",
-        "localPath": "assets/source-site/media/0932-test1-519769790cfa.webp",
+        "localPath": "assets/source-site/the-strata-chair/0932-test1-519769790cfa.webp",
         "kind": "image"
       },
       {
@@ -9046,7 +9203,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Chair",
-        "localPath": "assets/source-site/media/0933-chair5-cde060ee8df5.webp",
+        "localPath": "assets/source-site/the-strata-chair/0933-chair5-cde060ee8df5.webp",
         "kind": "image"
       },
       {
@@ -9054,7 +9211,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Chair",
-        "localPath": "assets/source-site/media/0934-chair4-b256a9dc28f8.webp",
+        "localPath": "assets/source-site/the-strata-chair/0934-chair4-b256a9dc28f8.webp",
         "kind": "image"
       },
       {
@@ -9062,7 +9219,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Chair",
-        "localPath": "assets/source-site/media/0935-chair6-718a191a159a.webp",
+        "localPath": "assets/source-site/the-strata-chair/0935-chair6-718a191a159a.webp",
         "kind": "image"
       },
       {
@@ -9070,7 +9227,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Chair",
-        "localPath": "assets/source-site/media/0936-chair3-b75c0052c4dc.webp",
+        "localPath": "assets/source-site/the-strata-chair/0936-chair3-b75c0052c4dc.webp",
         "kind": "image"
       },
       {
@@ -9078,7 +9235,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Chair",
-        "localPath": "assets/source-site/media/0937-chair2-735bb5392428.webp",
+        "localPath": "assets/source-site/the-strata-chair/0937-chair2-735bb5392428.webp",
         "kind": "image"
       }
     ],
@@ -9090,24 +9247,24 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0932-test1-519769790cfa.webp",
+    "heroImage": "assets/source-site/the-strata-chair/0932-test1-519769790cfa.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
   {
     "slug": "the-uberlax-collection",
-    "title": "The ÜberLax Collection",
+    "title": "The UberLax Collection",
     "sourceUrl": "https://www.ethansolodukhin.com/the-uberlax-collection",
     "originalPath": "/the-uberlax-collection",
     "lastmod": "2025-01-02",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
         "level": "p",
-        "text": "The ÜberLax Collection"
+        "text": "The UberLax Collection"
       },
       {
         "type": "text",
@@ -9122,17 +9279,17 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
         "title": "Source Content",
         "items": [
-          "The ÜberLax Collection",
+          "The UberLax Collection",
           "1/1/2025",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -9141,48 +9298,48 @@ const rawSourcePages = [
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/a21ade12-4ff7-45ba-9ec8-3d83d7108231/Test+1.png",
         "title": "",
         "caption": "",
-        "alt": "The ÜberLax Collection",
-        "localPath": "assets/source-site/media/1010-test-1-62a949ff7120.webp",
+        "alt": "The UberLax Collection",
+        "localPath": "assets/source-site/the-uberlax-collection/1010-test-1-62a949ff7120.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/e54ff829-b541-4402-bd08-fcb1af695f71/Test+2.png",
         "title": "",
         "caption": "",
-        "alt": "The ÜberLax Collection",
-        "localPath": "assets/source-site/media/1011-test-2-90b1e2102caa.webp",
+        "alt": "The UberLax Collection",
+        "localPath": "assets/source-site/the-uberlax-collection/1011-test-2-90b1e2102caa.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/c21e0c87-ceb2-4f37-9977-8ac4fccc00a2/Test+4.png",
         "title": "",
         "caption": "",
-        "alt": "The ÜberLax Collection",
-        "localPath": "assets/source-site/media/1012-test-4-421e0cc4a8be.webp",
+        "alt": "The UberLax Collection",
+        "localPath": "assets/source-site/the-uberlax-collection/1012-test-4-421e0cc4a8be.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/44734a7d-c56f-400e-b154-319abfcff8ec/Test+3.png",
         "title": "",
         "caption": "",
-        "alt": "The ÜberLax Collection",
-        "localPath": "assets/source-site/media/1013-test-3-ec764dfd23b0.webp",
+        "alt": "The UberLax Collection",
+        "localPath": "assets/source-site/the-uberlax-collection/1013-test-3-ec764dfd23b0.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/9e8c78b4-7697-436a-b97b-406ac6f5ccb4/Test+5.png",
         "title": "",
         "caption": "",
-        "alt": "The ÜberLax Collection",
-        "localPath": "assets/source-site/media/1014-test-5-e1f5d78609dd.webp",
+        "alt": "The UberLax Collection",
+        "localPath": "assets/source-site/the-uberlax-collection/1014-test-5-e1f5d78609dd.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/32aa119b-8407-4604-95b6-6fe848f7156c/Test+6.png",
         "title": "",
         "caption": "",
-        "alt": "The ÜberLax Collection",
-        "localPath": "assets/source-site/media/1015-test-6-e2bdbe4816d4.webp",
+        "alt": "The UberLax Collection",
+        "localPath": "assets/source-site/the-uberlax-collection/1015-test-6-e2bdbe4816d4.webp",
         "kind": "image"
       }
     ],
@@ -9194,7 +9351,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1010-test-1-62a949ff7120.webp",
+    "heroImage": "assets/source-site/the-uberlax-collection/1010-test-1-62a949ff7120.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -9206,7 +9363,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-27",
     "group": "Furniture + Lighting",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -9226,7 +9383,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -9236,7 +9393,7 @@ const rawSourcePages = [
           "The Verdant Chair",
           "12/26/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -9246,7 +9403,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Verdant Chair",
-        "localPath": "assets/source-site/media/0950-test-6-c566a7f35ee1.webp",
+        "localPath": "assets/source-site/the-verdant-chair/0950-test-6-c566a7f35ee1.webp",
         "kind": "image"
       },
       {
@@ -9254,7 +9411,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Verdant Chair",
-        "localPath": "assets/source-site/media/0951-test-5-9484e820c1c5.webp",
+        "localPath": "assets/source-site/the-verdant-chair/0951-test-5-9484e820c1c5.webp",
         "kind": "image"
       },
       {
@@ -9262,7 +9419,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Verdant Chair",
-        "localPath": "assets/source-site/media/0952-test-4-3d2b06ea3f0d.webp",
+        "localPath": "assets/source-site/the-verdant-chair/0952-test-4-3d2b06ea3f0d.webp",
         "kind": "image"
       },
       {
@@ -9270,7 +9427,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Verdant Chair",
-        "localPath": "assets/source-site/media/0953-test-3-d689b0b63e88.webp",
+        "localPath": "assets/source-site/the-verdant-chair/0953-test-3-d689b0b63e88.webp",
         "kind": "image"
       },
       {
@@ -9278,7 +9435,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Verdant Chair",
-        "localPath": "assets/source-site/media/0954-test-1-63d468d274eb.webp",
+        "localPath": "assets/source-site/the-verdant-chair/0954-test-1-63d468d274eb.webp",
         "kind": "image"
       },
       {
@@ -9286,7 +9443,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Verdant Chair",
-        "localPath": "assets/source-site/media/0955-test-2-b0d3d426090a.webp",
+        "localPath": "assets/source-site/the-verdant-chair/0955-test-2-b0d3d426090a.webp",
         "kind": "image"
       }
     ],
@@ -9298,7 +9455,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0950-test-6-c566a7f35ee1.webp",
+    "heroImage": "assets/source-site/the-verdant-chair/0950-test-6-c566a7f35ee1.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -9340,7 +9497,7 @@ const rawSourcePages = [
       {
         "type": "heading",
         "level": "h3",
-        "text": "\"Your Plastic, Our Process, Your Furniture, Donate to Create.\""
+        "text": "'Your Plastic, Our Process, Your Furniture, Donate to Create.'"
       },
       {
         "type": "heading",
@@ -9380,7 +9537,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -9410,7 +9567,7 @@ const rawSourcePages = [
         "title": "Plastic Waste Breakdown",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -9420,7 +9577,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0647-for-splash-screen3-809db509e848.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0647-for-splash-screen3-809db509e848.webp",
         "kind": "image"
       },
       {
@@ -9428,7 +9585,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0204-plastivista-atelier-29319c7b742b.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0204-plastivista-atelier-29319c7b742b.webp",
         "kind": "image"
       },
       {
@@ -9436,7 +9593,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0664-save-the-world-138dabfe5250.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0664-save-the-world-138dabfe5250.webp",
         "kind": "image"
       },
       {
@@ -9444,7 +9601,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0665-living-room-122a8b769abc.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0665-living-room-122a8b769abc.webp",
         "kind": "image"
       },
       {
@@ -9452,7 +9609,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0666-convenient-db54f3a23499.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0666-convenient-db54f3a23499.webp",
         "kind": "image"
       },
       {
@@ -9460,7 +9617,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0654-recycle-4525f97279d1.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0654-recycle-4525f97279d1.webp",
         "kind": "image"
       },
       {
@@ -9468,7 +9625,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0657-arrow-right-a47ace05fdc6.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0657-arrow-right-a47ace05fdc6.webp",
         "kind": "image"
       },
       {
@@ -9476,7 +9633,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0656-asset-2shredder-vector-30e43969ac3b.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0656-asset-2shredder-vector-30e43969ac3b.webp",
         "kind": "image"
       },
       {
@@ -9484,7 +9641,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0655-arrow-right-bf06ae2f4226.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0655-arrow-right-bf06ae2f4226.webp",
         "kind": "image"
       },
       {
@@ -9492,7 +9649,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0658-asset-2fillament-recycler-3-a72ccdabf4fc.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0658-asset-2fillament-recycler-3-a72ccdabf4fc.webp",
         "kind": "image"
       },
       {
@@ -9500,7 +9657,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0659-arrow-right-80edc13f554d.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0659-arrow-right-80edc13f554d.webp",
         "kind": "image"
       },
       {
@@ -9508,7 +9665,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0660-3d-printer-1-e9177b9751ae.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0660-3d-printer-1-e9177b9751ae.webp",
         "kind": "image"
       },
       {
@@ -9516,7 +9673,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0661-asset-1revo-vecvotr-2-b99a93ad0e73.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0661-asset-1revo-vecvotr-2-b99a93ad0e73.webp",
         "kind": "image"
       },
       {
@@ -9524,7 +9681,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0662-stool-vector-3-4d16c5cc7e5e.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0662-stool-vector-3-4d16c5cc7e5e.webp",
         "kind": "image"
       },
       {
@@ -9532,7 +9689,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "For PDF Layout",
-        "localPath": "assets/source-site/media/0663-tall-light-452fd7e8b856.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0663-tall-light-452fd7e8b856.webp",
         "kind": "image"
       }
     ],
@@ -9550,7 +9707,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0647-for-splash-screen3-809db509e848.webp",
+    "heroImage": "assets/source-site/for-pdf-layout/0647-for-splash-screen3-809db509e848.webp",
     "imageCount": 15,
     "mediaCount": 1
   },
@@ -9562,7 +9719,7 @@ const rawSourcePages = [
     "lastmod": "2024-09-23",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -9572,7 +9729,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -9580,7 +9737,7 @@ const rawSourcePages = [
         "title": "Source Content",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -9605,7 +9762,7 @@ const rawSourcePages = [
     "lastmod": "2025-12-21",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -9615,7 +9772,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -9623,7 +9780,7 @@ const rawSourcePages = [
         "title": "Source Content",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -9648,7 +9805,7 @@ const rawSourcePages = [
     "lastmod": "2026-04-02",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -9658,7 +9815,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -9666,7 +9823,7 @@ const rawSourcePages = [
         "title": "Source Content",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -9676,7 +9833,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Resume & Contact",
-        "localPath": "assets/source-site/media/0177-ethan-solodukhin-resume-updated-2026-8f135b1a4adc.webp",
+        "localPath": "assets/source-site/resume/0177-ethan-solodukhin-resume-updated-2026-8f135b1a4adc.webp",
         "kind": "image"
       }
     ],
@@ -9689,7 +9846,7 @@ const rawSourcePages = [
       "s-ethan-solodukhin-resume-updated-2026-pdf",
       "s-ethan-solodukhin-resume-2025-final-6jet-pdf"
     ],
-    "heroImage": "assets/source-site/media/0177-ethan-solodukhin-resume-updated-2026-8f135b1a4adc.webp",
+    "heroImage": "assets/source-site/resume/0177-ethan-solodukhin-resume-updated-2026-8f135b1a4adc.webp",
     "imageCount": 1,
     "mediaCount": 0
   },
@@ -9701,7 +9858,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-26",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "heading",
@@ -9731,7 +9888,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -9742,7 +9899,7 @@ const rawSourcePages = [
           "$38.99",
           "Working Prototype:",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -9752,39 +9909,39 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Test",
-        "localPath": "assets/source-site/media/0231-deck-adversising-e1bb407533f5.webp",
+        "localPath": "assets/source-site/test/0231-deck-adversising-e1bb407533f5.webp",
         "kind": "image"
       }
     ],
     "media": [
       {
         "url": "https://lottie.host/74279c5b-6d3d-437e-aa01-7a78d0d32061/neH8asCy5x.json",
-        "localPath": "assets/source-site/media/0232-neh8ascy5x-2c30bfaa0ff6.json",
+        "localPath": "assets/source-site/arizona-can-redesign/0232-neh8ascy5x-2c30bfaa0ff6.json",
         "kind": "animation"
       },
       {
         "url": "https://lottie.host/e415ccf5-5b44-4ca2-915f-6e199ffa7f11/ZoEH8t9pj6.json",
-        "localPath": "assets/source-site/media/0233-zoeh8t9pj6-55f3a03a4214.json",
+        "localPath": "assets/source-site/arizona-can-redesign/0233-zoeh8t9pj6-55f3a03a4214.json",
         "kind": "animation"
       },
       {
         "url": "https://lottie.host/edae9dad-8c70-4c85-b33b-566917d41672/70JWgAvjhx.json",
-        "localPath": "assets/source-site/media/0234-70jwgavjhx-145510114d80.json",
+        "localPath": "assets/source-site/arizona-can-redesign/0234-70jwgavjhx-145510114d80.json",
         "kind": "animation"
       },
       {
         "url": "https://lottie.host/013af3d5-088e-434e-a39a-2ac5690dc717/CthHuEES6e.json",
-        "localPath": "assets/source-site/media/0235-cthhuees6e-b5ab387fa24f.json",
+        "localPath": "assets/source-site/arizona-can-redesign/0235-cthhuees6e-b5ab387fa24f.json",
         "kind": "animation"
       },
       {
         "url": "https://lottie.host/24ce0512-07b6-4eb3-9415-182895b643cb/bbVj5qH0k7.json",
-        "localPath": "assets/source-site/media/0236-bbvj5qh0k7-dc341dede482.json",
+        "localPath": "assets/source-site/test/0236-bbvj5qh0k7-dc341dede482.json",
         "kind": "animation"
       },
       {
         "url": "https://lottie.host/72d29837-9720-44b1-b1b2-a4ad19369485/vUZsTMKLXq.json",
-        "localPath": "assets/source-site/media/0237-vuzstmklxq-1fdc7b264ae7.json",
+        "localPath": "assets/source-site/test/0237-vuzstmklxq-1fdc7b264ae7.json",
         "kind": "animation"
       }
     ],
@@ -9796,7 +9953,7 @@ const rawSourcePages = [
       "solshop",
       "sol-wheel"
     ],
-    "heroImage": "assets/source-site/media/0231-deck-adversising-e1bb407533f5.webp",
+    "heroImage": "assets/source-site/test/0231-deck-adversising-e1bb407533f5.webp",
     "imageCount": 1,
     "mediaCount": 6
   },
@@ -9808,7 +9965,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-14",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -9818,7 +9975,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -9826,7 +9983,7 @@ const rawSourcePages = [
         "title": "Source Content",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -9834,7 +9991,7 @@ const rawSourcePages = [
     "media": [
       {
         "url": "https://lottie.host/8b388f7a-ef6f-47c4-9d1a-7543b618b49b/aun67vs0Dy.json",
-        "localPath": "assets/source-site/media/0238-aun67vs0dy-48372a1ffe84.json",
+        "localPath": "assets/source-site/test2/0238-aun67vs0dy-48372a1ffe84.json",
         "kind": "animation"
       }
     ],
@@ -9857,7 +10014,7 @@ const rawSourcePages = [
     "lastmod": "2025-02-04",
     "group": "Legacy + Utility",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "heading",
@@ -9872,7 +10029,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -9880,7 +10037,7 @@ const rawSourcePages = [
         "title": "UX/UI Resume",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -9890,7 +10047,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "UX UI Resume",
-        "localPath": "assets/source-site/media/1112-ethan-solodukhin-resume-ux-ui-04-cdf1eb307708.webp",
+        "localPath": "assets/source-site/ux-ui-resume/1112-ethan-solodukhin-resume-ux-ui-04-cdf1eb307708.webp",
         "kind": "image"
       }
     ],
@@ -9903,7 +10060,7 @@ const rawSourcePages = [
       "solshop",
       "s-ethan-solodukhin-ux-ui-resume-pdf"
     ],
-    "heroImage": "assets/source-site/media/1112-ethan-solodukhin-resume-ux-ui-04-cdf1eb307708.webp",
+    "heroImage": "assets/source-site/ux-ui-resume/1112-ethan-solodukhin-resume-ux-ui-04-cdf1eb307708.webp",
     "imageCount": 1,
     "mediaCount": 0
   },
@@ -9925,7 +10082,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Check out Agneya Kulkarni’s Page with the process and developemnt to learn more."
+        "text": "Check out Agneya Kulkarni's Page with the process and developemnt to learn more."
       },
       {
         "type": "text",
@@ -9960,12 +10117,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "figcaption",
-        "text": "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it’s not limited to middle-aged users."
+        "text": "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it's not limited to middle-aged users."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it’s not limited to middle-aged users."
+        "text": "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it's not limited to middle-aged users."
       },
       {
         "type": "heading",
@@ -10040,7 +10197,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -10048,15 +10205,15 @@ const rawSourcePages = [
         "title": "Source Content",
         "items": [
           "Prefect for renters seeking a hassle-free alternative to installing a heated mirror, Airo provides a convenient, automated, plug-and-play solution to eliminate the frustration of foggy mirrors without any structural modifications.",
-          "Check out Agneya Kulkarni’s Page with the process and developemnt to learn more.",
+          "Check out Agneya Kulkarni's Page with the process and developemnt to learn more.",
           "Sep-Dec 2024",
           "Credits:",
           "Agneya Kulkarni: Product Research, Development, and Lead Designer.",
           "Ethan Solodukhin: In-context product renderings.",
           "Survey data included 120+ responses, evenly split by gender, ages 18-70+, and varied housing types. No correlation was found between gender and annoyance levels.",
           "Survey data included 120+ responses, evenly split by gender, ages 18-70+, and varied housing types. No correlation was found between gender and annoyance levels.",
-          "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it’s not limited to middle-aged users.",
-          "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it’s not limited to middle-aged users."
+          "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it's not limited to middle-aged users.",
+          "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it's not limited to middle-aged users."
         ]
       },
       {
@@ -10086,7 +10243,7 @@ const rawSourcePages = [
         "title": "Process Work.",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -10096,7 +10253,7 @@ const rawSourcePages = [
         "title": "Airo",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0979-screenshot-2024-12-30-103406-06b08441e48a.webp",
+        "localPath": "assets/source-site/airo/0979-screenshot-2024-12-30-103406-06b08441e48a.webp",
         "kind": "image"
       },
       {
@@ -10104,7 +10261,7 @@ const rawSourcePages = [
         "title": "Airo",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0980-screenshot-2024-12-30-113353-c0cb0522587f.webp",
+        "localPath": "assets/source-site/airo/0980-screenshot-2024-12-30-113353-c0cb0522587f.webp",
         "kind": "image"
       },
       {
@@ -10112,7 +10269,7 @@ const rawSourcePages = [
         "title": "Airo",
         "caption": "Survey data included 120+ responses, evenly split by gender, ages 18-70+, and varied housing types. No correlation was found between gender and annoyance levels.",
         "alt": "Survey data included 120+ responses, evenly split by gender, ages 18-70+, and varied housing types. No correlation was found between gender and annoyance levels.",
-        "localPath": "assets/source-site/media/0981-screenshot-2024-12-30-103451-0ca478afdec6.webp",
+        "localPath": "assets/source-site/airo/0981-screenshot-2024-12-30-103451-0ca478afdec6.webp",
         "kind": "image"
       },
       {
@@ -10120,15 +10277,15 @@ const rawSourcePages = [
         "title": "Airo",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0982-screenshot-2024-12-30-113445-373b526b3d2c.webp",
+        "localPath": "assets/source-site/airo/0982-screenshot-2024-12-30-113445-373b526b3d2c.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/bc62e041-680e-4edb-af51-edb7005f2c3e/Screenshot+2024-12-30+103612.png",
         "title": "Airo",
-        "caption": "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it’s not limited to middle-aged users.",
-        "alt": "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it’s not limited to middle-aged users.",
-        "localPath": "assets/source-site/media/0983-screenshot-2024-12-30-103612-9501d1fcfd2e.webp",
+        "caption": "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it's not limited to middle-aged users.",
+        "alt": "Survey results show most experience foggy mirrors, with middle-aged individuals most affected and willing to spend more. However, 20% of college students also rated the issue 7/10 or higher, indicating it's not limited to middle-aged users.",
+        "localPath": "assets/source-site/airo/0983-screenshot-2024-12-30-103612-9501d1fcfd2e.webp",
         "kind": "image"
       },
       {
@@ -10136,7 +10293,7 @@ const rawSourcePages = [
         "title": "Airo",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0984-screenshot-2024-12-30-113525-cd66baa8c7f2.webp",
+        "localPath": "assets/source-site/airo/0984-screenshot-2024-12-30-113525-cd66baa8c7f2.webp",
         "kind": "image"
       },
       {
@@ -10144,7 +10301,7 @@ const rawSourcePages = [
         "title": "Airo",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0985-screenshot-2024-12-30-113601-58f7c10ef0cc.webp",
+        "localPath": "assets/source-site/airo/0985-screenshot-2024-12-30-113601-58f7c10ef0cc.webp",
         "kind": "image"
       },
       {
@@ -10152,7 +10309,7 @@ const rawSourcePages = [
         "title": "Airo",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0986-screenshot-2024-12-30-113626-ad656e7e929b.webp",
+        "localPath": "assets/source-site/airo/0986-screenshot-2024-12-30-113626-ad656e7e929b.webp",
         "kind": "image"
       },
       {
@@ -10160,7 +10317,7 @@ const rawSourcePages = [
         "title": "Airo",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0987-screenshot-2024-12-30-113651-4cff19a8f7f5.webp",
+        "localPath": "assets/source-site/airo/0987-screenshot-2024-12-30-113651-4cff19a8f7f5.webp",
         "kind": "image"
       },
       {
@@ -10168,7 +10325,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0170-screenshot-2024-12-30-101756-741077c4c2a5.webp",
+        "localPath": "assets/source-site/airo/0170-screenshot-2024-12-30-101756-741077c4c2a5.webp",
         "kind": "image"
       },
       {
@@ -10176,7 +10333,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0988-screenshot-2024-12-30-104730-b005e778fec3.webp",
+        "localPath": "assets/source-site/airo/0988-screenshot-2024-12-30-104730-b005e778fec3.webp",
         "kind": "image"
       },
       {
@@ -10184,7 +10341,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0989-screenshot-2024-12-30-104937-d138a8d7309f.webp",
+        "localPath": "assets/source-site/airo/0989-screenshot-2024-12-30-104937-d138a8d7309f.webp",
         "kind": "image"
       },
       {
@@ -10192,7 +10349,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0990-screenshot-2024-12-30-105026-a377cde194a2.webp",
+        "localPath": "assets/source-site/airo/0990-screenshot-2024-12-30-105026-a377cde194a2.webp",
         "kind": "image"
       },
       {
@@ -10200,7 +10357,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0991-screenshot-2024-12-30-105125-1210e2608edd.webp",
+        "localPath": "assets/source-site/airo/0991-screenshot-2024-12-30-105125-1210e2608edd.webp",
         "kind": "image"
       },
       {
@@ -10208,7 +10365,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0992-screenshot-2024-12-30-105310-3194e45cabed.webp",
+        "localPath": "assets/source-site/airo/0992-screenshot-2024-12-30-105310-3194e45cabed.webp",
         "kind": "image"
       },
       {
@@ -10216,7 +10373,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0993-screenshot-2024-12-30-110639-279a7d12e778.webp",
+        "localPath": "assets/source-site/airo/0993-screenshot-2024-12-30-110639-279a7d12e778.webp",
         "kind": "image"
       },
       {
@@ -10224,7 +10381,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0994-screenshot-2024-12-30-110811-3349b7779481.webp",
+        "localPath": "assets/source-site/airo/0994-screenshot-2024-12-30-110811-3349b7779481.webp",
         "kind": "image"
       },
       {
@@ -10232,7 +10389,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0995-screenshot-2024-12-30-111025-97d733b29996.webp",
+        "localPath": "assets/source-site/airo/0995-screenshot-2024-12-30-111025-97d733b29996.webp",
         "kind": "image"
       },
       {
@@ -10240,7 +10397,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0996-screenshot-2024-12-30-111526-a00eb85f3f9f.webp",
+        "localPath": "assets/source-site/airo/0996-screenshot-2024-12-30-111526-a00eb85f3f9f.webp",
         "kind": "image"
       },
       {
@@ -10248,7 +10405,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0997-screenshot-2024-12-30-112151-b412284b4884.webp",
+        "localPath": "assets/source-site/airo/0997-screenshot-2024-12-30-112151-b412284b4884.webp",
         "kind": "image"
       },
       {
@@ -10256,7 +10413,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0998-screenshot-2024-12-30-112425-4ea561404058.webp",
+        "localPath": "assets/source-site/airo/0998-screenshot-2024-12-30-112425-4ea561404058.webp",
         "kind": "image"
       },
       {
@@ -10264,7 +10421,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/0999-screenshot-2024-12-30-112537-3ab0a6de5aa0.webp",
+        "localPath": "assets/source-site/airo/0999-screenshot-2024-12-30-112537-3ab0a6de5aa0.webp",
         "kind": "image"
       },
       {
@@ -10272,7 +10429,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Airo",
-        "localPath": "assets/source-site/media/1000-screenshot-2024-12-30-113034-1a90d4aade79.webp",
+        "localPath": "assets/source-site/airo/1000-screenshot-2024-12-30-113034-1a90d4aade79.webp",
         "kind": "image"
       }
     ],
@@ -10284,7 +10441,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0979-screenshot-2024-12-30-103406-06b08441e48a.webp",
+    "heroImage": "assets/source-site/airo/0979-screenshot-2024-12-30-103406-06b08441e48a.webp",
     "imageCount": 23,
     "mediaCount": 0
   },
@@ -10296,22 +10453,22 @@ const rawSourcePages = [
     "lastmod": "2026-01-20",
     "group": "Product Case Studies",
     "description": "",
-    "summary": "For the Autodesk University Factory Event 2025, we were tasked with designing Autodesk Origin, a multifunctional measuring device that streamlines digital fabrication by capturing precise distances, generating accurate color profiles, and featuring an intuitive interactive UI. Engineered with a laser distance sensor, high-accuracy color sensor, and integrated display, Origin bridges the gap between physical materials and digital creation, allowing designers, engineers, and makers to seamlessly scan environments, capture real-world color data, and relay information into design software. This challenge pushed us to merge precision engineering with human-centered interaction, resulting in a tool that enhances workflow efficiency in architecture, industrial design, and digital manufacturing. Through rapid prototyping and iteration, we developed an experience that feels intuitive, responsive, and essential for professionals looking to create smarter, more connected workflows.",
+    "summary": "For the Autodesk University Factory Event 2025, we were tasked with designing Autodesk Origin, a multifunctional measuring device that streamlines digital fabrication by capturing precise distances, creating accurate color profiles, and featuring an intuitive interactive UI. Engineered with a laser distance sensor, high-accuracy color sensor, and integrated display, Origin bridges the gap between physical materials and digital creation, allowing designers, engineers, and makers to seamlessly scan environments, capture real-world color data, and relay information into design software. This challenge pushed us to merge precision engineering with human-centered interaction, resulting in a tool that enhances workflow efficiency in architecture, industrial design, and digital manufacturing. Through rapid prototyping and iteration, we developed an experience that feels intuitive, responsive, and essential for professionals looking to create smarter, more connected workflows.",
     "textBlocks": [
       {
         "type": "text",
         "level": "p",
-        "text": "For the Autodesk University Factory Event 2025, we were tasked with designing Autodesk Origin, a multifunctional measuring device that streamlines digital fabrication by capturing precise distances, generating accurate color profiles, and featuring an intuitive interactive UI. Engineered with a laser distance sensor, high-accuracy color sensor, and integrated display, Origin bridges the gap between physical materials and digital creation, allowing designers, engineers, and makers to seamlessly scan environments, capture real-world color data, and relay information into design software. This challenge pushed us to merge precision engineering with human-centered interaction, resulting in a tool that enhances workflow efficiency in architecture, industrial design, and digital manufacturing. Through rapid prototyping and iteration, we developed an experience that feels intuitive, responsive, and essential for professionals looking to create smarter, more connected workflows."
+        "text": "For the Autodesk University Factory Event 2025, we were tasked with designing Autodesk Origin, a multifunctional measuring device that streamlines digital fabrication by capturing precise distances, creating accurate color profiles, and featuring an intuitive interactive UI. Engineered with a laser distance sensor, high-accuracy color sensor, and integrated display, Origin bridges the gap between physical materials and digital creation, allowing designers, engineers, and makers to seamlessly scan environments, capture real-world color data, and relay information into design software. This challenge pushed us to merge precision engineering with human-centered interaction, resulting in a tool that enhances workflow efficiency in architecture, industrial design, and digital manufacturing. Through rapid prototyping and iteration, we developed an experience that feels intuitive, responsive, and essential for professionals looking to create smarter, more connected workflows."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "featuring a laser distance sensor, color sensor, haptic control dial, and screen—showcasing the cutting-edge capabilities of Autodesk and their partners."
+        "text": "featuring a laser distance sensor, color sensor, haptic control dial, and screen-showcasing the cutting-edge capabilities of Autodesk and their partners."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "A daily tool designed to impress—"
+        "text": "A daily tool designed to impress-"
       },
       {
         "type": "heading",
@@ -10381,16 +10538,16 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
         "title": "Source Content",
         "items": [
-          "For the Autodesk University Factory Event 2025, we were tasked with designing Autodesk Origin, a multifunctional measuring device that streamlines digital fabrication by capturing precise distances, generating accurate color profiles, and featuring an intuitive interactive UI. Engineered with a laser distance sensor, high-accuracy color sensor, and integrated display, Origin bridges the gap between physical materials and digital creation, allowing designers, engineers, and makers to seamlessly scan environments, capture real-world color data, and relay information into design software. This challenge pushed us to merge precision engineering with human-centered interaction, resulting in a tool that enhances workflow efficiency in architecture, industrial design, and digital manufacturing. Through rapid prototyping and iteration, we developed an experience that feels intuitive, responsive, and essential for professionals looking to create smarter, more connected workflows.",
-          "featuring a laser distance sensor, color sensor, haptic control dial, and screen—showcasing the cutting-edge capabilities of Autodesk and their partners.",
-          "A daily tool designed to impress—"
+          "For the Autodesk University Factory Event 2025, we were tasked with designing Autodesk Origin, a multifunctional measuring device that streamlines digital fabrication by capturing precise distances, creating accurate color profiles, and featuring an intuitive interactive UI. Engineered with a laser distance sensor, high-accuracy color sensor, and integrated display, Origin bridges the gap between physical materials and digital creation, allowing designers, engineers, and makers to seamlessly scan environments, capture real-world color data, and relay information into design software. This challenge pushed us to merge precision engineering with human-centered interaction, resulting in a tool that enhances workflow efficiency in architecture, industrial design, and digital manufacturing. Through rapid prototyping and iteration, we developed an experience that feels intuitive, responsive, and essential for professionals looking to create smarter, more connected workflows.",
+          "featuring a laser distance sensor, color sensor, haptic control dial, and screen-showcasing the cutting-edge capabilities of Autodesk and their partners.",
+          "A daily tool designed to impress-"
         ]
       },
       {
@@ -10408,7 +10565,7 @@ const rawSourcePages = [
         "title": "Final Physical Form Variations",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -10418,7 +10575,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0002-screenshot-2024-12-08-190611-dabb4a8b4d20.webp",
+        "localPath": "assets/source-site/autodesk-origin/0002-screenshot-2024-12-08-190611-dabb4a8b4d20.webp",
         "kind": "image"
       },
       {
@@ -10426,7 +10583,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0680-on-table-shot3-75c3d74b7ce1.webp",
+        "localPath": "assets/source-site/autodesk-origin/0680-on-table-shot3-75c3d74b7ce1.webp",
         "kind": "image"
       },
       {
@@ -10434,7 +10591,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0681-screenshot-2024-12-08-191214-206f0d70ab93.webp",
+        "localPath": "assets/source-site/autodesk-origin/0681-screenshot-2024-12-08-191214-206f0d70ab93.webp",
         "kind": "image"
       },
       {
@@ -10442,7 +10599,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0682-on-table-shot-81f114a699a3.webp",
+        "localPath": "assets/source-site/autodesk-origin/0682-on-table-shot-81f114a699a3.webp",
         "kind": "image"
       },
       {
@@ -10450,7 +10607,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0683-animation0001-0060-41ab1c997246.webp",
+        "localPath": "assets/source-site/autodesk-origin/0683-animation0001-0060-41ab1c997246.webp",
         "kind": "image"
       },
       {
@@ -10458,7 +10615,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0684-asset-5exploded-view-numbers-4-59fd5a011be2.webp",
+        "localPath": "assets/source-site/autodesk-origin/0684-asset-5exploded-view-numbers-4-59fd5a011be2.webp",
         "kind": "image"
       },
       {
@@ -10466,7 +10623,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0685-screenshot-2024-12-08-200537-b6391bdea4eb.webp",
+        "localPath": "assets/source-site/autodesk-origin/0685-screenshot-2024-12-08-200537-b6391bdea4eb.webp",
         "kind": "image"
       },
       {
@@ -10474,7 +10631,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0686-asset-1injection-mold-5a1df7e9d740.webp",
+        "localPath": "assets/source-site/autodesk-origin/0686-asset-1injection-mold-5a1df7e9d740.webp",
         "kind": "image"
       },
       {
@@ -10482,7 +10639,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0687-asset-6blue-circle-f169522c40ca.webp",
+        "localPath": "assets/source-site/autodesk-origin/0687-asset-6blue-circle-f169522c40ca.webp",
         "kind": "image"
       },
       {
@@ -10490,7 +10647,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0688-formlabs-logo-vector-843898d5df9a.webp",
+        "localPath": "assets/source-site/autodesk-origin/0688-formlabs-logo-vector-843898d5df9a.webp",
         "kind": "image"
       },
       {
@@ -10498,7 +10655,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0689-images-4-207643118727.webp",
+        "localPath": "assets/source-site/autodesk-origin/0689-images-4-207643118727.webp",
         "kind": "image"
       },
       {
@@ -10506,7 +10663,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0690-asset-8red-circle-a5527e4e11b0.webp",
+        "localPath": "assets/source-site/autodesk-origin/0690-asset-8red-circle-a5527e4e11b0.webp",
         "kind": "image"
       },
       {
@@ -10514,7 +10671,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0691-images-5-36c6af069d90.webp",
+        "localPath": "assets/source-site/autodesk-origin/0691-images-5-36c6af069d90.webp",
         "kind": "image"
       },
       {
@@ -10522,7 +10679,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0692-logo-haas-f1-682e8c54a36c.webp",
+        "localPath": "assets/source-site/autodesk-origin/0692-logo-haas-f1-682e8c54a36c.webp",
         "kind": "image"
       },
       {
@@ -10530,7 +10687,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0693-asset-9yellow-mcircle-3dd1cee1b4ba.webp",
+        "localPath": "assets/source-site/autodesk-origin/0693-asset-9yellow-mcircle-3dd1cee1b4ba.webp",
         "kind": "image"
       },
       {
@@ -10538,7 +10695,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0694-images-6-6b6994efba16.webp",
+        "localPath": "assets/source-site/autodesk-origin/0694-images-6-6b6994efba16.webp",
         "kind": "image"
       },
       {
@@ -10546,7 +10703,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0695-origin-transparent-216b43fcb971.webp",
+        "localPath": "assets/source-site/autodesk-origin/0695-origin-transparent-216b43fcb971.webp",
         "kind": "image"
       },
       {
@@ -10554,7 +10711,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0696-origin-transparent-3-0e2542830b99.webp",
+        "localPath": "assets/source-site/autodesk-origin/0696-origin-transparent-3-0e2542830b99.webp",
         "kind": "image"
       },
       {
@@ -10562,7 +10719,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0697-origin-3-6e2e20421e92.webp",
+        "localPath": "assets/source-site/autodesk-origin/0697-origin-3-6e2e20421e92.webp",
         "kind": "image"
       },
       {
@@ -10570,7 +10727,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0698-origin-4-4ef531a802dc.webp",
+        "localPath": "assets/source-site/autodesk-origin/0698-origin-4-4ef531a802dc.webp",
         "kind": "image"
       },
       {
@@ -10578,7 +10735,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0699-origin-5-a51dc2fb36f0.webp",
+        "localPath": "assets/source-site/autodesk-origin/0699-origin-5-a51dc2fb36f0.webp",
         "kind": "image"
       },
       {
@@ -10586,7 +10743,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0700-origin-6-ba05565c7f4e.webp",
+        "localPath": "assets/source-site/autodesk-origin/0700-origin-6-ba05565c7f4e.webp",
         "kind": "image"
       },
       {
@@ -10594,7 +10751,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0701-origin-7-d8ee0997c6b5.webp",
+        "localPath": "assets/source-site/autodesk-origin/0701-origin-7-d8ee0997c6b5.webp",
         "kind": "image"
       },
       {
@@ -10602,7 +10759,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0702-origin-8-5565fa1a4536.webp",
+        "localPath": "assets/source-site/autodesk-origin/0702-origin-8-5565fa1a4536.webp",
         "kind": "image"
       },
       {
@@ -10610,7 +10767,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0703-origin-9-e2cda8131e0f.webp",
+        "localPath": "assets/source-site/autodesk-origin/0703-origin-9-e2cda8131e0f.webp",
         "kind": "image"
       },
       {
@@ -10618,7 +10775,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0704-origin-7-png-b97f10a8b7fe.webp",
+        "localPath": "assets/source-site/autodesk-origin/0704-origin-7-png-b97f10a8b7fe.webp",
         "kind": "image"
       },
       {
@@ -10626,7 +10783,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0705-origin-11-exploded-4ebfe0fe6fc3.webp",
+        "localPath": "assets/source-site/autodesk-origin/0705-origin-11-exploded-4ebfe0fe6fc3.webp",
         "kind": "image"
       },
       {
@@ -10634,7 +10791,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0706-origin-17-exploded-view-1-396d345287fe.webp",
+        "localPath": "assets/source-site/autodesk-origin/0706-origin-17-exploded-view-1-396d345287fe.webp",
         "kind": "image"
       },
       {
@@ -10642,7 +10799,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0707-18-origin-trsaparent-backgraound-376dc6e973e1.webp",
+        "localPath": "assets/source-site/autodesk-origin/0707-18-origin-trsaparent-backgraound-376dc6e973e1.webp",
         "kind": "image"
       },
       {
@@ -10650,7 +10807,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0708-snapchat-1761752407-b2ac06a9f483.webp",
+        "localPath": "assets/source-site/autodesk-origin/0708-snapchat-1761752407-b2ac06a9f483.webp",
         "kind": "image"
       },
       {
@@ -10658,7 +10815,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0709-snapchat-2126812225-c2adf73f258c.webp",
+        "localPath": "assets/source-site/autodesk-origin/0709-snapchat-2126812225-c2adf73f258c.webp",
         "kind": "image"
       },
       {
@@ -10666,7 +10823,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0710-pxl-20241110-223528163-f1420da505cc.webp",
+        "localPath": "assets/source-site/autodesk-origin/0710-pxl-20241110-223528163-f1420da505cc.webp",
         "kind": "image"
       },
       {
@@ -10674,7 +10831,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0711-snapchat-1190574180-ced2fc026026.webp",
+        "localPath": "assets/source-site/autodesk-origin/0711-snapchat-1190574180-ced2fc026026.webp",
         "kind": "image"
       },
       {
@@ -10682,7 +10839,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0712-snapchat-971392316-2cd2a0b76d2a.webp",
+        "localPath": "assets/source-site/autodesk-origin/0712-snapchat-971392316-2cd2a0b76d2a.webp",
         "kind": "image"
       },
       {
@@ -10690,7 +10847,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0713-snapchat-211630001-cb2e6b1e435f.webp",
+        "localPath": "assets/source-site/autodesk-origin/0713-snapchat-211630001-cb2e6b1e435f.webp",
         "kind": "image"
       },
       {
@@ -10698,7 +10855,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0714-pxl-20241112-192120810-e6ec3b2cb101.webp",
+        "localPath": "assets/source-site/autodesk-origin/0714-pxl-20241112-192120810-e6ec3b2cb101.webp",
         "kind": "image"
       },
       {
@@ -10706,7 +10863,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0715-pxl-20241122-163723524-3053ea5f03c5.webp",
+        "localPath": "assets/source-site/autodesk-origin/0715-pxl-20241122-163723524-3053ea5f03c5.webp",
         "kind": "image"
       },
       {
@@ -10714,7 +10871,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0716-pxl-20241122-163742669-cde62445e860.webp",
+        "localPath": "assets/source-site/autodesk-origin/0716-pxl-20241122-163742669-cde62445e860.webp",
         "kind": "image"
       },
       {
@@ -10722,7 +10879,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0717-pxl-20241122-163757859-c5340eafda6f.webp",
+        "localPath": "assets/source-site/autodesk-origin/0717-pxl-20241122-163757859-c5340eafda6f.webp",
         "kind": "image"
       },
       {
@@ -10730,7 +10887,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0718-pxl-20241122-163810831-8723b1785d8b.webp",
+        "localPath": "assets/source-site/autodesk-origin/0718-pxl-20241122-163810831-8723b1785d8b.webp",
         "kind": "image"
       },
       {
@@ -10738,7 +10895,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0719-pxl-20241122-163919695-b4fd43b1c8c5.webp",
+        "localPath": "assets/source-site/autodesk-origin/0719-pxl-20241122-163919695-b4fd43b1c8c5.webp",
         "kind": "image"
       },
       {
@@ -10746,7 +10903,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0720-pxl-20241122-163924366-4fd3869de17a.webp",
+        "localPath": "assets/source-site/autodesk-origin/0720-pxl-20241122-163924366-4fd3869de17a.webp",
         "kind": "image"
       },
       {
@@ -10754,7 +10911,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0721-pxl-20241122-163844919-9ceb16a64efa.webp",
+        "localPath": "assets/source-site/autodesk-origin/0721-pxl-20241122-163844919-9ceb16a64efa.webp",
         "kind": "image"
       },
       {
@@ -10762,7 +10919,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0722-pxl-20241122-163855746-dec5b3d339a0.webp",
+        "localPath": "assets/source-site/autodesk-origin/0722-pxl-20241122-163855746-dec5b3d339a0.webp",
         "kind": "image"
       },
       {
@@ -10770,7 +10927,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0723-pxl-20241206-171800590-fadbf941c421.webp",
+        "localPath": "assets/source-site/autodesk-origin/0723-pxl-20241206-171800590-fadbf941c421.webp",
         "kind": "image"
       },
       {
@@ -10778,7 +10935,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0724-pxl-20241206-171745122-f4b0bf3eb676.webp",
+        "localPath": "assets/source-site/autodesk-origin/0724-pxl-20241206-171745122-f4b0bf3eb676.webp",
         "kind": "image"
       },
       {
@@ -10786,7 +10943,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0725-pxl-20241206-172021683-a212cab31734.webp",
+        "localPath": "assets/source-site/autodesk-origin/0725-pxl-20241206-172021683-a212cab31734.webp",
         "kind": "image"
       },
       {
@@ -10794,7 +10951,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0726-pxl-20241206-172032124-2b68f5f77e75.webp",
+        "localPath": "assets/source-site/autodesk-origin/0726-pxl-20241206-172032124-2b68f5f77e75.webp",
         "kind": "image"
       },
       {
@@ -10802,7 +10959,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0727-pxl-20241206-172019135-dd69f60bb466.webp",
+        "localPath": "assets/source-site/autodesk-origin/0727-pxl-20241206-172019135-dd69f60bb466.webp",
         "kind": "image"
       },
       {
@@ -10810,14 +10967,14 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "AutoDesk Origin",
-        "localPath": "assets/source-site/media/0728-render-for-website-enjoy-8443a9cac2ca.webp",
+        "localPath": "assets/source-site/autodesk-origin/0728-render-for-website-enjoy-8443a9cac2ca.webp",
         "kind": "image"
       }
     ],
     "media": [
       {
         "url": "https://raw.githubusercontent.com/ethansol7/lottie-assets/main/smooth-animation-autodesk.json",
-        "localPath": "assets/source-site/media/0729-smooth-animation-autodesk-77957d45fd30.json",
+        "localPath": "assets/source-site/autodesk-origin/0729-smooth-animation-autodesk-77957d45fd30.json",
         "kind": "animation"
       }
     ],
@@ -10828,7 +10985,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0002-screenshot-2024-12-08-190611-dabb4a8b4d20.webp",
+    "heroImage": "assets/source-site/autodesk-origin/0002-screenshot-2024-12-08-190611-dabb4a8b4d20.webp",
     "imageCount": 50,
     "mediaCount": 1
   },
@@ -10840,7 +10997,7 @@ const rawSourcePages = [
     "lastmod": "2025-04-28",
     "group": "Product Case Studies",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "heading",
@@ -10855,7 +11012,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "How it Began…"
+        "text": "How it Began..."
       },
       {
         "type": "text",
@@ -10930,7 +11087,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -10938,7 +11095,7 @@ const rawSourcePages = [
         "title": "ET-03",
         "items": [
           "Sit. Stay. Simple.",
-          "How it Began…",
+          "How it Began...",
           "Prototyping",
           "Rendering",
           "Final Small Scale Prototype",
@@ -10948,7 +11105,12 @@ const rawSourcePages = [
           "Welding",
           "Leather Work and Cushion",
           "3D Printed Frame",
-          "V1"
+          "V1",
+          "V2 For Big Cushion",
+          "V3 For Small Cushion",
+          "Final",
+          "www.ethansolodukhin.com",
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -10958,7 +11120,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1128-asset-2s01-fd439fbe625f.webp",
+        "localPath": "assets/source-site/et-03/1128-asset-2s01-fd439fbe625f.webp",
         "kind": "image"
       },
       {
@@ -10966,7 +11128,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1129-asset-3et03-blueprint-02082df0f9f1.webp",
+        "localPath": "assets/source-site/et-03/1129-asset-3et03-blueprint-02082df0f9f1.webp",
         "kind": "image"
       },
       {
@@ -10974,7 +11136,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1130-asset-1et03-blueprint-49cdf0db9d84.webp",
+        "localPath": "assets/source-site/et-03/1130-asset-1et03-blueprint-49cdf0db9d84.webp",
         "kind": "image"
       },
       {
@@ -10982,7 +11144,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1131-pxl-20250310-014857306-3-45b780d2ac40.webp",
+        "localPath": "assets/source-site/et-03/1131-pxl-20250310-014857306-3-45b780d2ac40.webp",
         "kind": "image"
       },
       {
@@ -10990,7 +11152,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1132-pxl-20250310-014716814-3-a203189b270c.webp",
+        "localPath": "assets/source-site/et-03/1132-pxl-20250310-014716814-3-a203189b270c.webp",
         "kind": "image"
       },
       {
@@ -10998,7 +11160,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1133-pxl-20250310-014702975-3-64cc1d68ae92.webp",
+        "localPath": "assets/source-site/et-03/1133-pxl-20250310-014702975-3-64cc1d68ae92.webp",
         "kind": "image"
       },
       {
@@ -11006,7 +11168,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1134-pxl-20250310-015320327-2-2dbd7771e44b.webp",
+        "localPath": "assets/source-site/et-03/1134-pxl-20250310-015320327-2-2dbd7771e44b.webp",
         "kind": "image"
       },
       {
@@ -11014,7 +11176,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1135-pxl-20250310-014655856-3-70b1539c01c0.webp",
+        "localPath": "assets/source-site/et-03/1135-pxl-20250310-014655856-3-70b1539c01c0.webp",
         "kind": "image"
       },
       {
@@ -11022,7 +11184,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1136-pxl-20250425-225724175-ad8f929fe8d5.webp",
+        "localPath": "assets/source-site/et-03/1136-pxl-20250425-225724175-ad8f929fe8d5.webp",
         "kind": "image"
       },
       {
@@ -11030,7 +11192,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1137-pxl-20250425-225713189-93fd9e1e37f8.webp",
+        "localPath": "assets/source-site/et-03/1137-pxl-20250425-225713189-93fd9e1e37f8.webp",
         "kind": "image"
       },
       {
@@ -11038,7 +11200,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1138-pxl-20250425-225629997-7984feffc694.webp",
+        "localPath": "assets/source-site/et-03/1138-pxl-20250425-225629997-7984feffc694.webp",
         "kind": "image"
       },
       {
@@ -11046,7 +11208,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1139-pxl-20250425-225655877-50ded2a8a963.webp",
+        "localPath": "assets/source-site/et-03/1139-pxl-20250425-225655877-50ded2a8a963.webp",
         "kind": "image"
       },
       {
@@ -11054,7 +11216,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1140-pxl-20250425-225801082-b7277516e996.webp",
+        "localPath": "assets/source-site/et-03/1140-pxl-20250425-225801082-b7277516e996.webp",
         "kind": "image"
       },
       {
@@ -11062,7 +11224,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1141-pxl-20250425-225644000-cae02a65c9d9.webp",
+        "localPath": "assets/source-site/et-03/1141-pxl-20250425-225644000-cae02a65c9d9.webp",
         "kind": "image"
       },
       {
@@ -11070,7 +11232,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1142-pxl-20250425-225608038-e53dc0b7054e.webp",
+        "localPath": "assets/source-site/et-03/1142-pxl-20250425-225608038-e53dc0b7054e.webp",
         "kind": "image"
       },
       {
@@ -11078,7 +11240,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1143-tess6-9c39657adad3.webp",
+        "localPath": "assets/source-site/et-03/1143-tess6-9c39657adad3.webp",
         "kind": "image"
       },
       {
@@ -11086,7 +11248,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1144-test2-566faaba73d9.webp",
+        "localPath": "assets/source-site/et-03/1144-test2-566faaba73d9.webp",
         "kind": "image"
       },
       {
@@ -11094,7 +11256,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1145-test9-6fd87ec8ba41.webp",
+        "localPath": "assets/source-site/et-03/1145-test9-6fd87ec8ba41.webp",
         "kind": "image"
       },
       {
@@ -11102,7 +11264,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1146-testet04-3-12175effb220.webp",
+        "localPath": "assets/source-site/et-03/1146-testet04-3-12175effb220.webp",
         "kind": "image"
       },
       {
@@ -11110,7 +11272,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1147-testet04-2-cea04d06ee85.webp",
+        "localPath": "assets/source-site/et-03/1147-testet04-2-cea04d06ee85.webp",
         "kind": "image"
       },
       {
@@ -11118,7 +11280,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1148-testet04-1-05477393640b.webp",
+        "localPath": "assets/source-site/et-03/1148-testet04-1-05477393640b.webp",
         "kind": "image"
       },
       {
@@ -11126,7 +11288,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1149-testet03-1-c17540f26bb2.webp",
+        "localPath": "assets/source-site/et-03/1149-testet03-1-c17540f26bb2.webp",
         "kind": "image"
       },
       {
@@ -11134,7 +11296,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1150-testet03-2-ee9fa4d516f6.webp",
+        "localPath": "assets/source-site/et-03/1150-testet03-2-ee9fa4d516f6.webp",
         "kind": "image"
       },
       {
@@ -11142,7 +11304,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1151-testet03-3-97999aa822c8.webp",
+        "localPath": "assets/source-site/et-03/1151-testet03-3-97999aa822c8.webp",
         "kind": "image"
       },
       {
@@ -11150,7 +11312,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1152-test-et03-5-34672c21103c.webp",
+        "localPath": "assets/source-site/et-03/1152-test-et03-5-34672c21103c.webp",
         "kind": "image"
       },
       {
@@ -11158,7 +11320,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1153-test-et03-6-620dc3602b06.webp",
+        "localPath": "assets/source-site/et-03/1153-test-et03-6-620dc3602b06.webp",
         "kind": "image"
       },
       {
@@ -11166,7 +11328,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1154-test-17-6f5acce770dd.webp",
+        "localPath": "assets/source-site/et-03/1154-test-17-6f5acce770dd.webp",
         "kind": "image"
       },
       {
@@ -11174,7 +11336,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1155-pxl-20250425-225427299-44e6239459b2.webp",
+        "localPath": "assets/source-site/et-03/1155-pxl-20250425-225427299-44e6239459b2.webp",
         "kind": "image"
       },
       {
@@ -11182,7 +11344,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1156-snapchat-1764097588-1-e32d9ef3f2c1.webp",
+        "localPath": "assets/source-site/et-03/1156-snapchat-1764097588-1-e32d9ef3f2c1.webp",
         "kind": "image"
       },
       {
@@ -11190,7 +11352,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1157-pxl-20250401-150824761-f69988325b01.webp",
+        "localPath": "assets/source-site/et-03/1157-pxl-20250401-150824761-f69988325b01.webp",
         "kind": "image"
       },
       {
@@ -11198,7 +11360,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1158-snapchat-1699386181-1-563d5891fb08.webp",
+        "localPath": "assets/source-site/et-03/1158-snapchat-1699386181-1-563d5891fb08.webp",
         "kind": "image"
       },
       {
@@ -11206,7 +11368,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1159-pxl-20250401-151803167-60090156820a.webp",
+        "localPath": "assets/source-site/et-03/1159-pxl-20250401-151803167-60090156820a.webp",
         "kind": "image"
       },
       {
@@ -11214,7 +11376,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1160-pxl-20250412-145059134-22e7468a472a.webp",
+        "localPath": "assets/source-site/et-03/1160-pxl-20250412-145059134-22e7468a472a.webp",
         "kind": "image"
       },
       {
@@ -11222,7 +11384,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1161-wleding-6a8b9e3d97b2.webp",
+        "localPath": "assets/source-site/et-03/1161-wleding-6a8b9e3d97b2.webp",
         "kind": "image"
       },
       {
@@ -11230,7 +11392,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1162-pxl-20250414-235628375-0b8da3904094.webp",
+        "localPath": "assets/source-site/et-03/1162-pxl-20250414-235628375-0b8da3904094.webp",
         "kind": "image"
       },
       {
@@ -11238,7 +11400,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1163-pxl-20250418-163435165-80f1ef632993.webp",
+        "localPath": "assets/source-site/et-03/1163-pxl-20250418-163435165-80f1ef632993.webp",
         "kind": "image"
       },
       {
@@ -11246,7 +11408,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1164-pxl-20250415-164305935-709dc9f26b0b.webp",
+        "localPath": "assets/source-site/et-03/1164-pxl-20250415-164305935-709dc9f26b0b.webp",
         "kind": "image"
       },
       {
@@ -11254,7 +11416,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1165-snapchat-938704868-1-f695c04094d2.webp",
+        "localPath": "assets/source-site/et-03/1165-snapchat-938704868-1-f695c04094d2.webp",
         "kind": "image"
       },
       {
@@ -11262,7 +11424,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1166-snapchat-1216286682-1-204f3e7669ff.webp",
+        "localPath": "assets/source-site/et-03/1166-snapchat-1216286682-1-204f3e7669ff.webp",
         "kind": "image"
       },
       {
@@ -11270,7 +11432,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1167-pxl-20250412-153023241-d0681cc5b253.webp",
+        "localPath": "assets/source-site/et-03/1167-pxl-20250412-153023241-d0681cc5b253.webp",
         "kind": "image"
       },
       {
@@ -11278,7 +11440,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1168-pxl-20250412-153144780-adff6b40fed0.webp",
+        "localPath": "assets/source-site/et-03/1168-pxl-20250412-153144780-adff6b40fed0.webp",
         "kind": "image"
       },
       {
@@ -11286,7 +11448,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1169-pxl-20250412-153429636-dabad2e6ab53.webp",
+        "localPath": "assets/source-site/et-03/1169-pxl-20250412-153429636-dabad2e6ab53.webp",
         "kind": "image"
       },
       {
@@ -11294,7 +11456,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1170-pxl-20250412-165934827-981cf5e9c896.webp",
+        "localPath": "assets/source-site/et-03/1170-pxl-20250412-165934827-981cf5e9c896.webp",
         "kind": "image"
       },
       {
@@ -11302,7 +11464,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1171-pxl-20250414-235622751-87643a550eab.webp",
+        "localPath": "assets/source-site/et-03/1171-pxl-20250414-235622751-87643a550eab.webp",
         "kind": "image"
       },
       {
@@ -11310,7 +11472,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1172-pxl-20250414-235609563-586810af8a0b.webp",
+        "localPath": "assets/source-site/et-03/1172-pxl-20250414-235609563-586810af8a0b.webp",
         "kind": "image"
       },
       {
@@ -11318,7 +11480,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1173-pxl-20250417-205543901-7975dae40d81.webp",
+        "localPath": "assets/source-site/et-03/1173-pxl-20250417-205543901-7975dae40d81.webp",
         "kind": "image"
       },
       {
@@ -11326,7 +11488,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1174-pxl-20250418-165656916-32572df6e82b.webp",
+        "localPath": "assets/source-site/et-03/1174-pxl-20250418-165656916-32572df6e82b.webp",
         "kind": "image"
       },
       {
@@ -11334,7 +11496,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1175-pxl-20250417-205729268-5d1c4f28b609.webp",
+        "localPath": "assets/source-site/et-03/1175-pxl-20250417-205729268-5d1c4f28b609.webp",
         "kind": "image"
       },
       {
@@ -11342,7 +11504,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1176-pxl-20250420-022112104-4a3a9ee82860.webp",
+        "localPath": "assets/source-site/et-03/1176-pxl-20250420-022112104-4a3a9ee82860.webp",
         "kind": "image"
       },
       {
@@ -11350,7 +11512,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1177-pxl-20250420-022109218-c3c32e313aed.webp",
+        "localPath": "assets/source-site/et-03/1177-pxl-20250420-022109218-c3c32e313aed.webp",
         "kind": "image"
       },
       {
@@ -11358,7 +11520,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1178-pxl-20250418-165441953-67d817e9f540.webp",
+        "localPath": "assets/source-site/et-03/1178-pxl-20250418-165441953-67d817e9f540.webp",
         "kind": "image"
       },
       {
@@ -11366,7 +11528,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1179-pxl-20250421-145843786-799b8196f65d.webp",
+        "localPath": "assets/source-site/et-03/1179-pxl-20250421-145843786-799b8196f65d.webp",
         "kind": "image"
       },
       {
@@ -11374,7 +11536,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1180-pxl-20250421-145938938-9b70e8282347.webp",
+        "localPath": "assets/source-site/et-03/1180-pxl-20250421-145938938-9b70e8282347.webp",
         "kind": "image"
       },
       {
@@ -11382,7 +11544,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1181-pxl-20250424-144902750-cc7492c3f139.webp",
+        "localPath": "assets/source-site/et-03/1181-pxl-20250424-144902750-cc7492c3f139.webp",
         "kind": "image"
       },
       {
@@ -11390,7 +11552,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1182-frame-for-et-03-1-e37243fc049b.webp",
+        "localPath": "assets/source-site/et-03/1182-frame-for-et-03-1-e37243fc049b.webp",
         "kind": "image"
       },
       {
@@ -11398,7 +11560,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1183-screenshot-2025-04-24-192458-a9d268c68613.webp",
+        "localPath": "assets/source-site/et-03/1183-screenshot-2025-04-24-192458-a9d268c68613.webp",
         "kind": "image"
       },
       {
@@ -11406,7 +11568,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1184-frame-for-et-03-2-49c464d9ab01.webp",
+        "localPath": "assets/source-site/et-03/1184-frame-for-et-03-2-49c464d9ab01.webp",
         "kind": "image"
       },
       {
@@ -11414,7 +11576,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1185-pxl-20250425-052907553-a6baa3bf88b7.webp",
+        "localPath": "assets/source-site/et-03/1185-pxl-20250425-052907553-a6baa3bf88b7.webp",
         "kind": "image"
       },
       {
@@ -11422,7 +11584,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1186-pxl-20250425-052506440-1f5cedd96762.webp",
+        "localPath": "assets/source-site/et-03/1186-pxl-20250425-052506440-1f5cedd96762.webp",
         "kind": "image"
       },
       {
@@ -11430,7 +11592,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1187-pxl-20250425-052618374-a1361abf9c00.webp",
+        "localPath": "assets/source-site/et-03/1187-pxl-20250425-052618374-a1361abf9c00.webp",
         "kind": "image"
       },
       {
@@ -11438,7 +11600,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1188-pxl-20250425-051523449-8e3671331efa.webp",
+        "localPath": "assets/source-site/et-03/1188-pxl-20250425-051523449-8e3671331efa.webp",
         "kind": "image"
       },
       {
@@ -11446,7 +11608,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1189-pxl-20250425-053049206-0bdc4284e998.webp",
+        "localPath": "assets/source-site/et-03/1189-pxl-20250425-053049206-0bdc4284e998.webp",
         "kind": "image"
       },
       {
@@ -11454,7 +11616,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1190-pxl-20250425-051223006-52f23845b2ca.webp",
+        "localPath": "assets/source-site/et-03/1190-pxl-20250425-051223006-52f23845b2ca.webp",
         "kind": "image"
       },
       {
@@ -11462,7 +11624,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1191-pxl-20250425-051340649-4679b1ac921f.webp",
+        "localPath": "assets/source-site/et-03/1191-pxl-20250425-051340649-4679b1ac921f.webp",
         "kind": "image"
       },
       {
@@ -11470,7 +11632,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1192-pxl-20250425-051401948-babcdd09ef1d.webp",
+        "localPath": "assets/source-site/et-03/1192-pxl-20250425-051401948-babcdd09ef1d.webp",
         "kind": "image"
       },
       {
@@ -11478,7 +11640,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1193-pxl-20250425-052657357-fb12d4c0fa3e.webp",
+        "localPath": "assets/source-site/et-03/1193-pxl-20250425-052657357-fb12d4c0fa3e.webp",
         "kind": "image"
       },
       {
@@ -11486,7 +11648,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1194-pxl-20250425-052357069-e08dfa5689e3.webp",
+        "localPath": "assets/source-site/et-03/1194-pxl-20250425-052357069-e08dfa5689e3.webp",
         "kind": "image"
       },
       {
@@ -11494,7 +11656,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1195-pxl-20250425-051746408-e8f3d94b1969.webp",
+        "localPath": "assets/source-site/et-03/1195-pxl-20250425-051746408-e8f3d94b1969.webp",
         "kind": "image"
       },
       {
@@ -11502,7 +11664,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "ET-03",
-        "localPath": "assets/source-site/media/1196-pxl-20250425-051905370-728f47ddd26d.webp",
+        "localPath": "assets/source-site/et-03/1196-pxl-20250425-051905370-728f47ddd26d.webp",
         "kind": "image"
       }
     ],
@@ -11514,7 +11676,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1128-asset-2s01-fd439fbe625f.webp",
+    "heroImage": "assets/source-site/et-03/1128-asset-2s01-fd439fbe625f.webp",
     "imageCount": 69,
     "mediaCount": 0
   },
@@ -11526,7 +11688,7 @@ const rawSourcePages = [
     "lastmod": "2025-12-20",
     "group": "Product Case Studies",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -11556,7 +11718,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -11568,7 +11730,7 @@ const rawSourcePages = [
           "Feedback Presentation",
           "Final Pitch to Gardall for Feedback",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -11578,7 +11740,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1197-precedent-presentation-01-cd9035caff22.webp",
+        "localPath": "assets/source-site/eterna-safe/1197-precedent-presentation-01-cd9035caff22.webp",
         "kind": "image"
       },
       {
@@ -11586,7 +11748,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1198-slide-1-91517095b05e.webp",
+        "localPath": "assets/source-site/eterna-safe/1198-slide-1-91517095b05e.webp",
         "kind": "image"
       },
       {
@@ -11594,7 +11756,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1199-feedback-presentation-01-d215c3b00085.webp",
+        "localPath": "assets/source-site/eterna-safe/1199-feedback-presentation-01-d215c3b00085.webp",
         "kind": "image"
       },
       {
@@ -11602,7 +11764,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1200-pitch-2-frist-updated-2-bb5e687aac13.webp",
+        "localPath": "assets/source-site/eterna-safe/1200-pitch-2-frist-updated-2-bb5e687aac13.webp",
         "kind": "image"
       },
       {
@@ -11610,7 +11772,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1201-precedent-presentation-02-1585d9a04072.webp",
+        "localPath": "assets/source-site/eterna-safe/1201-precedent-presentation-02-1585d9a04072.webp",
         "kind": "image"
       },
       {
@@ -11618,7 +11780,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1202-slide-2-f1f5e79299b1.webp",
+        "localPath": "assets/source-site/eterna-safe/1202-slide-2-f1f5e79299b1.webp",
         "kind": "image"
       },
       {
@@ -11626,7 +11788,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1203-feedback-presentation-02-af27d2313892.webp",
+        "localPath": "assets/source-site/eterna-safe/1203-feedback-presentation-02-af27d2313892.webp",
         "kind": "image"
       },
       {
@@ -11634,7 +11796,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1204-pitch-2-slides-02-06d8d943777c.webp",
+        "localPath": "assets/source-site/eterna-safe/1204-pitch-2-slides-02-06d8d943777c.webp",
         "kind": "image"
       },
       {
@@ -11642,7 +11804,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1205-precedent-presentation-03-fd3579039af2.webp",
+        "localPath": "assets/source-site/eterna-safe/1205-precedent-presentation-03-fd3579039af2.webp",
         "kind": "image"
       },
       {
@@ -11650,7 +11812,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1206-slide-3-cb5a4f5f2b15.webp",
+        "localPath": "assets/source-site/eterna-safe/1206-slide-3-cb5a4f5f2b15.webp",
         "kind": "image"
       },
       {
@@ -11658,7 +11820,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1207-feedback-presentation-04-7234d4bc97b0.webp",
+        "localPath": "assets/source-site/eterna-safe/1207-feedback-presentation-04-7234d4bc97b0.webp",
         "kind": "image"
       },
       {
@@ -11666,7 +11828,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1208-pitch-2-slides-05-f76829ae1133.webp",
+        "localPath": "assets/source-site/eterna-safe/1208-pitch-2-slides-05-f76829ae1133.webp",
         "kind": "image"
       },
       {
@@ -11674,7 +11836,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1209-precedent-presentation-04-e18f674e5fda.webp",
+        "localPath": "assets/source-site/eterna-safe/1209-precedent-presentation-04-e18f674e5fda.webp",
         "kind": "image"
       },
       {
@@ -11682,7 +11844,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1210-slide-4-133d71f047b8.webp",
+        "localPath": "assets/source-site/eterna-safe/1210-slide-4-133d71f047b8.webp",
         "kind": "image"
       },
       {
@@ -11690,7 +11852,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1211-feedback-presentation-05-b6eaad106c82.webp",
+        "localPath": "assets/source-site/eterna-safe/1211-feedback-presentation-05-b6eaad106c82.webp",
         "kind": "image"
       },
       {
@@ -11698,7 +11860,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1212-pitch-2-slides-07-0f47855ba7e4.webp",
+        "localPath": "assets/source-site/eterna-safe/1212-pitch-2-slides-07-0f47855ba7e4.webp",
         "kind": "image"
       },
       {
@@ -11706,7 +11868,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1213-precedent-presentation-05-6bfcb5ffa09d.webp",
+        "localPath": "assets/source-site/eterna-safe/1213-precedent-presentation-05-6bfcb5ffa09d.webp",
         "kind": "image"
       },
       {
@@ -11714,7 +11876,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1214-slide-5-a756d4dc81b1.webp",
+        "localPath": "assets/source-site/eterna-safe/1214-slide-5-a756d4dc81b1.webp",
         "kind": "image"
       },
       {
@@ -11722,7 +11884,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1215-feedback-presentation-06-f1f776cec9d9.webp",
+        "localPath": "assets/source-site/eterna-safe/1215-feedback-presentation-06-f1f776cec9d9.webp",
         "kind": "image"
       },
       {
@@ -11730,7 +11892,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1216-pitch-2-v2-08-d017827e9a0c.webp",
+        "localPath": "assets/source-site/eterna-safe/1216-pitch-2-v2-08-d017827e9a0c.webp",
         "kind": "image"
       },
       {
@@ -11738,7 +11900,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1217-precedent-presentation-06-9ca1a46794ae.webp",
+        "localPath": "assets/source-site/eterna-safe/1217-precedent-presentation-06-9ca1a46794ae.webp",
         "kind": "image"
       },
       {
@@ -11746,7 +11908,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1218-slide-6-2f0bfda820fc.webp",
+        "localPath": "assets/source-site/eterna-safe/1218-slide-6-2f0bfda820fc.webp",
         "kind": "image"
       },
       {
@@ -11754,7 +11916,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1219-feedback-presentation-03-bb3b2a02ffb4.webp",
+        "localPath": "assets/source-site/eterna-safe/1219-feedback-presentation-03-bb3b2a02ffb4.webp",
         "kind": "image"
       },
       {
@@ -11762,7 +11924,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1220-pitch-2-v2-09-37b3e3dec7bc.webp",
+        "localPath": "assets/source-site/eterna-safe/1220-pitch-2-v2-09-37b3e3dec7bc.webp",
         "kind": "image"
       },
       {
@@ -11770,7 +11932,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1221-precedent-presentation-07-3f024793c280.webp",
+        "localPath": "assets/source-site/eterna-safe/1221-precedent-presentation-07-3f024793c280.webp",
         "kind": "image"
       },
       {
@@ -11778,7 +11940,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1222-pitch-2-slides-03-a4a3669c39e6.webp",
+        "localPath": "assets/source-site/eterna-safe/1222-pitch-2-slides-03-a4a3669c39e6.webp",
         "kind": "image"
       },
       {
@@ -11786,7 +11948,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1223-precedent-presentation-08-d80b941fd9f8.webp",
+        "localPath": "assets/source-site/eterna-safe/1223-precedent-presentation-08-d80b941fd9f8.webp",
         "kind": "image"
       },
       {
@@ -11794,7 +11956,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1224-precedent-presentation-09-c8c355b2d9c5.webp",
+        "localPath": "assets/source-site/eterna-safe/1224-precedent-presentation-09-c8c355b2d9c5.webp",
         "kind": "image"
       },
       {
@@ -11802,7 +11964,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1225-precedent-presentation-10-de9ef66d6971.webp",
+        "localPath": "assets/source-site/eterna-safe/1225-precedent-presentation-10-de9ef66d6971.webp",
         "kind": "image"
       },
       {
@@ -11810,7 +11972,7 @@ const rawSourcePages = [
         "title": "Eterna Safe",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1226-precedent-presentation-11-7d0e65b14752.webp",
+        "localPath": "assets/source-site/eterna-safe/1226-precedent-presentation-11-7d0e65b14752.webp",
         "kind": "image"
       },
       {
@@ -11818,7 +11980,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Eterna Safe",
-        "localPath": "assets/source-site/media/1227-top-of-site-tes-4-896a2f3e15e9.webp",
+        "localPath": "assets/source-site/eterna-safe/1227-top-of-site-tes-4-896a2f3e15e9.webp",
         "kind": "image"
       }
     ],
@@ -11830,7 +11992,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1197-precedent-presentation-01-cd9035caff22.webp",
+    "heroImage": "assets/source-site/eterna-safe/1197-precedent-presentation-01-cd9035caff22.webp",
     "imageCount": 31,
     "mediaCount": 0
   },
@@ -11842,12 +12004,12 @@ const rawSourcePages = [
     "lastmod": "2026-01-22",
     "group": "Product Case Studies",
     "description": "",
-    "summary": "T-Minus 26 · RIT Product Design SprintSponsored by Church & Dwight",
+    "summary": "T-Minus 26  -  RIT Product Design SprintSponsored by Church & Dwight",
     "textBlocks": [
       {
         "type": "text",
         "level": "p",
-        "text": "T-Minus 26 · RIT Product Design SprintSponsored by Church & Dwight"
+        "text": "T-Minus 26  -  RIT Product Design SprintSponsored by Church & Dwight"
       },
       {
         "type": "text",
@@ -11922,14 +12084,14 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
         "title": "Source Content",
         "items": [
-          "T-Minus 26 · RIT Product Design SprintSponsored by Church & Dwight",
+          "T-Minus 26  -  RIT Product Design SprintSponsored by Church & Dwight",
           "Design Prompt",
           "Rethink the Batiste user experience through an out of the box product concept focused on alternative application, packaging, or format.",
           "Our Answer",
@@ -11940,7 +12102,11 @@ const rawSourcePages = [
           "Material Constraints",
           "Because the fiber needs to remain dry until use, moisture control in a humid bathroom environment became a key constraint. The container was designed to stay sealed while still allowing quick, one handed access for dispensing.",
           "Ideation & Sketching",
-          "Prototypes"
+          "Prototypes",
+          "How does it work?",
+          "Final Result of the 4 day sprint.",
+          "www.ethansolodukhin.com",
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -11950,7 +12116,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1228-function-prosses-b05875dea671.webp",
+        "localPath": "assets/source-site/fiberweave/1228-function-prosses-b05875dea671.webp",
         "kind": "image"
       },
       {
@@ -11958,7 +12124,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1229-pxl-20260121-034350085-63f7d0c325bf.webp",
+        "localPath": "assets/source-site/fiberweave/1229-pxl-20260121-034350085-63f7d0c325bf.webp",
         "kind": "image"
       },
       {
@@ -11966,7 +12132,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1230-pxl-20260115-235256894-portrait-d78d822eab2d.webp",
+        "localPath": "assets/source-site/fiberweave/1230-pxl-20260115-235256894-portrait-d78d822eab2d.webp",
         "kind": "image"
       },
       {
@@ -11974,7 +12140,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1231-pxl-20260117-002734371-6a2080ade954.webp",
+        "localPath": "assets/source-site/fiberweave/1231-pxl-20260117-002734371-6a2080ade954.webp",
         "kind": "image"
       },
       {
@@ -11982,7 +12148,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1232-photorealistic-lifestyle-product-shot-of-a-person-us-078768aee527.webp",
+        "localPath": "assets/source-site/fiberweave/1232-photorealistic-lifestyle-product-shot-of-a-person-us-078768aee527.webp",
         "kind": "image"
       },
       {
@@ -11990,7 +12156,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1233-church-dwight-logo-svg-d9466fcf4f7c.webp",
+        "localPath": "assets/source-site/fiberweave/1233-church-dwight-logo-svg-d9466fcf4f7c.webp",
         "kind": "image"
       },
       {
@@ -11998,7 +12164,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1234-desktop-melts-vitamin-c-lifestyle1-3c4410f8aaaa.webp",
+        "localPath": "assets/source-site/fiberweave/1234-desktop-melts-vitamin-c-lifestyle1-3c4410f8aaaa.webp",
         "kind": "image"
       },
       {
@@ -12006,7 +12172,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1235-asset-1sketch-bffc9071125a.webp",
+        "localPath": "assets/source-site/fiberweave/1235-asset-1sketch-bffc9071125a.webp",
         "kind": "image"
       },
       {
@@ -12014,7 +12180,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1236-pxl-20260121-034337395-27f773a07b22.webp",
+        "localPath": "assets/source-site/fiberweave/1236-pxl-20260121-034337395-27f773a07b22.webp",
         "kind": "image"
       },
       {
@@ -12022,7 +12188,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1237-pxl-20260115-235450421-portrait-faae78783490.webp",
+        "localPath": "assets/source-site/fiberweave/1237-pxl-20260115-235450421-portrait-faae78783490.webp",
         "kind": "image"
       },
       {
@@ -12030,7 +12196,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1238-industrial-design-storyboard-four-panel-sequence-cle-dd76d159de78.webp",
+        "localPath": "assets/source-site/fiberweave/1238-industrial-design-storyboard-four-panel-sequence-cle-dd76d159de78.webp",
         "kind": "image"
       },
       {
@@ -12038,7 +12204,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1239-pxl-20260121-034341343-f6db778e498b.webp",
+        "localPath": "assets/source-site/fiberweave/1239-pxl-20260121-034341343-f6db778e498b.webp",
         "kind": "image"
       },
       {
@@ -12046,7 +12212,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1240-pxl-20260115-235404867-portrait-96e29a0fa237.webp",
+        "localPath": "assets/source-site/fiberweave/1240-pxl-20260115-235404867-portrait-96e29a0fa237.webp",
         "kind": "image"
       },
       {
@@ -12054,7 +12220,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1241-exploded-view-ac70605e2bbf.webp",
+        "localPath": "assets/source-site/fiberweave/1241-exploded-view-ac70605e2bbf.webp",
         "kind": "image"
       },
       {
@@ -12062,7 +12228,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1242-screenshot-2026-01-17-183432-102d4694096f.webp",
+        "localPath": "assets/source-site/fiberweave/1242-screenshot-2026-01-17-183432-102d4694096f.webp",
         "kind": "image"
       },
       {
@@ -12070,7 +12236,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1243-pxl-20260117-002724314-eca5436f93a3.webp",
+        "localPath": "assets/source-site/fiberweave/1243-pxl-20260117-002724314-eca5436f93a3.webp",
         "kind": "image"
       },
       {
@@ -12078,7 +12244,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "FiberWash",
-        "localPath": "assets/source-site/media/1244-church-dwight-logo-889dc47826e0.webp",
+        "localPath": "assets/source-site/fiberweave/1244-church-dwight-logo-889dc47826e0.webp",
         "kind": "image"
       }
     ],
@@ -12090,7 +12256,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1228-function-prosses-b05875dea671.webp",
+    "heroImage": "assets/source-site/fiberweave/1228-function-prosses-b05875dea671.webp",
     "imageCount": 17,
     "mediaCount": 0
   },
@@ -12162,7 +12328,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -12184,7 +12350,7 @@ const rawSourcePages = [
         "title": "Prototyping & Presentation Props",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -12194,7 +12360,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1083-screenshot-2025-01-20-201712-078c6263bf87.webp",
+        "localPath": "assets/source-site/nomad/1083-screenshot-2025-01-20-201712-078c6263bf87.webp",
         "kind": "image"
       },
       {
@@ -12202,7 +12368,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1084-img-7668-8a4526fd170b.webp",
+        "localPath": "assets/source-site/nomad/1084-img-7668-8a4526fd170b.webp",
         "kind": "image"
       },
       {
@@ -12210,7 +12376,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1085-screenshot-2025-01-20-192212-b0948400bdfd.webp",
+        "localPath": "assets/source-site/nomad/1085-screenshot-2025-01-20-192212-b0948400bdfd.webp",
         "kind": "image"
       },
       {
@@ -12218,7 +12384,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1086-asset-1-4x-8ba7b8dde8ac.webp",
+        "localPath": "assets/source-site/nomad/1086-asset-1-4x-8ba7b8dde8ac.webp",
         "kind": "image"
       },
       {
@@ -12226,7 +12392,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1087-asset-2-42-580ef4008d2f.webp",
+        "localPath": "assets/source-site/nomad/1087-asset-2-42-580ef4008d2f.webp",
         "kind": "image"
       },
       {
@@ -12234,7 +12400,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1088-img-20250120-181522-696e12dd6f8b.webp",
+        "localPath": "assets/source-site/nomad/1088-img-20250120-181522-696e12dd6f8b.webp",
         "kind": "image"
       },
       {
@@ -12242,7 +12408,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1089-screenshot-2025-01-20-191009-ac63f16ca4cd.webp",
+        "localPath": "assets/source-site/nomad/1089-screenshot-2025-01-20-191009-ac63f16ca4cd.webp",
         "kind": "image"
       },
       {
@@ -12250,7 +12416,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1090-screenshot-2025-01-20-191051-39354984c73c.webp",
+        "localPath": "assets/source-site/nomad/1090-screenshot-2025-01-20-191051-39354984c73c.webp",
         "kind": "image"
       },
       {
@@ -12258,7 +12424,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1091-screenshot-2025-01-20-191130-55c8071d7e82.webp",
+        "localPath": "assets/source-site/nomad/1091-screenshot-2025-01-20-191130-55c8071d7e82.webp",
         "kind": "image"
       },
       {
@@ -12266,7 +12432,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1092-screenshot-2025-01-20-191112-7606a7542791.webp",
+        "localPath": "assets/source-site/nomad/1092-screenshot-2025-01-20-191112-7606a7542791.webp",
         "kind": "image"
       },
       {
@@ -12274,7 +12440,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1093-screenshot-2025-01-20-191437-0b98f8527070.webp",
+        "localPath": "assets/source-site/nomad/1093-screenshot-2025-01-20-191437-0b98f8527070.webp",
         "kind": "image"
       },
       {
@@ -12282,7 +12448,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1094-screenshot-2025-01-20-191453-6caf8e982da2.webp",
+        "localPath": "assets/source-site/nomad/1094-screenshot-2025-01-20-191453-6caf8e982da2.webp",
         "kind": "image"
       },
       {
@@ -12290,7 +12456,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1095-screenshot-2025-01-20-191522-a7cd661754c9.webp",
+        "localPath": "assets/source-site/nomad/1095-screenshot-2025-01-20-191522-a7cd661754c9.webp",
         "kind": "image"
       },
       {
@@ -12298,7 +12464,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1096-pxl-20250121-005025855-5f150a71c697.webp",
+        "localPath": "assets/source-site/nomad/1096-pxl-20250121-005025855-5f150a71c697.webp",
         "kind": "image"
       },
       {
@@ -12306,7 +12472,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1097-screenshot-2025-01-20-191605-2ef66fb29cfb.webp",
+        "localPath": "assets/source-site/nomad/1097-screenshot-2025-01-20-191605-2ef66fb29cfb.webp",
         "kind": "image"
       },
       {
@@ -12314,7 +12480,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1098-pxl-20250121-005048631-09a1eb566297.webp",
+        "localPath": "assets/source-site/nomad/1098-pxl-20250121-005048631-09a1eb566297.webp",
         "kind": "image"
       },
       {
@@ -12322,7 +12488,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1099-pxl-20250121-005150550-fba5ebbfa61e.webp",
+        "localPath": "assets/source-site/nomad/1099-pxl-20250121-005150550-fba5ebbfa61e.webp",
         "kind": "image"
       },
       {
@@ -12330,7 +12496,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1100-pxl-20250121-005206732-b6b1a6492462.webp",
+        "localPath": "assets/source-site/nomad/1100-pxl-20250121-005206732-b6b1a6492462.webp",
         "kind": "image"
       },
       {
@@ -12338,7 +12504,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1101-pxl-20250121-005223355-96dc1b5efaf7.webp",
+        "localPath": "assets/source-site/nomad/1101-pxl-20250121-005223355-96dc1b5efaf7.webp",
         "kind": "image"
       },
       {
@@ -12346,7 +12512,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1102-pxl-20250121-005240083-eb7f7dd3d866.webp",
+        "localPath": "assets/source-site/nomad/1102-pxl-20250121-005240083-eb7f7dd3d866.webp",
         "kind": "image"
       },
       {
@@ -12354,7 +12520,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1103-asset-2logo-for-dogs-e198f691df85.webp",
+        "localPath": "assets/source-site/nomad/1103-asset-2logo-for-dogs-e198f691df85.webp",
         "kind": "image"
       },
       {
@@ -12362,7 +12528,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Nomad Nest",
-        "localPath": "assets/source-site/media/1104-pxl-20250121-005250413-82494b8fd195.webp",
+        "localPath": "assets/source-site/nomad/1104-pxl-20250121-005250413-82494b8fd195.webp",
         "kind": "image"
       }
     ],
@@ -12374,7 +12540,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1083-screenshot-2025-01-20-201712-078c6263bf87.webp",
+    "heroImage": "assets/source-site/nomad/1083-screenshot-2025-01-20-201712-078c6263bf87.webp",
     "imageCount": 22,
     "mediaCount": 0
   },
@@ -12411,7 +12577,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -12426,7 +12592,7 @@ const rawSourcePages = [
         "title": "Mood Board",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -12436,7 +12602,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0500-shelfmate-1-7a0d892de507.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0500-shelfmate-1-7a0d892de507.webp",
         "kind": "image"
       },
       {
@@ -12444,7 +12610,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0501-images-aa36c95c1413.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0501-images-aa36c95c1413.webp",
         "kind": "image"
       },
       {
@@ -12452,7 +12618,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0502-shelf-mate-2-a5feb95305ea.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0502-shelf-mate-2-a5feb95305ea.webp",
         "kind": "image"
       },
       {
@@ -12460,7 +12626,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0503-shelf-mate-3-c9cd0c7a32eb.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0503-shelf-mate-3-c9cd0c7a32eb.webp",
         "kind": "image"
       },
       {
@@ -12468,7 +12634,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0504-shelfmate-4-1785de812cfb.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0504-shelfmate-4-1785de812cfb.webp",
         "kind": "image"
       },
       {
@@ -12476,7 +12642,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0505-shelfmate-6-3af0f276993c.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0505-shelfmate-6-3af0f276993c.webp",
         "kind": "image"
       },
       {
@@ -12484,7 +12650,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0506-pxl-20241111-031257067-mp-e6d2d2acb3ae.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0506-pxl-20241111-031257067-mp-e6d2d2acb3ae.webp",
         "kind": "image"
       },
       {
@@ -12492,7 +12658,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0507-pxl-20241111-031306322-08e61733723e.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0507-pxl-20241111-031306322-08e61733723e.webp",
         "kind": "image"
       },
       {
@@ -12500,7 +12666,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0508-snapchat-722561275-2-ddde61720585.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0508-snapchat-722561275-2-ddde61720585.webp",
         "kind": "image"
       },
       {
@@ -12508,7 +12674,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0509-snapchat-749219015-2-a49d7d50fbcb.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0509-snapchat-749219015-2-a49d7d50fbcb.webp",
         "kind": "image"
       },
       {
@@ -12516,7 +12682,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0510-shalfmate-7-e55fcc8dcacc.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0510-shalfmate-7-e55fcc8dcacc.webp",
         "kind": "image"
       },
       {
@@ -12524,7 +12690,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0511-shelf-mate-8-7b4932e4a2ec.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0511-shelf-mate-8-7b4932e4a2ec.webp",
         "kind": "image"
       },
       {
@@ -12532,7 +12698,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0512-shelfmate-9-973900558f31.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0512-shelfmate-9-973900558f31.webp",
         "kind": "image"
       },
       {
@@ -12540,7 +12706,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0513-screenshot-2024-11-13-165057-f2883ce39e32.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0513-screenshot-2024-11-13-165057-f2883ce39e32.webp",
         "kind": "image"
       },
       {
@@ -12548,7 +12714,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shelf Mate 2024",
-        "localPath": "assets/source-site/media/0514-shelfmate-14-ea83bc24ed87.webp",
+        "localPath": "assets/source-site/shelf-mate-2024/0514-shelfmate-14-ea83bc24ed87.webp",
         "kind": "image"
       }
     ],
@@ -12560,7 +12726,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0500-shelfmate-1-7a0d892de507.webp",
+    "heroImage": "assets/source-site/shelf-mate-2024/0500-shelfmate-1-7a0d892de507.webp",
     "imageCount": 15,
     "mediaCount": 0
   },
@@ -12677,7 +12843,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "Personal Motivation:I’m a huge F1 and racing fan."
+        "text": "Personal Motivation:I'm a huge F1 and racing fan."
       },
       {
         "type": "text",
@@ -12687,12 +12853,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "I’m a huge F1 and racing fan."
+        "text": "I'm a huge F1 and racing fan."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "I’m a huge F1 and racing fan."
+        "text": "I'm a huge F1 and racing fan."
       },
       {
         "type": "heading",
@@ -12742,7 +12908,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "Updated Design:Maintains the dual-bearing system.Replaced rubber bands with retractable spring mechanisms for tension.Springs generate enough force to center the Deck at its origin point."
+        "text": "Updated Design:Maintains the dual-bearing system.Replaced rubber bands with retractable spring mechanisms for tension.Springs create enough force to center the Deck at its origin point."
       },
       {
         "type": "text",
@@ -12772,12 +12938,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "Springs generate enough force to center the Deck at its origin point."
+        "text": "Springs create enough force to center the Deck at its origin point."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Springs generate enough force to center the Deck at its origin point."
+        "text": "Springs create enough force to center the Deck at its origin point."
       },
       {
         "type": "text",
@@ -13032,22 +13198,22 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "blockquote",
-        "text": "“This reminds me a lot of the Wii era where people were getting creative as well with the possibilities offered by the joycons of the time.”"
+        "text": "'This reminds me a lot of the Wii era where people were getting creative as well with the possibilities offered by the joycons of the time.'"
       },
       {
         "type": "text",
         "level": "figcaption",
-        "text": "— ekianjo at Boiling Steam"
+        "text": "- ekianjo at Boiling Steam"
       },
       {
         "type": "text",
         "level": "blockquote",
-        "text": "“ -the Sol Wheel seems like it could be perfect for racing game enthusiasts.”"
+        "text": "' -the Sol Wheel seems like it could be perfect for racing game enthusiasts.'"
       },
       {
         "type": "text",
         "level": "figcaption",
-        "text": "— Andrew Heaton at PC Games News"
+        "text": "- Andrew Heaton at PC Games News"
       },
       {
         "type": "text",
@@ -13057,7 +13223,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -13083,8 +13249,10 @@ const rawSourcePages = [
           "Cheap and easy to manufacture.",
           "Provides a product-based solution for a growing market.",
           "Provides a product-based solution for a growing market.",
-          "Personal Motivation:I’m a huge F1 and racing fan.",
-          "Personal Motivation:"
+          "Personal Motivation:I'm a huge F1 and racing fan.",
+          "Personal Motivation:",
+          "I'm a huge F1 and racing fan.",
+          "I'm a huge F1 and racing fan."
         ]
       },
       {
@@ -13098,10 +13266,16 @@ const rawSourcePages = [
           "Created an axis of rotation for the Deck when docked on a table.",
           "Used rubber bands on both sides of the deck to return the wheel to its original position.",
           "Used rubber bands on both sides of the deck to return the wheel to its original position.",
-          "Updated Design:Maintains the dual-bearing system.Replaced rubber bands with retractable spring mechanisms for tension.Springs generate enough force to center the Deck at its origin point.",
+          "Updated Design:Maintains the dual-bearing system.Replaced rubber bands with retractable spring mechanisms for tension.Springs create enough force to center the Deck at its origin point.",
           "Updated Design:",
           "Maintains the dual-bearing system.",
-          "Maintains the dual-bearing system."
+          "Maintains the dual-bearing system.",
+          "Replaced rubber bands with retractable spring mechanisms for tension.",
+          "Replaced rubber bands with retractable spring mechanisms for tension.",
+          "Springs create enough force to center the Deck at its origin point.",
+          "Springs create enough force to center the Deck at its origin point.",
+          "Process of making the Sol Wheel, and revival of the project.",
+          "The Original CAD Models and renders for the Sol wheel. Done in blender and fusion."
         ]
       },
       {
@@ -13154,18 +13328,39 @@ const rawSourcePages = [
           "The second prototype features clock spring components.",
           "Improvements:",
           "Enhanced movement and functionality due to improved manufacturing methods.",
-          "Enhanced movement and functionality due to improved manufacturing methods."
+          "Enhanced movement and functionality due to improved manufacturing methods.",
+          "Third Prototype Overview:",
+          "The third prototype features clock spring components.",
+          "Updates and Features:",
+          "Updated Deck Holder.",
+          "Updated Deck Holder.",
+          "Added rail for a specific area for the wire to wrap.",
+          "Added rail for a specific area for the wire to wrap.",
+          "Introduced a clock spring container.",
+          "Introduced a clock spring container.",
+          "Enhanced movement and functionality due to better manufacturing methods, improved parts, higher-quality filament, and a new updated design.",
+          "Enhanced movement and functionality due to better manufacturing methods, improved parts, higher-quality filament, and a new updated design.",
+          "Prototype Overview:",
+          "Fourth prototype with enhancements.",
+          "Fourth prototype with enhancements.",
+          "Better movement and functionality.",
+          "Better movement and functionality.",
+          "Upgraded parts for smoother rotation.",
+          "Upgraded parts for smoother rotation.",
+          "Increased pull force from the mechanisms.",
+          "Increased pull force from the mechanisms.",
+          "Demo Prototype for the IMAGINE RIT 2024 Exhibition."
         ]
       },
       {
         "title": "Press",
         "items": [
-          "“This reminds me a lot of the Wii era where people were getting creative as well with the possibilities offered by the joycons of the time.”",
-          "— ekianjo at Boiling Steam",
-          "“ -the Sol Wheel seems like it could be perfect for racing game enthusiasts.”",
-          "— Andrew Heaton at PC Games News",
+          "'This reminds me a lot of the Wii era where people were getting creative as well with the possibilities offered by the joycons of the time.'",
+          "- ekianjo at Boiling Steam",
+          "' -the Sol Wheel seems like it could be perfect for racing game enthusiasts.'",
+          "- Andrew Heaton at PC Games News",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -13175,7 +13370,7 @@ const rawSourcePages = [
         "title": "Sol Wheel",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0042-sol-wheel-3644b70aaeda.webp",
+        "localPath": "assets/source-site/sol-wheel/0042-sol-wheel-3644b70aaeda.webp",
         "kind": "image"
       },
       {
@@ -13183,7 +13378,7 @@ const rawSourcePages = [
         "title": "Sol Wheel",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0043-oringal-cad-models-a4188401fac6.webp",
+        "localPath": "assets/source-site/sol-wheel/0043-oringal-cad-models-a4188401fac6.webp",
         "kind": "image"
       },
       {
@@ -13191,7 +13386,7 @@ const rawSourcePages = [
         "title": "Sol Wheel",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0044-untitled-design-4-62a99a764509.webp",
+        "localPath": "assets/source-site/sol-wheel/0044-untitled-design-4-62a99a764509.webp",
         "kind": "image"
       },
       {
@@ -13199,7 +13394,7 @@ const rawSourcePages = [
         "title": "Sol Wheel",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0045-untitled-design-5-e9c8db6cf314.webp",
+        "localPath": "assets/source-site/sol-wheel/0045-untitled-design-5-e9c8db6cf314.webp",
         "kind": "image"
       },
       {
@@ -13207,7 +13402,7 @@ const rawSourcePages = [
         "title": "Sol Wheel",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0046-reddit-e82f00e6e241.webp",
+        "localPath": "assets/source-site/sol-wheel/0046-reddit-e82f00e6e241.webp",
         "kind": "image"
       },
       {
@@ -13215,7 +13410,7 @@ const rawSourcePages = [
         "title": "Sol Wheel",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0047-kickstarter-d68ebdba71d3.webp",
+        "localPath": "assets/source-site/sol-wheel/0047-kickstarter-d68ebdba71d3.webp",
         "kind": "image"
       },
       {
@@ -13223,7 +13418,7 @@ const rawSourcePages = [
         "title": "Sol Wheel",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0048-preosses4-d43ef66cbcbd.webp",
+        "localPath": "assets/source-site/sol-wheel/0048-preosses4-d43ef66cbcbd.webp",
         "kind": "image"
       },
       {
@@ -13231,7 +13426,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0049-adobe-premiere-pro-logo-wine-2401e18e01a5.webp",
+        "localPath": "assets/source-site/sol-wheel/0049-adobe-premiere-pro-logo-wine-2401e18e01a5.webp",
         "kind": "image"
       },
       {
@@ -13239,7 +13434,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0050-blender-logo-no-text-svg-54e62dc67bd0.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0050-blender-logo-no-text-svg-54e62dc67bd0.webp",
         "kind": "image"
       },
       {
@@ -13247,7 +13442,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0051-kickstarter-icon-2048x2048-9wy0jtwj-0c19d9c0a25a.webp",
+        "localPath": "assets/source-site/sol-wheel/0051-kickstarter-icon-2048x2048-9wy0jtwj-0c19d9c0a25a.webp",
         "kind": "image"
       },
       {
@@ -13255,7 +13450,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0052-reddit-logo-icon-svg-eaa58b41d543.webp",
+        "localPath": "assets/source-site/sol-wheel/0052-reddit-logo-icon-svg-eaa58b41d543.webp",
         "kind": "image"
       },
       {
@@ -13263,7 +13458,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0053-illustrator-logo-c7ed07f4e0a7.webp",
+        "localPath": "assets/source-site/spotify-concept/0053-illustrator-logo-c7ed07f4e0a7.webp",
         "kind": "image"
       },
       {
@@ -13271,7 +13466,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0054-autodesk-fusion-360-logo-7f72a76397-seeklogo-com-659aab6c1672.webp",
+        "localPath": "assets/source-site/sol-wheel/0054-autodesk-fusion-360-logo-7f72a76397-seeklogo-com-659aab6c1672.webp",
         "kind": "image"
       },
       {
@@ -13279,7 +13474,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0055-kickstarter-35e99a4e74fe.webp",
+        "localPath": "assets/source-site/sol-wheel/0055-kickstarter-35e99a4e74fe.webp",
         "kind": "image"
       },
       {
@@ -13287,7 +13482,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0056-asset-3assets-for-informainon-on-sol-wheel-441-pledg-63ef21cc2423.webp",
+        "localPath": "assets/source-site/sol-wheel/0056-asset-3assets-for-informainon-on-sol-wheel-441-pledg-63ef21cc2423.webp",
         "kind": "image"
       },
       {
@@ -13295,7 +13490,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0057-asset-5assets-for-informainon-on-sol-wheel-neews-edcf8c8cb2c2.webp",
+        "localPath": "assets/source-site/sol-wheel/0057-asset-5assets-for-informainon-on-sol-wheel-neews-edcf8c8cb2c2.webp",
         "kind": "image"
       },
       {
@@ -13303,7 +13498,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0058-asset-4assets-for-informainon-on-sol-wheel-2o-follow-379954d79687.webp",
+        "localPath": "assets/source-site/sol-wheel/0058-asset-4assets-for-informainon-on-sol-wheel-2o-follow-379954d79687.webp",
         "kind": "image"
       },
       {
@@ -13311,7 +13506,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0059-asset-2assets-for-informainon-on-sol-wheel-10-backer-9995d579864b.webp",
+        "localPath": "assets/source-site/sol-wheel/0059-asset-2assets-for-informainon-on-sol-wheel-10-backer-9995d579864b.webp",
         "kind": "image"
       },
       {
@@ -13319,7 +13514,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0060-asset-7assets-for10k-views-2f92519007bf.webp",
+        "localPath": "assets/source-site/sol-wheel/0060-asset-7assets-for10k-views-2f92519007bf.webp",
         "kind": "image"
       },
       {
@@ -13327,7 +13522,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0061-asset-8assets-forredditors-60f45c20cf06.webp",
+        "localPath": "assets/source-site/sol-wheel/0061-asset-8assets-forredditors-60f45c20cf06.webp",
         "kind": "image"
       },
       {
@@ -13335,7 +13530,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0062-asset-9assets-for-karma-cd40602984c1.webp",
+        "localPath": "assets/source-site/sol-wheel/0062-asset-9assets-for-karma-cd40602984c1.webp",
         "kind": "image"
       },
       {
@@ -13343,7 +13538,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0063-asset-6assets-for-reddit-bfb430dc3c4f.webp",
+        "localPath": "assets/source-site/sol-wheel/0063-asset-6assets-for-reddit-bfb430dc3c4f.webp",
         "kind": "image"
       },
       {
@@ -13351,7 +13546,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0064-reddit-15efa7f619b5.webp",
+        "localPath": "assets/source-site/sol-wheel/0064-reddit-15efa7f619b5.webp",
         "kind": "image"
       },
       {
@@ -13359,7 +13554,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0003-copy-of-shelfmate-for-ethan-5-998f3218e3a2.webp",
+        "localPath": "assets/source-site/sol-wheel/0003-copy-of-shelfmate-for-ethan-5-998f3218e3a2.webp",
         "kind": "image"
       },
       {
@@ -13367,7 +13562,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0065-snapchat-910967115-a7439b2778c2.webp",
+        "localPath": "assets/source-site/sol-wheel/0065-snapchat-910967115-a7439b2778c2.webp",
         "kind": "image"
       },
       {
@@ -13375,7 +13570,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0066-snapchat-1653692201-f23b0bd4c170.webp",
+        "localPath": "assets/source-site/sol-wheel/0066-snapchat-1653692201-f23b0bd4c170.webp",
         "kind": "image"
       },
       {
@@ -13383,7 +13578,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0067-snapchat-1572846822-41b21045fcc9.webp",
+        "localPath": "assets/source-site/sol-wheel/0067-snapchat-1572846822-41b21045fcc9.webp",
         "kind": "image"
       },
       {
@@ -13391,7 +13586,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0068-snapchat-846027287-9af2979e6f77.webp",
+        "localPath": "assets/source-site/sol-wheel/0068-snapchat-846027287-9af2979e6f77.webp",
         "kind": "image"
       },
       {
@@ -13399,7 +13594,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0069-snapchat-427498423-37aa21bec7cb.webp",
+        "localPath": "assets/source-site/sol-wheel/0069-snapchat-427498423-37aa21bec7cb.webp",
         "kind": "image"
       },
       {
@@ -13407,7 +13602,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0070-snapchat-600703807-93307aff73ff.webp",
+        "localPath": "assets/source-site/sol-wheel/0070-snapchat-600703807-93307aff73ff.webp",
         "kind": "image"
       },
       {
@@ -13415,7 +13610,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0071-pxl-20240417-182902609-f70f4afa117b.webp",
+        "localPath": "assets/source-site/sol-wheel/0071-pxl-20240417-182902609-f70f4afa117b.webp",
         "kind": "image"
       },
       {
@@ -13423,7 +13618,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0072-pxl-20240417-182928513-1a3887c88fd2.webp",
+        "localPath": "assets/source-site/sol-wheel/0072-pxl-20240417-182928513-1a3887c88fd2.webp",
         "kind": "image"
       },
       {
@@ -13431,7 +13626,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0073-pxl-20240417-182921277-c20ea9448037.webp",
+        "localPath": "assets/source-site/sol-wheel/0073-pxl-20240417-182921277-c20ea9448037.webp",
         "kind": "image"
       },
       {
@@ -13439,7 +13634,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0074-pxl-20240417-182959869-34c07af7c81c.webp",
+        "localPath": "assets/source-site/sol-wheel/0074-pxl-20240417-182959869-34c07af7c81c.webp",
         "kind": "image"
       },
       {
@@ -13447,7 +13642,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0075-logo-imagine-rit-clouds-9aa1c2b89e8d.webp",
+        "localPath": "assets/source-site/sol-wheel/0075-logo-imagine-rit-clouds-9aa1c2b89e8d.webp",
         "kind": "image"
       },
       {
@@ -13455,7 +13650,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0076-screenshot-2023-11-21-022918-274f446c4867.webp",
+        "localPath": "assets/source-site/sol-wheel/0076-screenshot-2023-11-21-022918-274f446c4867.webp",
         "kind": "image"
       },
       {
@@ -13463,7 +13658,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0077-news1-2db2e472f998.webp",
+        "localPath": "assets/source-site/sol-wheel/0077-news1-2db2e472f998.webp",
         "kind": "image"
       },
       {
@@ -13471,7 +13666,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0078-pcgamesn-wordmark-orangeblack-rgb-svg-50ce0e660ad9.webp",
+        "localPath": "assets/source-site/sol-wheel/0078-pcgamesn-wordmark-orangeblack-rgb-svg-50ce0e660ad9.webp",
         "kind": "image"
       },
       {
@@ -13479,7 +13674,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0079-new2-1f42dade0b52.webp",
+        "localPath": "assets/source-site/sol-wheel/0079-new2-1f42dade0b52.webp",
         "kind": "image"
       },
       {
@@ -13487,7 +13682,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0080-deck-adversising-64b3880d159a.webp",
+        "localPath": "assets/source-site/sol-wheel/0080-deck-adversising-64b3880d159a.webp",
         "kind": "image"
       },
       {
@@ -13495,7 +13690,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0081-blender-logo-no-text-ed7534fb5748.webp",
+        "localPath": "assets/source-site/csgo-skin-mod/0081-blender-logo-no-text-ed7534fb5748.webp",
         "kind": "image"
       },
       {
@@ -13503,7 +13698,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0082-reddit-logo-icon-d11c28f99555.webp",
+        "localPath": "assets/source-site/sol-wheel/0082-reddit-logo-icon-d11c28f99555.webp",
         "kind": "image"
       },
       {
@@ -13511,14 +13706,14 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Wheel",
-        "localPath": "assets/source-site/media/0083-pcgamesn-wordmark-orangeblack-rgb-2b8edc9dcaef.webp",
+        "localPath": "assets/source-site/sol-wheel/0083-pcgamesn-wordmark-orangeblack-rgb-2b8edc9dcaef.webp",
         "kind": "image"
       }
     ],
     "media": [
       {
         "url": "https://www.youtube.com/embed/WGUvf9-bIIc?wmode=opaque",
-        "localPath": "assets/source-site/media/0084-wguvf9-biic-a5db28a80841.bin",
+        "localPath": "assets/source-site/sol-wheel/0084-wguvf9-biic-a5db28a80841.bin",
         "kind": "asset"
       }
     ],
@@ -13529,7 +13724,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0042-sol-wheel-3644b70aaeda.webp",
+    "heroImage": "assets/source-site/sol-wheel/0042-sol-wheel-3644b70aaeda.webp",
     "imageCount": 43,
     "mediaCount": 1
   },
@@ -13551,12 +13746,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "\"Featured on Yanko Design\""
+        "text": "'Featured on Yanko Design'"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "\"Featured on Trend Hunter\""
+        "text": "'Featured on Trend Hunter'"
       },
       {
         "type": "text",
@@ -13601,7 +13796,7 @@ const rawSourcePages = [
       {
         "type": "heading",
         "level": "h3",
-        "text": "\"Your Plastic, Our Process, Your Furniture, Donate to Create.\""
+        "text": "'Your Plastic, Our Process, Your Furniture, Donate to Create.'"
       },
       {
         "type": "heading",
@@ -13626,7 +13821,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "The Revo Chair is a modular, eco-friendly seating solution made from recycled materials. Stylish and adaptable, it’s designed for comfort, functionality, and sustainable living."
+        "text": "The Revo Chair is a modular, eco-friendly seating solution made from recycled materials. Stylish and adaptable, it's designed for comfort, functionality, and sustainable living."
       },
       {
         "type": "text",
@@ -13701,22 +13896,22 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "blockquote",
-        "text": "“The Revo Chair uses a single-piece design and it can serve as both an actual chair but when used with a different orientation, it can also serve as storage.”"
+        "text": "'The Revo Chair uses a single-piece design and it can serve as both an actual chair but when used with a different orientation, it can also serve as storage.'"
       },
       {
         "type": "text",
         "level": "figcaption",
-        "text": "— Ida Torres From Yanko Design"
+        "text": "- Ida Torres From Yanko Design"
       },
       {
         "type": "text",
         "level": "blockquote",
-        "text": "“3D-printed furniture piece created with an attention to style and detail that makes use of an unexpected material: recycled plastic. ”"
+        "text": "'3D-printed furniture piece created with an attention to style and detail that makes use of an unexpected material: recycled plastic. '"
       },
       {
         "type": "text",
         "level": "figcaption",
-        "text": "— Michael Hemsworth From Trend Hunters"
+        "text": "- Michael Hemsworth From Trend Hunters"
       },
       {
         "type": "text",
@@ -13726,15 +13921,15 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
         "title": "REVO.",
         "items": [
-          "\"Featured on Yanko Design\"",
-          "\"Featured on Trend Hunter\"",
+          "'Featured on Yanko Design'",
+          "'Featured on Trend Hunter'",
           "2024 IDSA Bronze Award Gala Contestant"
         ]
       },
@@ -13759,7 +13954,7 @@ const rawSourcePages = [
           "Redefining Comfort with Sustainable Innovation",
           "Tailored to Fit Every Space",
           "Precision-Crafted for Maximum Comfort",
-          "The Revo Chair is a modular, eco-friendly seating solution made from recycled materials. Stylish and adaptable, it’s designed for comfort, functionality, and sustainable living.",
+          "The Revo Chair is a modular, eco-friendly seating solution made from recycled materials. Stylish and adaptable, it's designed for comfort, functionality, and sustainable living.",
           "The Revo Stoool is a sleek, stackable seating solution combining minimalist design with sustainable materials, perfect for modern spaces and compact living.",
           "The Revo Beam is a bold, minimalist standing light, merging playful aesthetics with sustainable design. Its sleek structure and vibrant finish make it perfect for modern, creative spaces.",
           "Process",
@@ -13779,12 +13974,12 @@ const rawSourcePages = [
       {
         "title": "Press & Features",
         "items": [
-          "“The Revo Chair uses a single-piece design and it can serve as both an actual chair but when used with a different orientation, it can also serve as storage.”",
-          "— Ida Torres From Yanko Design",
-          "“3D-printed furniture piece created with an attention to style and detail that makes use of an unexpected material: recycled plastic. ”",
-          "— Michael Hemsworth From Trend Hunters",
+          "'The Revo Chair uses a single-piece design and it can serve as both an actual chair but when used with a different orientation, it can also serve as storage.'",
+          "- Ida Torres From Yanko Design",
+          "'3D-printed furniture piece created with an attention to style and detail that makes use of an unexpected material: recycled plastic. '",
+          "- Michael Hemsworth From Trend Hunters",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -13794,7 +13989,7 @@ const rawSourcePages = [
         "title": "3D Printing Service",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0644-pxl-20241108-195125447-mp-baceab0f26cc.webp",
+        "localPath": "assets/source-site/3d-printing-service/0644-pxl-20241108-195125447-mp-baceab0f26cc.webp",
         "kind": "image"
       },
       {
@@ -13802,7 +13997,7 @@ const rawSourcePages = [
         "title": "3D Printing Service",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0645-pxl-20241108-195147580-mp-3ab3ae5f9d01.webp",
+        "localPath": "assets/source-site/3d-printing-service/0645-pxl-20241108-195147580-mp-3ab3ae5f9d01.webp",
         "kind": "image"
       },
       {
@@ -13810,7 +14005,7 @@ const rawSourcePages = [
         "title": "3D Printing Service",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0646-pxl-20240503-163446656-7ccc2dc84172.webp",
+        "localPath": "assets/source-site/3d-printing-service/0646-pxl-20240503-163446656-7ccc2dc84172.webp",
         "kind": "image"
       },
       {
@@ -13818,7 +14013,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0647-for-splash-screen3-809db509e848.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0647-for-splash-screen3-809db509e848.webp",
         "kind": "image"
       },
       {
@@ -13826,7 +14021,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0648-dvtl-b9v-400x400-6aeed09b93d9.webp",
+        "localPath": "assets/source-site/3d-printing-service/0648-dvtl-b9v-400x400-6aeed09b93d9.webp",
         "kind": "image"
       },
       {
@@ -13834,7 +14029,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0649-yanko-1a5bf146d110.webp",
+        "localPath": "assets/source-site/3d-printing-service/0649-yanko-1a5bf146d110.webp",
         "kind": "image"
       },
       {
@@ -13842,7 +14037,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0650-3613ffd2347354025874eb745af80aa7-110285149a4c.webp",
+        "localPath": "assets/source-site/3d-printing-service/0650-3613ffd2347354025874eb745af80aa7-110285149a4c.webp",
         "kind": "image"
       },
       {
@@ -13850,7 +14045,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0651-0001-png0199-9a97005f6f1c.webp",
+        "localPath": "assets/source-site/3d-printing-service/0651-0001-png0199-9a97005f6f1c.webp",
         "kind": "image"
       },
       {
@@ -13858,7 +14053,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0652-plus-fbc1b3cb252e.webp",
+        "localPath": "assets/source-site/3d-printing-service/0652-plus-fbc1b3cb252e.webp",
         "kind": "image"
       },
       {
@@ -13866,7 +14061,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0653-untitled-360343d4a745.webp",
+        "localPath": "assets/source-site/3d-printing-service/0653-untitled-360343d4a745.webp",
         "kind": "image"
       },
       {
@@ -13874,7 +14069,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0204-plastivista-atelier-29319c7b742b.webp",
+        "localPath": "assets/source-site/old-revo-chair-page/0204-plastivista-atelier-29319c7b742b.webp",
         "kind": "image"
       },
       {
@@ -13882,7 +14077,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0654-recycle-4525f97279d1.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0654-recycle-4525f97279d1.webp",
         "kind": "image"
       },
       {
@@ -13890,7 +14085,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0655-arrow-right-bf06ae2f4226.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0655-arrow-right-bf06ae2f4226.webp",
         "kind": "image"
       },
       {
@@ -13898,7 +14093,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0656-asset-2shredder-vector-30e43969ac3b.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0656-asset-2shredder-vector-30e43969ac3b.webp",
         "kind": "image"
       },
       {
@@ -13906,7 +14101,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0657-arrow-right-a47ace05fdc6.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0657-arrow-right-a47ace05fdc6.webp",
         "kind": "image"
       },
       {
@@ -13914,7 +14109,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0658-asset-2fillament-recycler-3-a72ccdabf4fc.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0658-asset-2fillament-recycler-3-a72ccdabf4fc.webp",
         "kind": "image"
       },
       {
@@ -13922,7 +14117,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0659-arrow-right-80edc13f554d.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0659-arrow-right-80edc13f554d.webp",
         "kind": "image"
       },
       {
@@ -13930,7 +14125,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0660-3d-printer-1-e9177b9751ae.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0660-3d-printer-1-e9177b9751ae.webp",
         "kind": "image"
       },
       {
@@ -13938,7 +14133,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0661-asset-1revo-vecvotr-2-b99a93ad0e73.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0661-asset-1revo-vecvotr-2-b99a93ad0e73.webp",
         "kind": "image"
       },
       {
@@ -13946,7 +14141,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0662-stool-vector-3-4d16c5cc7e5e.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0662-stool-vector-3-4d16c5cc7e5e.webp",
         "kind": "image"
       },
       {
@@ -13954,7 +14149,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0663-tall-light-452fd7e8b856.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0663-tall-light-452fd7e8b856.webp",
         "kind": "image"
       },
       {
@@ -13962,7 +14157,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0664-save-the-world-138dabfe5250.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0664-save-the-world-138dabfe5250.webp",
         "kind": "image"
       },
       {
@@ -13970,7 +14165,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0665-living-room-122a8b769abc.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0665-living-room-122a8b769abc.webp",
         "kind": "image"
       },
       {
@@ -13978,7 +14173,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0666-convenient-db54f3a23499.webp",
+        "localPath": "assets/source-site/for-pdf-layout/0666-convenient-db54f3a23499.webp",
         "kind": "image"
       },
       {
@@ -13986,7 +14181,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0004-copy-of-shelfmate-for-ethan-1-dd523da9011b.webp",
+        "localPath": "assets/source-site/3d-printing-service/0004-copy-of-shelfmate-for-ethan-1-dd523da9011b.webp",
         "kind": "image"
       },
       {
@@ -13994,7 +14189,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0667-beam2-2bfc5ad27079.webp",
+        "localPath": "assets/source-site/3d-printing-service/0667-beam2-2bfc5ad27079.webp",
         "kind": "image"
       },
       {
@@ -14002,7 +14197,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0668-pxl-20240501-020911635-2-4ab80b13d5fe.webp",
+        "localPath": "assets/source-site/3d-printing-service/0668-pxl-20240501-020911635-2-4ab80b13d5fe.webp",
         "kind": "image"
       },
       {
@@ -14010,7 +14205,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0669-screenshot-2024-04-30-221312-352643cafc2f.webp",
+        "localPath": "assets/source-site/3d-printing-service/0669-screenshot-2024-04-30-221312-352643cafc2f.webp",
         "kind": "image"
       },
       {
@@ -14018,7 +14213,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0670-pxl-20241211-025311788-1afcd7d465b8.webp",
+        "localPath": "assets/source-site/3d-printing-service/0670-pxl-20241211-025311788-1afcd7d465b8.webp",
         "kind": "image"
       },
       {
@@ -14026,7 +14221,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0671-pxl-20241211-025733740-night-dd9efd29b6f3.webp",
+        "localPath": "assets/source-site/3d-printing-service/0671-pxl-20241211-025733740-night-dd9efd29b6f3.webp",
         "kind": "image"
       },
       {
@@ -14034,7 +14229,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0672-snapchat-786068926-0e453932f366.webp",
+        "localPath": "assets/source-site/3d-printing-service/0672-snapchat-786068926-0e453932f366.webp",
         "kind": "image"
       },
       {
@@ -14042,7 +14237,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0673-screenshot-2024-04-30-222106-45ac8f66c3b9.webp",
+        "localPath": "assets/source-site/3d-printing-service/0673-screenshot-2024-04-30-222106-45ac8f66c3b9.webp",
         "kind": "image"
       },
       {
@@ -14050,7 +14245,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0674-screenshot-2024-04-30-221712-982e7f9c0e78.webp",
+        "localPath": "assets/source-site/3d-printing-service/0674-screenshot-2024-04-30-221712-982e7f9c0e78.webp",
         "kind": "image"
       },
       {
@@ -14058,7 +14253,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0675-screenshot-2024-04-30-233752-23c6e853c109.webp",
+        "localPath": "assets/source-site/3d-printing-service/0675-screenshot-2024-04-30-233752-23c6e853c109.webp",
         "kind": "image"
       },
       {
@@ -14066,7 +14261,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0009-room-with-storage-63edcfd67c71.webp",
+        "localPath": "assets/source-site/furniture/0009-room-with-storage-63edcfd67c71.webp",
         "kind": "image"
       },
       {
@@ -14074,7 +14269,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0085-furnature-third-week-9dde64565c6b.webp",
+        "localPath": "assets/source-site/furniture/0085-furnature-third-week-9dde64565c6b.webp",
         "kind": "image"
       },
       {
@@ -14082,7 +14277,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0094-mom-s-light-with-chairs2-a9a4ae1dc519.webp",
+        "localPath": "assets/source-site/furniture/0094-mom-s-light-with-chairs2-a9a4ae1dc519.webp",
         "kind": "image"
       },
       {
@@ -14090,7 +14285,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0676-artical-fro-yanko-250a5a30229f.webp",
+        "localPath": "assets/source-site/3d-printing-service/0676-artical-fro-yanko-250a5a30229f.webp",
         "kind": "image"
       },
       {
@@ -14098,7 +14293,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0677-screenshot-2024-12-04-124958-3d7b33a1da65.webp",
+        "localPath": "assets/source-site/3d-printing-service/0677-screenshot-2024-12-04-124958-3d7b33a1da65.webp",
         "kind": "image"
       },
       {
@@ -14106,14 +14301,14 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "3D Printing Service",
-        "localPath": "assets/source-site/media/0678-0001-a05688f959a7.webp",
+        "localPath": "assets/source-site/3d-printing-service/0678-0001-a05688f959a7.webp",
         "kind": "image"
       }
     ],
     "media": [
       {
         "url": "https://raw.githubusercontent.com/ethansol7/lottie-assets/main/revo_animation_long.json",
-        "localPath": "assets/source-site/media/0679-revo-animation-long-f15260b2115a.json",
+        "localPath": "assets/source-site/3d-printing-service/0679-revo-animation-long-f15260b2115a.json",
         "kind": "animation"
       }
     ],
@@ -14124,7 +14319,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0644-pxl-20241108-195125447-mp-baceab0f26cc.webp",
+    "heroImage": "assets/source-site/3d-printing-service/0644-pxl-20241108-195125447-mp-baceab0f26cc.webp",
     "imageCount": 40,
     "mediaCount": 1
   },
@@ -14136,7 +14331,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-06",
     "group": "Project Archive",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "heading",
@@ -14231,7 +14426,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -14258,7 +14453,7 @@ const rawSourcePages = [
         "title": "Chair Inspiration and Chairs I saw abroad that caught my eye.",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -14268,7 +14463,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0239-snapchat-1868005694-61e3fe03df25.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0239-snapchat-1868005694-61e3fe03df25.webp",
         "kind": "image"
       },
       {
@@ -14276,7 +14471,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0240-pxl-20240619-082409732-7fa801789d41.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0240-pxl-20240619-082409732-7fa801789d41.webp",
         "kind": "image"
       },
       {
@@ -14284,7 +14479,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0241-pxl-20240619-082414638-d50bcba4708c.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0241-pxl-20240619-082414638-d50bcba4708c.webp",
         "kind": "image"
       },
       {
@@ -14292,7 +14487,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0242-pxl-20240619-082420885-9ad5117762a5.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0242-pxl-20240619-082420885-9ad5117762a5.webp",
         "kind": "image"
       },
       {
@@ -14300,7 +14495,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0243-pxl-20240619-082433429-83fa2a141b2e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0243-pxl-20240619-082433429-83fa2a141b2e.webp",
         "kind": "image"
       },
       {
@@ -14308,7 +14503,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0244-pxl-20240619-082448404-26bc26d65165.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0244-pxl-20240619-082448404-26bc26d65165.webp",
         "kind": "image"
       },
       {
@@ -14316,7 +14511,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0245-pxl-20240619-082751055-e814ca8a7dc9.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0245-pxl-20240619-082751055-e814ca8a7dc9.webp",
         "kind": "image"
       },
       {
@@ -14324,7 +14519,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0246-pxl-20240619-083049495-3328c4e67a56.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0246-pxl-20240619-083049495-3328c4e67a56.webp",
         "kind": "image"
       },
       {
@@ -14332,7 +14527,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0247-pxl-20240619-083104444-02a3613798df.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0247-pxl-20240619-083104444-02a3613798df.webp",
         "kind": "image"
       },
       {
@@ -14340,7 +14535,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0248-pxl-20240619-083206008-5faabf705b8f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0248-pxl-20240619-083206008-5faabf705b8f.webp",
         "kind": "image"
       },
       {
@@ -14348,7 +14543,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0249-pxl-20240619-090246614-c2860849a42b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0249-pxl-20240619-090246614-c2860849a42b.webp",
         "kind": "image"
       },
       {
@@ -14356,7 +14551,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0250-pxl-20240619-090307333-8ad7e2a77a1c.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0250-pxl-20240619-090307333-8ad7e2a77a1c.webp",
         "kind": "image"
       },
       {
@@ -14364,7 +14559,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0251-pxl-20240619-090413258-b49f425eaf58.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0251-pxl-20240619-090413258-b49f425eaf58.webp",
         "kind": "image"
       },
       {
@@ -14372,7 +14567,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0252-pxl-20240619-090441459-mp-079e89b3a094.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0252-pxl-20240619-090441459-mp-079e89b3a094.webp",
         "kind": "image"
       },
       {
@@ -14380,7 +14575,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0253-pxl-20240619-090446963-4af7e8e228a9.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0253-pxl-20240619-090446963-4af7e8e228a9.webp",
         "kind": "image"
       },
       {
@@ -14388,7 +14583,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0254-pxl-20240619-092446674-2672d5e46920.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0254-pxl-20240619-092446674-2672d5e46920.webp",
         "kind": "image"
       },
       {
@@ -14396,7 +14591,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0255-pxl-20240619-092500401-c37ecb8dda03.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0255-pxl-20240619-092500401-c37ecb8dda03.webp",
         "kind": "image"
       },
       {
@@ -14404,7 +14599,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0256-pxl-20240619-092559989-d27f24434ac6.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0256-pxl-20240619-092559989-d27f24434ac6.webp",
         "kind": "image"
       },
       {
@@ -14412,7 +14607,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0257-pxl-20240619-092736225-5a9710703356.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0257-pxl-20240619-092736225-5a9710703356.webp",
         "kind": "image"
       },
       {
@@ -14420,7 +14615,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0258-pxl-20240619-092742470-mp-6baf46b3a561.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0258-pxl-20240619-092742470-mp-6baf46b3a561.webp",
         "kind": "image"
       },
       {
@@ -14428,7 +14623,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0259-pxl-20240619-092757370-922cea9ff3f7.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0259-pxl-20240619-092757370-922cea9ff3f7.webp",
         "kind": "image"
       },
       {
@@ -14436,7 +14631,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0260-pxl-20240619-092822193-52f470a063fb.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0260-pxl-20240619-092822193-52f470a063fb.webp",
         "kind": "image"
       },
       {
@@ -14444,7 +14639,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0261-pxl-20240619-093023094-65cbe734b5b3.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0261-pxl-20240619-093023094-65cbe734b5b3.webp",
         "kind": "image"
       },
       {
@@ -14452,7 +14647,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0262-pxl-20240624-103904181-c98af9bae0f2.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0262-pxl-20240624-103904181-c98af9bae0f2.webp",
         "kind": "image"
       },
       {
@@ -14460,7 +14655,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0263-pxl-20240624-104223094-e27e1d128c39.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0263-pxl-20240624-104223094-e27e1d128c39.webp",
         "kind": "image"
       },
       {
@@ -14468,7 +14663,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0264-pxl-20240624-104437062-mp-1ad3db6ca507.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0264-pxl-20240624-104437062-mp-1ad3db6ca507.webp",
         "kind": "image"
       },
       {
@@ -14476,7 +14671,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0265-pxl-20240624-104446440-6139edaeea23.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0265-pxl-20240624-104446440-6139edaeea23.webp",
         "kind": "image"
       },
       {
@@ -14484,7 +14679,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0266-pxl-20240624-104519622-531b3c180c90.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0266-pxl-20240624-104519622-531b3c180c90.webp",
         "kind": "image"
       },
       {
@@ -14492,7 +14687,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0267-pxl-20240624-104524366-mp-c4630c60ff82.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0267-pxl-20240624-104524366-mp-c4630c60ff82.webp",
         "kind": "image"
       },
       {
@@ -14500,7 +14695,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0268-pxl-20240624-104533133-mp-b5e55cc79017.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0268-pxl-20240624-104533133-mp-b5e55cc79017.webp",
         "kind": "image"
       },
       {
@@ -14508,7 +14703,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0269-pxl-20240624-104632387-101dedfe7d78.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0269-pxl-20240624-104632387-101dedfe7d78.webp",
         "kind": "image"
       },
       {
@@ -14516,7 +14711,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0270-pxl-20240624-104634343-d9b4ec378825.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0270-pxl-20240624-104634343-d9b4ec378825.webp",
         "kind": "image"
       },
       {
@@ -14524,7 +14719,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0271-pxl-20240624-104638628-c4ee1ecd1c0f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0271-pxl-20240624-104638628-c4ee1ecd1c0f.webp",
         "kind": "image"
       },
       {
@@ -14532,7 +14727,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0272-pxl-20240624-104641924-28edacb9e4ed.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0272-pxl-20240624-104641924-28edacb9e4ed.webp",
         "kind": "image"
       },
       {
@@ -14540,7 +14735,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0273-pxl-20240624-104706099-9e0af9a9a561.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0273-pxl-20240624-104706099-9e0af9a9a561.webp",
         "kind": "image"
       },
       {
@@ -14548,7 +14743,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0274-pxl-20240624-104707697-5db8073f5b9c.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0274-pxl-20240624-104707697-5db8073f5b9c.webp",
         "kind": "image"
       },
       {
@@ -14556,7 +14751,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0275-pxl-20240624-104711507-fb01f68b3e97.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0275-pxl-20240624-104711507-fb01f68b3e97.webp",
         "kind": "image"
       },
       {
@@ -14564,7 +14759,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0276-pxl-20240624-104804928-a8291f74246e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0276-pxl-20240624-104804928-a8291f74246e.webp",
         "kind": "image"
       },
       {
@@ -14572,7 +14767,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0277-pxl-20240624-104821726-mp-5c4d7b6113f2.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0277-pxl-20240624-104821726-mp-5c4d7b6113f2.webp",
         "kind": "image"
       },
       {
@@ -14580,7 +14775,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0278-pxl-20240624-104852783-2563a573f366.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0278-pxl-20240624-104852783-2563a573f366.webp",
         "kind": "image"
       },
       {
@@ -14588,7 +14783,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0279-pxl-20240624-104855210-7e070fbc09ed.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0279-pxl-20240624-104855210-7e070fbc09ed.webp",
         "kind": "image"
       },
       {
@@ -14596,7 +14791,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0280-pxl-20240624-104925963-32c9dd9dcac5.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0280-pxl-20240624-104925963-32c9dd9dcac5.webp",
         "kind": "image"
       },
       {
@@ -14604,7 +14799,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0281-pxl-20240624-104935436-9d7868bf1563.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0281-pxl-20240624-104935436-9d7868bf1563.webp",
         "kind": "image"
       },
       {
@@ -14612,7 +14807,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0282-pxl-20240624-104944455-mp-6b1035b274fe.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0282-pxl-20240624-104944455-mp-6b1035b274fe.webp",
         "kind": "image"
       },
       {
@@ -14620,7 +14815,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0283-pxl-20240624-105438861-b080c0655703.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0283-pxl-20240624-105438861-b080c0655703.webp",
         "kind": "image"
       },
       {
@@ -14628,7 +14823,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0284-pxl-20240624-105547887-ba49eade7211.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0284-pxl-20240624-105547887-ba49eade7211.webp",
         "kind": "image"
       },
       {
@@ -14636,7 +14831,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0285-pxl-20240624-105623796-a089940a58ab.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0285-pxl-20240624-105623796-a089940a58ab.webp",
         "kind": "image"
       },
       {
@@ -14644,7 +14839,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0286-pxl-20240624-105750266-5e15cc1f3a4e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0286-pxl-20240624-105750266-5e15cc1f3a4e.webp",
         "kind": "image"
       },
       {
@@ -14652,7 +14847,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0287-pxl-20240624-105905375-b0e47b86c9db.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0287-pxl-20240624-105905375-b0e47b86c9db.webp",
         "kind": "image"
       },
       {
@@ -14660,7 +14855,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0288-pxl-20240624-105945626-f8a1841b5d93.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0288-pxl-20240624-105945626-f8a1841b5d93.webp",
         "kind": "image"
       },
       {
@@ -14668,7 +14863,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0289-pxl-20240624-110453150-f3a0cedaa7fc.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0289-pxl-20240624-110453150-f3a0cedaa7fc.webp",
         "kind": "image"
       },
       {
@@ -14676,7 +14871,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0290-pxl-20240624-110455699-7d984f97d560.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0290-pxl-20240624-110455699-7d984f97d560.webp",
         "kind": "image"
       },
       {
@@ -14684,7 +14879,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0291-pxl-20240624-110504682-503c76347f1d.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0291-pxl-20240624-110504682-503c76347f1d.webp",
         "kind": "image"
       },
       {
@@ -14692,7 +14887,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0292-pxl-20240624-110805196-4a04494362d7.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0292-pxl-20240624-110805196-4a04494362d7.webp",
         "kind": "image"
       },
       {
@@ -14700,7 +14895,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0293-pxl-20240624-110811253-13ba1c46de97.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0293-pxl-20240624-110811253-13ba1c46de97.webp",
         "kind": "image"
       },
       {
@@ -14708,7 +14903,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0294-pxl-20240624-110832760-8241bc3bd592.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0294-pxl-20240624-110832760-8241bc3bd592.webp",
         "kind": "image"
       },
       {
@@ -14716,7 +14911,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0295-pxl-20240624-110845847-37dfd383b3b6.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0295-pxl-20240624-110845847-37dfd383b3b6.webp",
         "kind": "image"
       },
       {
@@ -14724,7 +14919,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0296-pxl-20240624-132333202-0639aa3a6872.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0296-pxl-20240624-132333202-0639aa3a6872.webp",
         "kind": "image"
       },
       {
@@ -14732,7 +14927,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0297-pxl-20240624-132337497-2e1f51263f3a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0297-pxl-20240624-132337497-2e1f51263f3a.webp",
         "kind": "image"
       },
       {
@@ -14740,7 +14935,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0298-pxl-20240624-132812260-ecfa668db512.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0298-pxl-20240624-132812260-ecfa668db512.webp",
         "kind": "image"
       },
       {
@@ -14748,7 +14943,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0299-pxl-20240624-142022660-e80803866b24.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0299-pxl-20240624-142022660-e80803866b24.webp",
         "kind": "image"
       },
       {
@@ -14756,7 +14951,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0300-pxl-20240624-142039849-5bcd15cdae4a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0300-pxl-20240624-142039849-5bcd15cdae4a.webp",
         "kind": "image"
       },
       {
@@ -14764,7 +14959,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0301-pxl-20240624-142249001-370ccec49c99.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0301-pxl-20240624-142249001-370ccec49c99.webp",
         "kind": "image"
       },
       {
@@ -14772,7 +14967,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0302-pxl-20240624-142320449-f9908344f562.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0302-pxl-20240624-142320449-f9908344f562.webp",
         "kind": "image"
       },
       {
@@ -14780,7 +14975,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0303-pxl-20240624-142332429-11e897c43421.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0303-pxl-20240624-142332429-11e897c43421.webp",
         "kind": "image"
       },
       {
@@ -14788,7 +14983,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0304-pxl-20240624-142649074-4c48919bd9c2.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0304-pxl-20240624-142649074-4c48919bd9c2.webp",
         "kind": "image"
       },
       {
@@ -14796,7 +14991,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0305-pxl-20240624-142711201-dab506f350a6.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0305-pxl-20240624-142711201-dab506f350a6.webp",
         "kind": "image"
       },
       {
@@ -14804,7 +14999,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0306-pxl-20240624-142749397-9853516fc3a6.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0306-pxl-20240624-142749397-9853516fc3a6.webp",
         "kind": "image"
       },
       {
@@ -14812,7 +15007,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0307-pxl-20240624-143147523-4dbe78f08f4a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0307-pxl-20240624-143147523-4dbe78f08f4a.webp",
         "kind": "image"
       },
       {
@@ -14820,7 +15015,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0308-pxl-20240624-143154212-8e8ca3fb0652.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0308-pxl-20240624-143154212-8e8ca3fb0652.webp",
         "kind": "image"
       },
       {
@@ -14828,7 +15023,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0309-pxl-20240624-143159619-f0da00c41191.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0309-pxl-20240624-143159619-f0da00c41191.webp",
         "kind": "image"
       },
       {
@@ -14836,7 +15031,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0310-pxl-20240624-143816257-e4378ac4002f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0310-pxl-20240624-143816257-e4378ac4002f.webp",
         "kind": "image"
       },
       {
@@ -14844,7 +15039,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0311-pxl-20240624-143822380-77deee16eb5d.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0311-pxl-20240624-143822380-77deee16eb5d.webp",
         "kind": "image"
       },
       {
@@ -14852,7 +15047,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0312-pxl-20240625-070454649-7c15e849a721.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0312-pxl-20240625-070454649-7c15e849a721.webp",
         "kind": "image"
       },
       {
@@ -14860,7 +15055,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0313-pxl-20240625-070458092-541e6396bf29.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0313-pxl-20240625-070458092-541e6396bf29.webp",
         "kind": "image"
       },
       {
@@ -14868,7 +15063,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0314-pxl-20240625-071100263-74e21076fd86.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0314-pxl-20240625-071100263-74e21076fd86.webp",
         "kind": "image"
       },
       {
@@ -14876,7 +15071,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0315-pxl-20240625-071109722-764563bf7db2.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0315-pxl-20240625-071109722-764563bf7db2.webp",
         "kind": "image"
       },
       {
@@ -14884,7 +15079,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0316-pxl-20240625-071116816-159e38c72dad.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0316-pxl-20240625-071116816-159e38c72dad.webp",
         "kind": "image"
       },
       {
@@ -14892,7 +15087,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0317-pxl-20240625-071137142-23b4d763f177.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0317-pxl-20240625-071137142-23b4d763f177.webp",
         "kind": "image"
       },
       {
@@ -14900,7 +15095,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0318-pxl-20240625-071138921-458d64776c29.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0318-pxl-20240625-071138921-458d64776c29.webp",
         "kind": "image"
       },
       {
@@ -14908,7 +15103,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0319-pxl-20240625-071159155-be77d00bfdf7.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0319-pxl-20240625-071159155-be77d00bfdf7.webp",
         "kind": "image"
       },
       {
@@ -14916,7 +15111,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0320-pxl-20240625-071337709-mp-a5dd90567337.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0320-pxl-20240625-071337709-mp-a5dd90567337.webp",
         "kind": "image"
       },
       {
@@ -14924,7 +15119,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0321-pxl-20240625-072104719-mp-6d7530e21948.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0321-pxl-20240625-072104719-mp-6d7530e21948.webp",
         "kind": "image"
       },
       {
@@ -14932,7 +15127,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0322-pxl-20240625-072453063-77633e1c3bb9.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0322-pxl-20240625-072453063-77633e1c3bb9.webp",
         "kind": "image"
       },
       {
@@ -14940,7 +15135,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0323-pxl-20240625-072456358-0162809b7e2a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0323-pxl-20240625-072456358-0162809b7e2a.webp",
         "kind": "image"
       },
       {
@@ -14948,7 +15143,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0324-pxl-20240625-072459669-58b490044a0a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0324-pxl-20240625-072459669-58b490044a0a.webp",
         "kind": "image"
       },
       {
@@ -14956,7 +15151,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0325-pxl-20240625-072502048-478a5ea27f5f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0325-pxl-20240625-072502048-478a5ea27f5f.webp",
         "kind": "image"
       },
       {
@@ -14964,7 +15159,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0326-pxl-20240625-072510253-8b56e386b669.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0326-pxl-20240625-072510253-8b56e386b669.webp",
         "kind": "image"
       },
       {
@@ -14972,7 +15167,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0327-pxl-20240625-072608997-2b469cd32903.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0327-pxl-20240625-072608997-2b469cd32903.webp",
         "kind": "image"
       },
       {
@@ -14980,7 +15175,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0328-pxl-20240625-072621988-677bebd9fe2b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0328-pxl-20240625-072621988-677bebd9fe2b.webp",
         "kind": "image"
       },
       {
@@ -14988,7 +15183,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0329-pxl-20240625-072627471-0fc45f232603.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0329-pxl-20240625-072627471-0fc45f232603.webp",
         "kind": "image"
       },
       {
@@ -14996,7 +15191,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0330-pxl-20240625-072658885-e8eafa741124.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0330-pxl-20240625-072658885-e8eafa741124.webp",
         "kind": "image"
       },
       {
@@ -15004,7 +15199,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0331-pxl-20240625-072726860-a7dac8815b50.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0331-pxl-20240625-072726860-a7dac8815b50.webp",
         "kind": "image"
       },
       {
@@ -15012,7 +15207,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0332-pxl-20240625-073012354-8f61b6d37b2b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0332-pxl-20240625-073012354-8f61b6d37b2b.webp",
         "kind": "image"
       },
       {
@@ -15020,7 +15215,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0333-pxl-20240625-073311615-ed5fd22bf5c4.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0333-pxl-20240625-073311615-ed5fd22bf5c4.webp",
         "kind": "image"
       },
       {
@@ -15028,7 +15223,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0334-pxl-20240625-081043833-6533067dad0f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0334-pxl-20240625-081043833-6533067dad0f.webp",
         "kind": "image"
       },
       {
@@ -15036,7 +15231,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0335-pxl-20240625-081050226-5ff1d13706e9.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0335-pxl-20240625-081050226-5ff1d13706e9.webp",
         "kind": "image"
       },
       {
@@ -15044,7 +15239,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0336-pxl-20240625-081204510-5e3447fd92ec.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0336-pxl-20240625-081204510-5e3447fd92ec.webp",
         "kind": "image"
       },
       {
@@ -15052,7 +15247,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0337-pxl-20240625-081259934-mp-0250002183a3.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0337-pxl-20240625-081259934-mp-0250002183a3.webp",
         "kind": "image"
       },
       {
@@ -15060,7 +15255,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0338-pxl-20240626-113631788-b28132ae9909.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0338-pxl-20240626-113631788-b28132ae9909.webp",
         "kind": "image"
       },
       {
@@ -15068,7 +15263,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0339-pxl-20240626-115557966-d959e556c720.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0339-pxl-20240626-115557966-d959e556c720.webp",
         "kind": "image"
       },
       {
@@ -15076,7 +15271,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0340-pxl-20240626-115616560-a3b8eba02bf0.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0340-pxl-20240626-115616560-a3b8eba02bf0.webp",
         "kind": "image"
       },
       {
@@ -15084,7 +15279,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0341-pxl-20240626-120029258-309fa01d44ca.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0341-pxl-20240626-120029258-309fa01d44ca.webp",
         "kind": "image"
       },
       {
@@ -15092,7 +15287,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0342-pxl-20240626-121242191-c80e7ef9f9a6.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0342-pxl-20240626-121242191-c80e7ef9f9a6.webp",
         "kind": "image"
       },
       {
@@ -15100,7 +15295,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0343-pxl-20240626-121315806-2e67aa73e10b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0343-pxl-20240626-121315806-2e67aa73e10b.webp",
         "kind": "image"
       },
       {
@@ -15108,7 +15303,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0344-pxl-20240626-121543493-dcf54c0b53ea.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0344-pxl-20240626-121543493-dcf54c0b53ea.webp",
         "kind": "image"
       },
       {
@@ -15116,7 +15311,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0345-pxl-20240626-121624030-5d753fe9d168.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0345-pxl-20240626-121624030-5d753fe9d168.webp",
         "kind": "image"
       },
       {
@@ -15124,7 +15319,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0346-pxl-20240626-121723264-8589546fee89.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0346-pxl-20240626-121723264-8589546fee89.webp",
         "kind": "image"
       },
       {
@@ -15132,7 +15327,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0347-pxl-20240626-121803764-9f994f63663e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0347-pxl-20240626-121803764-9f994f63663e.webp",
         "kind": "image"
       },
       {
@@ -15140,7 +15335,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0348-pxl-20240626-121901098-1ded5a82a367.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0348-pxl-20240626-121901098-1ded5a82a367.webp",
         "kind": "image"
       },
       {
@@ -15148,7 +15343,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0349-pxl-20240626-121925559-1f4df003ffba.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0349-pxl-20240626-121925559-1f4df003ffba.webp",
         "kind": "image"
       },
       {
@@ -15156,7 +15351,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0350-pxl-20240626-121942632-9d3cb5ecacd9.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0350-pxl-20240626-121942632-9d3cb5ecacd9.webp",
         "kind": "image"
       },
       {
@@ -15164,7 +15359,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0351-pxl-20240626-122026991-1bec3dc5719d.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0351-pxl-20240626-122026991-1bec3dc5719d.webp",
         "kind": "image"
       },
       {
@@ -15172,7 +15367,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0352-pxl-20240626-122047273-16dc85d22cea.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0352-pxl-20240626-122047273-16dc85d22cea.webp",
         "kind": "image"
       },
       {
@@ -15180,7 +15375,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0353-pxl-20240626-122224937-eaefcfbd12dc.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0353-pxl-20240626-122224937-eaefcfbd12dc.webp",
         "kind": "image"
       },
       {
@@ -15188,7 +15383,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0354-pxl-20240626-122250363-8b108411b512.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0354-pxl-20240626-122250363-8b108411b512.webp",
         "kind": "image"
       },
       {
@@ -15196,7 +15391,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0355-pxl-20240626-122433217-863aaf5fc15e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0355-pxl-20240626-122433217-863aaf5fc15e.webp",
         "kind": "image"
       },
       {
@@ -15204,7 +15399,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0356-pxl-20240626-122442604-cf454e569a60.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0356-pxl-20240626-122442604-cf454e569a60.webp",
         "kind": "image"
       },
       {
@@ -15212,7 +15407,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0357-pxl-20240626-122501064-f68c8969e8bf.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0357-pxl-20240626-122501064-f68c8969e8bf.webp",
         "kind": "image"
       },
       {
@@ -15220,7 +15415,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0358-pxl-20240626-122536982-97b4bfb2172b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0358-pxl-20240626-122536982-97b4bfb2172b.webp",
         "kind": "image"
       },
       {
@@ -15228,7 +15423,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0359-pxl-20240626-122559163-92836d5edd74.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0359-pxl-20240626-122559163-92836d5edd74.webp",
         "kind": "image"
       },
       {
@@ -15236,7 +15431,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0360-pxl-20240626-122636719-eb608b490512.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0360-pxl-20240626-122636719-eb608b490512.webp",
         "kind": "image"
       },
       {
@@ -15244,7 +15439,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0361-pxl-20240626-122644344-0cc98e80342f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0361-pxl-20240626-122644344-0cc98e80342f.webp",
         "kind": "image"
       },
       {
@@ -15252,7 +15447,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0362-pxl-20240626-122717242-cbda760aef59.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0362-pxl-20240626-122717242-cbda760aef59.webp",
         "kind": "image"
       },
       {
@@ -15260,7 +15455,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0363-pxl-20240626-122819518-f3e36942f0ab.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0363-pxl-20240626-122819518-f3e36942f0ab.webp",
         "kind": "image"
       },
       {
@@ -15268,7 +15463,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0364-pxl-20240626-123128381-532df01d22fd.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0364-pxl-20240626-123128381-532df01d22fd.webp",
         "kind": "image"
       },
       {
@@ -15276,7 +15471,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0365-pxl-20240626-123140340-14ce5ab7e1bb.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0365-pxl-20240626-123140340-14ce5ab7e1bb.webp",
         "kind": "image"
       },
       {
@@ -15284,7 +15479,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0366-pxl-20240626-123206180-106f842a187f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0366-pxl-20240626-123206180-106f842a187f.webp",
         "kind": "image"
       },
       {
@@ -15292,7 +15487,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0367-pxl-20240626-133114359-13e5f5820598.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0367-pxl-20240626-133114359-13e5f5820598.webp",
         "kind": "image"
       },
       {
@@ -15300,7 +15495,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0368-pxl-20240626-133119102-acd20bb613bf.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0368-pxl-20240626-133119102-acd20bb613bf.webp",
         "kind": "image"
       },
       {
@@ -15308,7 +15503,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0369-pxl-20240626-133136019-0f8b33eab238.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0369-pxl-20240626-133136019-0f8b33eab238.webp",
         "kind": "image"
       },
       {
@@ -15316,7 +15511,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0370-pxl-20240626-133247590-f971657d3120.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0370-pxl-20240626-133247590-f971657d3120.webp",
         "kind": "image"
       },
       {
@@ -15324,7 +15519,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0371-pxl-20240626-133332674-a011f1fb8c37.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0371-pxl-20240626-133332674-a011f1fb8c37.webp",
         "kind": "image"
       },
       {
@@ -15332,7 +15527,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0372-pxl-20240626-133345787-6997c303bd2b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0372-pxl-20240626-133345787-6997c303bd2b.webp",
         "kind": "image"
       },
       {
@@ -15340,7 +15535,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0373-pxl-20240626-133428508-6eb099b05802.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0373-pxl-20240626-133428508-6eb099b05802.webp",
         "kind": "image"
       },
       {
@@ -15348,7 +15543,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0374-pxl-20240626-133718363-0573a583ffa7.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0374-pxl-20240626-133718363-0573a583ffa7.webp",
         "kind": "image"
       },
       {
@@ -15356,7 +15551,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0375-pxl-20240626-133835696-11726250470b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0375-pxl-20240626-133835696-11726250470b.webp",
         "kind": "image"
       },
       {
@@ -15364,7 +15559,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0376-pxl-20240628-081636426-aeaf0c63c4c5.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0376-pxl-20240628-081636426-aeaf0c63c4c5.webp",
         "kind": "image"
       },
       {
@@ -15372,7 +15567,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0377-pxl-20240628-081640740-e31ff8382222.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0377-pxl-20240628-081640740-e31ff8382222.webp",
         "kind": "image"
       },
       {
@@ -15380,7 +15575,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0378-pxl-20240628-081649119-mp-2e5c08f2547a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0378-pxl-20240628-081649119-mp-2e5c08f2547a.webp",
         "kind": "image"
       },
       {
@@ -15388,7 +15583,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0379-pxl-20240628-081701668-e75426aa53ad.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0379-pxl-20240628-081701668-e75426aa53ad.webp",
         "kind": "image"
       },
       {
@@ -15396,7 +15591,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0380-pxl-20240628-081708628-1411b96d5bbe.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0380-pxl-20240628-081708628-1411b96d5bbe.webp",
         "kind": "image"
       },
       {
@@ -15404,7 +15599,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0381-pxl-20240628-081717393-8edd4c13a8b7.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0381-pxl-20240628-081717393-8edd4c13a8b7.webp",
         "kind": "image"
       },
       {
@@ -15412,7 +15607,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0382-pxl-20240628-081744815-a1799eedd9c4.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0382-pxl-20240628-081744815-a1799eedd9c4.webp",
         "kind": "image"
       },
       {
@@ -15420,7 +15615,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0383-pxl-20240628-081800222-dbb0d771dd1f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0383-pxl-20240628-081800222-dbb0d771dd1f.webp",
         "kind": "image"
       },
       {
@@ -15428,7 +15623,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0384-pxl-20240628-081805056-f3aeaef10c75.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0384-pxl-20240628-081805056-f3aeaef10c75.webp",
         "kind": "image"
       },
       {
@@ -15436,7 +15631,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0385-pxl-20240628-081812778-d3e91e0dad94.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0385-pxl-20240628-081812778-d3e91e0dad94.webp",
         "kind": "image"
       },
       {
@@ -15444,7 +15639,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0386-pxl-20240628-081817481-7e6ebde2c01e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0386-pxl-20240628-081817481-7e6ebde2c01e.webp",
         "kind": "image"
       },
       {
@@ -15452,7 +15647,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0387-pxl-20240628-081821937-ca57aca6d16e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0387-pxl-20240628-081821937-ca57aca6d16e.webp",
         "kind": "image"
       },
       {
@@ -15460,7 +15655,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0388-pxl-20240628-081831427-dd8f393e937c.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0388-pxl-20240628-081831427-dd8f393e937c.webp",
         "kind": "image"
       },
       {
@@ -15468,7 +15663,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0389-pxl-20240628-081859992-ab437f3cc488.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0389-pxl-20240628-081859992-ab437f3cc488.webp",
         "kind": "image"
       },
       {
@@ -15476,7 +15671,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0390-pxl-20240628-081910900-07452f2912af.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0390-pxl-20240628-081910900-07452f2912af.webp",
         "kind": "image"
       },
       {
@@ -15484,7 +15679,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0391-pxl-20240628-081914770-f17bb34e918a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0391-pxl-20240628-081914770-f17bb34e918a.webp",
         "kind": "image"
       },
       {
@@ -15492,7 +15687,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0392-pxl-20240628-081925387-c8481aea6bf6.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0392-pxl-20240628-081925387-c8481aea6bf6.webp",
         "kind": "image"
       },
       {
@@ -15500,7 +15695,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0393-pxl-20240628-082033712-573cf818b22d.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0393-pxl-20240628-082033712-573cf818b22d.webp",
         "kind": "image"
       },
       {
@@ -15508,7 +15703,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0394-pxl-20240628-082059860-562adea858b4.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0394-pxl-20240628-082059860-562adea858b4.webp",
         "kind": "image"
       },
       {
@@ -15516,7 +15711,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0395-pxl-20240628-082108828-a3ab5f0082f0.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0395-pxl-20240628-082108828-a3ab5f0082f0.webp",
         "kind": "image"
       },
       {
@@ -15524,7 +15719,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0396-pxl-20240628-082117207-e2b63e3c63ff.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0396-pxl-20240628-082117207-e2b63e3c63ff.webp",
         "kind": "image"
       },
       {
@@ -15532,7 +15727,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0397-pxl-20240628-082128688-852640c35a19.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0397-pxl-20240628-082128688-852640c35a19.webp",
         "kind": "image"
       },
       {
@@ -15540,7 +15735,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0398-pxl-20240628-082134035-0af78113f427.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0398-pxl-20240628-082134035-0af78113f427.webp",
         "kind": "image"
       },
       {
@@ -15548,7 +15743,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0399-pxl-20240628-082859852-mp-f5f8526a3208.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0399-pxl-20240628-082859852-mp-f5f8526a3208.webp",
         "kind": "image"
       },
       {
@@ -15556,7 +15751,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0400-pxl-20240628-082959766-1ee34517f04e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0400-pxl-20240628-082959766-1ee34517f04e.webp",
         "kind": "image"
       },
       {
@@ -15564,7 +15759,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0401-pxl-20240628-083042042-2cfab1d2cf86.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0401-pxl-20240628-083042042-2cfab1d2cf86.webp",
         "kind": "image"
       },
       {
@@ -15572,7 +15767,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0402-pxl-20240628-083149492-0e397b3ba198.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0402-pxl-20240628-083149492-0e397b3ba198.webp",
         "kind": "image"
       },
       {
@@ -15580,7 +15775,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0403-pxl-20240628-083455937-6bfd745ff2d6.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0403-pxl-20240628-083455937-6bfd745ff2d6.webp",
         "kind": "image"
       },
       {
@@ -15588,7 +15783,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0404-pxl-20240628-083845978-ae943ef7c8f8.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0404-pxl-20240628-083845978-ae943ef7c8f8.webp",
         "kind": "image"
       },
       {
@@ -15596,7 +15791,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0405-pxl-20240628-083935999-073cf5322cd4.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0405-pxl-20240628-083935999-073cf5322cd4.webp",
         "kind": "image"
       },
       {
@@ -15604,7 +15799,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0406-pxl-20240628-084116934-c23a1ccb0590.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0406-pxl-20240628-084116934-c23a1ccb0590.webp",
         "kind": "image"
       },
       {
@@ -15612,7 +15807,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0407-pxl-20240628-084158327-12c0b6566d5b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0407-pxl-20240628-084158327-12c0b6566d5b.webp",
         "kind": "image"
       },
       {
@@ -15620,7 +15815,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0408-pxl-20240628-084600301-2a52ef4f90a2.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0408-pxl-20240628-084600301-2a52ef4f90a2.webp",
         "kind": "image"
       },
       {
@@ -15628,7 +15823,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0409-pxl-20240628-084610815-22f1c02ce2dc.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0409-pxl-20240628-084610815-22f1c02ce2dc.webp",
         "kind": "image"
       },
       {
@@ -15636,7 +15831,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0410-pxl-20240628-084627752-82e7c4646754.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0410-pxl-20240628-084627752-82e7c4646754.webp",
         "kind": "image"
       },
       {
@@ -15644,7 +15839,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0411-pxl-20240628-084640004-12aabe9704e4.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0411-pxl-20240628-084640004-12aabe9704e4.webp",
         "kind": "image"
       },
       {
@@ -15652,7 +15847,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0412-pxl-20240628-084711508-8dc3a678ec6e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0412-pxl-20240628-084711508-8dc3a678ec6e.webp",
         "kind": "image"
       },
       {
@@ -15660,7 +15855,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0413-pxl-20240628-084750841-fd03d48fd162.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0413-pxl-20240628-084750841-fd03d48fd162.webp",
         "kind": "image"
       },
       {
@@ -15668,7 +15863,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0414-pxl-20240628-084755100-b33e6054793f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0414-pxl-20240628-084755100-b33e6054793f.webp",
         "kind": "image"
       },
       {
@@ -15676,7 +15871,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0415-pxl-20240628-084909500-8c368bc303ed.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0415-pxl-20240628-084909500-8c368bc303ed.webp",
         "kind": "image"
       },
       {
@@ -15684,7 +15879,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0416-pxl-20240628-084919945-59fddb5143db.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0416-pxl-20240628-084919945-59fddb5143db.webp",
         "kind": "image"
       },
       {
@@ -15692,7 +15887,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0417-pxl-20240628-084939880-1d53d3bc47a6.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0417-pxl-20240628-084939880-1d53d3bc47a6.webp",
         "kind": "image"
       },
       {
@@ -15700,7 +15895,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0418-pxl-20240628-085043735-efa3c4e15b7a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0418-pxl-20240628-085043735-efa3c4e15b7a.webp",
         "kind": "image"
       },
       {
@@ -15708,7 +15903,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0419-pxl-20240628-085402638-a818d0be6a18.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0419-pxl-20240628-085402638-a818d0be6a18.webp",
         "kind": "image"
       },
       {
@@ -15716,7 +15911,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0420-pxl-20240628-093627203-2aba2e134d92.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0420-pxl-20240628-093627203-2aba2e134d92.webp",
         "kind": "image"
       },
       {
@@ -15724,7 +15919,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0421-pxl-20240628-135803844-26cfdfee0aba.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0421-pxl-20240628-135803844-26cfdfee0aba.webp",
         "kind": "image"
       },
       {
@@ -15732,7 +15927,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0422-pxl-20240709-105416486-5b15aa97f6bc.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0422-pxl-20240709-105416486-5b15aa97f6bc.webp",
         "kind": "image"
       },
       {
@@ -15740,7 +15935,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0423-pxl-20240709-105519045-950adad65081.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0423-pxl-20240709-105519045-950adad65081.webp",
         "kind": "image"
       },
       {
@@ -15748,7 +15943,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0424-pxl-20240709-105653885-cd61425cc867.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0424-pxl-20240709-105653885-cd61425cc867.webp",
         "kind": "image"
       },
       {
@@ -15756,7 +15951,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0425-pxl-20240709-105756137-616df1f2396f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0425-pxl-20240709-105756137-616df1f2396f.webp",
         "kind": "image"
       },
       {
@@ -15764,7 +15959,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0426-pxl-20240709-105926068-476fbef6d434.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0426-pxl-20240709-105926068-476fbef6d434.webp",
         "kind": "image"
       },
       {
@@ -15772,7 +15967,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0427-pxl-20240709-110037666-2570d0292ff8.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0427-pxl-20240709-110037666-2570d0292ff8.webp",
         "kind": "image"
       },
       {
@@ -15780,7 +15975,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0428-pxl-20240709-110043607-f0363f32829f.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0428-pxl-20240709-110043607-f0363f32829f.webp",
         "kind": "image"
       },
       {
@@ -15788,7 +15983,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0429-pxl-20240709-110108036-a26fc027bc15.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0429-pxl-20240709-110108036-a26fc027bc15.webp",
         "kind": "image"
       },
       {
@@ -15796,7 +15991,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0430-snapchat-104027899-993826604e4c.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0430-snapchat-104027899-993826604e4c.webp",
         "kind": "image"
       },
       {
@@ -15804,7 +15999,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0431-snapchat-177676773-b81358569184.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0431-snapchat-177676773-b81358569184.webp",
         "kind": "image"
       },
       {
@@ -15812,7 +16007,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0432-snapchat-184590574-701a38fd924b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0432-snapchat-184590574-701a38fd924b.webp",
         "kind": "image"
       },
       {
@@ -15820,7 +16015,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0433-snapchat-275943496-4b0ed888ad06.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0433-snapchat-275943496-4b0ed888ad06.webp",
         "kind": "image"
       },
       {
@@ -15828,7 +16023,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0434-snapchat-350041760-f8250294fa8b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0434-snapchat-350041760-f8250294fa8b.webp",
         "kind": "image"
       },
       {
@@ -15836,7 +16031,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0435-snapchat-485594018-9833ebdedd8e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0435-snapchat-485594018-9833ebdedd8e.webp",
         "kind": "image"
       },
       {
@@ -15844,7 +16039,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0436-snapchat-514314634-7e7a7ed950bd.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0436-snapchat-514314634-7e7a7ed950bd.webp",
         "kind": "image"
       },
       {
@@ -15852,7 +16047,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0437-snapchat-580124216-ae2333424853.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0437-snapchat-580124216-ae2333424853.webp",
         "kind": "image"
       },
       {
@@ -15860,7 +16055,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0438-snapchat-653334444-dcaaae6c159e.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0438-snapchat-653334444-dcaaae6c159e.webp",
         "kind": "image"
       },
       {
@@ -15868,7 +16063,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0439-snapchat-908976369-793120751d12.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0439-snapchat-908976369-793120751d12.webp",
         "kind": "image"
       },
       {
@@ -15876,7 +16071,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0440-snapchat-1298969396-f002d849da7b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0440-snapchat-1298969396-f002d849da7b.webp",
         "kind": "image"
       },
       {
@@ -15884,7 +16079,7 @@ const rawSourcePages = [
         "title": "Denmark Summer 2024",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0441-snapchat-1769822757-ac982867f1c9.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0441-snapchat-1769822757-ac982867f1c9.webp",
         "kind": "image"
       },
       {
@@ -15892,7 +16087,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0442-dis-logo-799b98fa898a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0442-dis-logo-799b98fa898a.webp",
         "kind": "image"
       },
       {
@@ -15900,7 +16095,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0443-full-chiar-ideation-denmark-first-week-a80e3030f17a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0443-full-chiar-ideation-denmark-first-week-a80e3030f17a.webp",
         "kind": "image"
       },
       {
@@ -15908,7 +16103,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0444-almost-done-color-with-painting-after-sweden-637cb1a0ac63.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0444-almost-done-color-with-painting-after-sweden-637cb1a0ac63.webp",
         "kind": "image"
       },
       {
@@ -15916,7 +16111,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0445-prosses-render-week-4-brighter-eef07a35b71b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0445-prosses-render-week-4-brighter-eef07a35b71b.webp",
         "kind": "image"
       },
       {
@@ -15924,7 +16119,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0446-base-chair-3-rgb-92e404bd4397.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0446-base-chair-3-rgb-92e404bd4397.webp",
         "kind": "image"
       },
       {
@@ -15932,7 +16127,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0447-base-chair-3-two-parts-shown-3c2e6affd0e2.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0447-base-chair-3-two-parts-shown-3c2e6affd0e2.webp",
         "kind": "image"
       },
       {
@@ -15940,7 +16135,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0448-5thweek-cfb9a8085bc9.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0448-5thweek-cfb9a8085bc9.webp",
         "kind": "image"
       },
       {
@@ -15948,7 +16143,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0087-denmark-week-6-67d94d9c4cf8.webp",
+        "localPath": "assets/source-site/furniture/0087-denmark-week-6-67d94d9c4cf8.webp",
         "kind": "image"
       },
       {
@@ -15956,7 +16151,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0449-snapchat-1912632475-daecaea0fe95.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0449-snapchat-1912632475-daecaea0fe95.webp",
         "kind": "image"
       },
       {
@@ -15964,7 +16159,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0450-pxl-20240704-101336738-3bb66d58c99a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0450-pxl-20240704-101336738-3bb66d58c99a.webp",
         "kind": "image"
       },
       {
@@ -15972,7 +16167,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0451-snapchat-1555800693-371ee517ef32.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0451-snapchat-1555800693-371ee517ef32.webp",
         "kind": "image"
       },
       {
@@ -15980,7 +16175,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0452-snapchat-1929401707-1f72666569a5.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0452-snapchat-1929401707-1f72666569a5.webp",
         "kind": "image"
       },
       {
@@ -15988,7 +16183,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0453-snapchat-1338651114-1f9019435067.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0453-snapchat-1338651114-1f9019435067.webp",
         "kind": "image"
       },
       {
@@ -15996,7 +16191,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0454-pxl-20240620-154412015-d39004ba4f4d.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0454-pxl-20240620-154412015-d39004ba4f4d.webp",
         "kind": "image"
       },
       {
@@ -16004,7 +16199,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0455-snapchat-1865026642-595b523fb547.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0455-snapchat-1865026642-595b523fb547.webp",
         "kind": "image"
       },
       {
@@ -16012,7 +16207,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0456-pxl-20240620-152613890-6db1d8f00e99.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0456-pxl-20240620-152613890-6db1d8f00e99.webp",
         "kind": "image"
       },
       {
@@ -16020,7 +16215,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0457-snapchat-667138494-18069f2f1e23.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0457-snapchat-667138494-18069f2f1e23.webp",
         "kind": "image"
       },
       {
@@ -16028,7 +16223,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0458-pxl-20240705-145802126-e6c7465decb8.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0458-pxl-20240705-145802126-e6c7465decb8.webp",
         "kind": "image"
       },
       {
@@ -16036,7 +16231,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0459-pxl-20240708-142025985-1ff8b20224dd.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0459-pxl-20240708-142025985-1ff8b20224dd.webp",
         "kind": "image"
       },
       {
@@ -16044,7 +16239,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0460-pxl-20240708-153026689-5410d4214027.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0460-pxl-20240708-153026689-5410d4214027.webp",
         "kind": "image"
       },
       {
@@ -16052,7 +16247,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0461-pxl-20240709-174856907-f710aa6c5c8a.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0461-pxl-20240709-174856907-f710aa6c5c8a.webp",
         "kind": "image"
       },
       {
@@ -16060,7 +16255,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0462-pxl-20240716-114621434-80e0ad3ab2a4.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0462-pxl-20240716-114621434-80e0ad3ab2a4.webp",
         "kind": "image"
       },
       {
@@ -16068,7 +16263,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0463-snapchat-101945420-ea9c7048c985.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0463-snapchat-101945420-ea9c7048c985.webp",
         "kind": "image"
       },
       {
@@ -16076,7 +16271,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0464-pxl-20240716-114905578-2d85723e3f16.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0464-pxl-20240716-114905578-2d85723e3f16.webp",
         "kind": "image"
       },
       {
@@ -16084,7 +16279,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0465-snapchat-289271695-4987244d0c15.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0465-snapchat-289271695-4987244d0c15.webp",
         "kind": "image"
       },
       {
@@ -16092,7 +16287,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0466-snapchat-1085737298-52f583cf8b23.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0466-snapchat-1085737298-52f583cf8b23.webp",
         "kind": "image"
       },
       {
@@ -16100,7 +16295,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0467-snapchat-1499500795-1763e31f4f70.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0467-snapchat-1499500795-1763e31f4f70.webp",
         "kind": "image"
       },
       {
@@ -16108,7 +16303,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0468-snapchat-73851694-1e356336cc89.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0468-snapchat-73851694-1e356336cc89.webp",
         "kind": "image"
       },
       {
@@ -16116,7 +16311,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0469-snapchat-349359515-fff541d45bcc.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0469-snapchat-349359515-fff541d45bcc.webp",
         "kind": "image"
       },
       {
@@ -16124,7 +16319,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0470-snapchat-198175675-bdbad69ca594.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0470-snapchat-198175675-bdbad69ca594.webp",
         "kind": "image"
       },
       {
@@ -16132,7 +16327,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0471-snapchat-1207901269-d1e8338f3b2b.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0471-snapchat-1207901269-d1e8338f3b2b.webp",
         "kind": "image"
       },
       {
@@ -16140,7 +16335,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0472-pxl-20240716-072221697-990d3b0d4249.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0472-pxl-20240716-072221697-990d3b0d4249.webp",
         "kind": "image"
       },
       {
@@ -16148,7 +16343,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0473-53880487730-0715856a40-o-80bcc45aaed1.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0473-53880487730-0715856a40-o-80bcc45aaed1.webp",
         "kind": "image"
       },
       {
@@ -16156,7 +16351,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0474-53880073986-772746daf5-o-44229fbf2927.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0474-53880073986-772746daf5-o-44229fbf2927.webp",
         "kind": "image"
       },
       {
@@ -16164,7 +16359,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Denmark Summer 2024",
-        "localPath": "assets/source-site/media/0475-53879175587-6dae392764-o-c0c81e2d7b08.webp",
+        "localPath": "assets/source-site/denmark-summer-2024/0475-53879175587-6dae392764-o-c0c81e2d7b08.webp",
         "kind": "image"
       }
     ],
@@ -16176,7 +16371,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0239-snapchat-1868005694-61e3fe03df25.webp",
+    "heroImage": "assets/source-site/denmark-summer-2024/0239-snapchat-1868005694-61e3fe03df25.webp",
     "imageCount": 238,
     "mediaCount": 0
   },
@@ -16193,7 +16388,7 @@ const rawSourcePages = [
       {
         "type": "heading",
         "level": "h2",
-        "text": "\"Bold comfort, playful purpose, lasting impact.\""
+        "text": "'Bold comfort, playful purpose, lasting impact.'"
       },
       {
         "type": "text",
@@ -16223,12 +16418,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "The \"Revo\" Chair Sustainable Furniture 3D Printing Service Learn more"
+        "text": "The 'Revo' Chair Sustainable Furniture 3D Printing Service Learn more"
       },
       {
         "type": "heading",
         "level": "h2",
-        "text": "The \"Revo\" Chair"
+        "text": "The 'Revo' Chair"
       },
       {
         "type": "text",
@@ -16393,7 +16588,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Hey, I’m Ethan Solodukhin, an Industrial Design student at RIT. I’m all about mixing design, tech, and creativity—whether it’s whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!"
+        "text": "Hey, I'm Ethan Solodukhin, an Industrial Design student at RIT. I'm all about mixing design, tech, and creativity-whether it's whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!"
       },
       {
         "type": "text",
@@ -16413,12 +16608,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
-        "title": "\"Bold comfort, playful purpose, lasting impact.\"",
+        "title": "'Bold comfort, playful purpose, lasting impact.'",
         "items": [
           "2022-Present",
           "mber Collection Concept Furniture Day 1 of 3012/13/2024 Learn more"
@@ -16429,11 +16624,11 @@ const rawSourcePages = [
         "items": [
           "Concept Furniture Day 1 of 30",
           "12/13/2024",
-          "The \"Revo\" Chair Sustainable Furniture 3D Printing Service Learn more"
+          "The 'Revo' Chair Sustainable Furniture 3D Printing Service Learn more"
         ]
       },
       {
-        "title": "The \"Revo\" Chair",
+        "title": "The 'Revo' Chair",
         "items": [
           "Sustainable Furniture 3D Printing Service",
           "Danish Institute for Study Abroad Summer Semester The Bungis Chair Learn more"
@@ -16511,11 +16706,11 @@ const rawSourcePages = [
       {
         "title": "Ethan Solodukhin",
         "items": [
-          "Hey, I’m Ethan Solodukhin, an Industrial Design student at RIT. I’m all about mixing design, tech, and creativity—whether it’s whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!",
+          "Hey, I'm Ethan Solodukhin, an Industrial Design student at RIT. I'm all about mixing design, tech, and creativity-whether it's whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!",
           "Linkedin",
           "Art Station",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -16525,7 +16720,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0001-pxl-20241108-222243255-mp-26ce84fdffc0.webp",
+        "localPath": "assets/source-site/home/0001-pxl-20241108-222243255-mp-26ce84fdffc0.webp",
         "kind": "image"
       },
       {
@@ -16533,7 +16728,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0002-screenshot-2024-12-08-190611-dabb4a8b4d20.webp",
+        "localPath": "assets/source-site/autodesk-origin/0002-screenshot-2024-12-08-190611-dabb4a8b4d20.webp",
         "kind": "image"
       },
       {
@@ -16541,7 +16736,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0003-copy-of-shelfmate-for-ethan-5-998f3218e3a2.webp",
+        "localPath": "assets/source-site/sol-wheel/0003-copy-of-shelfmate-for-ethan-5-998f3218e3a2.webp",
         "kind": "image"
       },
       {
@@ -16549,7 +16744,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0004-copy-of-shelfmate-for-ethan-1-dd523da9011b.webp",
+        "localPath": "assets/source-site/3d-printing-service/0004-copy-of-shelfmate-for-ethan-1-dd523da9011b.webp",
         "kind": "image"
       },
       {
@@ -16557,7 +16752,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0005-shalfmate-7-283d71332fab.webp",
+        "localPath": "assets/source-site/home/0005-shalfmate-7-283d71332fab.webp",
         "kind": "image"
       },
       {
@@ -16565,7 +16760,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0006-prosses-render-week-4-6c3c133f085b.webp",
+        "localPath": "assets/source-site/home/0006-prosses-render-week-4-6c3c133f085b.webp",
         "kind": "image"
       },
       {
@@ -16573,7 +16768,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0007-hoveron-image-ada1781b8d51.webp",
+        "localPath": "assets/source-site/home/0007-hoveron-image-ada1781b8d51.webp",
         "kind": "image"
       },
       {
@@ -16581,7 +16776,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0008-full-set-of-furniture1-aca75a3882c7.webp",
+        "localPath": "assets/source-site/home/0008-full-set-of-furniture1-aca75a3882c7.webp",
         "kind": "image"
       },
       {
@@ -16589,7 +16784,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0009-room-with-storage-63edcfd67c71.webp",
+        "localPath": "assets/source-site/furniture/0009-room-with-storage-63edcfd67c71.webp",
         "kind": "image"
       },
       {
@@ -16597,7 +16792,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0010-53879175587-6dae392764-o-760e7d07798c.webp",
+        "localPath": "assets/source-site/home/0010-53879175587-6dae392764-o-760e7d07798c.webp",
         "kind": "image"
       },
       {
@@ -16605,7 +16800,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0011-untitled-2-795ca87e595c.webp",
+        "localPath": "assets/source-site/home/0011-untitled-2-795ca87e595c.webp",
         "kind": "image"
       },
       {
@@ -16613,7 +16808,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0012-sol-words-gray-a61b0ff65f59.webp",
+        "localPath": "assets/source-site/home/0012-sol-words-gray-a61b0ff65f59.webp",
         "kind": "image"
       },
       {
@@ -16621,7 +16816,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0013-kiosk-renderfor-website-74c5569d0bdd.webp",
+        "localPath": "assets/source-site/the-9ine-light/0013-kiosk-renderfor-website-74c5569d0bdd.webp",
         "kind": "image"
       },
       {
@@ -16629,7 +16824,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0014-ethans-room-v10-png-8d619286d3df.webp",
+        "localPath": "assets/source-site/home/0014-ethans-room-v10-png-8d619286d3df.webp",
         "kind": "image"
       },
       {
@@ -16637,7 +16832,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0015-dfghsdfgdfgsd-51bd4490a401.webp",
+        "localPath": "assets/source-site/home/0015-dfghsdfgdfgsd-51bd4490a401.webp",
         "kind": "image"
       },
       {
@@ -16645,7 +16840,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0016-ethans-chair-1fce9e2b43cb.webp",
+        "localPath": "assets/source-site/home/0016-ethans-chair-1fce9e2b43cb.webp",
         "kind": "image"
       },
       {
@@ -16653,7 +16848,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0017-ethans-night-stand-1-f2f082ef1da5.webp",
+        "localPath": "assets/source-site/home/0017-ethans-night-stand-1-f2f082ef1da5.webp",
         "kind": "image"
       },
       {
@@ -16661,7 +16856,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0018-screenshot-2023-11-20-172209-fb924079a9d0.webp",
+        "localPath": "assets/source-site/home/0018-screenshot-2023-11-20-172209-fb924079a9d0.webp",
         "kind": "image"
       },
       {
@@ -16669,7 +16864,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0019-chair-table-and-lamp6-eaca1175a3ce.webp",
+        "localPath": "assets/source-site/home/0019-chair-table-and-lamp6-eaca1175a3ce.webp",
         "kind": "image"
       },
       {
@@ -16677,7 +16872,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0020-53879175587-6dae392764-o-5e46378e3a5a.webp",
+        "localPath": "assets/source-site/home/0020-53879175587-6dae392764-o-5e46378e3a5a.webp",
         "kind": "image"
       },
       {
@@ -16685,7 +16880,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0021-ethans-name-dc8a3bac4237.webp",
+        "localPath": "assets/source-site/home/0021-ethans-name-dc8a3bac4237.webp",
         "kind": "image"
       },
       {
@@ -16693,7 +16888,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0022-317750-linkedin-icon-9a4e06d52305.webp",
+        "localPath": "assets/source-site/home/0022-317750-linkedin-icon-9a4e06d52305.webp",
         "kind": "image"
       },
       {
@@ -16701,7 +16896,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0023-pngaaa-com-3896430-dabe7d713b4c.webp",
+        "localPath": "assets/source-site/home/0023-pngaaa-com-3896430-dabe7d713b4c.webp",
         "kind": "image"
       }
     ],
@@ -16724,7 +16919,7 @@ const rawSourcePages = [
       "furniture",
       "the-neo-grove-collection"
     ],
-    "heroImage": "assets/source-site/media/0001-pxl-20241108-222243255-mp-26ce84fdffc0.webp",
+    "heroImage": "assets/source-site/home/0001-pxl-20241108-222243255-mp-26ce84fdffc0.webp",
     "imageCount": 23,
     "mediaCount": 0
   },
@@ -16741,7 +16936,7 @@ const rawSourcePages = [
       {
         "type": "heading",
         "level": "h2",
-        "text": "\"Bold comfort, playful purpose, lasting impact.\""
+        "text": "'Bold comfort, playful purpose, lasting impact.'"
       },
       {
         "type": "text",
@@ -16771,12 +16966,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "The \"Revo\" Chair Sustainable Furniture 3D Printing Service Learn more"
+        "text": "The 'Revo' Chair Sustainable Furniture 3D Printing Service Learn more"
       },
       {
         "type": "heading",
         "level": "h2",
-        "text": "The \"Revo\" Chair"
+        "text": "The 'Revo' Chair"
       },
       {
         "type": "text",
@@ -16941,7 +17136,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Hey, I’m Ethan Solodukhin, an Industrial Design student at RIT. I’m all about mixing design, tech, and creativity—whether it’s whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!"
+        "text": "Hey, I'm Ethan Solodukhin, an Industrial Design student at RIT. I'm all about mixing design, tech, and creativity-whether it's whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!"
       },
       {
         "type": "text",
@@ -16961,12 +17156,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
-        "title": "\"Bold comfort, playful purpose, lasting impact.\"",
+        "title": "'Bold comfort, playful purpose, lasting impact.'",
         "items": [
           "2022-Present",
           "mber Collection Concept Furniture Day 1 of 3012/13/2024 Learn more"
@@ -16977,11 +17172,11 @@ const rawSourcePages = [
         "items": [
           "Concept Furniture Day 1 of 30",
           "12/13/2024",
-          "The \"Revo\" Chair Sustainable Furniture 3D Printing Service Learn more"
+          "The 'Revo' Chair Sustainable Furniture 3D Printing Service Learn more"
         ]
       },
       {
-        "title": "The \"Revo\" Chair",
+        "title": "The 'Revo' Chair",
         "items": [
           "Sustainable Furniture 3D Printing Service",
           "Danish Institute for Study Abroad Summer Semester The Bungis Chair Learn more"
@@ -17059,11 +17254,11 @@ const rawSourcePages = [
       {
         "title": "Ethan Solodukhin",
         "items": [
-          "Hey, I’m Ethan Solodukhin, an Industrial Design student at RIT. I’m all about mixing design, tech, and creativity—whether it’s whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!",
+          "Hey, I'm Ethan Solodukhin, an Industrial Design student at RIT. I'm all about mixing design, tech, and creativity-whether it's whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!",
           "Linkedin",
           "Art Station",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -17073,7 +17268,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0014-ethans-room-v10-png-8d619286d3df.webp",
+        "localPath": "assets/source-site/home/0014-ethans-room-v10-png-8d619286d3df.webp",
         "kind": "image"
       },
       {
@@ -17081,7 +17276,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0011-untitled-2-795ca87e595c.webp",
+        "localPath": "assets/source-site/home/0011-untitled-2-795ca87e595c.webp",
         "kind": "image"
       },
       {
@@ -17089,7 +17284,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0015-dfghsdfgdfgsd-51bd4490a401.webp",
+        "localPath": "assets/source-site/home/0015-dfghsdfgdfgsd-51bd4490a401.webp",
         "kind": "image"
       },
       {
@@ -17097,7 +17292,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0016-ethans-chair-1fce9e2b43cb.webp",
+        "localPath": "assets/source-site/home/0016-ethans-chair-1fce9e2b43cb.webp",
         "kind": "image"
       },
       {
@@ -17105,7 +17300,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0017-ethans-night-stand-1-f2f082ef1da5.webp",
+        "localPath": "assets/source-site/home/0017-ethans-night-stand-1-f2f082ef1da5.webp",
         "kind": "image"
       },
       {
@@ -17113,7 +17308,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0018-screenshot-2023-11-20-172209-fb924079a9d0.webp",
+        "localPath": "assets/source-site/home/0018-screenshot-2023-11-20-172209-fb924079a9d0.webp",
         "kind": "image"
       },
       {
@@ -17121,7 +17316,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0013-kiosk-renderfor-website-74c5569d0bdd.webp",
+        "localPath": "assets/source-site/the-9ine-light/0013-kiosk-renderfor-website-74c5569d0bdd.webp",
         "kind": "image"
       },
       {
@@ -17129,7 +17324,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0022-317750-linkedin-icon-9a4e06d52305.webp",
+        "localPath": "assets/source-site/home/0022-317750-linkedin-icon-9a4e06d52305.webp",
         "kind": "image"
       },
       {
@@ -17137,7 +17332,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0023-pngaaa-com-3896430-dabe7d713b4c.webp",
+        "localPath": "assets/source-site/home/0023-pngaaa-com-3896430-dabe7d713b4c.webp",
         "kind": "image"
       },
       {
@@ -17145,7 +17340,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0012-sol-words-gray-a61b0ff65f59.webp",
+        "localPath": "assets/source-site/home/0012-sol-words-gray-a61b0ff65f59.webp",
         "kind": "image"
       },
       {
@@ -17153,7 +17348,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0009-room-with-storage-63edcfd67c71.webp",
+        "localPath": "assets/source-site/furniture/0009-room-with-storage-63edcfd67c71.webp",
         "kind": "image"
       },
       {
@@ -17161,7 +17356,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0010-53879175587-6dae392764-o-760e7d07798c.webp",
+        "localPath": "assets/source-site/home/0010-53879175587-6dae392764-o-760e7d07798c.webp",
         "kind": "image"
       },
       {
@@ -17169,7 +17364,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0008-full-set-of-furniture1-aca75a3882c7.webp",
+        "localPath": "assets/source-site/home/0008-full-set-of-furniture1-aca75a3882c7.webp",
         "kind": "image"
       },
       {
@@ -17177,7 +17372,7 @@ const rawSourcePages = [
         "title": "Home",
         "caption": "",
         "alt": "Home",
-        "localPath": "assets/source-site/media/0019-chair-table-and-lamp6-eaca1175a3ce.webp",
+        "localPath": "assets/source-site/home/0019-chair-table-and-lamp6-eaca1175a3ce.webp",
         "kind": "image"
       },
       {
@@ -17185,7 +17380,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0020-53879175587-6dae392764-o-5e46378e3a5a.webp",
+        "localPath": "assets/source-site/home/0020-53879175587-6dae392764-o-5e46378e3a5a.webp",
         "kind": "image"
       },
       {
@@ -17193,7 +17388,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0021-ethans-name-dc8a3bac4237.webp",
+        "localPath": "assets/source-site/home/0021-ethans-name-dc8a3bac4237.webp",
         "kind": "image"
       },
       {
@@ -17201,7 +17396,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0001-pxl-20241108-222243255-mp-26ce84fdffc0.webp",
+        "localPath": "assets/source-site/home/0001-pxl-20241108-222243255-mp-26ce84fdffc0.webp",
         "kind": "image"
       },
       {
@@ -17209,7 +17404,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0002-screenshot-2024-12-08-190611-dabb4a8b4d20.webp",
+        "localPath": "assets/source-site/autodesk-origin/0002-screenshot-2024-12-08-190611-dabb4a8b4d20.webp",
         "kind": "image"
       },
       {
@@ -17217,7 +17412,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0003-copy-of-shelfmate-for-ethan-5-998f3218e3a2.webp",
+        "localPath": "assets/source-site/sol-wheel/0003-copy-of-shelfmate-for-ethan-5-998f3218e3a2.webp",
         "kind": "image"
       },
       {
@@ -17225,7 +17420,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0004-copy-of-shelfmate-for-ethan-1-dd523da9011b.webp",
+        "localPath": "assets/source-site/3d-printing-service/0004-copy-of-shelfmate-for-ethan-1-dd523da9011b.webp",
         "kind": "image"
       },
       {
@@ -17233,7 +17428,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0005-shalfmate-7-283d71332fab.webp",
+        "localPath": "assets/source-site/home/0005-shalfmate-7-283d71332fab.webp",
         "kind": "image"
       },
       {
@@ -17241,7 +17436,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0006-prosses-render-week-4-6c3c133f085b.webp",
+        "localPath": "assets/source-site/home/0006-prosses-render-week-4-6c3c133f085b.webp",
         "kind": "image"
       },
       {
@@ -17249,7 +17444,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0007-hoveron-image-ada1781b8d51.webp",
+        "localPath": "assets/source-site/home/0007-hoveron-image-ada1781b8d51.webp",
         "kind": "image"
       }
     ],
@@ -17273,7 +17468,7 @@ const rawSourcePages = [
       "furniture",
       "the-neo-grove-collection"
     ],
-    "heroImage": "assets/source-site/media/0014-ethans-room-v10-png-8d619286d3df.webp",
+    "heroImage": "assets/source-site/home/0014-ethans-room-v10-png-8d619286d3df.webp",
     "imageCount": 23,
     "mediaCount": 0
   },
@@ -17290,7 +17485,7 @@ const rawSourcePages = [
       {
         "type": "heading",
         "level": "h2",
-        "text": "\"Bold comfort, playful purpose, lasting impact.\""
+        "text": "'Bold comfort, playful purpose, lasting impact.'"
       },
       {
         "type": "text",
@@ -17320,12 +17515,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "The \"Revo\" Chair Sustainable Furniture 3D Printing Service Learn more"
+        "text": "The 'Revo' Chair Sustainable Furniture 3D Printing Service Learn more"
       },
       {
         "type": "heading",
         "level": "h2",
-        "text": "The \"Revo\" Chair"
+        "text": "The 'Revo' Chair"
       },
       {
         "type": "text",
@@ -17490,7 +17685,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Hey, I’m Ethan Solodukhin, an Industrial Design student at RIT. I’m all about mixing design, tech, and creativity—whether it’s whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!"
+        "text": "Hey, I'm Ethan Solodukhin, an Industrial Design student at RIT. I'm all about mixing design, tech, and creativity-whether it's whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!"
       },
       {
         "type": "text",
@@ -17510,12 +17705,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
-        "title": "\"Bold comfort, playful purpose, lasting impact.\"",
+        "title": "'Bold comfort, playful purpose, lasting impact.'",
         "items": [
           "2022-Present",
           "mber Collection Concept Furniture Day 1 of 3012/13/2024 Learn more"
@@ -17526,11 +17721,11 @@ const rawSourcePages = [
         "items": [
           "Concept Furniture Day 1 of 30",
           "12/13/2024",
-          "The \"Revo\" Chair Sustainable Furniture 3D Printing Service Learn more"
+          "The 'Revo' Chair Sustainable Furniture 3D Printing Service Learn more"
         ]
       },
       {
-        "title": "The \"Revo\" Chair",
+        "title": "The 'Revo' Chair",
         "items": [
           "Sustainable Furniture 3D Printing Service",
           "Danish Institute for Study Abroad Summer Semester The Bungis Chair Learn more"
@@ -17608,11 +17803,11 @@ const rawSourcePages = [
       {
         "title": "Ethan Solodukhin",
         "items": [
-          "Hey, I’m Ethan Solodukhin, an Industrial Design student at RIT. I’m all about mixing design, tech, and creativity—whether it’s whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!",
+          "Hey, I'm Ethan Solodukhin, an Industrial Design student at RIT. I'm all about mixing design, tech, and creativity-whether it's whipping up 3D-printed furniture or experimenting with new ideas. I love pushing creative boundaries and finding cool ways to bring ideas to life!",
           "Linkedin",
           "Art Station",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -17622,7 +17817,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0001-pxl-20241108-222243255-mp-26ce84fdffc0.webp",
+        "localPath": "assets/source-site/home/0001-pxl-20241108-222243255-mp-26ce84fdffc0.webp",
         "kind": "image"
       },
       {
@@ -17630,7 +17825,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0002-screenshot-2024-12-08-190611-dabb4a8b4d20.webp",
+        "localPath": "assets/source-site/autodesk-origin/0002-screenshot-2024-12-08-190611-dabb4a8b4d20.webp",
         "kind": "image"
       },
       {
@@ -17638,7 +17833,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0003-copy-of-shelfmate-for-ethan-5-998f3218e3a2.webp",
+        "localPath": "assets/source-site/sol-wheel/0003-copy-of-shelfmate-for-ethan-5-998f3218e3a2.webp",
         "kind": "image"
       },
       {
@@ -17646,7 +17841,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0004-copy-of-shelfmate-for-ethan-1-dd523da9011b.webp",
+        "localPath": "assets/source-site/3d-printing-service/0004-copy-of-shelfmate-for-ethan-1-dd523da9011b.webp",
         "kind": "image"
       },
       {
@@ -17654,7 +17849,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0005-shalfmate-7-283d71332fab.webp",
+        "localPath": "assets/source-site/home/0005-shalfmate-7-283d71332fab.webp",
         "kind": "image"
       },
       {
@@ -17662,7 +17857,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0006-prosses-render-week-4-6c3c133f085b.webp",
+        "localPath": "assets/source-site/home/0006-prosses-render-week-4-6c3c133f085b.webp",
         "kind": "image"
       },
       {
@@ -17670,7 +17865,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0007-hoveron-image-ada1781b8d51.webp",
+        "localPath": "assets/source-site/home/0007-hoveron-image-ada1781b8d51.webp",
         "kind": "image"
       },
       {
@@ -17678,7 +17873,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0008-full-set-of-furniture1-aca75a3882c7.webp",
+        "localPath": "assets/source-site/home/0008-full-set-of-furniture1-aca75a3882c7.webp",
         "kind": "image"
       },
       {
@@ -17686,7 +17881,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0009-room-with-storage-63edcfd67c71.webp",
+        "localPath": "assets/source-site/furniture/0009-room-with-storage-63edcfd67c71.webp",
         "kind": "image"
       },
       {
@@ -17694,7 +17889,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0010-53879175587-6dae392764-o-760e7d07798c.webp",
+        "localPath": "assets/source-site/home/0010-53879175587-6dae392764-o-760e7d07798c.webp",
         "kind": "image"
       },
       {
@@ -17702,7 +17897,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0011-untitled-2-795ca87e595c.webp",
+        "localPath": "assets/source-site/home/0011-untitled-2-795ca87e595c.webp",
         "kind": "image"
       },
       {
@@ -17710,7 +17905,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0012-sol-words-gray-a61b0ff65f59.webp",
+        "localPath": "assets/source-site/home/0012-sol-words-gray-a61b0ff65f59.webp",
         "kind": "image"
       },
       {
@@ -17718,7 +17913,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0013-kiosk-renderfor-website-74c5569d0bdd.webp",
+        "localPath": "assets/source-site/the-9ine-light/0013-kiosk-renderfor-website-74c5569d0bdd.webp",
         "kind": "image"
       },
       {
@@ -17726,7 +17921,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0014-ethans-room-v10-png-8d619286d3df.webp",
+        "localPath": "assets/source-site/home/0014-ethans-room-v10-png-8d619286d3df.webp",
         "kind": "image"
       },
       {
@@ -17734,7 +17929,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0015-dfghsdfgdfgsd-51bd4490a401.webp",
+        "localPath": "assets/source-site/home/0015-dfghsdfgdfgsd-51bd4490a401.webp",
         "kind": "image"
       },
       {
@@ -17742,7 +17937,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0016-ethans-chair-1fce9e2b43cb.webp",
+        "localPath": "assets/source-site/home/0016-ethans-chair-1fce9e2b43cb.webp",
         "kind": "image"
       },
       {
@@ -17750,7 +17945,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0017-ethans-night-stand-1-f2f082ef1da5.webp",
+        "localPath": "assets/source-site/home/0017-ethans-night-stand-1-f2f082ef1da5.webp",
         "kind": "image"
       },
       {
@@ -17758,7 +17953,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0018-screenshot-2023-11-20-172209-fb924079a9d0.webp",
+        "localPath": "assets/source-site/home/0018-screenshot-2023-11-20-172209-fb924079a9d0.webp",
         "kind": "image"
       },
       {
@@ -17766,7 +17961,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0019-chair-table-and-lamp6-eaca1175a3ce.webp",
+        "localPath": "assets/source-site/home/0019-chair-table-and-lamp6-eaca1175a3ce.webp",
         "kind": "image"
       },
       {
@@ -17774,7 +17969,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0020-53879175587-6dae392764-o-5e46378e3a5a.webp",
+        "localPath": "assets/source-site/home/0020-53879175587-6dae392764-o-5e46378e3a5a.webp",
         "kind": "image"
       },
       {
@@ -17782,7 +17977,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0021-ethans-name-dc8a3bac4237.webp",
+        "localPath": "assets/source-site/home/0021-ethans-name-dc8a3bac4237.webp",
         "kind": "image"
       },
       {
@@ -17790,7 +17985,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0022-317750-linkedin-icon-9a4e06d52305.webp",
+        "localPath": "assets/source-site/home/0022-317750-linkedin-icon-9a4e06d52305.webp",
         "kind": "image"
       },
       {
@@ -17798,7 +17993,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Ethan Solodukhin",
-        "localPath": "assets/source-site/media/0023-pngaaa-com-3896430-dabe7d713b4c.webp",
+        "localPath": "assets/source-site/home/0023-pngaaa-com-3896430-dabe7d713b4c.webp",
         "kind": "image"
       }
     ],
@@ -17821,7 +18016,7 @@ const rawSourcePages = [
       "furniture",
       "the-neo-grove-collection"
     ],
-    "heroImage": "assets/source-site/media/0001-pxl-20241108-222243255-mp-26ce84fdffc0.webp",
+    "heroImage": "assets/source-site/home/0001-pxl-20241108-222243255-mp-26ce84fdffc0.webp",
     "imageCount": 23,
     "mediaCount": 0
   },
@@ -17833,7 +18028,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-11",
     "group": "Project Archive",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "heading",
@@ -18033,7 +18228,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "The ÜberLax Collection"
+        "text": "The UberLax Collection"
       },
       {
         "type": "text",
@@ -18148,7 +18343,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -18166,7 +18361,57 @@ const rawSourcePages = [
           "The Mossy Mates Collection",
           "12/17/2024",
           "The GeoNest Collection",
-          "12/18/2024"
+          "12/18/2024",
+          "The Archron Collection",
+          "12/19/2024",
+          "The Checkpoint Collection",
+          "12/20/2024",
+          "The Grasp Collection Collection",
+          "12/21/2024",
+          "The GeoBench Collection",
+          "12/22/2024",
+          "The Strata Chair",
+          "12/23/2024",
+          "The ArchFrame Duo Side Table",
+          "12/24/2024",
+          "The Loma Chair",
+          "12/25/2024",
+          "The Verdant Chair",
+          "12/26/2024",
+          "The PivotPod Chair",
+          "12/27/2024",
+          "The FrameLoom Chair",
+          "12/28/2024",
+          "The Rvot Lounge Chair",
+          "12/29/2024",
+          "The Strata Shelf",
+          "12/30/2024",
+          "The Lumen Vault Cabinet",
+          "12/31/2024",
+          "The UberLax Collection",
+          "1/1/2025",
+          "The Lumi Lamp",
+          "1/2/2025",
+          "The Contour Living Collection",
+          "1/3/2025",
+          "The Prism Apex Table",
+          "1/4/2025",
+          "The Prismatik Table",
+          "1/5/2025",
+          "The Radia Light",
+          "1/6/2025",
+          "The Bloom Lamp",
+          "1/7/2025",
+          "The OribitMod",
+          "1/8/2025",
+          "The Enigma Stand",
+          "1/9/2025",
+          "The Stax Set",
+          "1/10/2025",
+          "The Kontour Chair",
+          "1/11/2025",
+          "www.ethansolodukhin.com",
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -18176,7 +18421,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0730-full-set-of-furniture1-2051c086c195.webp",
+        "localPath": "assets/source-site/the-mber-collection/0730-full-set-of-furniture1-2051c086c195.webp",
         "kind": "image"
       },
       {
@@ -18184,7 +18429,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0019-chair-table-and-lamp6-eaca1175a3ce.webp",
+        "localPath": "assets/source-site/home/0019-chair-table-and-lamp6-eaca1175a3ce.webp",
         "kind": "image"
       },
       {
@@ -18192,7 +18437,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0731-chair21-4c85411d75f7.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0731-chair21-4c85411d75f7.webp",
         "kind": "image"
       },
       {
@@ -18200,7 +18445,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0732-fullset53-32467c2dc869.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0732-fullset53-32467c2dc869.webp",
         "kind": "image"
       },
       {
@@ -18208,7 +18453,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0733-stool25-97da307a6113.webp",
+        "localPath": "assets/source-site/the-mossy-mates-collection/0733-stool25-97da307a6113.webp",
         "kind": "image"
       },
       {
@@ -18216,7 +18461,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0734-chair16-f67988931907.webp",
+        "localPath": "assets/source-site/the-geonest-collection/0734-chair16-f67988931907.webp",
         "kind": "image"
       },
       {
@@ -18224,7 +18469,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0735-test99png-be1db38f4e3a.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0735-test99png-be1db38f4e3a.webp",
         "kind": "image"
       },
       {
@@ -18232,7 +18477,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0736-chair-5-33c847b89bd5.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0736-chair-5-33c847b89bd5.webp",
         "kind": "image"
       },
       {
@@ -18240,7 +18485,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0737-fullset14-8a313e686339.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0737-fullset14-8a313e686339.webp",
         "kind": "image"
       },
       {
@@ -18248,7 +18493,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0738-test3-a68a036dce48.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0738-test3-a68a036dce48.webp",
         "kind": "image"
       },
       {
@@ -18256,7 +18501,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0739-test1-3974f6d8f9f7.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0739-test1-3974f6d8f9f7.webp",
         "kind": "image"
       },
       {
@@ -18264,7 +18509,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0740-test-4-293bcd3cfec5.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0740-test-4-293bcd3cfec5.webp",
         "kind": "image"
       },
       {
@@ -18272,7 +18517,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0741-test-1-0cf613b5a59c.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0741-test-1-0cf613b5a59c.webp",
         "kind": "image"
       },
       {
@@ -18280,7 +18525,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0742-test-6-2227d43dae69.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0742-test-6-2227d43dae69.webp",
         "kind": "image"
       },
       {
@@ -18288,7 +18533,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0743-test-2-6063006474df.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0743-test-2-6063006474df.webp",
         "kind": "image"
       },
       {
@@ -18296,7 +18541,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0744-test-4-b9ad7771f187.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0744-test-4-b9ad7771f187.webp",
         "kind": "image"
       },
       {
@@ -18304,7 +18549,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0745-test-2-8a46466ad58c.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0745-test-2-8a46466ad58c.webp",
         "kind": "image"
       },
       {
@@ -18312,7 +18557,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0746-wood-1-a4fcac82b470.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0746-wood-1-a4fcac82b470.webp",
         "kind": "image"
       },
       {
@@ -18320,7 +18565,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0747-test-8-3cd8944eb564.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0747-test-8-3cd8944eb564.webp",
         "kind": "image"
       },
       {
@@ -18328,7 +18573,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0748-test-2-0bbb09ce17c0.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0748-test-2-0bbb09ce17c0.webp",
         "kind": "image"
       },
       {
@@ -18336,7 +18581,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0749-test-7-1cb252179dc6.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0749-test-7-1cb252179dc6.webp",
         "kind": "image"
       },
       {
@@ -18344,7 +18589,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0750-test-12-ea5c00a7fa09.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0750-test-12-ea5c00a7fa09.webp",
         "kind": "image"
       },
       {
@@ -18352,7 +18597,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0751-test-2-c0adc6395802.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0751-test-2-c0adc6395802.webp",
         "kind": "image"
       },
       {
@@ -18360,7 +18605,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0752-test-6-7c0a19c2ea94.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0752-test-6-7c0a19c2ea94.webp",
         "kind": "image"
       },
       {
@@ -18368,7 +18613,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0753-test-8-0bc7c3b919b2.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0753-test-8-0bc7c3b919b2.webp",
         "kind": "image"
       },
       {
@@ -18376,7 +18621,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0754-test-5-63238e0c7874.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0754-test-5-63238e0c7874.webp",
         "kind": "image"
       },
       {
@@ -18384,7 +18629,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0755-test-4-0d7fd0e20262.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0755-test-4-0d7fd0e20262.webp",
         "kind": "image"
       },
       {
@@ -18392,7 +18637,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0756-test-6-807c831ccc71.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0756-test-6-807c831ccc71.webp",
         "kind": "image"
       },
       {
@@ -18400,7 +18645,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0757-test-7-4074599915b3.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0757-test-7-4074599915b3.webp",
         "kind": "image"
       },
       {
@@ -18408,7 +18653,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Every Day Render Challenge",
-        "localPath": "assets/source-site/media/0758-test-2-cb3abe07d0d8.webp",
+        "localPath": "assets/source-site/every-day-render-challenge/0758-test-2-cb3abe07d0d8.webp",
         "kind": "image"
       }
     ],
@@ -18450,7 +18695,7 @@ const rawSourcePages = [
       "the-stax-set",
       "the-kontour-chair"
     ],
-    "heroImage": "assets/source-site/media/0730-full-set-of-furniture1-2051c086c195.webp",
+    "heroImage": "assets/source-site/the-mber-collection/0730-full-set-of-furniture1-2051c086c195.webp",
     "imageCount": 30,
     "mediaCount": 0
   },
@@ -18462,7 +18707,7 @@ const rawSourcePages = [
     "lastmod": "2025-12-21",
     "group": "Project Archive",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -18472,7 +18717,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -18480,7 +18725,7 @@ const rawSourcePages = [
         "title": "Source Content",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -18505,7 +18750,7 @@ const rawSourcePages = [
     "lastmod": "2026-01-21",
     "group": "Project Archive",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -18585,7 +18830,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -18603,7 +18848,11 @@ const rawSourcePages = [
           "Spotify Concept",
           "Furniture Collection",
           "2022 - Present",
-          "Logo Design and Process"
+          "Logo Design and Process",
+          "ET-03 Chair",
+          "Jan-May 2025",
+          "www.ethansolodukhin.com",
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -18613,7 +18862,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "More Projects",
-        "localPath": "assets/source-site/media/0169-pxl-20250425-051905370-e5cc934a1bb5.webp",
+        "localPath": "assets/source-site/other-projects/0169-pxl-20250425-051905370-e5cc934a1bb5.webp",
         "kind": "image"
       },
       {
@@ -18621,7 +18870,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "More Projects",
-        "localPath": "assets/source-site/media/0170-screenshot-2024-12-30-101756-741077c4c2a5.webp",
+        "localPath": "assets/source-site/airo/0170-screenshot-2024-12-30-101756-741077c4c2a5.webp",
         "kind": "image"
       },
       {
@@ -18629,7 +18878,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "More Projects",
-        "localPath": "assets/source-site/media/0171-final-open-view-95ddf9f07dd4.webp",
+        "localPath": "assets/source-site/other-projects/0171-final-open-view-95ddf9f07dd4.webp",
         "kind": "image"
       },
       {
@@ -18637,7 +18886,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "More Projects",
-        "localPath": "assets/source-site/media/0172-full-set-of-furniture1-b02e7a4fa5d8.webp",
+        "localPath": "assets/source-site/other-projects/0172-full-set-of-furniture1-b02e7a4fa5d8.webp",
         "kind": "image"
       },
       {
@@ -18645,7 +18894,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "More Projects",
-        "localPath": "assets/source-site/media/0173-untitled-design-3-6000cd798c2c.webp",
+        "localPath": "assets/source-site/other-projects/0173-untitled-design-3-6000cd798c2c.webp",
         "kind": "image"
       },
       {
@@ -18653,7 +18902,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "More Projects",
-        "localPath": "assets/source-site/media/0105-copy-of-shelfmate-for-ethan-4-16a4a2d5ccc5.webp",
+        "localPath": "assets/source-site/spotify-concept/0105-copy-of-shelfmate-for-ethan-4-16a4a2d5ccc5.webp",
         "kind": "image"
       },
       {
@@ -18661,7 +18910,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "More Projects",
-        "localPath": "assets/source-site/media/0174-untitled-design-d7b8e9476c3f.webp",
+        "localPath": "assets/source-site/other-projects/0174-untitled-design-d7b8e9476c3f.webp",
         "kind": "image"
       },
       {
@@ -18669,7 +18918,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "More Projects",
-        "localPath": "assets/source-site/media/0012-sol-words-gray-a61b0ff65f59.webp",
+        "localPath": "assets/source-site/home/0012-sol-words-gray-a61b0ff65f59.webp",
         "kind": "image"
       },
       {
@@ -18677,7 +18926,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "More Projects",
-        "localPath": "assets/source-site/media/0175-sol-with-worsd-orange-e79c3f90cabe.webp",
+        "localPath": "assets/source-site/logo-development/0175-sol-with-worsd-orange-e79c3f90cabe.webp",
         "kind": "image"
       },
       {
@@ -18685,7 +18934,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "More Projects",
-        "localPath": "assets/source-site/media/0176-aro-ha-0010-1-2190cc2ea03c.webp",
+        "localPath": "assets/source-site/other-projects/0176-aro-ha-0010-1-2190cc2ea03c.webp",
         "kind": "image"
       }
     ],
@@ -18704,7 +18953,7 @@ const rawSourcePages = [
       "furniture",
       "logo-development"
     ],
-    "heroImage": "assets/source-site/media/0169-pxl-20250425-051905370-e5cc934a1bb5.webp",
+    "heroImage": "assets/source-site/other-projects/0169-pxl-20250425-051905370-e5cc934a1bb5.webp",
     "imageCount": 10,
     "mediaCount": 0
   },
@@ -18741,7 +18990,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -18751,7 +19000,7 @@ const rawSourcePages = [
           "About:",
           "This room is a personal project I had done to work on 3D concept skills.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -18761,7 +19010,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Concept Room",
-        "localPath": "assets/source-site/media/0014-ethans-room-v10-png-8d619286d3df.webp",
+        "localPath": "assets/source-site/home/0014-ethans-room-v10-png-8d619286d3df.webp",
         "kind": "image"
       },
       {
@@ -18769,7 +19018,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Concept Room",
-        "localPath": "assets/source-site/media/0040-light-on-floor-ethanns-room-369118d9a547.webp",
+        "localPath": "assets/source-site/concept-room/0040-light-on-floor-ethanns-room-369118d9a547.webp",
         "kind": "image"
       },
       {
@@ -18777,7 +19026,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Concept Room",
-        "localPath": "assets/source-site/media/0041-ethans-room-clay-b33b3a734cc9.webp",
+        "localPath": "assets/source-site/concept-room/0041-ethans-room-clay-b33b3a734cc9.webp",
         "kind": "image"
       }
     ],
@@ -18789,7 +19038,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0014-ethans-room-v10-png-8d619286d3df.webp",
+    "heroImage": "assets/source-site/home/0014-ethans-room-v10-png-8d619286d3df.webp",
     "imageCount": 3,
     "mediaCount": 0
   },
@@ -18801,7 +19050,7 @@ const rawSourcePages = [
     "lastmod": "2025-01-09",
     "group": "Project Archive",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -18821,7 +19070,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -18831,7 +19080,7 @@ const rawSourcePages = [
           "The OribitMod",
           "1/8/2025",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -18841,7 +19090,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The OrbitMod",
-        "localPath": "assets/source-site/media/1058-test-1-e7a4edf290fa.webp",
+        "localPath": "assets/source-site/the-orbitmod/1058-test-1-e7a4edf290fa.webp",
         "kind": "image"
       },
       {
@@ -18849,7 +19098,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The OrbitMod",
-        "localPath": "assets/source-site/media/1059-test-2-871f2076f632.webp",
+        "localPath": "assets/source-site/the-orbitmod/1059-test-2-871f2076f632.webp",
         "kind": "image"
       },
       {
@@ -18857,7 +19106,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The OrbitMod",
-        "localPath": "assets/source-site/media/1060-test-4-1e4889fa591a.webp",
+        "localPath": "assets/source-site/the-orbitmod/1060-test-4-1e4889fa591a.webp",
         "kind": "image"
       },
       {
@@ -18865,7 +19114,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The OrbitMod",
-        "localPath": "assets/source-site/media/1061-test-3-86d4be9bca3c.webp",
+        "localPath": "assets/source-site/the-orbitmod/1061-test-3-86d4be9bca3c.webp",
         "kind": "image"
       },
       {
@@ -18873,7 +19122,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The OrbitMod",
-        "localPath": "assets/source-site/media/1062-test-5-91445f80d6fa.webp",
+        "localPath": "assets/source-site/the-orbitmod/1062-test-5-91445f80d6fa.webp",
         "kind": "image"
       },
       {
@@ -18881,7 +19130,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The OrbitMod",
-        "localPath": "assets/source-site/media/1063-test-6-13a1ccc7eccd.webp",
+        "localPath": "assets/source-site/the-orbitmod/1063-test-6-13a1ccc7eccd.webp",
         "kind": "image"
       }
     ],
@@ -18893,7 +19142,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1058-test-1-e7a4edf290fa.webp",
+    "heroImage": "assets/source-site/the-orbitmod/1058-test-1-e7a4edf290fa.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -18905,7 +19154,7 @@ const rawSourcePages = [
     "lastmod": "2024-12-31",
     "group": "Project Archive",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -18925,7 +19174,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -18935,7 +19184,7 @@ const rawSourcePages = [
           "The Strata Shelf",
           "12/30/2024",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -18945,7 +19194,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Shelf",
-        "localPath": "assets/source-site/media/0973-wood-1-eadfec3a6200.webp",
+        "localPath": "assets/source-site/the-strata-shelf/0973-wood-1-eadfec3a6200.webp",
         "kind": "image"
       },
       {
@@ -18953,7 +19202,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Shelf",
-        "localPath": "assets/source-site/media/0974-wood-2-1945e3dae17b.webp",
+        "localPath": "assets/source-site/the-strata-shelf/0974-wood-2-1945e3dae17b.webp",
         "kind": "image"
       },
       {
@@ -18961,7 +19210,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Shelf",
-        "localPath": "assets/source-site/media/0975-wood-4-7b3474a1edb9.webp",
+        "localPath": "assets/source-site/the-strata-shelf/0975-wood-4-7b3474a1edb9.webp",
         "kind": "image"
       },
       {
@@ -18969,7 +19218,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Shelf",
-        "localPath": "assets/source-site/media/0976-wood-3-bdb51a20a7d3.webp",
+        "localPath": "assets/source-site/the-strata-shelf/0976-wood-3-bdb51a20a7d3.webp",
         "kind": "image"
       },
       {
@@ -18977,7 +19226,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Shelf",
-        "localPath": "assets/source-site/media/0977-wood-5-d1fb3c7bd726.webp",
+        "localPath": "assets/source-site/the-strata-shelf/0977-wood-5-d1fb3c7bd726.webp",
         "kind": "image"
       },
       {
@@ -18985,7 +19234,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "The Strata Shelf",
-        "localPath": "assets/source-site/media/0978-wood-6-72a598619a55.webp",
+        "localPath": "assets/source-site/the-strata-shelf/0978-wood-6-72a598619a55.webp",
         "kind": "image"
       }
     ],
@@ -18997,24 +19246,24 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0973-wood-1-eadfec3a6200.webp",
+    "heroImage": "assets/source-site/the-strata-shelf/0973-wood-1-eadfec3a6200.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
   {
     "slug": "shop-p-playground-poster",
-    "title": "\"Playground\" Print",
+    "title": "'Playground' Print",
     "sourceUrl": "https://www.ethansolodukhin.com/shop/p/playground-poster",
     "originalPath": "/shop/p/playground-poster",
     "lastmod": "2024-10-22",
     "group": "Shop + Objects",
-    "description": "This artwork invites viewers to explore a surreal universe where shapes, colors, and playful structures collide in harmonious chaos. The intricate, abstract face-like figure feels alive, with each geometric section resembling micro-worlds filled with whimsical activity. Tiny figures interact within and around the shapes, climbing staircases, diving into vibrant circles, and wandering through surreal spaces. • Paper thickness: 10.3 mil • Paper weight: 5.57 oz/y² (189 g/m²) • Giclée printing quality • Opacity: 94% • ISO brightness: 104%",
-    "summary": "This artwork invites viewers to explore a surreal universe where shapes, colors, and playful structures collide in harmonious chaos. The intricate, abstract face-like figure feels alive, with each geometric section resembling micro-worlds filled with whimsical activity. Tiny figures interact within and around the shapes, climbing staircases, diving into vibrant circles, and wandering through surreal spaces. • Paper thickness: 10.3 mil • Paper weight: 5.57 oz/y² (189 g/m²) • Giclée printing quality • Opacity: 94% • ISO brightness: 104%",
+    "description": "This artwork invites viewers to explore a surreal universe where shapes, colors, and playful structures collide in harmonious chaos. The intricate, abstract face-like figure feels alive, with each geometric section resembling micro-worlds filled with whimsical activity. Tiny figures interact within and around the shapes, climbing staircases, diving into vibrant circles, and wandering through surreal spaces. - Paper thickness: 10.3 mil - Paper weight: 5.57 oz/y^2 (189 g/m^2) - Giclee printing quality - Opacity: 94% - ISO brightness: 104%",
+    "summary": "This artwork invites viewers to explore a surreal universe where shapes, colors, and playful structures collide in harmonious chaos. The intricate, abstract face-like figure feels alive, with each geometric section resembling micro-worlds filled with whimsical activity. Tiny figures interact within and around the shapes, climbing staircases, diving into vibrant circles, and wandering through surreal spaces. - Paper thickness: 10.3 mil - Paper weight: 5.57 oz/y^2 (189 g/m^2) - Giclee printing quality - Opacity: 94% - ISO brightness: 104%",
     "textBlocks": [
       {
         "type": "heading",
         "level": "h1",
-        "text": "\"Playground\" Print"
+        "text": "'Playground' Print"
       },
       {
         "type": "text",
@@ -19024,129 +19273,129 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
       {
-        "title": "\"Playground\" Print",
+        "title": "'Playground' Print",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
     "images": [
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577691185-JATDB00V1H6V1K26INGD/enhanced-matte-paper-poster-%28in%29-12x16-person-671742c26d20f.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0568-enhanced-matte-paper-poster-in-12x16-person-671742c2-6210dc7d0aa9.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0568-enhanced-matte-paper-poster-in-12x16-person-671742c2-6210dc7d0aa9.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577694014-K426JRMYS6TV4Z0VXYTG/enhanced-matte-paper-poster-%28in%29-10x10-person-671742c2722a3.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0565-enhanced-matte-paper-poster-in-10x10-person-671742c2-3f56fd8d4a71.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0565-enhanced-matte-paper-poster-in-10x10-person-671742c2-3f56fd8d4a71.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577696978-NBEP9BR8327WW97GHY7B/enhanced-matte-paper-poster-%28in%29-11x14-person-671742c2a30ea.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0566-enhanced-matte-paper-poster-in-11x14-person-671742c2-ae64dbac9c71.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0566-enhanced-matte-paper-poster-in-11x14-person-671742c2-ae64dbac9c71.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577701025-WJEBY0PAIUQRD3JLS2LA/enhanced-matte-paper-poster-%28in%29-12x12-person-671742c27704a.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0567-enhanced-matte-paper-poster-in-12x12-person-671742c2-15600b47627f.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0567-enhanced-matte-paper-poster-in-12x12-person-671742c2-15600b47627f.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577703889-UP04YGNL0BWWDA1O7S8F/enhanced-matte-paper-poster-%28in%29-12x18-person-671742c27bde6.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0569-enhanced-matte-paper-poster-in-12x18-person-671742c2-6f3de9230923.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0569-enhanced-matte-paper-poster-in-12x18-person-671742c2-6f3de9230923.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577706953-KJDN0QY398L7IY4OHNP7/enhanced-matte-paper-poster-%28in%29-14x14-person-671742c2808b9.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0570-enhanced-matte-paper-poster-in-14x14-person-671742c2-725fd45bbecc.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0570-enhanced-matte-paper-poster-in-14x14-person-671742c2-725fd45bbecc.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577709849-J55DMPA0NJ19EVMWHXQ4/enhanced-matte-paper-poster-%28in%29-16x16-person-671742c285c84.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0571-enhanced-matte-paper-poster-in-16x16-person-671742c2-0bc8d4d9fb11.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0571-enhanced-matte-paper-poster-in-16x16-person-671742c2-0bc8d4d9fb11.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577712502-DBL4RGJK70W4YMX1VDTZ/enhanced-matte-paper-poster-%28in%29-16x20-person-671742c28a9fe.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0572-enhanced-matte-paper-poster-in-16x20-person-671742c2-0bd46cb1c040.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0572-enhanced-matte-paper-poster-in-16x20-person-671742c2-0bd46cb1c040.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577715165-899P28PMR7LGPKFG5DGF/enhanced-matte-paper-poster-%28in%29-18x18-person-671742c28ff1e.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0573-enhanced-matte-paper-poster-in-18x18-person-671742c2-60e385f01c12.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0573-enhanced-matte-paper-poster-in-18x18-person-671742c2-60e385f01c12.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577717617-ATBB508TFHJLVDIPJ18H/enhanced-matte-paper-poster-%28in%29-18x24-person-671742c294ca7.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0574-enhanced-matte-paper-poster-in-18x24-person-671742c2-e8b1f405b787.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0574-enhanced-matte-paper-poster-in-18x24-person-671742c2-e8b1f405b787.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577719924-A9WNVC9Z53A4VCHUGIWS/enhanced-matte-paper-poster-%28in%29-20x30-person-671742c2af166.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0575-enhanced-matte-paper-poster-in-20x30-person-671742c2-dd4c21e1cde9.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0575-enhanced-matte-paper-poster-in-20x30-person-671742c2-dd4c21e1cde9.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577722264-EVTE6K18784OYX3UYNBC/enhanced-matte-paper-poster-%28in%29-24x36-person-671742c299841.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0576-enhanced-matte-paper-poster-in-24x36-person-671742c2-d1b53f6e89ba.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0576-enhanced-matte-paper-poster-in-24x36-person-671742c2-d1b53f6e89ba.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577725455-ABVUFVEJGLSM3ETBODSC/enhanced-matte-paper-poster-%28in%29-5x7-person-671742c2a9e1c.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0577-enhanced-matte-paper-poster-in-5x7-person-671742c2a9-dc2c4c7b719c.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0577-enhanced-matte-paper-poster-in-5x7-person-671742c2a9-dc2c4c7b719c.webp",
         "kind": "image"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/655bc88db04f3c46f09ca602/1729577730214-4JO0GIXFEDOU8NSOP6X7/enhanced-matte-paper-poster-%28in%29-8x10-person-671742c29e550.png",
-        "title": "Shop - \"Playground\" Print",
+        "title": "Shop - 'Playground' Print",
         "caption": "",
-        "alt": "Shop - \"Playground\" Print",
-        "localPath": "assets/source-site/media/0578-enhanced-matte-paper-poster-in-8x10-person-671742c29-eadcce6e7d42.webp",
+        "alt": "Shop - 'Playground' Print",
+        "localPath": "assets/source-site/shop-p-playground-poster/0578-enhanced-matte-paper-poster-in-8x10-person-671742c29-eadcce6e7d42.webp",
         "kind": "image"
       }
     ],
@@ -19159,7 +19408,7 @@ const rawSourcePages = [
       "solshop",
       "shop"
     ],
-    "heroImage": "assets/source-site/media/0568-enhanced-matte-paper-poster-in-12x16-person-671742c2-6210dc7d0aa9.webp",
+    "heroImage": "assets/source-site/shop-p-playground-poster/0568-enhanced-matte-paper-poster-in-12x16-person-671742c2-6210dc7d0aa9.webp",
     "imageCount": 14,
     "mediaCount": 0
   },
@@ -19186,7 +19435,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Just sittin' around...”"
+        "text": "'Just sittin' around...'"
       },
       {
         "type": "text",
@@ -19206,12 +19455,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "200%: 10in x 10in x 2.2in ​"
+        "text": "200%: 10in x 10in x 2.2in "
       },
       {
         "type": "text",
         "level": "p",
-        "text": "“Just Standin here…”"
+        "text": "'Just Standin here...'"
       },
       {
         "type": "text",
@@ -19236,7 +19485,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Takin a seat…”"
+        "text": "'Takin a seat...'"
       },
       {
         "type": "text",
@@ -19256,7 +19505,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Might Take a Nap…”"
+        "text": "'Might Take a Nap...'"
       },
       {
         "type": "text",
@@ -19306,7 +19555,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -19315,16 +19564,25 @@ const rawSourcePages = [
         "items": [
           "Breakfast Bites Collection",
           "Minimalistic, Fun Wall and Shelf Decor.",
-          "“Just sittin' around...”",
+          "'Just sittin' around...'",
           "Sizing:",
           "50%: 3in x 3in x.7in",
           "100%: 5in x 5in x 1.1in",
-          "200%: 10in x 10in x 2.2in ​",
-          "“Just Standin here…”",
+          "200%: 10in x 10in x 2.2in ",
+          "'Just Standin here...'",
           "50%: 3in x 1.7in x.7in",
           "100%: 5in x 3in x 1.1in",
           "200%: 10in x 6in x 2.3",
-          "Sol Origins Collection"
+          "Sol Origins Collection",
+          "'Takin a seat...'",
+          "50%: 3in x 1.8in x.5in",
+          "100%: 5in x 3in x 1.15in",
+          "200%: 10in x 6in x 2.3in",
+          "'Might Take a Nap...'",
+          "50%: 3in x 2.93in x 1.1in",
+          "100%: 5in x 5in x 2in",
+          "200%: 10in x 10in x 3.7in",
+          "Drops Coming Soon"
         ]
       },
       {
@@ -19332,7 +19590,7 @@ const rawSourcePages = [
         "items": [
           "No results match your search. Try removing a few filters.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -19342,7 +19600,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
         "kind": "image"
       },
       {
@@ -19350,7 +19608,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0515-solcircle-pink-c6897ea02df0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0515-solcircle-pink-c6897ea02df0.webp",
         "kind": "image"
       },
       {
@@ -19358,7 +19616,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
         "kind": "image"
       },
       {
@@ -19366,7 +19624,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0539-solcircle-matcha-black-guy-e23f5f8c7e1e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0539-solcircle-matcha-black-guy-e23f5f8c7e1e.webp",
         "kind": "image"
       },
       {
@@ -19374,7 +19632,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
         "kind": "image"
       },
       {
@@ -19382,7 +19640,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0516-solcircle-pink-white-guy-59fd840f7920.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0516-solcircle-pink-white-guy-59fd840f7920.webp",
         "kind": "image"
       },
       {
@@ -19390,7 +19648,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
         "kind": "image"
       },
       {
@@ -19398,7 +19656,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
         "kind": "image"
       },
       {
@@ -19406,7 +19664,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
         "kind": "image"
       },
       {
@@ -19414,7 +19672,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
         "kind": "image"
       },
       {
@@ -19422,7 +19680,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0540-morning-morning-c334c5fd4ebd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0540-morning-morning-c334c5fd4ebd.webp",
         "kind": "image"
       },
       {
@@ -19430,7 +19688,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0541-yogurt-morning-ef088fe1576c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0541-yogurt-morning-ef088fe1576c.webp",
         "kind": "image"
       },
       {
@@ -19438,7 +19696,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0542-toothpaste-morning-dcec4b9be7c0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0542-toothpaste-morning-dcec4b9be7c0.webp",
         "kind": "image"
       },
       {
@@ -19446,7 +19704,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0543-matcha-morning-6edf9c5dee3c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0543-matcha-morning-6edf9c5dee3c.webp",
         "kind": "image"
       },
       {
@@ -19454,7 +19712,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0544-oatmeal-morning-11f0526edb4a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0544-oatmeal-morning-11f0526edb4a.webp",
         "kind": "image"
       },
       {
@@ -19462,7 +19720,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0545-morning-yogurt-1fe8b0f6676e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0545-morning-yogurt-1fe8b0f6676e.webp",
         "kind": "image"
       },
       {
@@ -19470,7 +19728,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0546-yogurt-yogurt-247e0ffce5a6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0546-yogurt-yogurt-247e0ffce5a6.webp",
         "kind": "image"
       },
       {
@@ -19478,7 +19736,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0547-toothpaste-yogurt-eca2b93b2036.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0547-toothpaste-yogurt-eca2b93b2036.webp",
         "kind": "image"
       },
       {
@@ -19486,7 +19744,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0548-matcha-yogurt-dd9cc1915c5a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0548-matcha-yogurt-dd9cc1915c5a.webp",
         "kind": "image"
       },
       {
@@ -19494,7 +19752,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0549-oatmeal-yogurt-26da5b40c25a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0549-oatmeal-yogurt-26da5b40c25a.webp",
         "kind": "image"
       },
       {
@@ -19502,7 +19760,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0550-morning-toothpaste-eda8100d9e42.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0550-morning-toothpaste-eda8100d9e42.webp",
         "kind": "image"
       },
       {
@@ -19510,7 +19768,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0551-yogurt-toothpaste-eb95456f52cb.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0551-yogurt-toothpaste-eb95456f52cb.webp",
         "kind": "image"
       },
       {
@@ -19518,7 +19776,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0552-toothpaste-toothpaste-d1a1b2e9ce85.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0552-toothpaste-toothpaste-d1a1b2e9ce85.webp",
         "kind": "image"
       },
       {
@@ -19526,7 +19784,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0553-matcha-toothpaste-2cc1fe6d6a7a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0553-matcha-toothpaste-2cc1fe6d6a7a.webp",
         "kind": "image"
       },
       {
@@ -19534,7 +19792,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0554-oatmeal-toothpaste-a4131d383d91.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0554-oatmeal-toothpaste-a4131d383d91.webp",
         "kind": "image"
       },
       {
@@ -19542,7 +19800,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0555-morning-matcha-6ae7182caed1.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0555-morning-matcha-6ae7182caed1.webp",
         "kind": "image"
       },
       {
@@ -19550,7 +19808,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0556-yogurt-matcha-b4a7efbd22cd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0556-yogurt-matcha-b4a7efbd22cd.webp",
         "kind": "image"
       },
       {
@@ -19558,7 +19816,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0557-toothpaste-matcha-f0be6e5a56f6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0557-toothpaste-matcha-f0be6e5a56f6.webp",
         "kind": "image"
       },
       {
@@ -19566,7 +19824,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0558-matcha-matcha-87c4f8cd8280.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0558-matcha-matcha-87c4f8cd8280.webp",
         "kind": "image"
       },
       {
@@ -19574,7 +19832,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0559-oatmeal-matcha-41925cfe98be.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0559-oatmeal-matcha-41925cfe98be.webp",
         "kind": "image"
       },
       {
@@ -19582,7 +19840,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0560-morning-oatmeal-81702e5ea3d1.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0560-morning-oatmeal-81702e5ea3d1.webp",
         "kind": "image"
       },
       {
@@ -19590,7 +19848,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0561-yogurt-oatmeal-6afec60cd93c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0561-yogurt-oatmeal-6afec60cd93c.webp",
         "kind": "image"
       },
       {
@@ -19598,7 +19856,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0562-thoothpaste-oatmeal-41f64b8973dd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0562-thoothpaste-oatmeal-41f64b8973dd.webp",
         "kind": "image"
       },
       {
@@ -19606,7 +19864,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0563-matcha-oatmeal-faf2523687a3.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0563-matcha-oatmeal-faf2523687a3.webp",
         "kind": "image"
       },
       {
@@ -19614,7 +19872,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0564-oatmeal-oatmeal-a4674a4ea26e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0564-oatmeal-oatmeal-a4674a4ea26e.webp",
         "kind": "image"
       },
       {
@@ -19622,7 +19880,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
         "kind": "image"
       },
       {
@@ -19630,7 +19888,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0526-honey-sculpture-final2-f10f166cde12.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0526-honey-sculpture-final2-f10f166cde12.webp",
         "kind": "image"
       },
       {
@@ -19638,7 +19896,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
         "kind": "image"
       },
       {
@@ -19646,7 +19904,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0527-offblue-sculpture-final2-fffc7def8a11.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0527-offblue-sculpture-final2-fffc7def8a11.webp",
         "kind": "image"
       },
       {
@@ -19654,7 +19912,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
         "kind": "image"
       },
       {
@@ -19662,7 +19920,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0528-signal-pink-sitting-f860cfea7904.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0528-signal-pink-sitting-f860cfea7904.webp",
         "kind": "image"
       },
       {
@@ -19670,7 +19928,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0202-off-blue-sitting-c2010f4c00ab.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0202-off-blue-sitting-c2010f4c00ab.webp",
         "kind": "image"
       },
       {
@@ -19678,7 +19936,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0529-kabuki-sitting-ac604f5b9253.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0529-kabuki-sitting-ac604f5b9253.webp",
         "kind": "image"
       },
       {
@@ -19686,7 +19944,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0531-inchworm-sitting-b8bdfb924de8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0531-inchworm-sitting-b8bdfb924de8.webp",
         "kind": "image"
       },
       {
@@ -19694,7 +19952,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0530-yellow-sitting-5924ac4394b6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0530-yellow-sitting-5924ac4394b6.webp",
         "kind": "image"
       },
       {
@@ -19702,7 +19960,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0201-laying-signal-pink-c131cac45fca.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0201-laying-signal-pink-c131cac45fca.webp",
         "kind": "image"
       },
       {
@@ -19710,7 +19968,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0534-laying-offblue-af56b582f050.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0534-laying-offblue-af56b582f050.webp",
         "kind": "image"
       },
       {
@@ -19718,7 +19976,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0532-laying-kabuki-e29c847f3fc8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0532-laying-kabuki-e29c847f3fc8.webp",
         "kind": "image"
       },
       {
@@ -19726,7 +19984,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0535-laying-inchworm-c6c025224043.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0535-laying-inchworm-c6c025224043.webp",
         "kind": "image"
       },
       {
@@ -19734,7 +19992,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0533-laying-yellow-a11b5b338865.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0533-laying-yellow-a11b5b338865.webp",
         "kind": "image"
       },
       {
@@ -19742,7 +20000,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/1245-room-ad-for-sculpture-a023e6fd6321.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/1245-room-ad-for-sculpture-a023e6fd6321.webp",
         "kind": "image"
       },
       {
@@ -19750,7 +20008,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0579-room-ad-for-sculpture-bc8853e6d555.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0579-room-ad-for-sculpture-bc8853e6d555.webp",
         "kind": "image"
       },
       {
@@ -19758,7 +20016,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0580-room-ad-for-sculpture-d261e01dc0ed.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0580-room-ad-for-sculpture-d261e01dc0ed.webp",
         "kind": "image"
       },
       {
@@ -19766,7 +20024,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Breakfast Bites",
-        "localPath": "assets/source-site/media/0581-room-ad-for-sculpture-52691633bc3c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0581-room-ad-for-sculpture-52691633bc3c.webp",
         "kind": "image"
       }
     ],
@@ -19783,7 +20041,7 @@ const rawSourcePages = [
       "shop-p-country-feast-set-3nybt-gnw4d-4jmt8-hyhyc-jnb3a-pp2eg-7e9tl-m83a7",
       "shop"
     ],
-    "heroImage": "assets/source-site/media/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
     "imageCount": 54,
     "mediaCount": 0
   },
@@ -19794,8 +20052,8 @@ const rawSourcePages = [
     "originalPath": "/shop/p/country-feast-set-3nybt-gnw4d-4jmt8-hyhyc-jnb3a-pp2eg-7e9tl-m83a7",
     "lastmod": "2024-11-23",
     "group": "Shop + Objects",
-    "description": "Minimalistic, Fun Wall and Shelf Decor. “Might Take a Nap…” Sizing: 50%: 3in x 2.93in x 1.1in 100%: 5in x 5in x 2in 200%: 10in x 10in x 3.7in",
-    "summary": "Minimalistic, Fun Wall and Shelf Decor. “Might Take a Nap…” Sizing: 50%: 3in x 2.93in x 1.1in 100%: 5in x 5in x 2in 200%: 10in x 10in x 3.7in",
+    "description": "Minimalistic, Fun Wall and Shelf Decor. 'Might Take a Nap...' Sizing: 50%: 3in x 2.93in x 1.1in 100%: 5in x 5in x 2in 200%: 10in x 10in x 3.7in",
+    "summary": "Minimalistic, Fun Wall and Shelf Decor. 'Might Take a Nap...' Sizing: 50%: 3in x 2.93in x 1.1in 100%: 5in x 5in x 2in 200%: 10in x 10in x 3.7in",
     "textBlocks": [
       {
         "type": "heading",
@@ -19810,7 +20068,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Might Take a Nap…”"
+        "text": "'Might Take a Nap...'"
       },
       {
         "type": "text",
@@ -19835,7 +20093,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Meet Relaxing Sol, the laid-back figure who's found the perfect spot to unwind. Resting in a cozy, reclined position within a vibrant frame, this minimalist design captures a moment of stillness and calm. The sleek black lines form a figure that’s comfortably leaning back, as if contemplating life—or perhaps just about to doze off. Whether it's lounging on your wall or adding a relaxed vibe to your desk, Relaxing Sol, with its tagline \"Might Take a Nap…\", reminds you to take it easy and embrace those moments of rest. A perfect blend of style and serenity."
+        "text": "Meet Relaxing Sol, the laid-back figure who's found the perfect spot to unwind. Resting in a cozy, reclined position within a vibrant frame, this minimalist design captures a moment of stillness and calm. The sleek black lines form a figure that's comfortably leaning back, as if contemplating life-or perhaps just about to doze off. Whether it's lounging on your wall or adding a relaxed vibe to your desk, Relaxing Sol, with its tagline 'Might Take a Nap...', reminds you to take it easy and embrace those moments of rest. A perfect blend of style and serenity."
       },
       {
         "type": "text",
@@ -19845,7 +20103,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -19853,14 +20111,14 @@ const rawSourcePages = [
         "title": "Relaxing Sol",
         "items": [
           "Minimalistic, Fun Wall and Shelf Decor.",
-          "“Might Take a Nap…”",
+          "'Might Take a Nap...'",
           "Sizing:",
           "50%: 3in x 2.93in x 1.1in",
           "100%: 5in x 5in x 2in",
           "200%: 10in x 10in x 3.7in",
-          "Meet Relaxing Sol, the laid-back figure who's found the perfect spot to unwind. Resting in a cozy, reclined position within a vibrant frame, this minimalist design captures a moment of stillness and calm. The sleek black lines form a figure that’s comfortably leaning back, as if contemplating life—or perhaps just about to doze off. Whether it's lounging on your wall or adding a relaxed vibe to your desk, Relaxing Sol, with its tagline \"Might Take a Nap…\", reminds you to take it easy and embrace those moments of rest. A perfect blend of style and serenity.",
+          "Meet Relaxing Sol, the laid-back figure who's found the perfect spot to unwind. Resting in a cozy, reclined position within a vibrant frame, this minimalist design captures a moment of stillness and calm. The sleek black lines form a figure that's comfortably leaning back, as if contemplating life-or perhaps just about to doze off. Whether it's lounging on your wall or adding a relaxed vibe to your desk, Relaxing Sol, with its tagline 'Might Take a Nap...', reminds you to take it easy and embrace those moments of rest. A perfect blend of style and serenity.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -19870,7 +20128,7 @@ const rawSourcePages = [
         "title": "Shop - Relaxing Sol",
         "caption": "",
         "alt": "Shop - Relaxing Sol",
-        "localPath": "assets/source-site/media/0201-laying-signal-pink-c131cac45fca.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0201-laying-signal-pink-c131cac45fca.webp",
         "kind": "image"
       },
       {
@@ -19878,7 +20136,7 @@ const rawSourcePages = [
         "title": "Shop - Relaxing Sol",
         "caption": "",
         "alt": "Shop - Relaxing Sol",
-        "localPath": "assets/source-site/media/0535-laying-inchworm-c6c025224043.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0535-laying-inchworm-c6c025224043.webp",
         "kind": "image"
       },
       {
@@ -19886,7 +20144,7 @@ const rawSourcePages = [
         "title": "Shop - Relaxing Sol",
         "caption": "",
         "alt": "Shop - Relaxing Sol",
-        "localPath": "assets/source-site/media/0534-laying-offblue-af56b582f050.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0534-laying-offblue-af56b582f050.webp",
         "kind": "image"
       },
       {
@@ -19894,7 +20152,7 @@ const rawSourcePages = [
         "title": "Shop - Relaxing Sol",
         "caption": "",
         "alt": "Shop - Relaxing Sol",
-        "localPath": "assets/source-site/media/0533-laying-yellow-a11b5b338865.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0533-laying-yellow-a11b5b338865.webp",
         "kind": "image"
       },
       {
@@ -19902,7 +20160,7 @@ const rawSourcePages = [
         "title": "Shop - Relaxing Sol",
         "caption": "",
         "alt": "Shop - Relaxing Sol",
-        "localPath": "assets/source-site/media/0532-laying-kabuki-e29c847f3fc8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0532-laying-kabuki-e29c847f3fc8.webp",
         "kind": "image"
       },
       {
@@ -19910,7 +20168,7 @@ const rawSourcePages = [
         "title": "Shop - Relaxing Sol",
         "caption": "",
         "alt": "Shop - Relaxing Sol",
-        "localPath": "assets/source-site/media/0581-room-ad-for-sculpture-52691633bc3c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0581-room-ad-for-sculpture-52691633bc3c.webp",
         "kind": "image"
       }
     ],
@@ -19923,7 +20181,7 @@ const rawSourcePages = [
       "solshop",
       "shop"
     ],
-    "heroImage": "assets/source-site/media/0201-laying-signal-pink-c131cac45fca.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0201-laying-signal-pink-c131cac45fca.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -19935,7 +20193,7 @@ const rawSourcePages = [
     "lastmod": "2025-02-17",
     "group": "Shop + Objects",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -19945,7 +20203,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -19953,7 +20211,7 @@ const rawSourcePages = [
         "title": "Source Content",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -19977,8 +20235,8 @@ const rawSourcePages = [
     "originalPath": "/shop/p/golden-mist-cup-weny8-h4b4a-nkfgk-hlgp7-nptnr-d5rzr-n6t67-dcy5c",
     "lastmod": "2024-11-23",
     "group": "Shop + Objects",
-    "description": "Minimalistic, Fun Wall and Shelf Decor. “Takin a seat…” Sizing: 50%: 3in x 1.8in x.5in 100%: 5in x 3in x 1.15in 200%: 10in x 6in x 2.3in",
-    "summary": "Minimalistic, Fun Wall and Shelf Decor. “Takin a seat…” Sizing: 50%: 3in x 1.8in x.5in 100%: 5in x 3in x 1.15in 200%: 10in x 6in x 2.3in",
+    "description": "Minimalistic, Fun Wall and Shelf Decor. 'Takin a seat...' Sizing: 50%: 3in x 1.8in x.5in 100%: 5in x 3in x 1.15in 200%: 10in x 6in x 2.3in",
+    "summary": "Minimalistic, Fun Wall and Shelf Decor. 'Takin a seat...' Sizing: 50%: 3in x 1.8in x.5in 100%: 5in x 3in x 1.15in 200%: 10in x 6in x 2.3in",
     "textBlocks": [
       {
         "type": "heading",
@@ -19993,7 +20251,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Takin a seat…”"
+        "text": "'Takin a seat...'"
       },
       {
         "type": "text",
@@ -20018,7 +20276,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "Meet Sitting Sol, your easygoing companion that knows when it’s time to sit back and relax. Captured in a simple, seated posture within a clean, rectangular frame, this minimalist figure embodies tranquility and ease. Regardless of its color, Sitting Sol brings a sense of calm and balance to any space. Whether it's perched on your desk, shelf, or wall, it’s a quiet reminder to take a breather. With the playful tagline, \"Takin' a seat...\", this piece radiates effortless style and serenity, adding a touch of minimalist comfort to any setting."
+        "text": "Meet Sitting Sol, your easygoing companion that knows when it's time to sit back and relax. Captured in a simple, seated posture within a clean, rectangular frame, this minimalist figure embodies tranquility and ease. Regardless of its color, Sitting Sol brings a sense of calm and balance to any space. Whether it's perched on your desk, shelf, or wall, it's a quiet reminder to take a breather. With the playful tagline, 'Takin' a seat...', this piece radiates effortless style and serenity, adding a touch of minimalist comfort to any setting."
       },
       {
         "type": "text",
@@ -20028,7 +20286,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -20036,14 +20294,14 @@ const rawSourcePages = [
         "title": "Sitting Sol",
         "items": [
           "Minimalistic, Fun Wall and Shelf Decor.",
-          "“Takin a seat…”",
+          "'Takin a seat...'",
           "Sizing:",
           "50%: 3in x 1.8in x.5in",
           "100%: 5in x 3in x 1.15in",
           "200%: 10in x 6in x 2.3in",
-          "Meet Sitting Sol, your easygoing companion that knows when it’s time to sit back and relax. Captured in a simple, seated posture within a clean, rectangular frame, this minimalist figure embodies tranquility and ease. Regardless of its color, Sitting Sol brings a sense of calm and balance to any space. Whether it's perched on your desk, shelf, or wall, it’s a quiet reminder to take a breather. With the playful tagline, \"Takin' a seat...\", this piece radiates effortless style and serenity, adding a touch of minimalist comfort to any setting.",
+          "Meet Sitting Sol, your easygoing companion that knows when it's time to sit back and relax. Captured in a simple, seated posture within a clean, rectangular frame, this minimalist figure embodies tranquility and ease. Regardless of its color, Sitting Sol brings a sense of calm and balance to any space. Whether it's perched on your desk, shelf, or wall, it's a quiet reminder to take a breather. With the playful tagline, 'Takin' a seat...', this piece radiates effortless style and serenity, adding a touch of minimalist comfort to any setting.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -20053,7 +20311,7 @@ const rawSourcePages = [
         "title": "Shop - Sitting Sol",
         "caption": "",
         "alt": "Shop - Sitting Sol",
-        "localPath": "assets/source-site/media/0202-off-blue-sitting-c2010f4c00ab.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0202-off-blue-sitting-c2010f4c00ab.webp",
         "kind": "image"
       },
       {
@@ -20061,7 +20319,7 @@ const rawSourcePages = [
         "title": "Shop - Sitting Sol",
         "caption": "",
         "alt": "Shop - Sitting Sol",
-        "localPath": "assets/source-site/media/0530-yellow-sitting-5924ac4394b6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0530-yellow-sitting-5924ac4394b6.webp",
         "kind": "image"
       },
       {
@@ -20069,7 +20327,7 @@ const rawSourcePages = [
         "title": "Shop - Sitting Sol",
         "caption": "",
         "alt": "Shop - Sitting Sol",
-        "localPath": "assets/source-site/media/0531-inchworm-sitting-b8bdfb924de8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0531-inchworm-sitting-b8bdfb924de8.webp",
         "kind": "image"
       },
       {
@@ -20077,7 +20335,7 @@ const rawSourcePages = [
         "title": "Shop - Sitting Sol",
         "caption": "",
         "alt": "Shop - Sitting Sol",
-        "localPath": "assets/source-site/media/0529-kabuki-sitting-ac604f5b9253.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0529-kabuki-sitting-ac604f5b9253.webp",
         "kind": "image"
       },
       {
@@ -20085,7 +20343,7 @@ const rawSourcePages = [
         "title": "Shop - Sitting Sol",
         "caption": "",
         "alt": "Shop - Sitting Sol",
-        "localPath": "assets/source-site/media/0528-signal-pink-sitting-f860cfea7904.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0528-signal-pink-sitting-f860cfea7904.webp",
         "kind": "image"
       },
       {
@@ -20093,7 +20351,7 @@ const rawSourcePages = [
         "title": "Shop - Sitting Sol",
         "caption": "",
         "alt": "Shop - Sitting Sol",
-        "localPath": "assets/source-site/media/0580-room-ad-for-sculpture-d261e01dc0ed.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0580-room-ad-for-sculpture-d261e01dc0ed.webp",
         "kind": "image"
       }
     ],
@@ -20106,7 +20364,7 @@ const rawSourcePages = [
       "solshop",
       "shop"
     ],
-    "heroImage": "assets/source-site/media/0202-off-blue-sitting-c2010f4c00ab.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0202-off-blue-sitting-c2010f4c00ab.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -20117,8 +20375,8 @@ const rawSourcePages = [
     "originalPath": "/shop/p/spring-bowl-rltkk-jy5sr-fjw6l-dp8lg-fbmgj-cs6n2-zpp9a-a57gj",
     "lastmod": "2024-11-23",
     "group": "Shop + Objects",
-    "description": "Minimalistic, Fun Wall and Shelf Decor. “Just Standin here…” Sizing: 50%: 3in x 1.7in x.7in 100%: 5in x 3in x 1.1in 200%: 10in x 6in x 2.3",
-    "summary": "Minimalistic, Fun Wall and Shelf Decor. “Just Standin here…” Sizing: 50%: 3in x 1.7in x.7in 100%: 5in x 3in x 1.1in 200%: 10in x 6in x 2.3",
+    "description": "Minimalistic, Fun Wall and Shelf Decor. 'Just Standin here...' Sizing: 50%: 3in x 1.7in x.7in 100%: 5in x 3in x 1.1in 200%: 10in x 6in x 2.3",
+    "summary": "Minimalistic, Fun Wall and Shelf Decor. 'Just Standin here...' Sizing: 50%: 3in x 1.7in x.7in 100%: 5in x 3in x 1.1in 200%: 10in x 6in x 2.3",
     "textBlocks": [
       {
         "type": "heading",
@@ -20133,7 +20391,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Just Standin here…”"
+        "text": "'Just Standin here...'"
       },
       {
         "type": "text",
@@ -20168,7 +20426,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -20176,14 +20434,14 @@ const rawSourcePages = [
         "title": "Sol",
         "items": [
           "Minimalistic, Fun Wall and Shelf Decor.",
-          "“Just Standin here…”",
+          "'Just Standin here...'",
           "Sizing:",
           "50%: 3in x 1.7in x.7in",
           "100%: 5in x 3in x 1.1in",
           "200%: 10in x 6in x 2.3",
           "Meet Standing Sol, the quiet guardian for your desk, shelf, or wall. With its straightforward figure standing tall within a clean, rectangular frame, it brings an aura of calm and poise to any space. Whether it's simply watching over your surroundings or standing in silent contemplation, Standing Sol embodies effortless minimalism. It serves as a gentle reminder to stay grounded and present, bringing subtle, modern style that invites tranquility into your everyday life.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -20193,7 +20451,7 @@ const rawSourcePages = [
         "title": "Shop - Sol",
         "caption": "",
         "alt": "Shop - Sol",
-        "localPath": "assets/source-site/media/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
         "kind": "image"
       },
       {
@@ -20201,7 +20459,7 @@ const rawSourcePages = [
         "title": "Shop - Sol",
         "caption": "",
         "alt": "Shop - Sol",
-        "localPath": "assets/source-site/media/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
         "kind": "image"
       },
       {
@@ -20209,7 +20467,7 @@ const rawSourcePages = [
         "title": "Shop - Sol",
         "caption": "",
         "alt": "Shop - Sol",
-        "localPath": "assets/source-site/media/0527-offblue-sculpture-final2-fffc7def8a11.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0527-offblue-sculpture-final2-fffc7def8a11.webp",
         "kind": "image"
       },
       {
@@ -20217,7 +20475,7 @@ const rawSourcePages = [
         "title": "Shop - Sol",
         "caption": "",
         "alt": "Shop - Sol",
-        "localPath": "assets/source-site/media/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
         "kind": "image"
       },
       {
@@ -20225,7 +20483,7 @@ const rawSourcePages = [
         "title": "Shop - Sol",
         "caption": "",
         "alt": "Shop - Sol",
-        "localPath": "assets/source-site/media/0526-honey-sculpture-final2-f10f166cde12.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0526-honey-sculpture-final2-f10f166cde12.webp",
         "kind": "image"
       },
       {
@@ -20233,7 +20491,7 @@ const rawSourcePages = [
         "title": "Shop - Sol",
         "caption": "",
         "alt": "Shop - Sol",
-        "localPath": "assets/source-site/media/0579-room-ad-for-sculpture-bc8853e6d555.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0579-room-ad-for-sculpture-bc8853e6d555.webp",
         "kind": "image"
       }
     ],
@@ -20246,7 +20504,7 @@ const rawSourcePages = [
       "solshop",
       "shop"
     ],
-    "heroImage": "assets/source-site/media/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
     "imageCount": 6,
     "mediaCount": 0
   },
@@ -20273,7 +20531,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Just sittin' around...”"
+        "text": "'Just sittin' around...'"
       },
       {
         "type": "text",
@@ -20293,12 +20551,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "200%: 10in x 10in x 2.2in ​"
+        "text": "200%: 10in x 10in x 2.2in "
       },
       {
         "type": "text",
         "level": "p",
-        "text": "“Just Standin here…”"
+        "text": "'Just Standin here...'"
       },
       {
         "type": "text",
@@ -20323,7 +20581,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Takin a seat…”"
+        "text": "'Takin a seat...'"
       },
       {
         "type": "text",
@@ -20343,7 +20601,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Might Take a Nap…”"
+        "text": "'Might Take a Nap...'"
       },
       {
         "type": "text",
@@ -20393,7 +20651,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -20402,16 +20660,25 @@ const rawSourcePages = [
         "items": [
           "Breakfast Bites Collection",
           "Minimalistic, Fun Wall and Shelf Decor.",
-          "“Just sittin' around...”",
+          "'Just sittin' around...'",
           "Sizing:",
           "50%: 3in x 3in x.7in",
           "100%: 5in x 5in x 1.1in",
-          "200%: 10in x 10in x 2.2in ​",
-          "“Just Standin here…”",
+          "200%: 10in x 10in x 2.2in ",
+          "'Just Standin here...'",
           "50%: 3in x 1.7in x.7in",
           "100%: 5in x 3in x 1.1in",
           "200%: 10in x 6in x 2.3",
-          "Sol Origins Collection"
+          "Sol Origins Collection",
+          "'Takin a seat...'",
+          "50%: 3in x 1.8in x.5in",
+          "100%: 5in x 3in x 1.15in",
+          "200%: 10in x 6in x 2.3in",
+          "'Might Take a Nap...'",
+          "50%: 3in x 2.93in x 1.1in",
+          "100%: 5in x 5in x 2in",
+          "200%: 10in x 10in x 3.7in",
+          "Drops Coming Soon"
         ]
       },
       {
@@ -20419,7 +20686,7 @@ const rawSourcePages = [
         "items": [
           "No results match your search. Try removing a few filters.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -20429,7 +20696,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
         "kind": "image"
       },
       {
@@ -20437,7 +20704,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0515-solcircle-pink-c6897ea02df0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0515-solcircle-pink-c6897ea02df0.webp",
         "kind": "image"
       },
       {
@@ -20445,7 +20712,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
         "kind": "image"
       },
       {
@@ -20453,7 +20720,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0539-solcircle-matcha-black-guy-e23f5f8c7e1e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0539-solcircle-matcha-black-guy-e23f5f8c7e1e.webp",
         "kind": "image"
       },
       {
@@ -20461,7 +20728,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
         "kind": "image"
       },
       {
@@ -20469,7 +20736,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0516-solcircle-pink-white-guy-59fd840f7920.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0516-solcircle-pink-white-guy-59fd840f7920.webp",
         "kind": "image"
       },
       {
@@ -20477,7 +20744,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
         "kind": "image"
       },
       {
@@ -20485,7 +20752,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
         "kind": "image"
       },
       {
@@ -20493,7 +20760,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
         "kind": "image"
       },
       {
@@ -20501,7 +20768,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
         "kind": "image"
       },
       {
@@ -20509,7 +20776,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0540-morning-morning-c334c5fd4ebd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0540-morning-morning-c334c5fd4ebd.webp",
         "kind": "image"
       },
       {
@@ -20517,7 +20784,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0541-yogurt-morning-ef088fe1576c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0541-yogurt-morning-ef088fe1576c.webp",
         "kind": "image"
       },
       {
@@ -20525,7 +20792,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0542-toothpaste-morning-dcec4b9be7c0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0542-toothpaste-morning-dcec4b9be7c0.webp",
         "kind": "image"
       },
       {
@@ -20533,7 +20800,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0543-matcha-morning-6edf9c5dee3c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0543-matcha-morning-6edf9c5dee3c.webp",
         "kind": "image"
       },
       {
@@ -20541,7 +20808,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0544-oatmeal-morning-11f0526edb4a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0544-oatmeal-morning-11f0526edb4a.webp",
         "kind": "image"
       },
       {
@@ -20549,7 +20816,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0545-morning-yogurt-1fe8b0f6676e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0545-morning-yogurt-1fe8b0f6676e.webp",
         "kind": "image"
       },
       {
@@ -20557,7 +20824,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0546-yogurt-yogurt-247e0ffce5a6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0546-yogurt-yogurt-247e0ffce5a6.webp",
         "kind": "image"
       },
       {
@@ -20565,7 +20832,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0547-toothpaste-yogurt-eca2b93b2036.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0547-toothpaste-yogurt-eca2b93b2036.webp",
         "kind": "image"
       },
       {
@@ -20573,7 +20840,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0548-matcha-yogurt-dd9cc1915c5a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0548-matcha-yogurt-dd9cc1915c5a.webp",
         "kind": "image"
       },
       {
@@ -20581,7 +20848,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0549-oatmeal-yogurt-26da5b40c25a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0549-oatmeal-yogurt-26da5b40c25a.webp",
         "kind": "image"
       },
       {
@@ -20589,7 +20856,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0550-morning-toothpaste-eda8100d9e42.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0550-morning-toothpaste-eda8100d9e42.webp",
         "kind": "image"
       },
       {
@@ -20597,7 +20864,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0551-yogurt-toothpaste-eb95456f52cb.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0551-yogurt-toothpaste-eb95456f52cb.webp",
         "kind": "image"
       },
       {
@@ -20605,7 +20872,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0552-toothpaste-toothpaste-d1a1b2e9ce85.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0552-toothpaste-toothpaste-d1a1b2e9ce85.webp",
         "kind": "image"
       },
       {
@@ -20613,7 +20880,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0553-matcha-toothpaste-2cc1fe6d6a7a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0553-matcha-toothpaste-2cc1fe6d6a7a.webp",
         "kind": "image"
       },
       {
@@ -20621,7 +20888,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0554-oatmeal-toothpaste-a4131d383d91.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0554-oatmeal-toothpaste-a4131d383d91.webp",
         "kind": "image"
       },
       {
@@ -20629,7 +20896,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0555-morning-matcha-6ae7182caed1.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0555-morning-matcha-6ae7182caed1.webp",
         "kind": "image"
       },
       {
@@ -20637,7 +20904,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0556-yogurt-matcha-b4a7efbd22cd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0556-yogurt-matcha-b4a7efbd22cd.webp",
         "kind": "image"
       },
       {
@@ -20645,7 +20912,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0557-toothpaste-matcha-f0be6e5a56f6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0557-toothpaste-matcha-f0be6e5a56f6.webp",
         "kind": "image"
       },
       {
@@ -20653,7 +20920,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0558-matcha-matcha-87c4f8cd8280.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0558-matcha-matcha-87c4f8cd8280.webp",
         "kind": "image"
       },
       {
@@ -20661,7 +20928,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0559-oatmeal-matcha-41925cfe98be.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0559-oatmeal-matcha-41925cfe98be.webp",
         "kind": "image"
       },
       {
@@ -20669,7 +20936,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0560-morning-oatmeal-81702e5ea3d1.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0560-morning-oatmeal-81702e5ea3d1.webp",
         "kind": "image"
       },
       {
@@ -20677,7 +20944,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0561-yogurt-oatmeal-6afec60cd93c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0561-yogurt-oatmeal-6afec60cd93c.webp",
         "kind": "image"
       },
       {
@@ -20685,7 +20952,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0562-thoothpaste-oatmeal-41f64b8973dd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0562-thoothpaste-oatmeal-41f64b8973dd.webp",
         "kind": "image"
       },
       {
@@ -20693,7 +20960,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0563-matcha-oatmeal-faf2523687a3.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0563-matcha-oatmeal-faf2523687a3.webp",
         "kind": "image"
       },
       {
@@ -20701,7 +20968,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0564-oatmeal-oatmeal-a4674a4ea26e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0564-oatmeal-oatmeal-a4674a4ea26e.webp",
         "kind": "image"
       },
       {
@@ -20709,7 +20976,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
         "kind": "image"
       },
       {
@@ -20717,7 +20984,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0526-honey-sculpture-final2-f10f166cde12.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0526-honey-sculpture-final2-f10f166cde12.webp",
         "kind": "image"
       },
       {
@@ -20725,7 +20992,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
         "kind": "image"
       },
       {
@@ -20733,7 +21000,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0527-offblue-sculpture-final2-fffc7def8a11.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0527-offblue-sculpture-final2-fffc7def8a11.webp",
         "kind": "image"
       },
       {
@@ -20741,7 +21008,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
         "kind": "image"
       },
       {
@@ -20749,7 +21016,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0528-signal-pink-sitting-f860cfea7904.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0528-signal-pink-sitting-f860cfea7904.webp",
         "kind": "image"
       },
       {
@@ -20757,7 +21024,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0202-off-blue-sitting-c2010f4c00ab.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0202-off-blue-sitting-c2010f4c00ab.webp",
         "kind": "image"
       },
       {
@@ -20765,7 +21032,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0529-kabuki-sitting-ac604f5b9253.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0529-kabuki-sitting-ac604f5b9253.webp",
         "kind": "image"
       },
       {
@@ -20773,7 +21040,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0531-inchworm-sitting-b8bdfb924de8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0531-inchworm-sitting-b8bdfb924de8.webp",
         "kind": "image"
       },
       {
@@ -20781,7 +21048,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0530-yellow-sitting-5924ac4394b6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0530-yellow-sitting-5924ac4394b6.webp",
         "kind": "image"
       },
       {
@@ -20789,7 +21056,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0201-laying-signal-pink-c131cac45fca.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0201-laying-signal-pink-c131cac45fca.webp",
         "kind": "image"
       },
       {
@@ -20797,7 +21064,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0534-laying-offblue-af56b582f050.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0534-laying-offblue-af56b582f050.webp",
         "kind": "image"
       },
       {
@@ -20805,7 +21072,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0532-laying-kabuki-e29c847f3fc8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0532-laying-kabuki-e29c847f3fc8.webp",
         "kind": "image"
       },
       {
@@ -20813,7 +21080,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0535-laying-inchworm-c6c025224043.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0535-laying-inchworm-c6c025224043.webp",
         "kind": "image"
       },
       {
@@ -20821,7 +21088,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0533-laying-yellow-a11b5b338865.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0533-laying-yellow-a11b5b338865.webp",
         "kind": "image"
       },
       {
@@ -20829,7 +21096,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0581-room-ad-for-sculpture-52691633bc3c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0581-room-ad-for-sculpture-52691633bc3c.webp",
         "kind": "image"
       },
       {
@@ -20837,7 +21104,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0580-room-ad-for-sculpture-d261e01dc0ed.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0580-room-ad-for-sculpture-d261e01dc0ed.webp",
         "kind": "image"
       },
       {
@@ -20845,7 +21112,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/0579-room-ad-for-sculpture-bc8853e6d555.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0579-room-ad-for-sculpture-bc8853e6d555.webp",
         "kind": "image"
       },
       {
@@ -20853,7 +21120,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Origins",
-        "localPath": "assets/source-site/media/1245-room-ad-for-sculpture-a023e6fd6321.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/1245-room-ad-for-sculpture-a023e6fd6321.webp",
         "kind": "image"
       }
     ],
@@ -20870,7 +21137,7 @@ const rawSourcePages = [
       "shop-p-country-feast-set-3nybt-gnw4d-4jmt8-hyhyc-jnb3a-pp2eg-7e9tl-m83a7",
       "shop"
     ],
-    "heroImage": "assets/source-site/media/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
     "imageCount": 54,
     "mediaCount": 0
   },
@@ -20897,7 +21164,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Just sittin' around...”"
+        "text": "'Just sittin' around...'"
       },
       {
         "type": "text",
@@ -20917,12 +21184,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "200%: 10in x 10in x 2.2in ​"
+        "text": "200%: 10in x 10in x 2.2in "
       },
       {
         "type": "text",
         "level": "p",
-        "text": "“Just Standin here…”"
+        "text": "'Just Standin here...'"
       },
       {
         "type": "text",
@@ -20947,7 +21214,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Takin a seat…”"
+        "text": "'Takin a seat...'"
       },
       {
         "type": "text",
@@ -20967,7 +21234,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Might Take a Nap…”"
+        "text": "'Might Take a Nap...'"
       },
       {
         "type": "text",
@@ -21027,7 +21294,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -21036,16 +21303,28 @@ const rawSourcePages = [
         "items": [
           "Breakfast Bites Collection",
           "Minimalistic, Fun Wall and Shelf Decor.",
-          "“Just sittin' around...”",
+          "'Just sittin' around...'",
           "Sizing:",
           "50%: 3in x 3in x.7in",
           "100%: 5in x 5in x 1.1in",
-          "200%: 10in x 10in x 2.2in ​",
-          "“Just Standin here…”",
+          "200%: 10in x 10in x 2.2in ",
+          "'Just Standin here...'",
           "50%: 3in x 1.7in x.7in",
           "100%: 5in x 3in x 1.1in",
           "200%: 10in x 6in x 2.3",
-          "Sol Origins Collection"
+          "Sol Origins Collection",
+          "'Takin a seat...'",
+          "50%: 3in x 1.8in x.5in",
+          "100%: 5in x 3in x 1.15in",
+          "200%: 10in x 6in x 2.3in",
+          "'Might Take a Nap...'",
+          "50%: 3in x 2.93in x 1.1in",
+          "100%: 5in x 5in x 2in",
+          "200%: 10in x 10in x 3.7in",
+          "Drops Coming Soon",
+          "All |",
+          "Sol Origins |",
+          "Breakfast Bites |"
         ]
       },
       {
@@ -21053,7 +21332,7 @@ const rawSourcePages = [
         "items": [
           "No results match your search. Try removing a few filters.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -21063,7 +21342,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
         "kind": "image"
       },
       {
@@ -21071,7 +21350,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
         "kind": "image"
       },
       {
@@ -21079,7 +21358,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0535-laying-inchworm-c6c025224043.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0535-laying-inchworm-c6c025224043.webp",
         "kind": "image"
       },
       {
@@ -21087,7 +21366,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0530-yellow-sitting-5924ac4394b6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0530-yellow-sitting-5924ac4394b6.webp",
         "kind": "image"
       },
       {
@@ -21095,7 +21374,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0515-solcircle-pink-c6897ea02df0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0515-solcircle-pink-c6897ea02df0.webp",
         "kind": "image"
       },
       {
@@ -21103,7 +21382,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
         "kind": "image"
       },
       {
@@ -21111,7 +21390,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0539-solcircle-matcha-black-guy-e23f5f8c7e1e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0539-solcircle-matcha-black-guy-e23f5f8c7e1e.webp",
         "kind": "image"
       },
       {
@@ -21119,7 +21398,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
         "kind": "image"
       },
       {
@@ -21127,7 +21406,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0516-solcircle-pink-white-guy-59fd840f7920.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0516-solcircle-pink-white-guy-59fd840f7920.webp",
         "kind": "image"
       },
       {
@@ -21135,7 +21414,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
         "kind": "image"
       },
       {
@@ -21143,7 +21422,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
         "kind": "image"
       },
       {
@@ -21151,7 +21430,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
         "kind": "image"
       },
       {
@@ -21159,7 +21438,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
         "kind": "image"
       },
       {
@@ -21167,7 +21446,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0540-morning-morning-c334c5fd4ebd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0540-morning-morning-c334c5fd4ebd.webp",
         "kind": "image"
       },
       {
@@ -21175,7 +21454,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0541-yogurt-morning-ef088fe1576c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0541-yogurt-morning-ef088fe1576c.webp",
         "kind": "image"
       },
       {
@@ -21183,7 +21462,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0542-toothpaste-morning-dcec4b9be7c0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0542-toothpaste-morning-dcec4b9be7c0.webp",
         "kind": "image"
       },
       {
@@ -21191,7 +21470,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0543-matcha-morning-6edf9c5dee3c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0543-matcha-morning-6edf9c5dee3c.webp",
         "kind": "image"
       },
       {
@@ -21199,7 +21478,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0544-oatmeal-morning-11f0526edb4a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0544-oatmeal-morning-11f0526edb4a.webp",
         "kind": "image"
       },
       {
@@ -21207,7 +21486,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0545-morning-yogurt-1fe8b0f6676e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0545-morning-yogurt-1fe8b0f6676e.webp",
         "kind": "image"
       },
       {
@@ -21215,7 +21494,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0546-yogurt-yogurt-247e0ffce5a6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0546-yogurt-yogurt-247e0ffce5a6.webp",
         "kind": "image"
       },
       {
@@ -21223,7 +21502,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0547-toothpaste-yogurt-eca2b93b2036.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0547-toothpaste-yogurt-eca2b93b2036.webp",
         "kind": "image"
       },
       {
@@ -21231,7 +21510,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0548-matcha-yogurt-dd9cc1915c5a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0548-matcha-yogurt-dd9cc1915c5a.webp",
         "kind": "image"
       },
       {
@@ -21239,7 +21518,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0549-oatmeal-yogurt-26da5b40c25a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0549-oatmeal-yogurt-26da5b40c25a.webp",
         "kind": "image"
       },
       {
@@ -21247,7 +21526,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0550-morning-toothpaste-eda8100d9e42.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0550-morning-toothpaste-eda8100d9e42.webp",
         "kind": "image"
       },
       {
@@ -21255,7 +21534,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0551-yogurt-toothpaste-eb95456f52cb.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0551-yogurt-toothpaste-eb95456f52cb.webp",
         "kind": "image"
       },
       {
@@ -21263,7 +21542,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0552-toothpaste-toothpaste-d1a1b2e9ce85.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0552-toothpaste-toothpaste-d1a1b2e9ce85.webp",
         "kind": "image"
       },
       {
@@ -21271,7 +21550,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0553-matcha-toothpaste-2cc1fe6d6a7a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0553-matcha-toothpaste-2cc1fe6d6a7a.webp",
         "kind": "image"
       },
       {
@@ -21279,7 +21558,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0554-oatmeal-toothpaste-a4131d383d91.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0554-oatmeal-toothpaste-a4131d383d91.webp",
         "kind": "image"
       },
       {
@@ -21287,7 +21566,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0555-morning-matcha-6ae7182caed1.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0555-morning-matcha-6ae7182caed1.webp",
         "kind": "image"
       },
       {
@@ -21295,7 +21574,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0556-yogurt-matcha-b4a7efbd22cd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0556-yogurt-matcha-b4a7efbd22cd.webp",
         "kind": "image"
       },
       {
@@ -21303,7 +21582,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0557-toothpaste-matcha-f0be6e5a56f6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0557-toothpaste-matcha-f0be6e5a56f6.webp",
         "kind": "image"
       },
       {
@@ -21311,7 +21590,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0558-matcha-matcha-87c4f8cd8280.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0558-matcha-matcha-87c4f8cd8280.webp",
         "kind": "image"
       },
       {
@@ -21319,7 +21598,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0559-oatmeal-matcha-41925cfe98be.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0559-oatmeal-matcha-41925cfe98be.webp",
         "kind": "image"
       },
       {
@@ -21327,7 +21606,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0560-morning-oatmeal-81702e5ea3d1.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0560-morning-oatmeal-81702e5ea3d1.webp",
         "kind": "image"
       },
       {
@@ -21335,7 +21614,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0561-yogurt-oatmeal-6afec60cd93c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0561-yogurt-oatmeal-6afec60cd93c.webp",
         "kind": "image"
       },
       {
@@ -21343,7 +21622,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0562-thoothpaste-oatmeal-41f64b8973dd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0562-thoothpaste-oatmeal-41f64b8973dd.webp",
         "kind": "image"
       },
       {
@@ -21351,7 +21630,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0563-matcha-oatmeal-faf2523687a3.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0563-matcha-oatmeal-faf2523687a3.webp",
         "kind": "image"
       },
       {
@@ -21359,7 +21638,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0564-oatmeal-oatmeal-a4674a4ea26e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0564-oatmeal-oatmeal-a4674a4ea26e.webp",
         "kind": "image"
       },
       {
@@ -21367,7 +21646,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0526-honey-sculpture-final2-f10f166cde12.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0526-honey-sculpture-final2-f10f166cde12.webp",
         "kind": "image"
       },
       {
@@ -21375,7 +21654,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
         "kind": "image"
       },
       {
@@ -21383,7 +21662,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0527-offblue-sculpture-final2-fffc7def8a11.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0527-offblue-sculpture-final2-fffc7def8a11.webp",
         "kind": "image"
       },
       {
@@ -21391,7 +21670,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
         "kind": "image"
       },
       {
@@ -21399,7 +21678,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0528-signal-pink-sitting-f860cfea7904.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0528-signal-pink-sitting-f860cfea7904.webp",
         "kind": "image"
       },
       {
@@ -21407,7 +21686,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0202-off-blue-sitting-c2010f4c00ab.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0202-off-blue-sitting-c2010f4c00ab.webp",
         "kind": "image"
       },
       {
@@ -21415,7 +21694,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0529-kabuki-sitting-ac604f5b9253.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0529-kabuki-sitting-ac604f5b9253.webp",
         "kind": "image"
       },
       {
@@ -21423,7 +21702,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0531-inchworm-sitting-b8bdfb924de8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0531-inchworm-sitting-b8bdfb924de8.webp",
         "kind": "image"
       },
       {
@@ -21431,7 +21710,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0201-laying-signal-pink-c131cac45fca.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0201-laying-signal-pink-c131cac45fca.webp",
         "kind": "image"
       },
       {
@@ -21439,7 +21718,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0534-laying-offblue-af56b582f050.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0534-laying-offblue-af56b582f050.webp",
         "kind": "image"
       },
       {
@@ -21447,7 +21726,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0532-laying-kabuki-e29c847f3fc8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0532-laying-kabuki-e29c847f3fc8.webp",
         "kind": "image"
       },
       {
@@ -21455,7 +21734,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0533-laying-yellow-a11b5b338865.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0533-laying-yellow-a11b5b338865.webp",
         "kind": "image"
       },
       {
@@ -21463,7 +21742,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0579-room-ad-for-sculpture-bc8853e6d555.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0579-room-ad-for-sculpture-bc8853e6d555.webp",
         "kind": "image"
       },
       {
@@ -21471,7 +21750,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0580-room-ad-for-sculpture-d261e01dc0ed.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0580-room-ad-for-sculpture-d261e01dc0ed.webp",
         "kind": "image"
       },
       {
@@ -21479,7 +21758,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0581-room-ad-for-sculpture-52691633bc3c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0581-room-ad-for-sculpture-52691633bc3c.webp",
         "kind": "image"
       },
       {
@@ -21487,7 +21766,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0568-enhanced-matte-paper-poster-in-12x16-person-671742c2-6210dc7d0aa9.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0568-enhanced-matte-paper-poster-in-12x16-person-671742c2-6210dc7d0aa9.webp",
         "kind": "image"
       },
       {
@@ -21495,7 +21774,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0565-enhanced-matte-paper-poster-in-10x10-person-671742c2-3f56fd8d4a71.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0565-enhanced-matte-paper-poster-in-10x10-person-671742c2-3f56fd8d4a71.webp",
         "kind": "image"
       },
       {
@@ -21503,7 +21782,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0566-enhanced-matte-paper-poster-in-11x14-person-671742c2-ae64dbac9c71.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0566-enhanced-matte-paper-poster-in-11x14-person-671742c2-ae64dbac9c71.webp",
         "kind": "image"
       },
       {
@@ -21511,7 +21790,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0567-enhanced-matte-paper-poster-in-12x12-person-671742c2-15600b47627f.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0567-enhanced-matte-paper-poster-in-12x12-person-671742c2-15600b47627f.webp",
         "kind": "image"
       },
       {
@@ -21519,7 +21798,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0569-enhanced-matte-paper-poster-in-12x18-person-671742c2-6f3de9230923.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0569-enhanced-matte-paper-poster-in-12x18-person-671742c2-6f3de9230923.webp",
         "kind": "image"
       },
       {
@@ -21527,7 +21806,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0570-enhanced-matte-paper-poster-in-14x14-person-671742c2-725fd45bbecc.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0570-enhanced-matte-paper-poster-in-14x14-person-671742c2-725fd45bbecc.webp",
         "kind": "image"
       },
       {
@@ -21535,7 +21814,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0571-enhanced-matte-paper-poster-in-16x16-person-671742c2-0bc8d4d9fb11.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0571-enhanced-matte-paper-poster-in-16x16-person-671742c2-0bc8d4d9fb11.webp",
         "kind": "image"
       },
       {
@@ -21543,7 +21822,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0572-enhanced-matte-paper-poster-in-16x20-person-671742c2-0bd46cb1c040.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0572-enhanced-matte-paper-poster-in-16x20-person-671742c2-0bd46cb1c040.webp",
         "kind": "image"
       },
       {
@@ -21551,7 +21830,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0573-enhanced-matte-paper-poster-in-18x18-person-671742c2-60e385f01c12.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0573-enhanced-matte-paper-poster-in-18x18-person-671742c2-60e385f01c12.webp",
         "kind": "image"
       },
       {
@@ -21559,7 +21838,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0574-enhanced-matte-paper-poster-in-18x24-person-671742c2-e8b1f405b787.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0574-enhanced-matte-paper-poster-in-18x24-person-671742c2-e8b1f405b787.webp",
         "kind": "image"
       },
       {
@@ -21567,7 +21846,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0575-enhanced-matte-paper-poster-in-20x30-person-671742c2-dd4c21e1cde9.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0575-enhanced-matte-paper-poster-in-20x30-person-671742c2-dd4c21e1cde9.webp",
         "kind": "image"
       },
       {
@@ -21575,7 +21854,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0576-enhanced-matte-paper-poster-in-24x36-person-671742c2-d1b53f6e89ba.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0576-enhanced-matte-paper-poster-in-24x36-person-671742c2-d1b53f6e89ba.webp",
         "kind": "image"
       },
       {
@@ -21583,7 +21862,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0577-enhanced-matte-paper-poster-in-5x7-person-671742c2a9-dc2c4c7b719c.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0577-enhanced-matte-paper-poster-in-5x7-person-671742c2a9-dc2c4c7b719c.webp",
         "kind": "image"
       },
       {
@@ -21591,7 +21870,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/0578-enhanced-matte-paper-poster-in-8x10-person-671742c29-eadcce6e7d42.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0578-enhanced-matte-paper-poster-in-8x10-person-671742c29-eadcce6e7d42.webp",
         "kind": "image"
       },
       {
@@ -21599,7 +21878,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Shop",
-        "localPath": "assets/source-site/media/1245-room-ad-for-sculpture-a023e6fd6321.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/1245-room-ad-for-sculpture-a023e6fd6321.webp",
         "kind": "image"
       }
     ],
@@ -21618,7 +21897,7 @@ const rawSourcePages = [
       "shop-breakfast-bites",
       "shop-p-playground-poster"
     ],
-    "heroImage": "assets/source-site/media/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
     "imageCount": 68,
     "mediaCount": 0
   },
@@ -21629,8 +21908,8 @@ const rawSourcePages = [
     "originalPath": "/shop/p/solcircle",
     "lastmod": "2024-12-25",
     "group": "Shop + Objects",
-    "description": "Minimalistic, Fun Wall and Shelf Decor. “Just sittin' around...” Sizing: 50%: 3in x 3in x.7in 100%: 5in x 5in x 1.1in 200%: 10in x 10in x 2.2in ​",
-    "summary": "Minimalistic, Fun Wall and Shelf Decor. “Just sittin' around...” Sizing: 50%: 3in x 3in x.7in 100%: 5in x 5in x 1.1in 200%: 10in x 10in x 2.2in ​",
+    "description": "Minimalistic, Fun Wall and Shelf Decor. 'Just sittin' around...' Sizing: 50%: 3in x 3in x.7in 100%: 5in x 5in x 1.1in 200%: 10in x 10in x 2.2in ",
+    "summary": "Minimalistic, Fun Wall and Shelf Decor. 'Just sittin' around...' Sizing: 50%: 3in x 3in x.7in 100%: 5in x 5in x 1.1in 200%: 10in x 10in x 2.2in ",
     "textBlocks": [
       {
         "type": "heading",
@@ -21645,7 +21924,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Just sittin' around...”"
+        "text": "'Just sittin' around...'"
       },
       {
         "type": "text",
@@ -21665,12 +21944,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "200%: 10in x 10in x 2.2in ​"
+        "text": "200%: 10in x 10in x 2.2in "
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Meet SolCircle, the laid-back companion your desk, shelf, or wall has been waiting for. With its simple figure lounging in a clean, circular frame, it’s the ultimate minimal decor. Whether it's holding down papers or just hanging out, SolCircle brings effortless style and reminds you to take it easy."
+        "text": "Meet SolCircle, the laid-back companion your desk, shelf, or wall has been waiting for. With its simple figure lounging in a clean, circular frame, it's the ultimate minimal decor. Whether it's holding down papers or just hanging out, SolCircle brings effortless style and reminds you to take it easy."
       },
       {
         "type": "text",
@@ -21680,7 +21959,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -21688,14 +21967,14 @@ const rawSourcePages = [
         "title": "SolCircle",
         "items": [
           "Minimalistic, Fun Wall and Shelf Decor.",
-          "“Just sittin' around...”",
+          "'Just sittin' around...'",
           "Sizing:",
           "50%: 3in x 3in x.7in",
           "100%: 5in x 5in x 1.1in",
-          "200%: 10in x 10in x 2.2in ​",
-          "Meet SolCircle, the laid-back companion your desk, shelf, or wall has been waiting for. With its simple figure lounging in a clean, circular frame, it’s the ultimate minimal decor. Whether it's holding down papers or just hanging out, SolCircle brings effortless style and reminds you to take it easy.",
+          "200%: 10in x 10in x 2.2in ",
+          "Meet SolCircle, the laid-back companion your desk, shelf, or wall has been waiting for. With its simple figure lounging in a clean, circular frame, it's the ultimate minimal decor. Whether it's holding down papers or just hanging out, SolCircle brings effortless style and reminds you to take it easy.",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -21705,7 +21984,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0516-solcircle-pink-white-guy-59fd840f7920.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0516-solcircle-pink-white-guy-59fd840f7920.webp",
         "kind": "image"
       },
       {
@@ -21713,7 +21992,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0515-solcircle-pink-c6897ea02df0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0515-solcircle-pink-c6897ea02df0.webp",
         "kind": "image"
       },
       {
@@ -21721,7 +22000,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
         "kind": "image"
       },
       {
@@ -21729,7 +22008,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
         "kind": "image"
       },
       {
@@ -21737,7 +22016,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
         "kind": "image"
       },
       {
@@ -21745,7 +22024,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
         "kind": "image"
       },
       {
@@ -21753,7 +22032,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
         "kind": "image"
       },
       {
@@ -21761,7 +22040,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0539-solcircle-matcha-black-guy-e23f5f8c7e1e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0539-solcircle-matcha-black-guy-e23f5f8c7e1e.webp",
         "kind": "image"
       },
       {
@@ -21769,7 +22048,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
         "kind": "image"
       },
       {
@@ -21777,7 +22056,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
         "kind": "image"
       },
       {
@@ -21785,7 +22064,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0558-matcha-matcha-87c4f8cd8280.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0558-matcha-matcha-87c4f8cd8280.webp",
         "kind": "image"
       },
       {
@@ -21793,7 +22072,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0543-matcha-morning-6edf9c5dee3c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0543-matcha-morning-6edf9c5dee3c.webp",
         "kind": "image"
       },
       {
@@ -21801,7 +22080,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0563-matcha-oatmeal-faf2523687a3.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0563-matcha-oatmeal-faf2523687a3.webp",
         "kind": "image"
       },
       {
@@ -21809,7 +22088,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0553-matcha-toothpaste-2cc1fe6d6a7a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0553-matcha-toothpaste-2cc1fe6d6a7a.webp",
         "kind": "image"
       },
       {
@@ -21817,7 +22096,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0548-matcha-yogurt-dd9cc1915c5a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0548-matcha-yogurt-dd9cc1915c5a.webp",
         "kind": "image"
       },
       {
@@ -21825,7 +22104,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0555-morning-matcha-6ae7182caed1.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0555-morning-matcha-6ae7182caed1.webp",
         "kind": "image"
       },
       {
@@ -21833,7 +22112,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0540-morning-morning-c334c5fd4ebd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0540-morning-morning-c334c5fd4ebd.webp",
         "kind": "image"
       },
       {
@@ -21841,7 +22120,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0560-morning-oatmeal-81702e5ea3d1.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0560-morning-oatmeal-81702e5ea3d1.webp",
         "kind": "image"
       },
       {
@@ -21849,7 +22128,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0550-morning-toothpaste-eda8100d9e42.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0550-morning-toothpaste-eda8100d9e42.webp",
         "kind": "image"
       },
       {
@@ -21857,7 +22136,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0545-morning-yogurt-1fe8b0f6676e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0545-morning-yogurt-1fe8b0f6676e.webp",
         "kind": "image"
       },
       {
@@ -21865,7 +22144,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0559-oatmeal-matcha-41925cfe98be.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0559-oatmeal-matcha-41925cfe98be.webp",
         "kind": "image"
       },
       {
@@ -21873,7 +22152,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0544-oatmeal-morning-11f0526edb4a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0544-oatmeal-morning-11f0526edb4a.webp",
         "kind": "image"
       },
       {
@@ -21881,7 +22160,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0564-oatmeal-oatmeal-a4674a4ea26e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0564-oatmeal-oatmeal-a4674a4ea26e.webp",
         "kind": "image"
       },
       {
@@ -21889,7 +22168,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0554-oatmeal-toothpaste-a4131d383d91.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0554-oatmeal-toothpaste-a4131d383d91.webp",
         "kind": "image"
       },
       {
@@ -21897,7 +22176,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0549-oatmeal-yogurt-26da5b40c25a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0549-oatmeal-yogurt-26da5b40c25a.webp",
         "kind": "image"
       },
       {
@@ -21905,7 +22184,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0562-thoothpaste-oatmeal-41f64b8973dd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0562-thoothpaste-oatmeal-41f64b8973dd.webp",
         "kind": "image"
       },
       {
@@ -21913,7 +22192,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0557-toothpaste-matcha-f0be6e5a56f6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0557-toothpaste-matcha-f0be6e5a56f6.webp",
         "kind": "image"
       },
       {
@@ -21921,7 +22200,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0542-toothpaste-morning-dcec4b9be7c0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0542-toothpaste-morning-dcec4b9be7c0.webp",
         "kind": "image"
       },
       {
@@ -21929,7 +22208,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0552-toothpaste-toothpaste-d1a1b2e9ce85.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0552-toothpaste-toothpaste-d1a1b2e9ce85.webp",
         "kind": "image"
       },
       {
@@ -21937,7 +22216,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0547-toothpaste-yogurt-eca2b93b2036.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0547-toothpaste-yogurt-eca2b93b2036.webp",
         "kind": "image"
       },
       {
@@ -21945,7 +22224,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0556-yogurt-matcha-b4a7efbd22cd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0556-yogurt-matcha-b4a7efbd22cd.webp",
         "kind": "image"
       },
       {
@@ -21953,7 +22232,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0541-yogurt-morning-ef088fe1576c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0541-yogurt-morning-ef088fe1576c.webp",
         "kind": "image"
       },
       {
@@ -21961,7 +22240,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0546-yogurt-yogurt-247e0ffce5a6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0546-yogurt-yogurt-247e0ffce5a6.webp",
         "kind": "image"
       },
       {
@@ -21969,7 +22248,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0551-yogurt-toothpaste-eb95456f52cb.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0551-yogurt-toothpaste-eb95456f52cb.webp",
         "kind": "image"
       },
       {
@@ -21977,7 +22256,7 @@ const rawSourcePages = [
         "title": "Shop - SolCircle",
         "caption": "",
         "alt": "Shop - SolCircle",
-        "localPath": "assets/source-site/media/0561-yogurt-oatmeal-6afec60cd93c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0561-yogurt-oatmeal-6afec60cd93c.webp",
         "kind": "image"
       }
     ],
@@ -21990,7 +22269,7 @@ const rawSourcePages = [
       "solshop",
       "shop"
     ],
-    "heroImage": "assets/source-site/media/0516-solcircle-pink-white-guy-59fd840f7920.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0516-solcircle-pink-white-guy-59fd840f7920.webp",
     "imageCount": 35,
     "mediaCount": 0
   },
@@ -22002,7 +22281,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-06",
     "group": "SOL Universe",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -22042,7 +22321,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -22056,7 +22335,7 @@ const rawSourcePages = [
           "OFF BLUE",
           "UNMELLOW YELLOW",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -22066,7 +22345,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Relaxing Sol Variations",
-        "localPath": "assets/source-site/media/0201-laying-signal-pink-c131cac45fca.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0201-laying-signal-pink-c131cac45fca.webp",
         "kind": "image"
       },
       {
@@ -22074,7 +22353,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Relaxing Sol Variations",
-        "localPath": "assets/source-site/media/0532-laying-kabuki-e29c847f3fc8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0532-laying-kabuki-e29c847f3fc8.webp",
         "kind": "image"
       },
       {
@@ -22082,7 +22361,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Relaxing Sol Variations",
-        "localPath": "assets/source-site/media/0533-laying-yellow-a11b5b338865.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0533-laying-yellow-a11b5b338865.webp",
         "kind": "image"
       },
       {
@@ -22090,7 +22369,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Relaxing Sol Variations",
-        "localPath": "assets/source-site/media/0534-laying-offblue-af56b582f050.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0534-laying-offblue-af56b582f050.webp",
         "kind": "image"
       },
       {
@@ -22098,7 +22377,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Relaxing Sol Variations",
-        "localPath": "assets/source-site/media/0535-laying-inchworm-c6c025224043.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0535-laying-inchworm-c6c025224043.webp",
         "kind": "image"
       }
     ],
@@ -22110,7 +22389,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0201-laying-signal-pink-c131cac45fca.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0201-laying-signal-pink-c131cac45fca.webp",
     "imageCount": 5,
     "mediaCount": 0
   },
@@ -22292,7 +22571,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "How Big? Solid, Compact Base – 6\" x 6\" x 2.3\", providing a stable foundation for any shade.Interchangeable Shade Sizes – Various heights and shapes to suit different styles and spaces.Universal Compatibility – Every shade attaches seamlessly to any base for endless customization. text goes here"
+        "text": "How Big? Solid, Compact Base - 6' x 6' x 2.3', providing a stable foundation for any shade.Interchangeable Shade Sizes - Various heights and shapes to suit different styles and spaces.Universal Compatibility - Every shade attaches seamlessly to any base for endless customization. text goes here"
       },
       {
         "type": "heading",
@@ -22302,32 +22581,32 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "li",
-        "text": "Solid, Compact Base – 6\" x 6\" x 2.3\", providing a stable foundation for any shade."
+        "text": "Solid, Compact Base - 6' x 6' x 2.3', providing a stable foundation for any shade."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Solid, Compact Base – 6\" x 6\" x 2.3\", providing a stable foundation for any shade."
+        "text": "Solid, Compact Base - 6' x 6' x 2.3', providing a stable foundation for any shade."
       },
       {
         "type": "text",
         "level": "li",
-        "text": "Interchangeable Shade Sizes – Various heights and shapes to suit different styles and spaces."
+        "text": "Interchangeable Shade Sizes - Various heights and shapes to suit different styles and spaces."
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Interchangeable Shade Sizes – Various heights and shapes to suit different styles and spaces."
+        "text": "Interchangeable Shade Sizes - Various heights and shapes to suit different styles and spaces."
       },
       {
         "type": "text",
         "level": "li",
-        "text": "Universal Compatibility – Every shade attaches seamlessly to any base for endless customization. text goes here"
+        "text": "Universal Compatibility - Every shade attaches seamlessly to any base for endless customization. text goes here"
       },
       {
         "type": "text",
         "level": "p",
-        "text": "Universal Compatibility – Every shade attaches seamlessly to any base for endless customization. text goes here"
+        "text": "Universal Compatibility - Every shade attaches seamlessly to any base for endless customization. text goes here"
       },
       {
         "type": "text",
@@ -22337,7 +22616,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -22394,20 +22673,20 @@ const rawSourcePages = [
           "Sustainable & Recyclable",
           "Matte & Transparent Finishes",
           "Matte & Transparent Finishes",
-          "How Big? Solid, Compact Base – 6\" x 6\" x 2.3\", providing a stable foundation for any shade.Interchangeable Shade Sizes – Various heights and shapes to suit different styles and spaces.Universal Compatibility – Every shade attaches seamlessly to any base for endless customization. text goes here"
+          "How Big? Solid, Compact Base - 6' x 6' x 2.3', providing a stable foundation for any shade.Interchangeable Shade Sizes - Various heights and shapes to suit different styles and spaces.Universal Compatibility - Every shade attaches seamlessly to any base for endless customization. text goes here"
         ]
       },
       {
         "title": "How Big?",
         "items": [
-          "Solid, Compact Base – 6\" x 6\" x 2.3\", providing a stable foundation for any shade.",
-          "Solid, Compact Base – 6\" x 6\" x 2.3\", providing a stable foundation for any shade.",
-          "Interchangeable Shade Sizes – Various heights and shapes to suit different styles and spaces.",
-          "Interchangeable Shade Sizes – Various heights and shapes to suit different styles and spaces.",
-          "Universal Compatibility – Every shade attaches seamlessly to any base for endless customization. text goes here",
-          "Universal Compatibility – Every shade attaches seamlessly to any base for endless customization. text goes here",
+          "Solid, Compact Base - 6' x 6' x 2.3', providing a stable foundation for any shade.",
+          "Solid, Compact Base - 6' x 6' x 2.3', providing a stable foundation for any shade.",
+          "Interchangeable Shade Sizes - Various heights and shapes to suit different styles and spaces.",
+          "Interchangeable Shade Sizes - Various heights and shapes to suit different styles and spaces.",
+          "Universal Compatibility - Every shade attaches seamlessly to any base for endless customization. text goes here",
+          "Universal Compatibility - Every shade attaches seamlessly to any base for endless customization. text goes here",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -22417,7 +22696,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01",
-        "localPath": "assets/source-site/media/1113-sprout-sprout-sprout-0b6c99e1e4c2.webp",
+        "localPath": "assets/source-site/s01/1113-sprout-sprout-sprout-0b6c99e1e4c2.webp",
         "kind": "image"
       },
       {
@@ -22425,7 +22704,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01",
-        "localPath": "assets/source-site/media/1114-sunrise-sunrise-sunrise-360eb404b3b5.webp",
+        "localPath": "assets/source-site/s01/1114-sunrise-sunrise-sunrise-360eb404b3b5.webp",
         "kind": "image"
       },
       {
@@ -22433,7 +22712,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01",
-        "localPath": "assets/source-site/media/1115-shpere-shade2-e454c020069c.webp",
+        "localPath": "assets/source-site/s01/1115-shpere-shade2-e454c020069c.webp",
         "kind": "image"
       },
       {
@@ -22441,7 +22720,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01",
-        "localPath": "assets/source-site/media/1116-tall-shade2-9962cab03afd.webp",
+        "localPath": "assets/source-site/s01/1116-tall-shade2-9962cab03afd.webp",
         "kind": "image"
       },
       {
@@ -22449,7 +22728,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01",
-        "localPath": "assets/source-site/media/1117-info-short-lamp-9b8d195348cb.webp",
+        "localPath": "assets/source-site/s01/1117-info-short-lamp-9b8d195348cb.webp",
         "kind": "image"
       },
       {
@@ -22457,7 +22736,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01",
-        "localPath": "assets/source-site/media/1118-color-color-dark-a2214a69c307.webp",
+        "localPath": "assets/source-site/s01/1118-color-color-dark-a2214a69c307.webp",
         "kind": "image"
       },
       {
@@ -22465,7 +22744,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01",
-        "localPath": "assets/source-site/media/1119-for-infor-fina-k-d74f94eed50d.webp",
+        "localPath": "assets/source-site/s01/1119-for-infor-fina-k-d74f94eed50d.webp",
         "kind": "image"
       },
       {
@@ -22473,7 +22752,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01",
-        "localPath": "assets/source-site/media/1120-description-render-min-1-e6bf829f2528.webp",
+        "localPath": "assets/source-site/s01/1120-description-render-min-1-e6bf829f2528.webp",
         "kind": "image"
       }
     ],
@@ -22485,7 +22764,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1113-sprout-sprout-sprout-0b6c99e1e4c2.webp",
+    "heroImage": "assets/source-site/s01/1113-sprout-sprout-sprout-0b6c99e1e4c2.webp",
     "imageCount": 8,
     "mediaCount": 0
   },
@@ -22497,7 +22776,7 @@ const rawSourcePages = [
     "lastmod": "2025-02-07",
     "group": "SOL Universe",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "heading",
@@ -22527,7 +22806,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -22541,7 +22820,7 @@ const rawSourcePages = [
         "title": "Quick and Easy Snap Shades.",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -22551,7 +22830,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01 Test",
-        "localPath": "assets/source-site/media/1105-test-3-879e59cd310d.webp",
+        "localPath": "assets/source-site/s01test/1105-test-3-879e59cd310d.webp",
         "kind": "image"
       },
       {
@@ -22559,7 +22838,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01 Test",
-        "localPath": "assets/source-site/media/1106-short-shade-9934fcdaa264.webp",
+        "localPath": "assets/source-site/s01test/1106-short-shade-9934fcdaa264.webp",
         "kind": "image"
       },
       {
@@ -22567,7 +22846,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01 Test",
-        "localPath": "assets/source-site/media/1107-test5-09bd968e7074.webp",
+        "localPath": "assets/source-site/s01test/1107-test5-09bd968e7074.webp",
         "kind": "image"
       },
       {
@@ -22575,7 +22854,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01 Test",
-        "localPath": "assets/source-site/media/1108-vertical-0db6ad559f10.webp",
+        "localPath": "assets/source-site/s01test/1108-vertical-0db6ad559f10.webp",
         "kind": "image"
       },
       {
@@ -22583,7 +22862,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01 Test",
-        "localPath": "assets/source-site/media/1109-short-shade-6191cadc2584.webp",
+        "localPath": "assets/source-site/s01test/1109-short-shade-6191cadc2584.webp",
         "kind": "image"
       },
       {
@@ -22591,7 +22870,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01 Test",
-        "localPath": "assets/source-site/media/1110-test8-2374f719c945.webp",
+        "localPath": "assets/source-site/s01test/1110-test8-2374f719c945.webp",
         "kind": "image"
       },
       {
@@ -22599,7 +22878,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "S01 Test",
-        "localPath": "assets/source-site/media/1111-cid-photo-2bf795ede304.webp",
+        "localPath": "assets/source-site/s01test/1111-cid-photo-2bf795ede304.webp",
         "kind": "image"
       }
     ],
@@ -22611,7 +22890,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/1105-test-3-879e59cd310d.webp",
+    "heroImage": "assets/source-site/s01test/1105-test-3-879e59cd310d.webp",
     "imageCount": 7,
     "mediaCount": 0
   },
@@ -22623,7 +22902,7 @@ const rawSourcePages = [
     "lastmod": "2025-02-17",
     "group": "SOL Universe",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -22638,7 +22917,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Just sittin' around...”"
+        "text": "'Just sittin' around...'"
       },
       {
         "type": "text",
@@ -22658,12 +22937,12 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "200%: 10in x 10in x 2.2in ​"
+        "text": "200%: 10in x 10in x 2.2in "
       },
       {
         "type": "text",
         "level": "p",
-        "text": "“Just Standin here…”"
+        "text": "'Just Standin here...'"
       },
       {
         "type": "text",
@@ -22688,7 +22967,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Takin a seat…”"
+        "text": "'Takin a seat...'"
       },
       {
         "type": "text",
@@ -22708,7 +22987,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "“Might Take a Nap…”"
+        "text": "'Might Take a Nap...'"
       },
       {
         "type": "text",
@@ -22743,7 +23022,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2024 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2024 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -22752,23 +23031,31 @@ const rawSourcePages = [
         "items": [
           "Breakfast Bites Collection",
           "Minimalistic, Fun Wall and Shelf Decor.",
-          "“Just sittin' around...”",
+          "'Just sittin' around...'",
           "Sizing:",
           "50%: 3in x 3in x.7in",
           "100%: 5in x 5in x 1.1in",
-          "200%: 10in x 10in x 2.2in ​",
-          "“Just Standin here…”",
+          "200%: 10in x 10in x 2.2in ",
+          "'Just Standin here...'",
           "50%: 3in x 1.7in x.7in",
           "100%: 5in x 3in x 1.1in",
           "200%: 10in x 6in x 2.3",
-          "Sol Origins Collection"
+          "Sol Origins Collection",
+          "'Takin a seat...'",
+          "50%: 3in x 1.8in x.5in",
+          "100%: 5in x 3in x 1.15in",
+          "200%: 10in x 6in x 2.3in",
+          "'Might Take a Nap...'",
+          "50%: 3in x 2.93in x 1.1in",
+          "100%: 5in x 5in x 2in",
+          "200%: 10in x 10in x 3.7in"
         ]
       },
       {
         "title": "Other Merchandise.",
         "items": [
           "@ethansolodukhin",
-          "© 2024 Ethan Solodukhin. All rights reserved."
+          "(c) 2024 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -22778,7 +23065,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
         "kind": "image"
       },
       {
@@ -22786,7 +23073,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0536-all-new-efbd314df7d4.webp",
+        "localPath": "assets/source-site/solshop/0536-all-new-efbd314df7d4.webp",
         "kind": "image"
       },
       {
@@ -22794,7 +23081,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
         "kind": "image"
       },
       {
@@ -22802,7 +23089,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
         "kind": "image"
       },
       {
@@ -22810,7 +23097,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0537-on-sale-897ca1acd10e.webp",
+        "localPath": "assets/source-site/solshop/0537-on-sale-897ca1acd10e.webp",
         "kind": "image"
       },
       {
@@ -22818,7 +23105,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0538-solcircle-matcha-white-guy-80f72b5cabbd.webp",
+        "localPath": "assets/source-site/solshop/0538-solcircle-matcha-white-guy-80f72b5cabbd.webp",
         "kind": "image"
       },
       {
@@ -22826,7 +23113,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
         "kind": "image"
       },
       {
@@ -22834,7 +23121,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
         "kind": "image"
       },
       {
@@ -22842,7 +23129,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0535-laying-inchworm-c6c025224043.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0535-laying-inchworm-c6c025224043.webp",
         "kind": "image"
       },
       {
@@ -22850,7 +23137,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0530-yellow-sitting-5924ac4394b6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0530-yellow-sitting-5924ac4394b6.webp",
         "kind": "image"
       },
       {
@@ -22858,7 +23145,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0515-solcircle-pink-c6897ea02df0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0515-solcircle-pink-c6897ea02df0.webp",
         "kind": "image"
       },
       {
@@ -22866,7 +23153,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0539-solcircle-matcha-black-guy-e23f5f8c7e1e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0539-solcircle-matcha-black-guy-e23f5f8c7e1e.webp",
         "kind": "image"
       },
       {
@@ -22874,7 +23161,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0516-solcircle-pink-white-guy-59fd840f7920.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0516-solcircle-pink-white-guy-59fd840f7920.webp",
         "kind": "image"
       },
       {
@@ -22882,7 +23169,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
         "kind": "image"
       },
       {
@@ -22890,7 +23177,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
         "kind": "image"
       },
       {
@@ -22898,7 +23185,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
         "kind": "image"
       },
       {
@@ -22906,7 +23193,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0540-morning-morning-c334c5fd4ebd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0540-morning-morning-c334c5fd4ebd.webp",
         "kind": "image"
       },
       {
@@ -22914,7 +23201,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0541-yogurt-morning-ef088fe1576c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0541-yogurt-morning-ef088fe1576c.webp",
         "kind": "image"
       },
       {
@@ -22922,7 +23209,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0542-toothpaste-morning-dcec4b9be7c0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0542-toothpaste-morning-dcec4b9be7c0.webp",
         "kind": "image"
       },
       {
@@ -22930,7 +23217,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0543-matcha-morning-6edf9c5dee3c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0543-matcha-morning-6edf9c5dee3c.webp",
         "kind": "image"
       },
       {
@@ -22938,7 +23225,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0544-oatmeal-morning-11f0526edb4a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0544-oatmeal-morning-11f0526edb4a.webp",
         "kind": "image"
       },
       {
@@ -22946,7 +23233,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0545-morning-yogurt-1fe8b0f6676e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0545-morning-yogurt-1fe8b0f6676e.webp",
         "kind": "image"
       },
       {
@@ -22954,7 +23241,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0546-yogurt-yogurt-247e0ffce5a6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0546-yogurt-yogurt-247e0ffce5a6.webp",
         "kind": "image"
       },
       {
@@ -22962,7 +23249,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0547-toothpaste-yogurt-eca2b93b2036.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0547-toothpaste-yogurt-eca2b93b2036.webp",
         "kind": "image"
       },
       {
@@ -22970,7 +23257,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0548-matcha-yogurt-dd9cc1915c5a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0548-matcha-yogurt-dd9cc1915c5a.webp",
         "kind": "image"
       },
       {
@@ -22978,7 +23265,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0549-oatmeal-yogurt-26da5b40c25a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0549-oatmeal-yogurt-26da5b40c25a.webp",
         "kind": "image"
       },
       {
@@ -22986,7 +23273,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0550-morning-toothpaste-eda8100d9e42.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0550-morning-toothpaste-eda8100d9e42.webp",
         "kind": "image"
       },
       {
@@ -22994,7 +23281,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0551-yogurt-toothpaste-eb95456f52cb.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0551-yogurt-toothpaste-eb95456f52cb.webp",
         "kind": "image"
       },
       {
@@ -23002,7 +23289,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0552-toothpaste-toothpaste-d1a1b2e9ce85.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0552-toothpaste-toothpaste-d1a1b2e9ce85.webp",
         "kind": "image"
       },
       {
@@ -23010,7 +23297,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0553-matcha-toothpaste-2cc1fe6d6a7a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0553-matcha-toothpaste-2cc1fe6d6a7a.webp",
         "kind": "image"
       },
       {
@@ -23018,7 +23305,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0554-oatmeal-toothpaste-a4131d383d91.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0554-oatmeal-toothpaste-a4131d383d91.webp",
         "kind": "image"
       },
       {
@@ -23026,7 +23313,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0555-morning-matcha-6ae7182caed1.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0555-morning-matcha-6ae7182caed1.webp",
         "kind": "image"
       },
       {
@@ -23034,7 +23321,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0556-yogurt-matcha-b4a7efbd22cd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0556-yogurt-matcha-b4a7efbd22cd.webp",
         "kind": "image"
       },
       {
@@ -23042,7 +23329,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0557-toothpaste-matcha-f0be6e5a56f6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0557-toothpaste-matcha-f0be6e5a56f6.webp",
         "kind": "image"
       },
       {
@@ -23050,7 +23337,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0558-matcha-matcha-87c4f8cd8280.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0558-matcha-matcha-87c4f8cd8280.webp",
         "kind": "image"
       },
       {
@@ -23058,7 +23345,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0559-oatmeal-matcha-41925cfe98be.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0559-oatmeal-matcha-41925cfe98be.webp",
         "kind": "image"
       },
       {
@@ -23066,7 +23353,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0560-morning-oatmeal-81702e5ea3d1.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0560-morning-oatmeal-81702e5ea3d1.webp",
         "kind": "image"
       },
       {
@@ -23074,7 +23361,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0561-yogurt-oatmeal-6afec60cd93c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0561-yogurt-oatmeal-6afec60cd93c.webp",
         "kind": "image"
       },
       {
@@ -23082,7 +23369,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0562-thoothpaste-oatmeal-41f64b8973dd.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0562-thoothpaste-oatmeal-41f64b8973dd.webp",
         "kind": "image"
       },
       {
@@ -23090,7 +23377,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0563-matcha-oatmeal-faf2523687a3.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0563-matcha-oatmeal-faf2523687a3.webp",
         "kind": "image"
       },
       {
@@ -23098,7 +23385,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0564-oatmeal-oatmeal-a4674a4ea26e.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0564-oatmeal-oatmeal-a4674a4ea26e.webp",
         "kind": "image"
       },
       {
@@ -23106,7 +23393,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0526-honey-sculpture-final2-f10f166cde12.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0526-honey-sculpture-final2-f10f166cde12.webp",
         "kind": "image"
       },
       {
@@ -23114,7 +23401,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
         "kind": "image"
       },
       {
@@ -23122,7 +23409,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0527-offblue-sculpture-final2-fffc7def8a11.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0527-offblue-sculpture-final2-fffc7def8a11.webp",
         "kind": "image"
       },
       {
@@ -23130,7 +23417,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
         "kind": "image"
       },
       {
@@ -23138,7 +23425,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0528-signal-pink-sitting-f860cfea7904.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0528-signal-pink-sitting-f860cfea7904.webp",
         "kind": "image"
       },
       {
@@ -23146,7 +23433,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0202-off-blue-sitting-c2010f4c00ab.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0202-off-blue-sitting-c2010f4c00ab.webp",
         "kind": "image"
       },
       {
@@ -23154,7 +23441,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0529-kabuki-sitting-ac604f5b9253.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0529-kabuki-sitting-ac604f5b9253.webp",
         "kind": "image"
       },
       {
@@ -23162,7 +23449,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0531-inchworm-sitting-b8bdfb924de8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0531-inchworm-sitting-b8bdfb924de8.webp",
         "kind": "image"
       },
       {
@@ -23170,7 +23457,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0201-laying-signal-pink-c131cac45fca.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0201-laying-signal-pink-c131cac45fca.webp",
         "kind": "image"
       },
       {
@@ -23178,7 +23465,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0534-laying-offblue-af56b582f050.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0534-laying-offblue-af56b582f050.webp",
         "kind": "image"
       },
       {
@@ -23186,7 +23473,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0532-laying-kabuki-e29c847f3fc8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0532-laying-kabuki-e29c847f3fc8.webp",
         "kind": "image"
       },
       {
@@ -23194,7 +23481,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0533-laying-yellow-a11b5b338865.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0533-laying-yellow-a11b5b338865.webp",
         "kind": "image"
       },
       {
@@ -23202,7 +23489,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0565-enhanced-matte-paper-poster-in-10x10-person-671742c2-3f56fd8d4a71.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0565-enhanced-matte-paper-poster-in-10x10-person-671742c2-3f56fd8d4a71.webp",
         "kind": "image"
       },
       {
@@ -23210,7 +23497,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0566-enhanced-matte-paper-poster-in-11x14-person-671742c2-ae64dbac9c71.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0566-enhanced-matte-paper-poster-in-11x14-person-671742c2-ae64dbac9c71.webp",
         "kind": "image"
       },
       {
@@ -23218,7 +23505,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0567-enhanced-matte-paper-poster-in-12x12-person-671742c2-15600b47627f.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0567-enhanced-matte-paper-poster-in-12x12-person-671742c2-15600b47627f.webp",
         "kind": "image"
       },
       {
@@ -23226,7 +23513,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0568-enhanced-matte-paper-poster-in-12x16-person-671742c2-6210dc7d0aa9.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0568-enhanced-matte-paper-poster-in-12x16-person-671742c2-6210dc7d0aa9.webp",
         "kind": "image"
       },
       {
@@ -23234,7 +23521,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0569-enhanced-matte-paper-poster-in-12x18-person-671742c2-6f3de9230923.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0569-enhanced-matte-paper-poster-in-12x18-person-671742c2-6f3de9230923.webp",
         "kind": "image"
       },
       {
@@ -23242,7 +23529,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0570-enhanced-matte-paper-poster-in-14x14-person-671742c2-725fd45bbecc.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0570-enhanced-matte-paper-poster-in-14x14-person-671742c2-725fd45bbecc.webp",
         "kind": "image"
       },
       {
@@ -23250,7 +23537,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0571-enhanced-matte-paper-poster-in-16x16-person-671742c2-0bc8d4d9fb11.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0571-enhanced-matte-paper-poster-in-16x16-person-671742c2-0bc8d4d9fb11.webp",
         "kind": "image"
       },
       {
@@ -23258,7 +23545,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0572-enhanced-matte-paper-poster-in-16x20-person-671742c2-0bd46cb1c040.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0572-enhanced-matte-paper-poster-in-16x20-person-671742c2-0bd46cb1c040.webp",
         "kind": "image"
       },
       {
@@ -23266,7 +23553,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0573-enhanced-matte-paper-poster-in-18x18-person-671742c2-60e385f01c12.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0573-enhanced-matte-paper-poster-in-18x18-person-671742c2-60e385f01c12.webp",
         "kind": "image"
       },
       {
@@ -23274,7 +23561,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0574-enhanced-matte-paper-poster-in-18x24-person-671742c2-e8b1f405b787.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0574-enhanced-matte-paper-poster-in-18x24-person-671742c2-e8b1f405b787.webp",
         "kind": "image"
       },
       {
@@ -23282,7 +23569,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0575-enhanced-matte-paper-poster-in-20x30-person-671742c2-dd4c21e1cde9.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0575-enhanced-matte-paper-poster-in-20x30-person-671742c2-dd4c21e1cde9.webp",
         "kind": "image"
       },
       {
@@ -23290,7 +23577,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0576-enhanced-matte-paper-poster-in-24x36-person-671742c2-d1b53f6e89ba.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0576-enhanced-matte-paper-poster-in-24x36-person-671742c2-d1b53f6e89ba.webp",
         "kind": "image"
       },
       {
@@ -23298,7 +23585,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0577-enhanced-matte-paper-poster-in-5x7-person-671742c2a9-dc2c4c7b719c.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0577-enhanced-matte-paper-poster-in-5x7-person-671742c2a9-dc2c4c7b719c.webp",
         "kind": "image"
       },
       {
@@ -23306,7 +23593,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0578-enhanced-matte-paper-poster-in-8x10-person-671742c29-eadcce6e7d42.webp",
+        "localPath": "assets/source-site/shop-p-playground-poster/0578-enhanced-matte-paper-poster-in-8x10-person-671742c29-eadcce6e7d42.webp",
         "kind": "image"
       },
       {
@@ -23314,7 +23601,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0579-room-ad-for-sculpture-bc8853e6d555.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0579-room-ad-for-sculpture-bc8853e6d555.webp",
         "kind": "image"
       },
       {
@@ -23322,7 +23609,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0580-room-ad-for-sculpture-d261e01dc0ed.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0580-room-ad-for-sculpture-d261e01dc0ed.webp",
         "kind": "image"
       },
       {
@@ -23330,7 +23617,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Shop",
-        "localPath": "assets/source-site/media/0581-room-ad-for-sculpture-52691633bc3c.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0581-room-ad-for-sculpture-52691633bc3c.webp",
         "kind": "image"
       }
     ],
@@ -23346,7 +23633,7 @@ const rawSourcePages = [
       "shop-p-country-feast-set-3nybt-gnw4d-4jmt8-hyhyc-jnb3a-pp2eg-7e9tl-m83a7",
       "shop-p-playground-poster"
     ],
-    "heroImage": "assets/source-site/media/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
     "imageCount": 70,
     "mediaCount": 0
   },
@@ -23358,7 +23645,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-07",
     "group": "SOL Universe",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -23398,7 +23685,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -23412,7 +23699,7 @@ const rawSourcePages = [
           "OFF BLUE",
           "UNMELLOW YELLOW",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -23422,7 +23709,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sitting Sol Variations",
-        "localPath": "assets/source-site/media/0528-signal-pink-sitting-f860cfea7904.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0528-signal-pink-sitting-f860cfea7904.webp",
         "kind": "image"
       },
       {
@@ -23430,7 +23717,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sitting Sol Variations",
-        "localPath": "assets/source-site/media/0529-kabuki-sitting-ac604f5b9253.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0529-kabuki-sitting-ac604f5b9253.webp",
         "kind": "image"
       },
       {
@@ -23438,7 +23725,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sitting Sol Variations",
-        "localPath": "assets/source-site/media/0530-yellow-sitting-5924ac4394b6.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0530-yellow-sitting-5924ac4394b6.webp",
         "kind": "image"
       },
       {
@@ -23446,7 +23733,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sitting Sol Variations",
-        "localPath": "assets/source-site/media/0202-off-blue-sitting-c2010f4c00ab.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0202-off-blue-sitting-c2010f4c00ab.webp",
         "kind": "image"
       },
       {
@@ -23454,7 +23741,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sitting Sol Variations",
-        "localPath": "assets/source-site/media/0531-inchworm-sitting-b8bdfb924de8.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0531-inchworm-sitting-b8bdfb924de8.webp",
         "kind": "image"
       }
     ],
@@ -23466,7 +23753,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0528-signal-pink-sitting-f860cfea7904.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0528-signal-pink-sitting-f860cfea7904.webp",
     "imageCount": 5,
     "mediaCount": 0
   },
@@ -23478,7 +23765,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-05",
     "group": "SOL Universe",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -23508,7 +23795,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "The “Sol” Guy"
+        "text": "The 'Sol' Guy"
       },
       {
         "type": "text",
@@ -23528,7 +23815,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -23540,11 +23827,11 @@ const rawSourcePages = [
           "Playground",
           "CSGO 2 AK-47 Skin Texture Mod",
           "Sol Sculpture 2023",
-          "The “Sol” Guy",
+          "The 'Sol' Guy",
           "Apartment",
           "Cranberry Juice",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -23554,7 +23841,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "SOL",
-        "localPath": "assets/source-site/media/0160-swing-dude-ec6925fe4519.webp",
+        "localPath": "assets/source-site/sol/0160-swing-dude-ec6925fe4519.webp",
         "kind": "image"
       },
       {
@@ -23562,7 +23849,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "SOL",
-        "localPath": "assets/source-site/media/0161-playground-801a48c2a8f3.webp",
+        "localPath": "assets/source-site/sol/0161-playground-801a48c2a8f3.webp",
         "kind": "image"
       },
       {
@@ -23570,7 +23857,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "SOL",
-        "localPath": "assets/source-site/media/0162-ak-texture-532c2f87c6c0.webp",
+        "localPath": "assets/source-site/sol/0162-ak-texture-532c2f87c6c0.webp",
         "kind": "image"
       },
       {
@@ -23578,7 +23865,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "SOL",
-        "localPath": "assets/source-site/media/0163-sculpture-1-a6d4ecd528eb.webp",
+        "localPath": "assets/source-site/sol/0163-sculpture-1-a6d4ecd528eb.webp",
         "kind": "image"
       },
       {
@@ -23586,7 +23873,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "SOL",
-        "localPath": "assets/source-site/media/0164-guy-by-himself-ad6d0b43202c.webp",
+        "localPath": "assets/source-site/sol/0164-guy-by-himself-ad6d0b43202c.webp",
         "kind": "image"
       },
       {
@@ -23594,7 +23881,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "SOL",
-        "localPath": "assets/source-site/media/0165-another-playground-3f9fbc333ab3.webp",
+        "localPath": "assets/source-site/sol/0165-another-playground-3f9fbc333ab3.webp",
         "kind": "image"
       },
       {
@@ -23602,7 +23889,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "SOL",
-        "localPath": "assets/source-site/media/0166-cranberry-juice-final-shirt-for-red-bubble-27e1b687fb7d.webp",
+        "localPath": "assets/source-site/sol/0166-cranberry-juice-final-shirt-for-red-bubble-27e1b687fb7d.webp",
         "kind": "image"
       },
       {
@@ -23610,7 +23897,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "SOL",
-        "localPath": "assets/source-site/media/0167-lil-scene-1cdeaf1c7190.webp",
+        "localPath": "assets/source-site/sol/0167-lil-scene-1cdeaf1c7190.webp",
         "kind": "image"
       },
       {
@@ -23618,7 +23905,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "SOL",
-        "localPath": "assets/source-site/media/0168-ballon-guy-c7ca9eab2ac2.webp",
+        "localPath": "assets/source-site/sol/0168-ballon-guy-c7ca9eab2ac2.webp",
         "kind": "image"
       }
     ],
@@ -23632,7 +23919,7 @@ const rawSourcePages = [
       "csgo-skin-mod",
       "sol-sculpture"
     ],
-    "heroImage": "assets/source-site/media/0160-swing-dude-ec6925fe4519.webp",
+    "heroImage": "assets/source-site/sol/0160-swing-dude-ec6925fe4519.webp",
     "imageCount": 9,
     "mediaCount": 0
   },
@@ -23644,7 +23931,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-05",
     "group": "SOL Universe",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -23684,7 +23971,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -23698,7 +23985,7 @@ const rawSourcePages = [
           "Matcha",
           "Oatmeal",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -23708,7 +23995,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Circle Variations",
-        "localPath": "assets/source-site/media/0515-solcircle-pink-c6897ea02df0.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0515-solcircle-pink-c6897ea02df0.webp",
         "kind": "image"
       },
       {
@@ -23716,7 +24003,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Circle Variations",
-        "localPath": "assets/source-site/media/0516-solcircle-pink-white-guy-59fd840f7920.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0516-solcircle-pink-white-guy-59fd840f7920.webp",
         "kind": "image"
       },
       {
@@ -23724,7 +24011,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Circle Variations",
-        "localPath": "assets/source-site/media/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0517-solcircle-yogurt-black-guy-dd0fa47439b7.webp",
         "kind": "image"
       },
       {
@@ -23732,7 +24019,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Circle Variations",
-        "localPath": "assets/source-site/media/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
         "kind": "image"
       },
       {
@@ -23740,7 +24027,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Circle Variations",
-        "localPath": "assets/source-site/media/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0518-solcircle-toothpaste-black-guy-359dc811f120.webp",
         "kind": "image"
       },
       {
@@ -23748,7 +24035,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Circle Variations",
-        "localPath": "assets/source-site/media/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0519-solcircle-toothpaste-white-guy-6f3e00844453.webp",
         "kind": "image"
       },
       {
@@ -23756,7 +24043,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Circle Variations",
-        "localPath": "assets/source-site/media/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0520-solcircle-matcha-white-guy-8f6bbd5f5e6a.webp",
         "kind": "image"
       },
       {
@@ -23764,7 +24051,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Circle Variations",
-        "localPath": "assets/source-site/media/0521-solcircle-matcha-black-guy-d17595f1a623.webp",
+        "localPath": "assets/source-site/sol-circle-variations/0521-solcircle-matcha-black-guy-d17595f1a623.webp",
         "kind": "image"
       },
       {
@@ -23772,7 +24059,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Circle Variations",
-        "localPath": "assets/source-site/media/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0522-solcircle-oatmeal-black-ea154ef8fa0b.webp",
         "kind": "image"
       },
       {
@@ -23780,7 +24067,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Circle Variations",
-        "localPath": "assets/source-site/media/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0523-solcircle-oatmeal-white-a4c343bd130d.webp",
         "kind": "image"
       }
     ],
@@ -23792,7 +24079,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0515-solcircle-pink-c6897ea02df0.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0515-solcircle-pink-c6897ea02df0.webp",
     "imageCount": 10,
     "mediaCount": 0
   },
@@ -23804,7 +24091,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-07",
     "group": "SOL Universe",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -23819,7 +24106,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -23828,7 +24115,7 @@ const rawSourcePages = [
         "items": [
           "Sol Sculptures",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -23838,7 +24125,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Sculpture",
-        "localPath": "assets/source-site/media/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
         "kind": "image"
       },
       {
@@ -23846,7 +24133,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Sculpture",
-        "localPath": "assets/source-site/media/0201-laying-signal-pink-c131cac45fca.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0201-laying-signal-pink-c131cac45fca.webp",
         "kind": "image"
       },
       {
@@ -23854,7 +24141,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Sculpture",
-        "localPath": "assets/source-site/media/0202-off-blue-sitting-c2010f4c00ab.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0202-off-blue-sitting-c2010f4c00ab.webp",
         "kind": "image"
       },
       {
@@ -23862,7 +24149,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Sculpture",
-        "localPath": "assets/source-site/media/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0203-solcircle-yoghrt-white-guy-41f6359a162f.webp",
         "kind": "image"
       }
     ],
@@ -23878,7 +24165,7 @@ const rawSourcePages = [
       "sitting-sol-variations",
       "sol-circle-variations"
     ],
-    "heroImage": "assets/source-site/media/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
     "imageCount": 4,
     "mediaCount": 0
   },
@@ -23890,7 +24177,7 @@ const rawSourcePages = [
     "lastmod": "2025-02-13",
     "group": "SOL Universe",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -23920,7 +24207,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -23934,7 +24221,7 @@ const rawSourcePages = [
         "title": "lasting impact",
         "items": [
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -23944,7 +24231,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Seven Studios",
-        "localPath": "assets/source-site/media/1121-sol-logo2-c49d5aa73455.webp",
+        "localPath": "assets/source-site/sol-seven-studios/1121-sol-logo2-c49d5aa73455.webp",
         "kind": "image"
       },
       {
@@ -23952,7 +24239,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Seven Studios",
-        "localPath": "assets/source-site/media/1122-sol-logo1-98d33d20bd4d.webp",
+        "localPath": "assets/source-site/sol-seven-studios/1122-sol-logo1-98d33d20bd4d.webp",
         "kind": "image"
       },
       {
@@ -23960,7 +24247,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Seven Studios",
-        "localPath": "assets/source-site/media/1123-test50-17ea01687095.webp",
+        "localPath": "assets/source-site/sol-seven-studios/1123-test50-17ea01687095.webp",
         "kind": "image"
       },
       {
@@ -23968,7 +24255,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Seven Studios",
-        "localPath": "assets/source-site/media/1124-asset-3s01-fc182da3ddff.webp",
+        "localPath": "assets/source-site/sol-seven-studios/1124-asset-3s01-fc182da3ddff.webp",
         "kind": "image"
       },
       {
@@ -23976,7 +24263,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Seven Studios",
-        "localPath": "assets/source-site/media/1125-asset-2view-project3-3a895ca88100.webp",
+        "localPath": "assets/source-site/sol-seven-studios/1125-asset-2view-project3-3a895ca88100.webp",
         "kind": "image"
       },
       {
@@ -23984,7 +24271,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Seven Studios",
-        "localPath": "assets/source-site/media/1126-asset-1view-project2-0251055c0e34.webp",
+        "localPath": "assets/source-site/sol-seven-studios/1126-asset-1view-project2-0251055c0e34.webp",
         "kind": "image"
       },
       {
@@ -23992,7 +24279,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Seven Studios",
-        "localPath": "assets/source-site/media/1127-revo-chair-for-website1-287fc7deaa05.webp",
+        "localPath": "assets/source-site/sol-seven-studios/1127-revo-chair-for-website1-287fc7deaa05.webp",
         "kind": "image"
       }
     ],
@@ -24006,7 +24293,7 @@ const rawSourcePages = [
       "s01",
       "3d-printing-service"
     ],
-    "heroImage": "assets/source-site/media/1121-sol-logo2-c49d5aa73455.webp",
+    "heroImage": "assets/source-site/sol-seven-studios/1121-sol-logo2-c49d5aa73455.webp",
     "imageCount": 7,
     "mediaCount": 0
   },
@@ -24018,7 +24305,7 @@ const rawSourcePages = [
     "lastmod": "2024-10-06",
     "group": "SOL Universe",
     "description": "",
-    "summary": "Recovered source page from the live Squarespace portfolio.",
+    "summary": "A redesigned page from the live Squarespace portfolio.",
     "textBlocks": [
       {
         "type": "text",
@@ -24058,7 +24345,7 @@ const rawSourcePages = [
       {
         "type": "text",
         "level": "p",
-        "text": "© 2025 Ethan Solodukhin. All rights reserved."
+        "text": "(c) 2025 Ethan Solodukhin. All rights reserved."
       }
     ],
     "sections": [
@@ -24072,7 +24359,7 @@ const rawSourcePages = [
           "OFF BLUE",
           "UNMELLOW YELLOW",
           "www.ethansolodukhin.com",
-          "© 2025 Ethan Solodukhin. All rights reserved."
+          "(c) 2025 Ethan Solodukhin. All rights reserved."
         ]
       }
     ],
@@ -24082,7 +24369,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Variations",
-        "localPath": "assets/source-site/media/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
         "kind": "image"
       },
       {
@@ -24090,7 +24377,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Variations",
-        "localPath": "assets/source-site/media/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0525-kabuki-sculpture-final2-48f013d0b2f9.webp",
         "kind": "image"
       },
       {
@@ -24098,7 +24385,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Variations",
-        "localPath": "assets/source-site/media/0526-honey-sculpture-final2-f10f166cde12.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0526-honey-sculpture-final2-f10f166cde12.webp",
         "kind": "image"
       },
       {
@@ -24106,7 +24393,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Variations",
-        "localPath": "assets/source-site/media/0527-offblue-sculpture-final2-fffc7def8a11.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0527-offblue-sculpture-final2-fffc7def8a11.webp",
         "kind": "image"
       },
       {
@@ -24114,7 +24401,7 @@ const rawSourcePages = [
         "title": "",
         "caption": "",
         "alt": "Sol Variations",
-        "localPath": "assets/source-site/media/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
+        "localPath": "assets/source-site/shop-breakfast-bites/0200-inchworm-sculpture-final2-ad706a0824e4.webp",
         "kind": "image"
       }
     ],
@@ -24126,7 +24413,7 @@ const rawSourcePages = [
       "resume",
       "solshop"
     ],
-    "heroImage": "assets/source-site/media/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
+    "heroImage": "assets/source-site/shop-breakfast-bites/0524-signal-pink-sculpture-final2-5681b56dbd71.webp",
     "imageCount": 5,
     "mediaCount": 0
   }
@@ -24154,7 +24441,7 @@ export const sourcePageGroups = sourcePages.reduce((groups, page) => {
 }, {});
 
 export const crawlStats = {
-  "crawledAt": "2026-04-24T07:48:33.804Z",
+  "crawledAt": "2026-04-24T18:43:40.476Z",
   "source": "https://www.ethansolodukhin.com",
   "sitemapPageCount": 80,
   "recreatedPageCount": 82,

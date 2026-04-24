@@ -12,9 +12,12 @@ assets/*.pdf
 assets/*.png
 assets/*.jpg
 assets/*.jpeg
-scripts/
+scripts/*
+!scripts/*.js
 source-data/
 source-data-solseven/
+src/assets/generated/review/*
+!src/assets/generated/review/.gitkeep
 !.github/
 !public/
 !src/

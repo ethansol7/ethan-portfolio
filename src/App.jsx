@@ -10,7 +10,7 @@ import {
   siteMeta,
   stats,
 } from "./data/portfolio";
-import { crawlStats, missingAssets, sourcePageGroups, sourcePageMap, sourcePages } from "./data/sourcePages";
+import { crawlStats, sourcePageGroups, sourcePageMap, sourcePages } from "./data/sourcePages";
 import { localAssetCollections, localAssetStats } from "./data/localAssets";
 
 function resolveSiteUrl(pathname = "") {
@@ -91,15 +91,30 @@ const sourceSlugToLocalKey = {
   "every-day-render-challenge": "render-challenge",
 };
 
+const featuredProjectSourceSlugs = {
+  "sol-lamp-system": ["sol-lamp", "s01", "s01test", "sol"],
+  "sol-seven-studios": ["sol-seven-studios", "solshop"],
+  plastivista: ["old-revo-chair-page"],
+  "revo-chair": ["old-revo-chair-page", "3d-printing-service"],
+  "sol-wheel": ["sol-wheel"],
+  "autodesk-origin": ["autodesk-origin"],
+};
+
 function getLocalAssetsForSlug(slug) {
   return localAssetCollections[sourceSlugToLocalKey[slug] || slug] || null;
+}
+
+function getFeaturedSourcePages(slug) {
+  return (featuredProjectSourceSlugs[slug] || [slug])
+    .map((sourceSlug) => sourcePageMap[sourceSlug])
+    .filter(Boolean);
 }
 
 function getSourcePageLead(page) {
   return (
     page.summary ||
     page.sections?.flatMap((section) => section.items || []).find((item) => item.length > 42) ||
-    "Recovered from the live Squarespace portfolio and rebuilt as a cleaner responsive page."
+    "A redesigned page from the live Squarespace portfolio with cleaner hierarchy and responsive presentation."
   );
 }
 
@@ -128,7 +143,7 @@ function Header() {
   const links = [
     ["/", "Home"],
     ["/work", "Work"],
-    ["/archive", "Archive"],
+    ["/more-projects", "More Projects"],
     ["/about", "About"],
     ["/contact", "Contact"],
   ];
@@ -191,29 +206,30 @@ function Hero() {
         </h1>
         <p className="lede">
           Built for recruiters, hiring managers, and design leads: six flagship case
-          studies up front, plus a full rebuilt archive of every public portfolio page,
-          recovered asset, and deeper process trail.
+          studies up front, plus a full More Projects system for every public portfolio
+          page, project asset, and deeper process trail.
         </p>
         <div className="hero-actions">
           <Link className="button button-primary" to="/work">
             View featured work
           </Link>
-          <Link className="button button-secondary" to="/archive">
-            Explore full archive
+          <Link className="button button-secondary" to="/more-projects">
+            Explore More Projects
           </Link>
           <a className="button button-secondary" href={contactLinks.resume} target="_blank" rel="noreferrer">
             Download resume
           </a>
         </div>
       </div>
-      <div className="hero-stack" aria-hidden="true">
+      <div className="hero-stack">
         {heroProjects.map((project, index) => (
-          <div
+          <Link
             className={`hero-card${index === 0 ? " hero-card-wide" : ""}`}
             key={project.slug}
+            to={`/work/${project.slug}`}
           >
-            <img src={project.cardImage} alt="" />
-          </div>
+            <img src={project.cardImage} alt={project.cardAlt} />
+          </Link>
         ))}
       </div>
     </section>
@@ -351,16 +367,16 @@ function SourceArchivePage() {
   return (
     <>
       <Seo
-        title="Complete Archive"
-        pathname="/archive"
-        description="Complete rebuilt archive of every crawled public page from ethansolodukhin.com."
+        title="More Projects"
+        pathname="/more-projects"
+        description="Complete rebuilt More Projects page with every crawled public page from ethansolodukhin.com."
       />
       <Shell>
         <section className="page-intro">
-          <p className="eyebrow">Complete Source Archive</p>
-          <h1>Every public portfolio page, rebuilt into one clean system.</h1>
+          <p className="eyebrow">More Projects</p>
+          <h1>Every public portfolio page, redesigned into one clean system.</h1>
           <p className="lede">
-            The full project archive preserves the depth of the original site: process pages,
+            This full project index preserves the depth of the original site: process pages,
             final renders, shop objects, experiments, motion assets, and older studies, all
             reorganized for faster reading.
           </p>
@@ -375,7 +391,7 @@ function SourceArchivePage() {
           <div className="stat-card">
             <strong>{crawlStats.downloadedAssetCount}</strong>
             <p>public assets pulled</p>
-            <span>Optimized into deployable media under the GitHub Pages build.</span>
+            <span>Organized into deployable media for the GitHub Pages build.</span>
           </div>
           <div className="stat-card">
             <strong>{localAssetStats.publishedImages}</strong>
@@ -392,7 +408,7 @@ function SourceArchivePage() {
             </div>
             <div className="source-grid">
               {items.map((page) => (
-                <Link className="source-card" key={`${page.slug}-${page.sourceUrl}`} to={`/archive/${page.slug}`}>
+                <Link className="source-card" key={`${page.slug}-${page.sourceUrl}`} to={`/more-projects/${page.slug}`}>
                   {page.heroImage ? (
                     <div className="mini-card-media">
                       <img src={page.heroImage} alt={page.images[0]?.alt || page.title} loading="lazy" />
@@ -410,7 +426,7 @@ function SourceArchivePage() {
                     </div>
                     <h2>{cleanPageTitle(page.title)}</h2>
                     <p>{getSourcePageLead(page)}</p>
-                    <span className="inline-link">Open rebuilt page</span>
+                    <span className="inline-link">Open project page</span>
                   </div>
                 </Link>
               ))}
@@ -542,6 +558,8 @@ function ProjectPage() {
     return <Navigate to="/work" replace />;
   }
 
+  const sourceDepthPages = getFeaturedSourcePages(project.slug);
+
   return (
     <>
       <Seo
@@ -581,6 +599,8 @@ function ProjectPage() {
             <StorySection title="What I Learned" body={project.sections.learned} />
           </section>
 
+          <ProjectSourceDepth pages={sourceDepthPages} />
+
           <section className="gallery-grid">
             {project.gallery.map((asset) => (
               <figure className="gallery-card" key={asset.src}>
@@ -591,6 +611,7 @@ function ProjectPage() {
           </section>
 
           <LocalAssetSection collection={getLocalAssetsForSlug(project.slug)} />
+          <NextProjectNav items={featuredProjects} currentSlug={project.slug} basePath="/work" />
         </article>
       </Shell>
     </>
@@ -602,18 +623,18 @@ function SourcePage() {
   const page = sourcePageMap[slug];
 
   if (!page) {
-    return <Navigate to="/archive" replace />;
+    return <Navigate to="/more-projects" replace />;
   }
 
   const localCollection = getLocalAssetsForSlug(page.slug);
-  const primarySections = page.sections.filter((section) => section.items?.length).slice(0, 10);
-  const galleryImages = page.images.slice(0, 48);
+  const primarySections = page.sections.filter((section) => section.items?.length);
+  const galleryImages = page.images;
 
   return (
     <>
       <Seo
         title={cleanPageTitle(page.title)}
-        pathname={`/archive/${page.slug}`}
+        pathname={`/more-projects/${page.slug}`}
         description={getSourcePageLead(page)}
         image={page.heroImage}
       />
@@ -625,7 +646,7 @@ function SourcePage() {
               <h1>{cleanPageTitle(page.title)}</h1>
               <p className="lede">{getSourcePageLead(page)}</p>
               <div className="project-meta source-meta">
-                <span>{page.imageCount} recovered images</span>
+                <span>{page.imageCount} page images</span>
                 <span>{page.mediaCount} media files</span>
                 {page.lastmod ? <span>Updated {page.lastmod}</span> : null}
               </div>
@@ -633,8 +654,8 @@ function SourcePage() {
                 <a className="button button-secondary" href={page.sourceUrl} target="_blank" rel="noreferrer">
                   View original page
                 </a>
-                <Link className="button button-secondary" to="/archive">
-                  Back to archive
+                <Link className="button button-secondary" to="/more-projects">
+                  Back to More Projects
                 </Link>
               </div>
             </div>
@@ -648,16 +669,16 @@ function SourcePage() {
           {primarySections.length ? (
             <section className="section source-story">
               <div className="section-header">
-                <p className="eyebrow">Recovered Case Study</p>
-                <h2>Source page content, cleaned for reading.</h2>
+                <p className="eyebrow">Original Case Study Flow</p>
+                <h2>Project text with cleaner pacing and hierarchy.</h2>
               </div>
               <div className="source-section-stack">
                 {primarySections.map((section, index) => (
                   <article className="source-section" key={`${section.title}-${index}`}>
                     <h2>{section.title}</h2>
                     <div>
-                      {section.items.slice(0, 8).map((item) => (
-                        <p key={item}>{item}</p>
+                      {section.items.map((item, itemIndex) => (
+                        <p key={`${item}-${itemIndex}`}>{item}</p>
                       ))}
                     </div>
                   </article>
@@ -669,7 +690,7 @@ function SourcePage() {
           {galleryImages.length ? (
             <section className="section">
               <div className="section-header">
-                <p className="eyebrow">Recovered Visuals</p>
+                <p className="eyebrow">Visual Story</p>
                 <h2>Real imagery pulled from the original page.</h2>
               </div>
               <div className="source-gallery">
@@ -687,7 +708,7 @@ function SourcePage() {
             <section className="section">
               <div className="section-header">
                 <p className="eyebrow">Motion + Embedded Media</p>
-                <h2>Videos, animation data, and linked media recovered from the page.</h2>
+                <h2>Videos, animation data, and linked project media.</h2>
               </div>
               <div className="asset-link-grid">
                 {page.media.map((item) => (
@@ -698,9 +719,90 @@ function SourcePage() {
           ) : null}
 
           <LocalAssetSection collection={localCollection} />
+          <NextProjectNav items={archivePages} currentSlug={page.slug} basePath="/more-projects" />
         </article>
       </Shell>
     </>
+  );
+}
+
+function ProjectSourceDepth({ pages }) {
+  const sourcePagesWithContent = pages.filter(
+    (page) => page.sections.some((section) => section.items?.length) || page.images.length || page.media.length,
+  );
+
+  if (!sourcePagesWithContent.length) return null;
+
+  return (
+    <section className="section project-source-depth">
+      <div className="section-header">
+        <p className="eyebrow">Full Source Story</p>
+        <h2>Original project flow preserved with stronger pacing.</h2>
+        <p>
+          These sections carry the deeper page structure, process notes, visuals, and motion
+          assets from the public portfolio so the case study does not collapse into a short
+          summary.
+        </p>
+      </div>
+
+      <div className="source-depth-stack">
+        {sourcePagesWithContent.map((page) => {
+          const sections = page.sections.filter((section) => section.items?.length);
+
+          return (
+            <article className="source-depth-page" key={page.slug}>
+              <div className="source-depth-heading">
+                <div>
+                  <p className="eyebrow">{page.group}</p>
+                  <h3>{cleanPageTitle(page.title)}</h3>
+                  <p>{getSourcePageLead(page)}</p>
+                </div>
+                <Link className="inline-link" to={`/more-projects/${page.slug}`}>
+                  Open full page
+                </Link>
+              </div>
+
+              {sections.length ? (
+                <div className="source-section-stack">
+                  {sections.map((section, index) => (
+                    <article className="source-section" key={`${page.slug}-${section.title}-${index}`}>
+                      <h2>{section.title}</h2>
+                      <div>
+                        {section.items.map((item, itemIndex) => (
+                          <p key={`${page.slug}-${index}-${itemIndex}`}>{item}</p>
+                        ))}
+                      </div>
+                    </article>
+                  ))}
+                </div>
+              ) : null}
+
+              {page.images.length ? (
+                <div className="source-gallery source-gallery-compact">
+                  {page.images.map((image, index) => (
+                    <figure
+                      className={index % 9 === 0 ? "gallery-card gallery-card-wide" : "gallery-card"}
+                      key={`${page.slug}-${image.src}-${index}`}
+                    >
+                      <img src={image.src} alt={image.alt || page.title} loading="lazy" />
+                      {image.caption || image.title ? <figcaption>{image.caption || image.title}</figcaption> : null}
+                    </figure>
+                  ))}
+                </div>
+              ) : null}
+
+              {page.media.length ? (
+                <div className="asset-link-grid">
+                  {page.media.map((item) => (
+                    <MediaTile item={item} key={`${page.slug}-${item.url}`} />
+                  ))}
+                </div>
+              ) : null}
+            </article>
+          );
+        })}
+      </div>
+    </section>
   );
 }
 
@@ -717,7 +819,7 @@ function MediaTile({ item }) {
   return (
     <a className="media-tile media-link" href={item.src} target="_blank" rel="noreferrer">
       <span>{item.kind || "asset"}</span>
-      <strong>{item.url.split("/").pop()?.split("?")[0] || "Recovered media"}</strong>
+      <strong>{item.url.split("/").pop()?.split("?")[0] || "Project media"}</strong>
     </a>
   );
 }
@@ -770,6 +872,27 @@ function LocalAssetSection({ collection }) {
   );
 }
 
+function NextProjectNav({ items, currentSlug, basePath }) {
+  const currentIndex = items.findIndex((item) => item.slug === currentSlug);
+  if (currentIndex < 0 || items.length < 2) return null;
+
+  const previous = items[(currentIndex - 1 + items.length) % items.length];
+  const next = items[(currentIndex + 1) % items.length];
+
+  return (
+    <nav className="next-project-nav" aria-label="Project navigation">
+      <Link to={`${basePath}/${previous.slug}`}>
+        <span>Previous</span>
+        <strong>{cleanPageTitle(previous.title)}</strong>
+      </Link>
+      <Link to={`${basePath}/${next.slug}`}>
+        <span>Next</span>
+        <strong>{cleanPageTitle(next.title)}</strong>
+      </Link>
+    </nav>
+  );
+}
+
 function Fact({ label, value }) {
   return (
     <article className="fact-card">
@@ -788,6 +911,11 @@ function StorySection({ title, body }) {
   );
 }
 
+function ArchiveRedirect() {
+  const { slug } = useParams();
+  return <Navigate to={slug ? `/more-projects/${slug}` : "/more-projects"} replace />;
+}
+
 export default function App() {
   return (
     <>
@@ -796,9 +924,10 @@ export default function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/work" element={<WorkPage />} />
         <Route path="/work/:slug" element={<ProjectPage />} />
-        <Route path="/archive" element={<SourceArchivePage />} />
-        <Route path="/archive/:slug" element={<SourcePage />} />
+        <Route path="/archive" element={<ArchiveRedirect />} />
+        <Route path="/archive/:slug" element={<ArchiveRedirect />} />
         <Route path="/more-projects" element={<SourceArchivePage />} />
+        <Route path="/more-projects/:slug" element={<SourcePage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
       </Routes>
