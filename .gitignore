@@ -18,3 +18,5 @@ source-data-solseven/
 !.github/
 !public/
 !src/
+.env
+.env.local
