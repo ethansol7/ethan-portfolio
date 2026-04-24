@@ -5,12 +5,13 @@ import {
   contactLinks,
   featuredProjects,
   focusAreas,
-  moreProjects,
   projectMap,
   recruiterSignals,
   siteMeta,
   stats,
 } from "./data/portfolio";
+import { crawlStats, missingAssets, sourcePageGroups, sourcePageMap, sourcePages } from "./data/sourcePages";
+import { localAssetCollections, localAssetStats } from "./data/localAssets";
 
 function resolveSiteUrl(pathname = "") {
   const origin = window.location.origin;
@@ -71,6 +72,48 @@ function ScrollToTop() {
   return null;
 }
 
+const sourceSlugToLocalKey = {
+  "sol-lamp": "sol-lamp-system",
+  s01: "sol-lamp-system",
+  s01test: "sol-lamp-system",
+  "s01-shop": "sol-lamp-system",
+  "sol-seven-studios": "sol-seven-studios",
+  "3d-printing-service": "revo-chair",
+  "old-revo-chair-page": "revo-chair",
+  "sol-wheel": "sol-wheel",
+  "autodesk-origin": "autodesk-origin",
+  nomad: "nomad",
+  "et-03": "et-03",
+  "shelf-mate-2024": "shelf-mate",
+  arizonaconcept: "arizona-can-redesign",
+  "arizona-can-redesign": "arizona-can-redesign",
+  furniture: "furniture",
+  "every-day-render-challenge": "render-challenge",
+};
+
+function getLocalAssetsForSlug(slug) {
+  return localAssetCollections[sourceSlugToLocalKey[slug] || slug] || null;
+}
+
+function getSourcePageLead(page) {
+  return (
+    page.summary ||
+    page.sections?.flatMap((section) => section.items || []).find((item) => item.length > 42) ||
+    "Recovered from the live Squarespace portfolio and rebuilt as a cleaner responsive page."
+  );
+}
+
+function cleanPageTitle(title) {
+  return title
+    .replace(/\s+-\s+Ethan Solodukhin\s*$/i, "")
+    .replace(/\s+-\s+Sol Shop\s*$/i, "")
+    .trim();
+}
+
+const archivePages = sourcePages.filter(
+  (page) => !["home-2", "home-3"].includes(page.slug),
+);
+
 function Shell({ children }) {
   return (
     <div className="site-shell">
@@ -85,7 +128,7 @@ function Header() {
   const links = [
     ["/", "Home"],
     ["/work", "Work"],
-    ["/more-projects", "More Projects"],
+    ["/archive", "Archive"],
     ["/about", "About"],
     ["/contact", "Contact"],
   ];
@@ -148,12 +191,15 @@ function Hero() {
         </h1>
         <p className="lede">
           Built for recruiters, hiring managers, and design leads: six flagship case
-          studies up front, fast scanning in under thirty seconds, and deeper process when
-          you want the details.
+          studies up front, plus a full rebuilt archive of every public portfolio page,
+          recovered asset, and deeper process trail.
         </p>
         <div className="hero-actions">
           <Link className="button button-primary" to="/work">
             View featured work
+          </Link>
+          <Link className="button button-secondary" to="/archive">
+            Explore full archive
           </Link>
           <a className="button button-secondary" href={contactLinks.resume} target="_blank" rel="noreferrer">
             Download resume
@@ -296,62 +342,77 @@ function WorkPage() {
   );
 }
 
-function MoreProjectsPage() {
-  const groupedProjects = moreProjects.reduce((groups, project) => {
-    groups[project.group] = groups[project.group] || [];
-    groups[project.group].push(project);
-    return groups;
-  }, {});
+function SourceArchivePage() {
+  const groupedPages = Object.entries(sourcePageGroups).map(([group, pages]) => [
+    group,
+    pages.filter((page) => archivePages.some((archivePage) => archivePage.slug === page.slug)),
+  ]);
 
   return (
     <>
       <Seo
-        title="More Projects"
-        pathname="/more-projects"
-        description="Additional product, furniture, concept, and visualization work by Ethan Solodukhin."
+        title="Complete Archive"
+        pathname="/archive"
+        description="Complete rebuilt archive of every crawled public page from ethansolodukhin.com."
       />
       <Shell>
         <section className="page-intro">
-          <p className="eyebrow">More Projects</p>
-          <h1>All remaining public work from the current portfolio.</h1>
+          <p className="eyebrow">Complete Source Archive</p>
+          <h1>Every public portfolio page, rebuilt into one clean system.</h1>
           <p className="lede">
-            Supporting projects are grouped here for speed. The strongest case studies stay
-            in Featured Work, while the rest of the public portfolio remains accessible and
-            easier to scan.
+            The full project archive preserves the depth of the original site: process pages,
+            final renders, shop objects, experiments, motion assets, and older studies, all
+            reorganized for faster reading.
           </p>
         </section>
 
-        {Object.entries(groupedProjects).map(([group, items]) => (
+        <section className="section archive-metrics">
+          <div className="stat-card">
+            <strong>{crawlStats.recreatedPageCount}</strong>
+            <p>recreated pages</p>
+            <span>Rebuilt from the live portfolio structure and internal project links.</span>
+          </div>
+          <div className="stat-card">
+            <strong>{crawlStats.downloadedAssetCount}</strong>
+            <p>public assets pulled</p>
+            <span>Optimized into deployable media under the GitHub Pages build.</span>
+          </div>
+          <div className="stat-card">
+            <strong>{localAssetStats.publishedImages}</strong>
+            <p>expanded media assets</p>
+            <span>Additional render exports, process images, videos, and source files.</span>
+          </div>
+        </section>
+
+        {groupedPages.map(([group, items]) => (
           <section className="section more-projects-section" key={group}>
             <div className="section-header">
-              <p className="eyebrow">Project Archive</p>
+              <p className="eyebrow">{items.length} Pages</p>
               <h2>{group}</h2>
             </div>
-            <div className="mini-grid">
-              {items.map((project) => (
-                <article className="mini-card" key={project.title}>
-                  {project.image ? (
+            <div className="source-grid">
+              {items.map((page) => (
+                <Link className="source-card" key={`${page.slug}-${page.sourceUrl}`} to={`/archive/${page.slug}`}>
+                  {page.heroImage ? (
                     <div className="mini-card-media">
-                      <img src={project.image} alt={project.imageAlt} />
+                      <img src={page.heroImage} alt={page.images[0]?.alt || page.title} loading="lazy" />
                     </div>
                   ) : (
                     <div className="mini-card-fallback">
-                      <p className="eyebrow">{project.category}</p>
-                      <strong>{project.year}</strong>
+                      <p className="eyebrow">{page.group}</p>
+                      <strong>{page.imageCount}</strong>
                     </div>
                   )}
                   <div className="mini-card-body">
                     <div className="project-meta">
-                      <span>{project.year}</span>
-                      <span>{project.category}</span>
+                      <span>{page.imageCount} images</span>
+                      <span>{page.mediaCount} media</span>
                     </div>
-                    <h2>{project.title}</h2>
-                    <p>{project.description}</p>
-                    <a href={project.link} target="_blank" rel="noreferrer">
-                      View original page
-                    </a>
+                    <h2>{cleanPageTitle(page.title)}</h2>
+                    <p>{getSourcePageLead(page)}</p>
+                    <span className="inline-link">Open rebuilt page</span>
                   </div>
-                </article>
+                </Link>
               ))}
             </div>
           </section>
@@ -528,9 +589,184 @@ function ProjectPage() {
               </figure>
             ))}
           </section>
+
+          <LocalAssetSection collection={getLocalAssetsForSlug(project.slug)} />
         </article>
       </Shell>
     </>
+  );
+}
+
+function SourcePage() {
+  const { slug } = useParams();
+  const page = sourcePageMap[slug];
+
+  if (!page) {
+    return <Navigate to="/archive" replace />;
+  }
+
+  const localCollection = getLocalAssetsForSlug(page.slug);
+  const primarySections = page.sections.filter((section) => section.items?.length).slice(0, 10);
+  const galleryImages = page.images.slice(0, 48);
+
+  return (
+    <>
+      <Seo
+        title={cleanPageTitle(page.title)}
+        pathname={`/archive/${page.slug}`}
+        description={getSourcePageLead(page)}
+        image={page.heroImage}
+      />
+      <Shell>
+        <article className="source-page">
+          <section className="source-hero">
+            <div className="source-hero-copy">
+              <p className="eyebrow">{page.group}</p>
+              <h1>{cleanPageTitle(page.title)}</h1>
+              <p className="lede">{getSourcePageLead(page)}</p>
+              <div className="project-meta source-meta">
+                <span>{page.imageCount} recovered images</span>
+                <span>{page.mediaCount} media files</span>
+                {page.lastmod ? <span>Updated {page.lastmod}</span> : null}
+              </div>
+              <div className="hero-actions">
+                <a className="button button-secondary" href={page.sourceUrl} target="_blank" rel="noreferrer">
+                  View original page
+                </a>
+                <Link className="button button-secondary" to="/archive">
+                  Back to archive
+                </Link>
+              </div>
+            </div>
+            {page.heroImage ? (
+              <div className="source-hero-media">
+                <img src={page.heroImage} alt={page.images[0]?.alt || page.title} />
+              </div>
+            ) : null}
+          </section>
+
+          {primarySections.length ? (
+            <section className="section source-story">
+              <div className="section-header">
+                <p className="eyebrow">Recovered Case Study</p>
+                <h2>Source page content, cleaned for reading.</h2>
+              </div>
+              <div className="source-section-stack">
+                {primarySections.map((section, index) => (
+                  <article className="source-section" key={`${section.title}-${index}`}>
+                    <h2>{section.title}</h2>
+                    <div>
+                      {section.items.slice(0, 8).map((item) => (
+                        <p key={item}>{item}</p>
+                      ))}
+                    </div>
+                  </article>
+                ))}
+              </div>
+            </section>
+          ) : null}
+
+          {galleryImages.length ? (
+            <section className="section">
+              <div className="section-header">
+                <p className="eyebrow">Recovered Visuals</p>
+                <h2>Real imagery pulled from the original page.</h2>
+              </div>
+              <div className="source-gallery">
+                {galleryImages.map((image, index) => (
+                  <figure className={index % 7 === 0 ? "gallery-card gallery-card-wide" : "gallery-card"} key={`${image.src}-${index}`}>
+                    <img src={image.src} alt={image.alt || page.title} loading="lazy" />
+                    {image.caption || image.title ? <figcaption>{image.caption || image.title}</figcaption> : null}
+                  </figure>
+                ))}
+              </div>
+            </section>
+          ) : null}
+
+          {page.media.length ? (
+            <section className="section">
+              <div className="section-header">
+                <p className="eyebrow">Motion + Embedded Media</p>
+                <h2>Videos, animation data, and linked media recovered from the page.</h2>
+              </div>
+              <div className="asset-link-grid">
+                {page.media.map((item) => (
+                  <MediaTile item={item} key={item.url} />
+                ))}
+              </div>
+            </section>
+          ) : null}
+
+          <LocalAssetSection collection={localCollection} />
+        </article>
+      </Shell>
+    </>
+  );
+}
+
+function MediaTile({ item }) {
+  if (item.kind === "video") {
+    return (
+      <article className="media-tile">
+        <video src={item.src} controls muted playsInline preload="metadata" />
+        <span>{item.kind}</span>
+      </article>
+    );
+  }
+
+  return (
+    <a className="media-tile media-link" href={item.src} target="_blank" rel="noreferrer">
+      <span>{item.kind || "asset"}</span>
+      <strong>{item.url.split("/").pop()?.split("?")[0] || "Recovered media"}</strong>
+    </a>
+  );
+}
+
+function LocalAssetSection({ collection }) {
+  if (!collection) return null;
+  const hasAssets = collection.images.length || collection.videos.length || collection.models.length;
+  if (!hasAssets) return null;
+
+  return (
+    <section className="section local-source-section">
+      <div className="section-header">
+        <p className="eyebrow">Expanded Project Media</p>
+        <h2>Additional process assets, render exports, and source files.</h2>
+        <p>
+          Selected high-resolution project media is included here when it adds useful context
+          beyond the original public page.
+        </p>
+      </div>
+
+      {collection.images.length ? (
+        <div className="source-gallery local-gallery">
+          {collection.images.slice(0, 18).map((image, index) => (
+            <figure className={index % 6 === 0 ? "gallery-card gallery-card-wide" : "gallery-card"} key={image.src}>
+              <img src={image.src} alt={image.alt} loading="lazy" />
+              <figcaption>{image.name}</figcaption>
+            </figure>
+          ))}
+        </div>
+      ) : null}
+
+      {collection.videos.length || collection.models.length ? (
+        <div className="asset-link-grid">
+          {collection.videos.map((video) => (
+            <article className="media-tile" key={video.src}>
+              <video src={video.src} controls muted playsInline preload="metadata" />
+              <span>Local video</span>
+              <strong>{video.name}</strong>
+            </article>
+          ))}
+          {collection.models.map((model) => (
+            <a className="media-tile media-link" href={model.src} target="_blank" rel="noreferrer" key={model.src}>
+              <span>Model/source file</span>
+              <strong>{model.name}</strong>
+            </a>
+          ))}
+        </div>
+      ) : null}
+    </section>
   );
 }
 
@@ -560,7 +796,9 @@ export default function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/work" element={<WorkPage />} />
         <Route path="/work/:slug" element={<ProjectPage />} />
-        <Route path="/more-projects" element={<MoreProjectsPage />} />
+        <Route path="/archive" element={<SourceArchivePage />} />
+        <Route path="/archive/:slug" element={<SourcePage />} />
+        <Route path="/more-projects" element={<SourceArchivePage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
       </Routes>

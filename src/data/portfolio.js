@@ -66,14 +66,14 @@ export const stats = [
     context: "Chosen for hiring relevance, process clarity, and employer-facing depth.",
   },
   {
-    value: "13",
-    label: "supporting projects",
-    context: "Preserved from the public site and reorganized for faster scanning.",
+    value: "82",
+    label: "rebuilt source pages",
+    context: "Generated from the full public sitemap and internal crawl, then reorganized into a cleaner archive.",
   },
   {
-    value: "900+",
-    label: "public assets archived",
-    context: "Large local crawl archive retained separately from the lightweight production site.",
+    value: "1,245",
+    label: "public assets pulled",
+    context: "Real Squarespace images, videos, and animation assets converted or linked for the production site.",
   },
 ];
 

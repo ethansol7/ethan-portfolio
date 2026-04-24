@@ -1,34 +1,29 @@
 # Ethan Solodukhin Portfolio
 
-React + Vite rebuild of Ethan Solodukhin's portfolio, restructured as a hiring-focused industrial design site with six flagship case studies, grouped supporting projects, and GitHub Pages deployment support.
+React + Vite rebuild of Ethan Solodukhin's industrial design portfolio. The site is designed as a hiring-first master portfolio: six curated flagship case studies up front, plus a complete rebuilt archive of the public Squarespace site.
+
+Live site: https://ethansol7.github.io/ethan-portfolio/
 
 ## What is included
 
-- `Home`, `Work`, `More Projects`, `About`, and `Contact`
-- Six featured case studies:
+- `Home`, `Work`, `Archive`, `About`, and `Contact`
+- Six featured employer-facing case studies:
   - `SOL Lamp System`
   - `Sol Seven Studios`
   - `PlastiVista`
   - `Revo Chair`
   - `Sol Wheel`
   - `Autodesk Origin`
-- Supporting project archive rebuilt from the public site, including:
-  - `Airo`
-  - `Shelf Mate`
-  - `Nomad Nest`
-  - `ET-03`
-  - `Bungis Chair`
-  - `Arizona Can Redesign`
-  - `The 9INE Light`
-  - `Furniture Collection`
-  - `Spotify Mini Speaker Concept`
-  - `Concept Room`
-  - `Logo Development`
-  - `Every Day Render Challenge`
-  - `SOL Digital Art & Sculptures`
-- Responsive layout, SEO metadata, Open Graph tags, and GitHub Pages SPA fallback routing
-- Production-ready curated assets in `public/assets/projects`
-- Local crawl archives and saved source pages used during the rebuild
+- Complete archive generated from the live `ethansolodukhin.com` structure:
+  - 82 recreated public pages
+  - 1,245 downloaded public assets
+  - 22 recovered media or animation references
+  - grouped archive sections for product work, furniture and lighting, SOL universe, shop objects, brand and visualization, utilities, and older project pages
+- Curated local-source asset pack:
+  - 116 high-resolution project images
+  - 9 project videos
+  - 35 model/source files
+- Responsive layout, SEO metadata, Open Graph tags, GitHub Pages base-path handling, and SPA fallback routing
 
 ## Run locally
 
@@ -47,65 +42,52 @@ The production output is written to `dist/`.
 
 ## GitHub Pages
 
-This project is configured for GitHub Pages with:
+This repo is configured for GitHub Pages with:
 
 - automatic `base` path detection in `vite.config.js`
-- a Pages deployment workflow at `.github/workflows/deploy.yml`
+- deployment workflow at `.github/workflows/deploy.yml`
 - `public/404.html` fallback routing for deep links
 - an `index.html` redirect script so React routes survive direct refreshes
 
-### How the base path works
+The current Pages URL is:
+
+https://ethansol7.github.io/ethan-portfolio/
+
+### Manual Pages setup
+
+If Pages ever needs to be re-enabled manually:
+
+1. Open the GitHub repository.
+2. Go to `Settings -> Pages`.
+3. Set `Build and deployment -> Source` to `GitHub Actions`.
+4. Run the `Deploy to GitHub Pages` workflow from the `Actions` tab, or push to `main`.
+
+## Base path behavior
 
 - Local builds use `/`
-- GitHub Actions builds automatically use `/${repo-name}/` for project pages repos
+- GitHub Actions builds use `/${repo-name}/` for project pages repos
 - User or organization pages repos like `username.github.io` stay on `/`
 
-If you need to test a project-pages base locally, you can override it:
+To test a GitHub Pages-style base path locally:
 
 ```bash
-$env:VITE_BASE_PATH="/your-repo-name/"
+$env:VITE_BASE_PATH="/ethan-portfolio/"
 cmd /c npm.cmd run build
 ```
 
-### GitHub Pages setup
+## Content and asset rules
 
-1. Create a GitHub repository for this project if one does not already exist.
-2. Push the code to the default branch, ideally `main`.
-3. In GitHub, open `Settings -> Pages`.
-4. Set the source to `GitHub Actions`.
-5. Push again or run the `Deploy to GitHub Pages` workflow manually.
-
-The workflow will:
-
-1. install dependencies with `npm ci`
-2. run `npm run build`
-3. upload `dist/`
-4. publish the site to GitHub Pages
-
-## Vercel
-
-This project also works on Vercel with default Vite settings:
-
-- Build command: `npm run build`
-- Output directory: `dist`
-
-## Repo hygiene
-
-The public crawl archive in `assets/current-site` and `assets/sol-seven-studios` is very large and is ignored by git on purpose. The production site only ships the curated assets needed to run the portfolio.
-
-## Content notes
-
-- Copy was rebuilt from the public Squarespace portfolio, the public Sol Seven Studios site, and Ethan's public 2026 resume.
+- Public page content comes from `https://www.ethansolodukhin.com/`.
+- Images and media are real public assets or approved local project assets.
 - No fake projects, clients, awards, or metrics were added.
-- When a deeper internal process log was not publicly available, the copy stays specific to what the public material actually shows.
+- Two Lottie files were blocked by the source host with `403 Forbidden`; the site keeps the rest of the recovered page content intact.
 
 ## Useful folders
 
-- `src/data/portfolio.js`: content model, case-study copy, contact info, and supporting project archive
-- `src/App.jsx`: routes and page composition
-- `src/styles.css`: visual system and responsive layout
-- `public/assets/projects`: curated production assets used by the live site
-- `public/404.html`: SPA fallback for GitHub Pages
-- `source-data/pages`: saved HTML snapshots from the main portfolio crawl
-- `source-data-solseven/pages`: saved HTML snapshots from the Sol Seven crawl
-- `assets/README.md`: notes about the large local crawl archive
+- `src/data/portfolio.js`: curated featured case-study copy and contact data
+- `src/data/sourcePages.js`: generated full-site source archive
+- `src/data/localAssets.js`: generated local-source asset manifest
+- `public/assets/projects`: curated featured-project assets
+- `public/assets/source-site`: optimized public assets recovered from the live site
+- `public/assets/local-source`: curated higher-quality local assets
+- `.github/workflows/deploy.yml`: GitHub Pages deployment workflow
