@@ -1,0 +1,822 @@
+[
+  {
+    "slug": "arizonaconcept",
+    "pageTitle": "Arizona Beverage Company Can Redesign",
+    "pageURL": "https://www.ethansolodukhin.com/arizonaconcept",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "Arizona Beverage Company Energy Drink Redesign Brand Study 2024",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "arizona-can-redesign",
+    "pageTitle": "Arizona Beverage Company Old One",
+    "pageURL": "https://www.ethansolodukhin.com/arizona-can-redesign",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Not reachable from the homepage through visible public links."
+  },
+  {
+    "slug": "csgo-skin-mod",
+    "pageTitle": "CSGO Skin Mod",
+    "pageURL": "https://www.ethansolodukhin.com/csgo-skin-mod",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/sol",
+    "visibleLinkText": "Learn more",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "logo-development",
+    "pageTitle": "Logo Development",
+    "pageURL": "https://www.ethansolodukhin.com/logo-development",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "Learn more",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "spotify-concept",
+    "pageTitle": "Spotify Mini Speaker Concept",
+    "pageURL": "https://www.ethansolodukhin.com/spotify-concept",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/other-projects",
+    "visibleLinkText": "Learn more",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "old-revo-chair-page",
+    "pageTitle": "3D Printing Service Project",
+    "pageURL": "https://www.ethansolodukhin.com/old-revo-chair-page",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Not reachable from the homepage through visible public links."
+  },
+  {
+    "slug": "furniture",
+    "pageTitle": "Gallery 1",
+    "pageURL": "https://www.ethansolodukhin.com/furniture",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "Learn More",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "sol-lamp",
+    "pageTitle": "Sol Lamp",
+    "pageURL": "https://www.ethansolodukhin.com/sol-lamp",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Not reachable from the homepage through visible public links."
+  },
+  {
+    "slug": "the-9ine-light",
+    "pageTitle": "The 9INE Light",
+    "pageURL": "https://www.ethansolodukhin.com/the-9ine-light",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "Learn more",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-archframe-duo-side-table",
+    "pageTitle": "The ArchFrame Duo Side Table",
+    "pageURL": "https://www.ethansolodukhin.com/the-archframe-duo-side-table",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The ArchFrame Duo Side Table",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-archron-collection",
+    "pageTitle": "The Archron Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-archron-collection",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Archron Collection",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-bloom-lamp",
+    "pageTitle": "The Bloom Lamp",
+    "pageURL": "https://www.ethansolodukhin.com/the-bloom-lamp",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Bloom Lamp",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-checkpoint-collection",
+    "pageTitle": "The Checkpoint Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-checkpoint-collection",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Checkpoint Collection",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-contour-living-collection",
+    "pageTitle": "The Contour Living Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-contour-living-collection",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Contour Living Collection",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-enigma-stand",
+    "pageTitle": "The Enigma Stand",
+    "pageURL": "https://www.ethansolodukhin.com/the-enigma-stand",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Enigma Stand",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-frameloom-chair",
+    "pageTitle": "The FrameLoom Chair",
+    "pageURL": "https://www.ethansolodukhin.com/the-frameloom-chair",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The FrameLoom Chair",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-geobench-collection",
+    "pageTitle": "The GeoBench Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-geobench-collection",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The GeoBench Collection",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-geonest-collection",
+    "pageTitle": "The GeoNest Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-geonest-collection",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The GeoNest Collection",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-grasp-collection",
+    "pageTitle": "The Grasp Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-grasp-collection",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Grasp Collection",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-kontour-chair",
+    "pageTitle": "The Kontour Chair",
+    "pageURL": "https://www.ethansolodukhin.com/the-kontour-chair",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Kontour Chair",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-loma-chair",
+    "pageTitle": "The Loma Chair",
+    "pageURL": "https://www.ethansolodukhin.com/the-loma-chair",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Loma Chair",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-lumen-vault-cabinet",
+    "pageTitle": "The Lumen Vault Cabinet",
+    "pageURL": "https://www.ethansolodukhin.com/the-lumen-vault-cabinet",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Lumen Vault Cabinet",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-lumi-lamp",
+    "pageTitle": "The Lumi Lamp",
+    "pageURL": "https://www.ethansolodukhin.com/the-lumi-lamp",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Lumi Lamp",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-mber-collection",
+    "pageTitle": "The mber Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-mber-collection",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "Learn more",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-mossy-mates-collection",
+    "pageTitle": "The Mossy Mates Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-mossy-mates-collection",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Mossy Mates Collection",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-neo-grove-collection",
+    "pageTitle": "The Neo Grove Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-neo-grove-collection",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "Click Here",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-pivotpod-chair",
+    "pageTitle": "The PivotPod Chair",
+    "pageURL": "https://www.ethansolodukhin.com/the-pivotpod-chair",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The PivotPod Chair",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-prism-apex-table",
+    "pageTitle": "The Prism Apex Table",
+    "pageURL": "https://www.ethansolodukhin.com/the-prism-apex-table",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Prism Apex Table",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-prismatik-chair",
+    "pageTitle": "The Prismatik Chair",
+    "pageURL": "https://www.ethansolodukhin.com/the-prismatik-chair",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Prismatik Chair",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-radia-light",
+    "pageTitle": "The Radia Light",
+    "pageURL": "https://www.ethansolodukhin.com/the-radia-light",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Radia Light",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-rvot-lounge-chair",
+    "pageTitle": "The Rvot Lounge Chair",
+    "pageURL": "https://www.ethansolodukhin.com/the-rvot-lounge-chair",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Rvot Lounge Chair",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-solus-collection",
+    "pageTitle": "The Solus Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-solus-collection",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Solus Collection",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-sonolyth-collection",
+    "pageTitle": "The Sonolyth Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-sonolyth-collection",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Sonolyth Collection",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-stax-set",
+    "pageTitle": "The Stax Set",
+    "pageURL": "https://www.ethansolodukhin.com/the-stax-set",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Stax Set",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-strata-chair",
+    "pageTitle": "The Strata Chair",
+    "pageURL": "https://www.ethansolodukhin.com/the-strata-chair",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Strata Chair",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-uberlax-collection",
+    "pageTitle": "The UberLax Collection",
+    "pageURL": "https://www.ethansolodukhin.com/the-uberlax-collection",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The UberLax Collection",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-verdant-chair",
+    "pageTitle": "The Verdant Chair",
+    "pageURL": "https://www.ethansolodukhin.com/the-verdant-chair",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Verdant Chair",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "for-pdf-layout",
+    "pageTitle": "For PDF Layout",
+    "pageURL": "https://www.ethansolodukhin.com/for-pdf-layout",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Excluded utility, test, or duplicate page."
+  },
+  {
+    "slug": "layout-test",
+    "pageTitle": "Layout Test",
+    "pageURL": "https://www.ethansolodukhin.com/layout-test",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Excluded utility, test, or duplicate page."
+  },
+  {
+    "slug": "resume-1",
+    "pageTitle": "Resume",
+    "pageURL": "https://www.ethansolodukhin.com/resume-1",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Not reachable from the homepage through visible public links."
+  },
+  {
+    "slug": "resume",
+    "pageTitle": "Resume & Contact",
+    "pageURL": "https://www.ethansolodukhin.com/resume",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "Resume & Contact",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "test",
+    "pageTitle": "Test",
+    "pageURL": "https://www.ethansolodukhin.com/test",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Excluded utility, test, or duplicate page."
+  },
+  {
+    "slug": "test2",
+    "pageTitle": "Test2",
+    "pageURL": "https://www.ethansolodukhin.com/test2",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Excluded utility, test, or duplicate page."
+  },
+  {
+    "slug": "ux-ui-resume",
+    "pageTitle": "UX UI Resume",
+    "pageURL": "https://www.ethansolodukhin.com/ux-ui-resume",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Not reachable from the homepage through visible public links."
+  },
+  {
+    "slug": "airo",
+    "pageTitle": "Airo",
+    "pageURL": "https://www.ethansolodukhin.com/airo",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/other-projects",
+    "visibleLinkText": "Airo",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "autodesk-origin",
+    "pageTitle": "AutoDesk Origin",
+    "pageURL": "https://www.ethansolodukhin.com/autodesk-origin",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "AutoDesk Factory Event Product Concept \"The AutoDesk Origin\" in Collaboration with AutoDesk. 2024",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "et-03",
+    "pageTitle": "ET-03",
+    "pageURL": "https://www.ethansolodukhin.com/et-03",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/other-projects",
+    "visibleLinkText": "ET-03",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "eterna-safe",
+    "pageTitle": "Eterna Safe",
+    "pageURL": "https://www.ethansolodukhin.com/eterna-safe",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Not reachable from the homepage through visible public links."
+  },
+  {
+    "slug": "fiberweave",
+    "pageTitle": "FiberWash",
+    "pageURL": "https://www.ethansolodukhin.com/fiberweave",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Not reachable from the homepage through visible public links."
+  },
+  {
+    "slug": "nomad",
+    "pageTitle": "Nomad Nest",
+    "pageURL": "https://www.ethansolodukhin.com/nomad",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/other-projects",
+    "visibleLinkText": "Nomad Nest",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "shelf-mate-2024",
+    "pageTitle": "Shelf Mate 2024",
+    "pageURL": "https://www.ethansolodukhin.com/shelf-mate-2024",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "AutoDesk Factory Event and AU Concept Product \"The ShelfMate\" 2024",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "sol-wheel",
+    "pageTitle": "Sol Wheel",
+    "pageURL": "https://www.ethansolodukhin.com/sol-wheel",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "The Sol Wheel 2022-Present",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "3d-printing-service",
+    "pageTitle": "3D Printing Service",
+    "pageURL": "https://www.ethansolodukhin.com/3d-printing-service",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "The Revo Concept. 2024",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "denmark-summer-2024",
+    "pageTitle": "Denmark Summer 2024",
+    "pageURL": "https://www.ethansolodukhin.com/denmark-summer-2024",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "DIS Furniture Design Semester Abroad 2024",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "home",
+    "pageTitle": "Ethan Solodukhin",
+    "pageURL": "https://www.ethansolodukhin.com",
+    "howItWasReached": "start page",
+    "parentPage": "",
+    "visibleLinkText": "Home",
+    "included": true,
+    "reason": "Starting public homepage."
+  },
+  {
+    "slug": "ethan-solodukhin",
+    "pageTitle": "Ethan Solodukhin",
+    "pageURL": "https://www.ethansolodukhin.com/ethan-solodukhin",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/csgo-skin-mod",
+    "visibleLinkText": "Back to home Page",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "home-3",
+    "pageTitle": "Ethan Solodukhin",
+    "pageURL": "https://www.ethansolodukhin.com/",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Excluded utility, test, or duplicate page."
+  },
+  {
+    "slug": "every-day-render-challenge",
+    "pageTitle": "Every Day Render Challenge",
+    "pageURL": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/other-projects",
+    "visibleLinkText": "Every Day Render Challenge",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "home-2",
+    "pageTitle": "Home",
+    "pageURL": "https://www.ethansolodukhin.com/home",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Excluded utility, test, or duplicate page."
+  },
+  {
+    "slug": "other-projects",
+    "pageTitle": "More Projects",
+    "pageURL": "https://www.ethansolodukhin.com/other-projects",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "More Projects",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "concept-room",
+    "pageTitle": "The Concept Room",
+    "pageURL": "https://www.ethansolodukhin.com/concept-room",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "Learn More",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-orbitmod",
+    "pageTitle": "The OrbitMod",
+    "pageURL": "https://www.ethansolodukhin.com/the-orbitmod",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The OrbitMod",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "the-strata-shelf",
+    "pageTitle": "The Strata Shelf",
+    "pageURL": "https://www.ethansolodukhin.com/the-strata-shelf",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/every-day-render-challenge",
+    "visibleLinkText": "The Strata Shelf",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "shop-p-playground-poster",
+    "pageTitle": "'Playground' Print",
+    "pageURL": "https://www.ethansolodukhin.com/shop/p/playground-poster",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/solshop",
+    "visibleLinkText": "'Playground' Print",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "shop-breakfast-bites",
+    "pageTitle": "Breakfast Bites",
+    "pageURL": "https://www.ethansolodukhin.com/shop/breakfast-bites",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/shop",
+    "visibleLinkText": "Breakfast Bites",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "shop-p-country-feast-set-3nybt-gnw4d-4jmt8-hyhyc-jnb3a-pp2eg-7e9tl-m83a7",
+    "pageTitle": "Relaxing Sol",
+    "pageURL": "https://www.ethansolodukhin.com/shop/p/country-feast-set-3nybt-gnw4d-4jmt8-hyhyc-jnb3a-pp2eg-7e9tl-m83a7",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/solshop",
+    "visibleLinkText": "Relaxing Sol",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "s01-shop",
+    "pageTitle": "S01 Shop",
+    "pageURL": "https://www.ethansolodukhin.com/s01-shop",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Not reachable from the homepage through visible public links."
+  },
+  {
+    "slug": "shop-p-golden-mist-cup-weny8-h4b4a-nkfgk-hlgp7-nptnr-d5rzr-n6t67-dcy5c",
+    "pageTitle": "Sitting Sol",
+    "pageURL": "https://www.ethansolodukhin.com/shop/p/golden-mist-cup-weny8-h4b4a-nkfgk-hlgp7-nptnr-d5rzr-n6t67-dcy5c",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/solshop",
+    "visibleLinkText": "Sitting Sol",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "shop-p-spring-bowl-rltkk-jy5sr-fjw6l-dp8lg-fbmgj-cs6n2-zpp9a-a57gj",
+    "pageTitle": "Sol",
+    "pageURL": "https://www.ethansolodukhin.com/shop/p/spring-bowl-rltkk-jy5sr-fjw6l-dp8lg-fbmgj-cs6n2-zpp9a-a57gj",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/solshop",
+    "visibleLinkText": "Sol",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "shop-sol-origins",
+    "pageTitle": "Sol Origins",
+    "pageURL": "https://www.ethansolodukhin.com/shop/sol-origins",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/shop",
+    "visibleLinkText": "Sol Origins",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "shop",
+    "pageTitle": "Sol Shop",
+    "pageURL": "https://www.ethansolodukhin.com/shop",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/shop/p/solcircle",
+    "visibleLinkText": "Shop",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "shop-p-solcircle",
+    "pageTitle": "SolCircle",
+    "pageURL": "https://www.ethansolodukhin.com/shop/p/solcircle",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/solshop",
+    "visibleLinkText": "SolCircle",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "relaxing-sol-variations",
+    "pageTitle": "Relaxing Sol Variations",
+    "pageURL": "https://www.ethansolodukhin.com/relaxing-sol-variations",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/sol-sculpture",
+    "visibleLinkText": "Relaxing Sol Variations",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "s01",
+    "pageTitle": "S01",
+    "pageURL": "https://www.ethansolodukhin.com/s01",
+    "howItWasReached": "owner requested support route",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "S01",
+    "included": true,
+    "reason": "Included as a requested Studio or SOL support route; not shown in Work or More Projects galleries unless visibly linked."
+  },
+  {
+    "slug": "s01test",
+    "pageTitle": "S01 Test",
+    "pageURL": "https://www.ethansolodukhin.com/s01test",
+    "howItWasReached": "",
+    "parentPage": "",
+    "visibleLinkText": "",
+    "included": false,
+    "reason": "Not reachable from the homepage through visible public links."
+  },
+  {
+    "slug": "solshop",
+    "pageTitle": "Shop",
+    "pageURL": "https://www.ethansolodukhin.com/solshop",
+    "howItWasReached": "home visible link",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "Shop",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "sitting-sol-variations",
+    "pageTitle": "Sitting Sol Variations",
+    "pageURL": "https://www.ethansolodukhin.com/sitting-sol-variations",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/sol-sculpture",
+    "visibleLinkText": "Sitting Sol Variations",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "sol",
+    "pageTitle": "SOL",
+    "pageURL": "https://www.ethansolodukhin.com/sol",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/other-projects",
+    "visibleLinkText": "SOL",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "sol-circle-variations",
+    "pageTitle": "Sol Circle Variations",
+    "pageURL": "https://www.ethansolodukhin.com/sol-circle-variations",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/sol-sculpture",
+    "visibleLinkText": "SolCircle Variations",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "sol-sculpture",
+    "pageTitle": "Sol Sculpture",
+    "pageURL": "https://www.ethansolodukhin.com/sol-sculpture",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/sol",
+    "visibleLinkText": "Learn more",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  },
+  {
+    "slug": "sol-seven-studios",
+    "pageTitle": "Sol Seven Studios",
+    "pageURL": "https://www.ethansolodukhin.com/sol-seven-studios",
+    "howItWasReached": "owner requested support route",
+    "parentPage": "https://www.ethansolodukhin.com",
+    "visibleLinkText": "Sol Seven Studios",
+    "included": true,
+    "reason": "Included as a requested Studio or SOL support route; not shown in Work or More Projects galleries unless visibly linked."
+  },
+  {
+    "slug": "sol-variations",
+    "pageTitle": "Sol Variations",
+    "pageURL": "https://www.ethansolodukhin.com/sol-variations",
+    "howItWasReached": "visible page link",
+    "parentPage": "https://www.ethansolodukhin.com/sol-sculpture",
+    "visibleLinkText": "Sol Variations",
+    "included": true,
+    "reason": "Reachable from the homepage through visible navigation, project cards, shop links, or visible page links."
+  }
+]
