@@ -6,7 +6,14 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "assets:map": "node scripts/build-visible-site-map.js --include-support",
+    "assets:context": "node scripts/extract-page-context.js",
+    "assets:analyze": "node scripts/analyze-assets.js",
+    "assets:caption": "node scripts/caption-assets.js",
+    "assets:rename": "node scripts/rename-assets.js",
+    "assets:validate": "node scripts/validate-asset-usage.js",
+    "assets:pipeline": "node scripts/build-visible-site-map.js --include-support && node scripts/extract-page-context.js && node scripts/analyze-assets.js && node scripts/caption-assets.js && node scripts/rename-assets.js && node scripts/validate-asset-usage.js"
   },
   "dependencies": {
     "react": "^19.2.0",

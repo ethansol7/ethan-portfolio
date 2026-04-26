@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { Link, NavLink, Navigate, Route, Routes, useLocation, useParams } from "react-router-dom";
+import { approvedAssetByRouteAndIndex } from "./data/approvedAssetIndex";
 import { contactLinks, siteMeta } from "./data/portfolio";
 import { sourcePageMap } from "./data/sourcePages";
 
@@ -406,7 +407,18 @@ function pageBySlug(slug) {
 }
 
 function imageAt(slug, index = 0) {
-  return pageBySlug(slug)?.images?.[index] || null;
+  const image = pageBySlug(slug)?.images?.[index] || null;
+  const approvedAsset = approvedAssetByRouteAndIndex[slug]?.[index] || null;
+
+  if (!image) return null;
+  if (!approvedAsset) return image;
+
+  return {
+    ...image,
+    alt: image.alt || approvedAsset.captionShort,
+    caption: image.caption || approvedAsset.captionShort,
+    intelligence: approvedAsset,
+  };
 }
 
 function cardImage(card) {

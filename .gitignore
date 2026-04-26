@@ -14,8 +14,11 @@ assets/*.jpg
 assets/*.jpeg
 scripts/*
 !scripts/*.js
+!scripts/lib/
+!scripts/lib/*.js
 source-data/
 source-data-solseven/
+/data/
 src/assets/generated/review/*
 !src/assets/generated/review/.gitkeep
 !.github/
